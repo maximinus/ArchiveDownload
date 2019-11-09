@@ -48,7 +48,7 @@ class Track:
 		return('{0}m {1}s'.format(minutes, seconds))
 
 	def __repr__(self):
-		return '{0}: {1}s'.format(self.song.value, self.getTimeString())
+		return '{0}: {1}s'.format(self.song, self.getTimeString())
 
 def getBytesAndSave():
 	response = requests.get(URL)
@@ -78,7 +78,6 @@ def extractPageData(page):
 	return songs
 
 if __name__ == '__main__':
-	#getBytesAndSave()
 	page = loadFile('page.html')
 	songs = extractPageData(page)
 	for i in songs:
