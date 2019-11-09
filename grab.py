@@ -15,8 +15,7 @@ class Track:
 		self.getDate(name)
 		self.getTrackNumber(name)
 		self.getLength(duration)
-		#self.mp3_link
-		#self.ogg_link
+		self.getLinks(links)
 
 	def getSong(self, name):
 		data = ' '.join(name.split()[2:])
@@ -47,8 +46,27 @@ class Track:
 		seconds = self.length - (minutes * 60)
 		return('{0}m {1}s'.format(minutes, seconds))
 
+	def getLinks(self, links):
+		# grab the URL links
+		self.ogg = None
+		self.mp3 = None
+		for i in links:
+			# just grab the first for now
+			if i.endswith('mp3') and self.mp3 is None:
+				self.mp3 = i
+			if i.endswith('ogg') and self.ogg is None:
+				self.ogg = i
+
+	def linkTxt(self):
+		texts = []
+		if self.mp3 is not None:
+			texts.append('MP3')
+		if self.ogg is not None:
+			texts.append('OGG')
+		return '[{0}]'.format(', '.join(texts))
+
 	def __repr__(self):
-		return '{0}: {1}s'.format(self.song, self.getTimeString())
+		return('{: >30} {: >10} {: >12}'.format(self.song, self.getTimeString(), self.linkTxt()))
 
 def getBytesAndSave():
 	response = requests.get(URL)
