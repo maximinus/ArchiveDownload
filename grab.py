@@ -122,7 +122,7 @@ class Track:
 	def toJSON(self):
 		ogg_file = self.ogg if self.ogg is not None else ''
 		mp3_file = self.mp3 if self.mp3 is not None else ''
-		return {'title': self.song,
+		return {'song': self.song,
 				'order': self.track_number,
 				'length': self.length,
 				'ogg': ogg_file,
@@ -131,15 +131,15 @@ class Track:
 	@classmethod
 	def fromJSON(cls, json_data):
 		new_track = Track('', '', '', 0)
-		new_show.title = json_data['title']
-		new_show.track_number = json['order']
-		new_show.length = json['length']
-		new_show.ogg = json['ogg']
-		if new_show.ogg != '':
-			 new_show.ogg = None
-		new_show.mp3 = json['mp3']
-		if new_show.mp3 != '':
-			new_show.mp3 = None
+		new_track.title = json_data['song']
+		new_track.track_number = json_data['order']
+		new_track.length = json_data['length']
+		new_track.ogg = json_data['ogg']
+		if new_track.ogg != '':
+			 new_track.ogg = None
+		new_track.mp3 = json_data['mp3']
+		if new_track.mp3 != '':
+			new_track.mp3 = None
 		return new_track
 
 	def __repr__(self):

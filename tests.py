@@ -26,7 +26,7 @@ class TestShow(unittest.TestCase):
 		        'day': 5,
 		        'songs': []}
 		show = Show.fromJSON(json)
-		self.assertEqual(show.venue, 'TEST')		
+		self.assertEqual(show.venue, 'TEST')
 
 	def test_JsonFlow(self):
 		show = Show({'data-id': 'gd1989-08-18.xxx'},'TEST:TEST')
@@ -38,19 +38,31 @@ class TestShow(unittest.TestCase):
 class TestSong(unittest.TestCase):
 	def test_CanGetNull(self):
 		track = Track('', '', '', 0)
-		self.assertIsNotNone(show)		
+		self.assertIsNotNone(track)
 
 	def test_GetNonNull(self):
-		self.assertEqual(1, 1)
+		track = Track('Dark Star', 'PT0M304S', ['song.ogg', 'song.mp3'], 0)
+		self.assertEqual(track.song, 'Dark Star')
 
 	def test_JsonOut(self):
-		self.assertEqual(1, 1)
+		track = Track('Dark Star', 'PT0M304S', ['song.ogg', 'song.mp3'], 0)
+		json_data = track.toJSON()
+		self.assertEqual(json_data['song'], 'Dark Star')
 
 	def test_JsonIn(self):
-		self.assertEqual(1, 1)
+		json = {'song': 'Dark Star',
+		        'length': 240,
+		        'order': 3,
+		        'mp3': 'song.mp3',
+		        'ogg': 'song.ogg'}
+		track = Track.fromJSON(json)
+		self.assertEqual(track.title, 'Dark Star')
 
 	def test_JsonFlow(self):
-		self.assertEqual(1, 1)
+		track = Track('Dark Star', 'PT0M304S', ['song.ogg', 'song.mp3'], 0)
+		json_data = track.toJSON()
+		other_one = Track.fromJSON(json_data)
+		self.assertEqual(track.length, other_one.length)
 
 
 if __name__ == '__main__':
