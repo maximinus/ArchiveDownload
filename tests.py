@@ -20,7 +20,8 @@ class TestShow(unittest.TestCase):
 		self.assertEqual(json_data['venue'], 'TEST')
 
 	def test_JsonIn(self):
-		json = {'venue': 'TEST',
+		json = {'title': 'what.a.great.show',
+				'venue': 'TEST',
 		        'year': 1977,
 		        'month': 11,
 		        'day': 5,
@@ -34,6 +35,18 @@ class TestShow(unittest.TestCase):
 		other_one = Show.fromJSON(json_data)
 		self.assertEqual(show.date, other_one.date)
 
+	def test_CanWriteFile(self):
+		show = Show({'data-id': 'gd1989-08-18.xxx'},'TEST:TEST')
+		show.saveData()
+		self.assertEqual(True, True)
+
+	def test_RewriteWithSongs(self):
+		track1 = Track('Dark Star', 'PT0M304S', ['song.ogg', 'song.mp3'], 0)
+		track2 = Track('Dark Star', 'PT0M304S', ['song.ogg', 'song.mp3'], 0)
+		show = Show({'data-id': 'gd1989-08-18.yyy'},'TEST:TEST')
+		show.songs = [track1, track2]
+		show.saveData()
+		self.assertEqual(True, True)
 
 class TestSong(unittest.TestCase):
 	def test_CanGetNull(self):

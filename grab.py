@@ -1,11 +1,17 @@
 #!/usr/bin/env python3
 
+import sys
+import json
 import requests
-from bs4 import BeautifulSoup
+from tqdm import tqdm
 from datetime import date
+from bs4 import BeautifulSoup
+
 from songs import findSong
 
+ARCHIVE_COLLECTION = 'https://archive.org/search.php?query=collection%3AGratefulDead&page='
 ARCHIVE_BASE_URL = 'https://archive.org/details/'
+SHOWS_DIRECTORY = 'shows'
 
 class Show:
 	def __init__(self, item, title):
@@ -45,12 +51,17 @@ class Show:
 			# some error
 			return ''
 
-	def saveData(self):
-		pass
+	def getFilePath(self):
+		return './{0}/{1}.json'.format(SHOWS_DIRECTORY, self.title)
 
+	def saveData(self):
+		json_data = self.toJSON()
+		with open(self.getFilePath(), 'w') as json_file:
+			json.dump(json_data, json_file, indent=4)
 
 	def toJSON(self):
-		return {'venue': self.venue,
+		return {'title': self.title,
+				'venue': self.venue,
 				'year': self.date.year,
 				'month': self.date.month,
 				'day': self.date.day,
@@ -59,6 +70,7 @@ class Show:
 	@classmethod
 	def fromJSON(cls, json_data):
 		new_show = Show('', '')
+		new_show.title = json_data['title']
 		new_show.venue = json_data['venue']
 		new_show.date = date(json_data['year'], json_data['month'], json_data['day'])
 		new_show.songs = [Track.fromJSON(x) for x in json_data['songs']]
@@ -146,14 +158,16 @@ class Track:
 		return('{: >30} {: >10} {: >12}'.format(self.song, self.getTimeString(), self.linkTxt()))
 
 
-def getYearData():
-	#url = 'https://archive.org/details/GratefulDead?&and[]=year%3A"1967"'
-	url = 'https://archive.org/search.php?query=collection%3AGratefulDead&page=1'
+def getYearPageData(page_index):
+	print(' * Collecting shows from page {0}'.format(page_index))
+	url = '{0}{1}'.format(ARCHIVE_COLLECTION, page_index)
 	# perform a GET on this url
 	response = requests.get(url)
+	if response.status_code != 200:
+		print('  Error: Got HTTP {0}'.format(response.status_code))
+		return ''
 	# save this reponse
-	with open('get.html', 'w') as foo:
-		foo.write(response.text)
+	return response.text
 
 def getBytes():
 	response = requests.get(URL)
@@ -166,7 +180,7 @@ def getBytes():
 def loadFile(name):
 	with open(name, 'r') as foo:
 		page = foo.read()
-	return page
+		return page
 
 def extractPageData(page):
 	# parse the HTML to get the links
@@ -208,12 +222,21 @@ def extractYearData(year):
 		extracted_shows.append(Show(i, title))
 	return extracted_shows
 
-if __name__ == '__main__':
-	page = loadFile('./html/single_show.html')
+def extractSinglePage(single_page):
 	data = loadYearData()
+
+
+if __name__ == '__main__':
+	index = 1
+	data = getYearPageData(index)
+	if len(data) == 0:
+		sys.exit()
+	else:
+		with open('./raw_data/page_{0}.html'.format(index), 'w') as page_file:
+			page_file.write(data)
 	shows = extractYearData(data)
 	# now go through the shows
-	for show in shows[:1]:
-		show_page = shows[0].downloadPage()
-		show.songs = extractPageData(page)
+	for show in tqdm(shows):
+		show_page = show.downloadPage()
+		show.songs = extractPageData(show_page)
 		show.saveData()

@@ -29,7 +29,7 @@ def findSong(name):
 	# iterate through the list
 	# ends in '*'? then remove and strip whitespace
 	if name.endswith('*'):
-		name = name[:-2]
+		name = name[:-1]
 		name.strip()
 	for song in SONGS:
 		if name in song:
