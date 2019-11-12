@@ -5,13 +5,18 @@ from bs4 import BeautifulSoup
 from datetime import date
 from songs import findSong
 
-URL = 'https://archive.org/details/gd1982-07-27.141510.sbd.pcm.streeter.dalton.miller.clugston.flac1644'
-
+ARCHIVE_BASE_URL = 'https://archive.org/details/'
 
 class Show:
 	def __init__(self, item, title):
-		self.getVenue(title)
-		self.getDetails(item)
+		self.venue = ''
+		self.date = None
+		try:
+			self.getVenue(title)
+			self.getDetails(item)
+		except:
+			pass
+		self.songs = []
 
 	def getVenue(self, title):
 		try:
@@ -29,37 +34,60 @@ class Show:
 		day = int(data[2])
 		self.date = date(year, month, day)
 
+	def downloadPage(self):
+		# returns the archive page, or '' if no joy
+		url = '{0}{1}'.format(ARCHIVE_BASE_URL, self.title)
+		# use requests to load the page
+		response = requests.get(url)
+		if response.status_code == 200:
+			return response.text
+		else:
+			# some error
+			return ''
+
+	def saveData(self):
+		pass
+
+
+	def toJSON(self):
+		return {'venue': self.venue,
+				'year': self.date.year,
+				'month': self.date.month,
+				'day': self.date.day,
+				'songs': [x.toJSON() for x in self.songs]}
+
+	@classmethod
+	def fromJSON(cls, json_data):
+		new_show = Show('', '')
+		new_show.venue = json_data['venue']
+		new_show.date = date(json_data['year'], json_data['month'], json_data['day'])
+		new_show.songs = [Track.fromJSON(x) for x in json_data['songs']]
+		return new_show
+
+
 	def __repr__(self):
 		date_format = self.date.strftime('%a %d %b %y')
 		recording = self.title.split('.')[-1]
 		return '{0}: {1}'.format(date_format, recording)
 
 class Track:
-	def __init__(self, name, duration, links):
+	def __init__(self, name, duration, links, index):
 		# we can extract many things from this data
-		self.getSong(name)
-		self.getDate(name)
-		self.getTrackNumber(name)
-		self.getLength(duration)
-		self.getLinks(links)
+		try:
+			self.getSong(name)
+			self.track_number = index
+			self.getLength(duration)
+			self.getLinks(links)
+		except:
+			pass
 
 	def getSong(self, name):
-		data = ' '.join(name.split()[2:])
-		self.song = findSong(data)
-
-	def getDate(self, name):
-		# [2:] - remove 'gd' part
-		data = name.split()[0][2:]
-		date_info = data.split('-')
-		year = int(date_info[0]) + 1900
-		month = int(date_info[1])
-		day = int(date_info[2])
-		self.date = date(year, month, day)
-
-	def getTrackNumber(self, name):
-		# [1:] - remove 't'
-		data = name.split()[1][1:]
-		self.track_number = int(data)
+		# starts with gd?
+		if name.startswith('gd'):
+			data = ' '.join(name.split()[2:])
+			self.song = findSong(data)
+		else:
+			self.song = findSong(name)
 
 	def getLength(self, duration):
 		# example of this data: PT0M304S
@@ -90,6 +118,29 @@ class Track:
 		if self.ogg is not None:
 			texts.append('OGG')
 		return '[{0}]'.format(', '.join(texts))
+
+	def toJSON(self):
+		ogg_file = self.ogg if self.ogg is not None else ''
+		mp3_file = self.mp3 if self.mp3 is not None else ''
+		return {'title': self.song,
+				'order': self.track_number,
+				'length': self.length,
+				'ogg': ogg_file,
+				'mp3': mp3_file}
+
+	@classmethod
+	def fromJSON(cls, json_data):
+		new_track = Track('', '', '', 0)
+		new_show.title = json_data['title']
+		new_show.track_number = json['order']
+		new_show.length = json['length']
+		new_show.ogg = json['ogg']
+		if new_show.ogg != '':
+			 new_show.ogg = None
+		new_show.mp3 = json['mp3']
+		if new_show.mp3 != '':
+			new_show.mp3 = None
+		return new_track
 
 	def __repr__(self):
 		return('{: >30} {: >10} {: >12}'.format(self.song, self.getTimeString(), self.linkTxt()))
@@ -124,11 +175,13 @@ def extractPageData(page):
 	# now find the tracks in this
 	tracks = main_wrap.findAll('div', {'itemprop':'track'})
 	songs = []
+	order = 1
 	for t in tracks:
 		name = t.find('meta', {'itemprop': 'name'})['content']
 		duration = t.find('meta', {'itemprop': 'duration'})['content']
 		links = [x['href'] for x in t.findAll('link')]
-		songs.append(Track(name, duration, links))
+		songs.append(Track(name, duration, links, order))
+		order += 1
 	return songs
 
 def loadYearData():
@@ -156,12 +209,11 @@ def extractYearData(year):
 	return extracted_shows
 
 if __name__ == '__main__':
-	#page = loadFile('page.html')
-	#songs = extractPageData(page)
-	#for i in songs:
-	#	print(i)
-	#getYearData()
+	page = loadFile('./html/single_show.html')
 	data = loadYearData()
 	shows = extractYearData(data)
-	for i in shows:
-		print(i)
+	# now go through the shows
+	for show in shows[:1]:
+		show_page = shows[0].downloadPage()
+		show.songs = extractPageData(page)
+		show.saveData()
