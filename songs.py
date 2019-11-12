@@ -1,37 +1,35 @@
 #!/usr/bin/env python3
 
-UNKNOWN_SONG = "UNKNOWN"
+import json
 
-SONGS = [["Jack Straw"],
-		 ["Sugaree"],
-		 ["On The Road Again"],
-		 ["It Must Have Been The Roses"],
-		 ["Me & My Uncle"],
-		 ["Big River"],
-		 ["Peggy O"],
-		 ["Little Red Rooster"],
-		 ["China Cat Sunflower"],
-		 ["I Know You Rider"],
-		 ["Tuning"],
-		 ["Playin' In The Band"],
-		 ["Terrapin Station"],
-		 ["Playin' Jam"],
-		 ["Drums"],
-		 ["Space"],
-		 ["The Wheel"],
-		 ["The Other One"],
-		 ["Stella Blue"],
-		 ["US Blues"]]
+SONG_FILE = 'songs.json'
 
-def showNewSong(name):
-	# massage data into correct format
-	print('''"""{0}""": ["""{1}"""],'''.format(title, name))
+SONGS = None
+
+def initSongs():
+	global SONGS
+
+	# load the songs
+	with open('songs.json') as json_file:
+		song_data = json.load(json_file)
+	SONGS = song_data
+
+def addNewSong(name):
+	global SONGS
+
+	SONGS.append([name])
+	# update the json
+	with open(SONG_FILE, 'w') as json_file:
+		json.dump(SONGS, json_file, indent=4)
 
 def findSong(name):
+	# all unknown songs are added to the list of known ones
+	if SONGS is None:
+		initSongs()
 	# iterate through the list
 	for song in SONGS:
 		if name in song:
 			return song[0]
 	# song not found, capture this
-	showNewSong(name)
-	return UNKNOWN_SONG
+	addNewSong(name)
+	return name
