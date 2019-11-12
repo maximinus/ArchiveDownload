@@ -132,7 +132,7 @@ def extractPageData(page):
 	return songs
 
 def loadYearData():
-	with open('get.html', 'r') as data_file:
+	with open('./html/get.html', 'r') as data_file:
 		year_data = data_file.read()
 	return year_data
 
