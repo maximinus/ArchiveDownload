@@ -3,25 +3,23 @@
 import sys
 import json
 import requests
+import time
 from tqdm import tqdm
 from datetime import date
 from bs4 import BeautifulSoup
 
-from songs import findSong
-
 ARCHIVE_COLLECTION = 'https://archive.org/search.php?query=collection%3AGratefulDead&page='
 ARCHIVE_BASE_URL = 'https://archive.org/details/'
+ETREE_BASE_URL = 'https://db.etree.org/db/shows/browse/artist_key/2/year/'
+ARCHIVE_URL = 'www.archive.org'
 SHOWS_DIRECTORY = 'shows'
 
 class Show:
 	def __init__(self, item, title):
 		self.venue = ''
 		self.date = None
-		try:
-			self.getVenue(title)
-			self.getDetails(item)
-		except:
-			pass
+		self.city = ''
+		self.state = ''
 		self.songs = []
 
 	def getVenue(self, title):
@@ -29,6 +27,21 @@ class Show:
 			self.venue = title.split(':')[-1].strip()
 		except:
 			self.venue = "Unknown"
+
+	@classmethod
+	def getFromArchive(cls, item, title):
+		show = Show()
+		try:
+			show.getVenue(title)
+			show.getDetails(item)
+		except:
+			pass
+		return(show)
+
+	@classmethod
+	def getFromEtree(cls):
+		show = Show()
+		return(show)
 
 	def getDetails(self, item):
 		self.title = item['data-id']
@@ -65,13 +78,17 @@ class Show:
 				'year': self.date.year,
 				'month': self.date.month,
 				'day': self.date.day,
+				'city': self.city,
+				'state': self.state,
 				'songs': [x.toJSON() for x in self.songs]}
 
 	@classmethod
 	def fromJSON(cls, json_data):
-		new_show = Show('', '')
+		new_show = Show()
 		new_show.title = json_data['title']
 		new_show.venue = json_data['venue']
+		new_show.city = json_data['city']
+		new_show.state = json_data['state']
 		new_show.date = date(json_data['year'], json_data['month'], json_data['day'])
 		new_show.songs = [Track.fromJSON(x) for x in json_data['songs']]
 		return new_show
@@ -90,16 +107,17 @@ class Track:
 			self.track_number = index
 			self.getLength(duration)
 			self.getLinks(links)
-		except:
-			pass
+		except Exception as e:
+			print(' * Error: {0}'.format(e))
+			print(' * {0} : {1}'.format(name, duration))
 
 	def getSong(self, name):
 		# starts with gd?
 		if name.startswith('gd'):
 			data = ' '.join(name.split()[2:])
-			self.song = findSong(data)
+			self.song = data
 		else:
-			self.song = findSong(name)
+			self.song = name
 
 	def getLength(self, duration):
 		# example of this data: PT0M304S
@@ -219,24 +237,84 @@ def extractYearData(year):
 	extracted_shows = []
 	for i in shows:
 		title = i.findAll('a')[1]['title']
-		extracted_shows.append(Show(i, title))
+		extracted_shows.append(Show.getFromArchive(i, title))
 	return extracted_shows
 
 def extractSinglePage(single_page):
 	data = loadYearData()
 
 
-if __name__ == '__main__':
+def getArchiveData():
 	index = 1
-	data = getYearPageData(index)
-	if len(data) == 0:
-		sys.exit()
+	for index in range(113, 199):
+		time.sleep(5)
+		data = getYearPageData(index + 1)
+		if len(data) == 0:
+			print('Could not get page {0}'.format(index))
+			continue
+		else:
+			with open('./raw_data/page_{0}.html'.format(index), 'w') as page_file:
+				page_file.write(data)
+		for show in tqdm(shows):
+			show_page = show.downloadPage()
+			show.songs = extractPageData(show_page)
+			show.saveData()
+			time.sleep(2)
+
+def getEtreeYear(year):
+	url = '{0}{1}'.format(ETREE_BASE_URL, year)
+	response = requests.get(url)
+	if response.status_code == 200:
+		return response.text
 	else:
-		with open('./raw_data/page_{0}.html'.format(index), 'w') as page_file:
+		return ''
+
+def getEtreeData():
+	print('Obtaining Etree list')
+	for i in tqdm(range(1965, 1995)):
+		data = getEtreeYear(i)
+		with open('./etree_source/year_{0}.html'.format(i), 'w') as page_file:
 			page_file.write(data)
-	shows = extractYearData(data)
+
+def extractEtreeYear(year):
+	# load the page, insert into bs4
+	with open('./etree_source/year_{0}.html'.format(year), 'r') as page_file:
+		data = page_file.read()
+	soup = BeautifulSoup(data, features='html.parser')
+	# get the first table you see
+	table = soup.find('table')
+	# grab all the TR's in that table except the first
+	shows = table.findAll('tr')[1:]
+	# tds from first to last are:
+	# etree link, venue, city, state, download, add link, etree sources
+	# we only want the links
+	show_links = []
+	for show in shows:
+		downloads = show.findAll('td')[4]
+		# we need all the links
+		links = downloads.findAll('a')
+		for l in links:
+			# save the archive ones. grab the href
+			show_link = l['href']
+			if ARCHIVE_URL in show_link:
+				# store the link
+				show_links.append(show_link)
+	return(show_links)
+
+def getArchiveListFromEtree():
+	shows = extractEtreeData(data)
 	# now go through the shows
 	for show in tqdm(shows):
 		show_page = show.downloadPage()
 		show.songs = extractPageData(show_page)
 		show.saveData()
+
+if __name__ == '__main__':
+	archive_links = []
+	for i in tqdm(range(1865, 1995)):
+		new_data = extractEtreeYear(i)
+		archive_links.extend(new_data)
+	# save the data
+	print('Saving...')
+	with open('/etree_source/shows.json', 'w') as json_file:
+		json.dump(archive_links, json_file, indent=4)
