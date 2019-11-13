@@ -311,10 +311,10 @@ def getArchiveListFromEtree():
 
 if __name__ == '__main__':
 	archive_links = []
-	for i in tqdm(range(1865, 1995)):
+	for i in tqdm(range(1965, 1995)):
 		new_data = extractEtreeYear(i)
 		archive_links.extend(new_data)
 	# save the data
 	print('Saving...')
-	with open('/etree_source/shows.json', 'w') as json_file:
+	with open('./etree_source/shows.json', 'w') as json_file:
 		json.dump(archive_links, json_file, indent=4)
