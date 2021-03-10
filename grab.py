@@ -311,7 +311,7 @@ def getArchiveListFromEtree():
 
 if __name__ == '__main__':
 	archive_links = []
-	for i in tqdm(range(1965, 1995)):
+	for i in tqdm(range(1965, 1996)):
 		new_data = extractEtreeYear(i)
 		archive_links.extend(new_data)
 	# save the data
