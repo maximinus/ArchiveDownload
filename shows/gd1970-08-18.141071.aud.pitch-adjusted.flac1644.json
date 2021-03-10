@@ -1,0 +1,170 @@
+{
+    "title": "gd1970-08-18.141071.aud.pitch-adjusted.flac1644",
+    "venue": "Fillmore West",
+    "year": 1970,
+    "month": 8,
+    "day": 18,
+    "songs": [
+        {
+            "song": "Truckin",
+            "order": 1,
+            "length": 441,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1801Truckin.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1801Truckin.mp3"
+        },
+        {
+            "song": "Dire Wolf",
+            "order": 2,
+            "length": 267,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1802DireWolf.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1802DireWolf.mp3"
+        },
+        {
+            "song": "Friend Of The Devil",
+            "order": 3,
+            "length": 231,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1803FriendOfTheDevil.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1803FriendOfTheDevil.mp3"
+        },
+        {
+            "song": "Dark Hollow",
+            "order": 4,
+            "length": 203,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1804DarkHollow.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1804DarkHollow.mp3"
+        },
+        {
+            "song": "Ripple",
+            "order": 5,
+            "length": 259,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1805Ripple.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1805Ripple.mp3"
+        },
+        {
+            "song": "Brokedown Palace",
+            "order": 6,
+            "length": 280,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1806BrokedownPalace.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1806BrokedownPalace.mp3"
+        },
+        {
+            "song": "Operator",
+            "order": 7,
+            "length": 176,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1807Operator.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1807Operator.mp3"
+        },
+        {
+            "song": "Rosalie McFall",
+            "order": 8,
+            "length": 197,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1808RosalieMcfall.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1808RosalieMcfall.mp3"
+        },
+        {
+            "song": "New Speedway Boogie",
+            "order": 9,
+            "length": 621,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1809NewSpeedwayBoogie.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1809NewSpeedwayBoogie.mp3"
+        },
+        {
+            "song": "Cold Jordan",
+            "order": 10,
+            "length": 152,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1810ColdJordan.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1810ColdJordan.mp3"
+        },
+        {
+            "song": "Swing Low Sweet Chariot",
+            "order": 11,
+            "length": 193,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1811SwingLowSweetChariot.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1811SwingLowSweetChariot.mp3"
+        },
+        {
+            "song": "Dancing In The Streets",
+            "order": 12,
+            "length": 842,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1812DancingInTheStreets.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1812DancingInTheStreets.mp3"
+        },
+        {
+            "song": "Next Time You See Me",
+            "order": 13,
+            "length": 193,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1813NextTimeYouSeeMe.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1813NextTimeYouSeeMe.mp3"
+        },
+        {
+            "song": "Mama Tried",
+            "order": 14,
+            "length": 157,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1814MamaTried.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1814MamaTried.mp3"
+        },
+        {
+            "song": "Cryptical Envelopment-drums",
+            "order": 15,
+            "length": 348,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1815CrypticalEnvelopment-drums.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1815CrypticalEnvelopment-drums.mp3"
+        },
+        {
+            "song": "The Other One",
+            "order": 16,
+            "length": 510,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1816TheOtherOne.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1816TheOtherOne.mp3"
+        },
+        {
+            "song": "Cryptical Envelopment reprise",
+            "order": 17,
+            "length": 118,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1817CrypticalEnvelopmentReprise.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1817CrypticalEnvelopmentReprise.mp3"
+        },
+        {
+            "song": "Sugar Magnolia",
+            "order": 18,
+            "length": 246,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1818SugarMagnolia.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1818SugarMagnolia.mp3"
+        },
+        {
+            "song": "Attics Of My Life",
+            "order": 19,
+            "length": 410,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1819AtticsOfMyLife.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1819AtticsOfMyLife.mp3"
+        },
+        {
+            "song": "Its A Mans World",
+            "order": 20,
+            "length": 719,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1820ItsAMansWorld.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1820ItsAMansWorld.mp3"
+        },
+        {
+            "song": "Not Fade Away",
+            "order": 21,
+            "length": 627,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1821NotFadeAway.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1821NotFadeAway.mp3"
+        },
+        {
+            "song": "Casey Jones",
+            "order": 22,
+            "length": 295,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1822CaseyJones.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1822CaseyJones.mp3"
+        },
+        {
+            "song": "Uncle John's Band",
+            "order": 23,
+            "length": 398,
+            "ogg": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1823UncleJohnsBand.ogg",
+            "mp3": "https://archive.org/download/gd1970-08-18.141071.aud.pitch-adjusted.flac1644/Gd70-08-1823UncleJohnsBand.mp3"
+        }
+    ]
+}

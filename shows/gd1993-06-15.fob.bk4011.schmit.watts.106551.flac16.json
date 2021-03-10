@@ -1,0 +1,121 @@
+{
+    "title": "gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16",
+    "venue": "Freedom Hall",
+    "year": 1993,
+    "month": 6,
+    "day": 15,
+    "songs": [
+        {
+            "song": "Feel Like A Stranger",
+            "order": 1,
+            "length": 622,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t01.mp3"
+        },
+        {
+            "song": "Althea",
+            "order": 2,
+            "length": 559,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t02.mp3"
+        },
+        {
+            "song": "Wang Dang Doodle",
+            "order": 3,
+            "length": 448,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t03.mp3"
+        },
+        {
+            "song": "Friend Of The Devil",
+            "order": 4,
+            "length": 573,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t04.mp3"
+        },
+        {
+            "song": "Desolation Row",
+            "order": 5,
+            "length": 665,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t05.mp3"
+        },
+        {
+            "song": "Don't Ease Me In",
+            "order": 6,
+            "length": 194,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t06.mp3"
+        },
+        {
+            "song": "Walk On",
+            "order": 7,
+            "length": 269,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t07.mp3"
+        },
+        {
+            "song": "Victim or the Crime",
+            "order": 8,
+            "length": 506,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t08.mp3"
+        },
+        {
+            "song": "Crazy Fingers",
+            "order": 9,
+            "length": 503,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t09.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d1t09.mp3"
+        },
+        {
+            "song": "Estimated Prophet",
+            "order": 10,
+            "length": 752,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t01.mp3"
+        },
+        {
+            "song": "Spoonful",
+            "order": 11,
+            "length": 268,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t02.mp3"
+        },
+        {
+            "song": "He's Gone",
+            "order": 12,
+            "length": 551,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t03.mp3"
+        },
+        {
+            "song": "Drums",
+            "order": 13,
+            "length": 1341,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t04.mp3"
+        },
+        {
+            "song": "Last Time",
+            "order": 14,
+            "length": 387,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t05.mp3"
+        },
+        {
+            "song": "Morning Dew",
+            "order": 15,
+            "length": 864,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t06.mp3"
+        },
+        {
+            "song": "Gloria",
+            "order": 16,
+            "length": 317,
+            "ogg": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1993-06-15.fob.bk4011.schmit.watts.106551.flac16/gd1993-06-15d2t07.mp3"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "title": "gd1966-06-01.136642.watts.sbd.mr.dat48k.sirmick.flac16",
+    "venue": "Unknown Location (possibly Owsley\u2019s house in Watts)",
+    "year": 1966,
+    "month": 6,
+    "day": 1,
+    "songs": [
+        {
+            "song": "Hi-Heel Sneakers",
+            "order": 1,
+            "length": 221,
+            "ogg": "https://archive.org/download/gd1966-06-01.136642.watts.sbd.mr.dat48k.sirmick.flac16/gd1966-xx-xxt01.ogg",
+            "mp3": "https://archive.org/download/gd1966-06-01.136642.watts.sbd.mr.dat48k.sirmick.flac16/gd1966-xx-xxt01.mp3"
+        },
+        {
+            "song": "Viola Lee Blues (with false start)",
+            "order": 2,
+            "length": 432,
+            "ogg": "https://archive.org/download/gd1966-06-01.136642.watts.sbd.mr.dat48k.sirmick.flac16/gd1966-xx-xxt02.ogg",
+            "mp3": "https://archive.org/download/gd1966-06-01.136642.watts.sbd.mr.dat48k.sirmick.flac16/gd1966-xx-xxt02.mp3"
+        }
+    ]
+}

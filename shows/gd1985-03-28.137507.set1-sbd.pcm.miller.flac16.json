@@ -1,0 +1,72 @@
+{
+    "title": "gd1985-03-28.137507.set1-sbd.pcm.miller.flac16",
+    "venue": "Nassau Veterans Memorial Coliseum",
+    "year": 1985,
+    "month": 3,
+    "day": 28,
+    "songs": [
+        {
+            "song": "01 Tuning",
+            "order": 1,
+            "length": 197,
+            "ogg": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/01Tuning.ogg",
+            "mp3": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/01Tuning.mp3"
+        },
+        {
+            "song": "02 Truckin'",
+            "order": 2,
+            "length": 438,
+            "ogg": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/02Truckin.ogg",
+            "mp3": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/02Truckin.mp3"
+        },
+        {
+            "song": "03 Smokestack Lightning",
+            "order": 3,
+            "length": 336,
+            "ogg": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/03SmokestackLightning.ogg",
+            "mp3": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/03SmokestackLightning.mp3"
+        },
+        {
+            "song": "04 High Time",
+            "order": 4,
+            "length": 488,
+            "ogg": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/04HighTime.ogg",
+            "mp3": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/04HighTime.mp3"
+        },
+        {
+            "song": "05 El Paso",
+            "order": 5,
+            "length": 289,
+            "ogg": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/05ElPaso.ogg",
+            "mp3": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/05ElPaso.mp3"
+        },
+        {
+            "song": "06 Peggy-O",
+            "order": 6,
+            "length": 462,
+            "ogg": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/06Peggy-o.ogg",
+            "mp3": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/06Peggy-o.mp3"
+        },
+        {
+            "song": "07 Cassidy",
+            "order": 7,
+            "length": 370,
+            "ogg": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/07Cassidy.ogg",
+            "mp3": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/07Cassidy.mp3"
+        },
+        {
+            "song": "08 China Cat Sunflower",
+            "order": 8,
+            "length": 307,
+            "ogg": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/08ChinaCatSunflower.ogg",
+            "mp3": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/08ChinaCatSunflower.mp3"
+        },
+        {
+            "song": "09 I Know You Rider",
+            "order": 9,
+            "length": 359,
+            "ogg": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/09IKnowYouRider.ogg",
+            "mp3": "https://archive.org/download/gd1985-03-28.137507.set1-sbd.pcm.miller.flac16/09IKnowYouRider.mp3"
+        }
+    ]
+}

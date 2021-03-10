@@ -1,0 +1,170 @@
+{
+    "title": "gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16",
+    "venue": "Madison Square Garden",
+    "year": 1990,
+    "month": 9,
+    "day": 19,
+    "songs": [
+        {
+            "song": "01 Tuning",
+            "order": 1,
+            "length": 81,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/01%20Tuning.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/01%20Tuning.mp3"
+        },
+        {
+            "song": "02 Jack Straw",
+            "order": 2,
+            "length": 417,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/02%20Jack%20Straw.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/02%20Jack%20Straw.mp3"
+        },
+        {
+            "song": "03 Bertha",
+            "order": 3,
+            "length": 516,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/03%20Bertha.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/03%20Bertha.mp3"
+        },
+        {
+            "song": "04 Me And My Uncle",
+            "order": 4,
+            "length": 191,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/04%20Me%20And%20My%20Uncle.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/04%20Me%20And%20My%20Uncle.mp3"
+        },
+        {
+            "song": "05 Big River",
+            "order": 5,
+            "length": 411,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/05%20Big%20River.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/05%20Big%20River.mp3"
+        },
+        {
+            "song": "06 It Must Have Been The Roses",
+            "order": 6,
+            "length": 392,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/06%20It%20Must%20Have%20Been%20The%20Roses.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/06%20It%20Must%20Have%20Been%20The%20Roses.mp3"
+        },
+        {
+            "song": "07 Stuck Inside Of Mobile With The Memphis Blues Again",
+            "order": 7,
+            "length": 598,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/07%20Stuck%20Inside%20Of%20Mobile%20With%20The%20Memphis%20Blues%20Again.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/07%20Stuck%20Inside%20Of%20Mobile%20With%20The%20Memphis%20Blues%20Again.mp3"
+        },
+        {
+            "song": "08 Help On The Way",
+            "order": 8,
+            "length": 260,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/08%20Help%20On%20The%20Way.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/08%20Help%20On%20The%20Way.mp3"
+        },
+        {
+            "song": "09 Slipknot!",
+            "order": 9,
+            "length": 398,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/09%20Slipknot%21.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/09%20Slipknot%21.mp3"
+        },
+        {
+            "song": "10 Franklin's Tower",
+            "order": 10,
+            "length": 830,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/10%20Franklin%27s%20Tower.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/10%20Franklin%27s%20Tower.mp3"
+        },
+        {
+            "song": "11 Tuning",
+            "order": 11,
+            "length": 81,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/11%20Tuning.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/11%20Tuning.mp3"
+        },
+        {
+            "song": "12 Playing In The Band",
+            "order": 12,
+            "length": 643,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/12%20Playing%20In%20The%20Band.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/12%20Playing%20In%20The%20Band.mp3"
+        },
+        {
+            "song": "13 Ship Of Fools",
+            "order": 13,
+            "length": 395,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/13%20Ship%20Of%20Fools.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/13%20Ship%20Of%20Fools.mp3"
+        },
+        {
+            "song": "14 Playing Jam",
+            "order": 14,
+            "length": 153,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/14%20Playing%20Jam.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/14%20Playing%20Jam.mp3"
+        },
+        {
+            "song": "15 Uncle John's Band",
+            "order": 15,
+            "length": 648,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/15%20Uncle%20John%27s%20Band.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/15%20Uncle%20John%27s%20Band.mp3"
+        },
+        {
+            "song": "16 Let It Grow",
+            "order": 16,
+            "length": 1491,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/16%20Let%20It%20Grow.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/16%20Let%20It%20Grow.mp3"
+        },
+        {
+            "song": "17 Drums",
+            "order": 17,
+            "length": 600,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/17%20Drums.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/17%20Drums.mp3"
+        },
+        {
+            "song": "18 Space",
+            "order": 18,
+            "length": 575,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/18%20Space.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/18%20Space.mp3"
+        },
+        {
+            "song": "19 Goin' Down The Road Feeling Bad",
+            "order": 19,
+            "length": 459,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/19%20Goin%27%20Down%20The%20Road%20Feeling%20Bad.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/19%20Goin%27%20Down%20The%20Road%20Feeling%20Bad.mp3"
+        },
+        {
+            "song": "20 Stella Blue",
+            "order": 20,
+            "length": 639,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/20%20Stella%20Blue.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/20%20Stella%20Blue.mp3"
+        },
+        {
+            "song": "21 Around And Around",
+            "order": 21,
+            "length": 514,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/21%20Around%20And%20Around.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/21%20Around%20And%20Around.mp3"
+        },
+        {
+            "song": "22 Tuning",
+            "order": 22,
+            "length": 36,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/22%20Tuning.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/22%20Tuning.mp3"
+        },
+        {
+            "song": "23 The Mighty Quinn (Quinn The Eskimo)",
+            "order": 23,
+            "length": 308,
+            "ogg": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/23%20The%20Mighty%20Quinn%20%28Quinn%20The%20Eskimo%29.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-19.147888.UltraMatrix.sbd.cm.miller.flac16/23%20The%20Mighty%20Quinn%20%28Quinn%20The%20Eskimo%29.mp3"
+        }
+    ]
+}

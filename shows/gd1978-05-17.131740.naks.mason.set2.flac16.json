@@ -1,0 +1,79 @@
+{
+    "title": "gd1978-05-17.131740.naks.mason.set2.flac16",
+    "venue": "Uptown Theater",
+    "year": 1978,
+    "month": 5,
+    "day": 17,
+    "songs": [
+        {
+            "song": "Samson And Delilah",
+            "order": 1,
+            "length": 435,
+            "ogg": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t01.mp3"
+        },
+        {
+            "song": "Friend Of The Devil",
+            "order": 2,
+            "length": 564,
+            "ogg": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t02.mp3"
+        },
+        {
+            "song": "Dancin' In The Streets >",
+            "order": 3,
+            "length": 867,
+            "ogg": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t03.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 4,
+            "length": 952,
+            "ogg": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t04.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 5,
+            "length": 119,
+            "ogg": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t05.mp3"
+        },
+        {
+            "song": "Terrapin Station >",
+            "order": 6,
+            "length": 647,
+            "ogg": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t06.mp3"
+        },
+        {
+            "song": "Not Fade Away",
+            "order": 7,
+            "length": 823,
+            "ogg": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t07.mp3"
+        },
+        {
+            "song": "Around And Around",
+            "order": 8,
+            "length": 544,
+            "ogg": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t08.mp3"
+        },
+        {
+            "song": "Crowd",
+            "order": 9,
+            "length": 185,
+            "ogg": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t09.mp3"
+        },
+        {
+            "song": "Werewolves Of London",
+            "order": 10,
+            "length": 436,
+            "ogg": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-17.131740.naks.mason.set2.flac16/gd78-05-17.s2t10.mp3"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "title": "gd1969-03-28.135935.sbd.GEMS.flac16",
+    "venue": "Student Center, Modesto Jr. College",
+    "year": 1969,
+    "month": 3,
+    "day": 28,
+    "songs": [
+        {
+            "song": "Good Morning Little Schoolgirl",
+            "order": 1,
+            "length": 786,
+            "ogg": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t01.ogg",
+            "mp3": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t01.mp3"
+        },
+        {
+            "song": "Dark Star ->",
+            "order": 2,
+            "length": 1369,
+            "ogg": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t02.ogg",
+            "mp3": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t02.mp3"
+        },
+        {
+            "song": "St. Stephen ->",
+            "order": 3,
+            "length": 542,
+            "ogg": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t03.ogg",
+            "mp3": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t03.mp3"
+        },
+        {
+            "song": "The Eleven ->",
+            "order": 4,
+            "length": 757,
+            "ogg": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t04.ogg",
+            "mp3": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t04.mp3"
+        },
+        {
+            "song": "Death Don't Have No Mercy",
+            "order": 5,
+            "length": 584,
+            "ogg": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t05.ogg",
+            "mp3": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t05.mp3"
+        },
+        {
+            "song": "Turn On Your Lovelight",
+            "order": 6,
+            "length": 1343,
+            "ogg": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t06.ogg",
+            "mp3": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t06.mp3"
+        },
+        {
+            "song": "tuning-",
+            "order": 7,
+            "length": 116,
+            "ogg": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t07.ogg",
+            "mp3": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t07.mp3"
+        },
+        {
+            "song": "Cryptical Envelopment ->",
+            "order": 8,
+            "length": 126,
+            "ogg": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t08.ogg",
+            "mp3": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t08.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 9,
+            "length": 18,
+            "ogg": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t09.ogg",
+            "mp3": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t09.mp3"
+        },
+        {
+            "song": "The Other One ->",
+            "order": 10,
+            "length": 527,
+            "ogg": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t10.ogg",
+            "mp3": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t10.mp3"
+        },
+        {
+            "song": "Cryptical Envelopment",
+            "order": 11,
+            "length": 672,
+            "ogg": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t11.ogg",
+            "mp3": "https://archive.org/download/gd1969-03-28.135935.sbd.GEMS.flac16/gd1969-03-28t11.mp3"
+        }
+    ]
+}

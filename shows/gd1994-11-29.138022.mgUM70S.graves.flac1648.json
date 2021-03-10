@@ -1,0 +1,156 @@
+{
+    "title": "gd1994-11-29.138022.mgUM70S.graves.flac1648",
+    "venue": "McNichols Sports Arena",
+    "year": 1994,
+    "month": 11,
+    "day": 29,
+    "songs": [
+        {
+            "song": "Crowd / Tuning",
+            "order": 1,
+            "length": 151,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T01.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T01.mp3"
+        },
+        {
+            "song": "Jack Straw",
+            "order": 2,
+            "length": 486,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T02.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T02.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 3,
+            "length": 373,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T03.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T03.mp3"
+        },
+        {
+            "song": "Walkin' Blues",
+            "order": 4,
+            "length": 393,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T04.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T04.mp3"
+        },
+        {
+            "song": "So Many Roads",
+            "order": 5,
+            "length": 523,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T05.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T05.mp3"
+        },
+        {
+            "song": "El Paso",
+            "order": 6,
+            "length": 328,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T06.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T06.mp3"
+        },
+        {
+            "song": "Tennessee Jed",
+            "order": 7,
+            "length": 517,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T07.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T07.mp3"
+        },
+        {
+            "song": "Easy Answers",
+            "order": 8,
+            "length": 421,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T08.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S1T08.mp3"
+        },
+        {
+            "song": "Crowd / Tuning",
+            "order": 9,
+            "length": 124,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T01.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T01.mp3"
+        },
+        {
+            "song": "Iko Iko",
+            "order": 10,
+            "length": 531,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T02.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T02.mp3"
+        },
+        {
+            "song": "Playin' In The Band >",
+            "order": 11,
+            "length": 721,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T03.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T03.mp3"
+        },
+        {
+            "song": "Uncle John's Band",
+            "order": 12,
+            "length": 604,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T04.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T04.mp3"
+        },
+        {
+            "song": "Baba O'Riley >",
+            "order": 13,
+            "length": 228,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T05.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T05.mp3"
+        },
+        {
+            "song": "Tomorrow Never Knows >",
+            "order": 14,
+            "length": 238,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T06.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T06.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 15,
+            "length": 791,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T07.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T07.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 16,
+            "length": 670,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T08.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T08.mp3"
+        },
+        {
+            "song": "The Last Time >",
+            "order": 17,
+            "length": 372,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T09.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T09.mp3"
+        },
+        {
+            "song": "Stella Blue >",
+            "order": 18,
+            "length": 617,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T10.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T10.mp3"
+        },
+        {
+            "song": "Sugar Magnolia",
+            "order": 19,
+            "length": 571,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T11.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T11.mp3"
+        },
+        {
+            "song": "Crowd / Tuning",
+            "order": 20,
+            "length": 48,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T12.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T12.mp3"
+        },
+        {
+            "song": "It's All Over Now Baby Blue",
+            "order": 21,
+            "length": 396,
+            "ogg": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T13.ogg",
+            "mp3": "https://archive.org/download/gd1994-11-29.138022.mgUM70S.graves.flac1648/GratefulDead_1994-11-29_S2T13.mp3"
+        }
+    ]
+}

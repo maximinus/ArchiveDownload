@@ -1,0 +1,37 @@
+{
+    "title": "gd1978-11-17.135718.sbd.partial.schley.andrewf.flac1644",
+    "venue": "Uptown Theater",
+    "year": 1978,
+    "month": 11,
+    "day": 17,
+    "songs": [
+        {
+            "song": "Cassidy",
+            "order": 1,
+            "length": 303,
+            "ogg": "https://archive.org/download/gd1978-11-17.135718.sbd.partial.schley.andrewf.flac1644/gd1978-11-17t01.ogg",
+            "mp3": "https://archive.org/download/gd1978-11-17.135718.sbd.partial.schley.andrewf.flac1644/gd1978-11-17t01.mp3"
+        },
+        {
+            "song": "Bertha",
+            "order": 2,
+            "length": 233,
+            "ogg": "https://archive.org/download/gd1978-11-17.135718.sbd.partial.schley.andrewf.flac1644/gd1978-11-17t02.ogg",
+            "mp3": "https://archive.org/download/gd1978-11-17.135718.sbd.partial.schley.andrewf.flac1644/gd1978-11-17t02.mp3"
+        },
+        {
+            "song": "Ship of Fools",
+            "order": 3,
+            "length": 472,
+            "ogg": "https://archive.org/download/gd1978-11-17.135718.sbd.partial.schley.andrewf.flac1644/gd1978-11-17t03.ogg",
+            "mp3": "https://archive.org/download/gd1978-11-17.135718.sbd.partial.schley.andrewf.flac1644/gd1978-11-17t03.mp3"
+        },
+        {
+            "song": "Estimated Prophet",
+            "order": 4,
+            "length": 541,
+            "ogg": "https://archive.org/download/gd1978-11-17.135718.sbd.partial.schley.andrewf.flac1644/gd1978-11-17t04.ogg",
+            "mp3": "https://archive.org/download/gd1978-11-17.135718.sbd.partial.schley.andrewf.flac1644/gd1978-11-17t04.mp3"
+        }
+    ]
+}

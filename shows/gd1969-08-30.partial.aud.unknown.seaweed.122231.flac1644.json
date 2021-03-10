@@ -1,0 +1,44 @@
+{
+    "title": "gd1969-08-30.partial.aud.unknown.seaweed.122231.flac1644",
+    "venue": "Family Dog at the Great Highway",
+    "year": 1969,
+    "month": 8,
+    "day": 30,
+    "songs": [
+        {
+            "song": "Dark Star >",
+            "order": 1,
+            "length": 848,
+            "ogg": "https://archive.org/download/gd1969-08-30.partial.aud.unknown.seaweed.122231.flac1644/gd1969-08-30t01.ogg",
+            "mp3": "https://archive.org/download/gd1969-08-30.partial.aud.unknown.seaweed.122231.flac1644/gd1969-08-30t01.mp3"
+        },
+        {
+            "song": "Saint Stephen >",
+            "order": 2,
+            "length": 385,
+            "ogg": "https://archive.org/download/gd1969-08-30.partial.aud.unknown.seaweed.122231.flac1644/gd1969-08-30t02.ogg",
+            "mp3": "https://archive.org/download/gd1969-08-30.partial.aud.unknown.seaweed.122231.flac1644/gd1969-08-30t02.mp3"
+        },
+        {
+            "song": "The Eleven >",
+            "order": 3,
+            "length": 378,
+            "ogg": "https://archive.org/download/gd1969-08-30.partial.aud.unknown.seaweed.122231.flac1644/gd1969-08-30t03.ogg",
+            "mp3": "https://archive.org/download/gd1969-08-30.partial.aud.unknown.seaweed.122231.flac1644/gd1969-08-30t03.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 4,
+            "length": 341,
+            "ogg": "https://archive.org/download/gd1969-08-30.partial.aud.unknown.seaweed.122231.flac1644/gd1969-08-30t04.ogg",
+            "mp3": "https://archive.org/download/gd1969-08-30.partial.aud.unknown.seaweed.122231.flac1644/gd1969-08-30t04.mp3"
+        },
+        {
+            "song": "High Time//",
+            "order": 5,
+            "length": 203,
+            "ogg": "https://archive.org/download/gd1969-08-30.partial.aud.unknown.seaweed.122231.flac1644/gd1969-08-30t05.ogg",
+            "mp3": "https://archive.org/download/gd1969-08-30.partial.aud.unknown.seaweed.122231.flac1644/gd1969-08-30t05.mp3"
+        }
+    ]
+}

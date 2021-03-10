@@ -1,0 +1,191 @@
+{
+    "title": "gd1988-10-02.beyerM88.russjcan.94479.flac16",
+    "venue": "Shoreline Amphitheatre",
+    "year": 1988,
+    "month": 10,
+    "day": 2,
+    "songs": [
+        {
+            "song": "tuning",
+            "order": 1,
+            "length": 245,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t01.mp3"
+        },
+        {
+            "song": "Cold Rain and Snow",
+            "order": 2,
+            "length": 377,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t02.mp3"
+        },
+        {
+            "song": "New Minglewood Blues",
+            "order": 3,
+            "length": 501,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t03.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 4,
+            "length": 417,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t04.mp3"
+        },
+        {
+            "song": "Stuck Inside of Mobile With The Memphis Blues Again",
+            "order": 5,
+            "length": 686,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t05.mp3"
+        },
+        {
+            "song": "To Lay Me Down (tape flip)",
+            "order": 6,
+            "length": 427,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t06.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 7,
+            "length": 48,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t07.mp3"
+        },
+        {
+            "song": "Box of Rain",
+            "order": 8,
+            "length": 301,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t08.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 9,
+            "length": 419,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t09.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d1t09.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 10,
+            "length": 181,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t01.mp3"
+        },
+        {
+            "song": "Crazy Fingers",
+            "order": 11,
+            "length": 451,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t02.mp3"
+        },
+        {
+            "song": "Samson and Delilah",
+            "order": 12,
+            "length": 494,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t03.mp3"
+        },
+        {
+            "song": "Jam",
+            "order": 13,
+            "length": 272,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t04.mp3"
+        },
+        {
+            "song": "Estimated Prophet",
+            "order": 14,
+            "length": 672,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t05.mp3"
+        },
+        {
+            "song": "Eyes of the World",
+            "order": 15,
+            "length": 476,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t06.mp3"
+        },
+        {
+            "song": "Drums (tape flip)",
+            "order": 16,
+            "length": 274,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d2t07.mp3"
+        },
+        {
+            "song": "Drums",
+            "order": 17,
+            "length": 315,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t01.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t01.mp3"
+        },
+        {
+            "song": "Phil Solo",
+            "order": 18,
+            "length": 80,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t02.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t02.mp3"
+        },
+        {
+            "song": "Space",
+            "order": 19,
+            "length": 745,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t03.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t03.mp3"
+        },
+        {
+            "song": "Gimme Some Lovin'",
+            "order": 20,
+            "length": 276,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t04.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t04.mp3"
+        },
+        {
+            "song": "Stella Blue",
+            "order": 21,
+            "length": 495,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t05.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t05.mp3"
+        },
+        {
+            "song": "Throwing Stones",
+            "order": 22,
+            "length": 629,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t06.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t06.mp3"
+        },
+        {
+            "song": "Not Fade Away/ (tape flip)",
+            "order": 23,
+            "length": 275,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t07.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t07.mp3"
+        },
+        {
+            "song": "Not Fade Away",
+            "order": 24,
+            "length": 115,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t08.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t08.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 25,
+            "length": 269,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t09.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t09.mp3"
+        },
+        {
+            "song": "Black Muddy River",
+            "order": 26,
+            "length": 397,
+            "ogg": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t10.ogg",
+            "mp3": "https://archive.org/download/gd1988-10-02.beyerM88.russjcan.94479.flac16/gd1988.10.02.d3t10.mp3"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "title": "gd1986-12-15.137558.dts.tobin.flac16",
+    "venue": "Oakland-Alameda County Coliseum",
+    "year": 1986,
+    "month": 12,
+    "day": 15,
+    "songs": [
+        {
+            "song": "Touch Of Grey",
+            "order": 1,
+            "length": 521,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d1t01.mp3"
+        },
+        {
+            "song": "C C Rider",
+            "order": 2,
+            "length": 464,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d1t02.mp3"
+        },
+        {
+            "song": "When Push Comes To Shove",
+            "order": 3,
+            "length": 379,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d1t03.mp3"
+        },
+        {
+            "song": "Beat It On Down The Line ->",
+            "order": 4,
+            "length": 184,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d1t04.mp3"
+        },
+        {
+            "song": "Greatest Story Ever Told",
+            "order": 5,
+            "length": 293,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d1t05.mp3"
+        },
+        {
+            "song": "Loser",
+            "order": 6,
+            "length": 539,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d1t06.mp3"
+        },
+        {
+            "song": "Cassidy ->",
+            "order": 7,
+            "length": 319,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d1t07.mp3"
+        },
+        {
+            "song": "Althea",
+            "order": 8,
+            "length": 518,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d1t08.mp3"
+        },
+        {
+            "song": "My Brother Esau",
+            "order": 9,
+            "length": 318,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d1t09.mp3"
+        },
+        {
+            "song": "Candyman ->",
+            "order": 10,
+            "length": 392,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d1t10.mp3"
+        },
+        {
+            "song": "Let It Grow",
+            "order": 11,
+            "length": 635,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d1t11.mp3"
+        },
+        {
+            "song": "Iko Iko",
+            "order": 12,
+            "length": 330,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d2t01.mp3"
+        },
+        {
+            "song": "Looks Like Rain",
+            "order": 13,
+            "length": 527,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d2t02.mp3"
+        },
+        {
+            "song": "Black Muddy River",
+            "order": 14,
+            "length": 339,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d2t03.mp3"
+        },
+        {
+            "song": "Playing In The Band ->",
+            "order": 15,
+            "length": 549,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d2t04.mp3"
+        },
+        {
+            "song": "Terrapin Station ->",
+            "order": 16,
+            "length": 646,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d2t05.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 17,
+            "length": 603,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d2t06.mp3"
+        },
+        {
+            "song": "Space ->",
+            "order": 18,
+            "length": 647,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d3t01.mp3"
+        },
+        {
+            "song": "Truckin' ->",
+            "order": 19,
+            "length": 369,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d3t02.mp3"
+        },
+        {
+            "song": "Wharf Rat ->",
+            "order": 20,
+            "length": 507,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d3t03.mp3"
+        },
+        {
+            "song": "Playing In The Band ->",
+            "order": 21,
+            "length": 273,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d3t04.mp3"
+        },
+        {
+            "song": "Good Lovin'",
+            "order": 22,
+            "length": 510,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d3t05.mp3"
+        },
+        {
+            "song": "Johnny B. Goode",
+            "order": 23,
+            "length": 243,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1986-12-15.137558.dts.tobin.flac16/gd1986-12-15d3t06.mp3"
+        }
+    ]
+}

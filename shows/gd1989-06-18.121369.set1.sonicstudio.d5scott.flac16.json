@@ -1,0 +1,65 @@
+{
+    "title": "gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16",
+    "venue": "Shoreline Amphitheatre",
+    "year": 1989,
+    "month": 6,
+    "day": 18,
+    "songs": [
+        {
+            "song": "Foolish Heart",
+            "order": 1,
+            "length": 567,
+            "ogg": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t01.mp3"
+        },
+        {
+            "song": "Jack Straw",
+            "order": 2,
+            "length": 374,
+            "ogg": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t02.mp3"
+        },
+        {
+            "song": "Alabama Getaway",
+            "order": 3,
+            "length": 361,
+            "ogg": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t03.mp3"
+        },
+        {
+            "song": "Queen Jane",
+            "order": 4,
+            "length": 384,
+            "ogg": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t04.mp3"
+        },
+        {
+            "song": "Cold Rain & Snow",
+            "order": 5,
+            "length": 374,
+            "ogg": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t05.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 6,
+            "length": 530,
+            "ogg": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t06.mp3"
+        },
+        {
+            "song": "Hey Pocky Way",
+            "order": 7,
+            "length": 492,
+            "ogg": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t07.mp3"
+        },
+        {
+            "song": "Iko Iko",
+            "order": 8,
+            "length": 423,
+            "ogg": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1989-06-18.121369.set1.sonicstudio.d5scott.flac16/d1t08.mp3"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16",
+    "venue": "Ace's Studio",
+    "year": 1975,
+    "month": 4,
+    "day": 2,
+    "songs": [
+        {
+            "song": "The Walk (guitars, keys)",
+            "order": 1,
+            "length": 151,
+            "ogg": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t01.ogg",
+            "mp3": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t01.mp3"
+        },
+        {
+            "song": "Blue Noodle Soup (guitars, keys)",
+            "order": 2,
+            "length": 193,
+            "ogg": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t02.ogg",
+            "mp3": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t02.mp3"
+        },
+        {
+            "song": "Toast & Jam (full band jam, multiple takes)",
+            "order": 3,
+            "length": 389,
+            "ogg": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t03.ogg",
+            "mp3": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t03.mp3"
+        },
+        {
+            "song": "The Music Never Stopped (instrumental, multiple takes)",
+            "order": 4,
+            "length": 376,
+            "ogg": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t04.ogg",
+            "mp3": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t04.mp3"
+        },
+        {
+            "song": "tuning/noodling/jam",
+            "order": 5,
+            "length": 351,
+            "ogg": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t05.ogg",
+            "mp3": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t05.mp3"
+        },
+        {
+            "song": "jam (multiple takes)",
+            "order": 6,
+            "length": 299,
+            "ogg": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t06.ogg",
+            "mp3": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t06.mp3"
+        },
+        {
+            "song": "Help on the Way (instrumental, multiple takes)",
+            "order": 7,
+            "length": 414,
+            "ogg": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t07.ogg",
+            "mp3": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t07.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 8,
+            "length": 103,
+            "ogg": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t08.ogg",
+            "mp3": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t08.mp3"
+        },
+        {
+            "song": "Lazy Lightnin' (instrumental, multiple takes) (fades outs)",
+            "order": 9,
+            "length": 501,
+            "ogg": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t09.ogg",
+            "mp3": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t09.mp3"
+        },
+        {
+            "song": "Lazy Lightning (multiple takes)",
+            "order": 10,
+            "length": 290,
+            "ogg": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t10.ogg",
+            "mp3": "https://archive.org/download/gd1975-04-02.145775.sbd.pcm.dalton.miller.noel.flac16/gd75-04-02.t10.mp3"
+        }
+    ]
+}

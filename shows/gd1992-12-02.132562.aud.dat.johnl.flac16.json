@@ -1,0 +1,149 @@
+{
+    "title": "gd1992-12-02.132562.aud.dat.johnl.flac16",
+    "venue": "McNichols Sports Arena",
+    "year": 1992,
+    "month": 12,
+    "day": 2,
+    "songs": [
+        {
+            "song": "applause/tune up",
+            "order": 1,
+            "length": 72,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t01.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t01.mp3"
+        },
+        {
+            "song": "Feel Like A Stranger",
+            "order": 2,
+            "length": 457,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t02.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t02.mp3"
+        },
+        {
+            "song": "They Love Each Other",
+            "order": 3,
+            "length": 411,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t03.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t03.mp3"
+        },
+        {
+            "song": "The Same Thing",
+            "order": 4,
+            "length": 462,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t04.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t04.mp3"
+        },
+        {
+            "song": "Jack A Roe",
+            "order": 5,
+            "length": 284,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t05.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t05.mp3"
+        },
+        {
+            "song": "It's All Over Now",
+            "order": 6,
+            "length": 401,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t06.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t06.mp3"
+        },
+        {
+            "song": "So Many Roads",
+            "order": 7,
+            "length": 463,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t07.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t07.mp3"
+        },
+        {
+            "song": "Let It Grow",
+            "order": 8,
+            "length": 708,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t08.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds1t08.mp3"
+        },
+        {
+            "song": "Woody Woodpecker Theme/applause/tuneup/Finiculi Finicula",
+            "order": 9,
+            "length": 232,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t01.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t01.mp3"
+        },
+        {
+            "song": "China Cat Sunflower/I Know You Rider",
+            "order": 10,
+            "length": 718,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t02.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t02.mp3"
+        },
+        {
+            "song": "Way To Go Home",
+            "order": 11,
+            "length": 369,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t03.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t03.mp3"
+        },
+        {
+            "song": "Truckin' >",
+            "order": 12,
+            "length": 398,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t04.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t04.mp3"
+        },
+        {
+            "song": "He's Gone >",
+            "order": 13,
+            "length": 578,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t05.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t05.mp3"
+        },
+        {
+            "song": "drums >",
+            "order": 14,
+            "length": 807,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t06.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t06.mp3"
+        },
+        {
+            "song": "space >",
+            "order": 15,
+            "length": 629,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t07.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t07.mp3"
+        },
+        {
+            "song": "I Need A Miracle >",
+            "order": 16,
+            "length": 268,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t08.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t08.mp3"
+        },
+        {
+            "song": "Wharf Rat >",
+            "order": 17,
+            "length": 657,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t09.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t09.mp3"
+        },
+        {
+            "song": "Turn On Your Love Light",
+            "order": 18,
+            "length": 453,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t10.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t10.mp3"
+        },
+        {
+            "song": "applause",
+            "order": 19,
+            "length": 203,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t11.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t11.mp3"
+        },
+        {
+            "song": "Rain",
+            "order": 20,
+            "length": 351,
+            "ogg": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t12.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-02.132562.aud.dat.johnl.flac16/gd1992-12-02auds2t12.mp3"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "title": "gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648",
+    "venue": "Boston Garden",
+    "year": 1993,
+    "month": 9,
+    "day": 25,
+    "songs": [
+        {
+            "song": "t01 Crowd",
+            "order": 1,
+            "length": 63,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T01Crowd.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T01Crowd.mp3"
+        },
+        {
+            "song": "t02 Cold Rain & Snow",
+            "order": 2,
+            "length": 388,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T02ColdRainSnow.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T02ColdRainSnow.mp3"
+        },
+        {
+            "song": "t03 Wang Dang Doodle",
+            "order": 3,
+            "length": 386,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T03WangDangDoodle.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T03WangDangDoodle.mp3"
+        },
+        {
+            "song": "t04 Loser",
+            "order": 4,
+            "length": 448,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T04Loser.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T04Loser.mp3"
+        },
+        {
+            "song": "t05 It's All Over Now",
+            "order": 5,
+            "length": 439,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T05ItsAllOverNow.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T05ItsAllOverNow.mp3"
+        },
+        {
+            "song": "t06 Just Like Tom Thumb's Blues",
+            "order": 6,
+            "length": 366,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T06JustLikeTomThumbsBlues.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T06JustLikeTomThumbsBlues.mp3"
+        },
+        {
+            "song": "t07 Cassidy",
+            "order": 7,
+            "length": 436,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T07Cassidy.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T07Cassidy.mp3"
+        },
+        {
+            "song": "t08 Deal",
+            "order": 8,
+            "length": 535,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T08Deal.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S1T08Deal.mp3"
+        },
+        {
+            "song": "t01 Crowd",
+            "order": 9,
+            "length": 196,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T01Crowd.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T01Crowd.mp3"
+        },
+        {
+            "song": "t02 Foolish Heart",
+            "order": 10,
+            "length": 765,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T02FoolishHeart.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T02FoolishHeart.mp3"
+        },
+        {
+            "song": "t03 Box Of Rain",
+            "order": 11,
+            "length": 301,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T03BoxOfRain.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T03BoxOfRain.mp3"
+        },
+        {
+            "song": "t04 Crazy Fingers",
+            "order": 12,
+            "length": 518,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T04CrazyFingers.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T04CrazyFingers.mp3"
+        },
+        {
+            "song": "t05 Corrina",
+            "order": 13,
+            "length": 919,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T05Corrina.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T05Corrina.mp3"
+        },
+        {
+            "song": "t06 Drums",
+            "order": 14,
+            "length": 895,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T06Drums.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T06Drums.mp3"
+        },
+        {
+            "song": "t07 Space",
+            "order": 15,
+            "length": 702,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T07Space.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T07Space.mp3"
+        },
+        {
+            "song": "t08 The Wheel",
+            "order": 16,
+            "length": 315,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T08TheWheel.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T08TheWheel.mp3"
+        },
+        {
+            "song": "t09 All Along The Watchtower",
+            "order": 17,
+            "length": 416,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T09AllAlongTheWatchtower.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T09AllAlongTheWatchtower.mp3"
+        },
+        {
+            "song": "t10 Black Peter",
+            "order": 18,
+            "length": 527,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T10BlackPeter.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T10BlackPeter.mp3"
+        },
+        {
+            "song": "t11 One More Saturday Night",
+            "order": 19,
+            "length": 305,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T11OneMoreSaturdayNight.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T11OneMoreSaturdayNight.mp3"
+        },
+        {
+            "song": "t12 Encore Break",
+            "order": 20,
+            "length": 145,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T12EncoreBreak.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T12EncoreBreak.mp3"
+        },
+        {
+            "song": "t13 I Fought The Law",
+            "order": 21,
+            "length": 197,
+            "ogg": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T13IFoughtTheLaw.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.140092.schoeps.cmc4.mk4.gastwirt.miller.clugston.flac1648/Gd93-09-25S2T13IFoughtTheLaw.mp3"
+        }
+    ]
+}

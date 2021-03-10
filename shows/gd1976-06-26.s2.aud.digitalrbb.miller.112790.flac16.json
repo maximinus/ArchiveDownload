@@ -1,0 +1,86 @@
+{
+    "title": "gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16",
+    "venue": "Auditorium Theatre",
+    "year": 1976,
+    "month": 6,
+    "day": 26,
+    "songs": [
+        {
+            "song": "Tuning",
+            "order": 1,
+            "length": 37,
+            "ogg": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t01.mp3"
+        },
+        {
+            "song": "Playing In The Band ->",
+            "order": 2,
+            "length": 910,
+            "ogg": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t02.mp3"
+        },
+        {
+            "song": "Saint Stephen ->",
+            "order": 3,
+            "length": 592,
+            "ogg": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t03.mp3"
+        },
+        {
+            "song": "The Wheel ->",
+            "order": 4,
+            "length": 316,
+            "ogg": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t04.mp3"
+        },
+        {
+            "song": "Playing In The Band",
+            "order": 5,
+            "length": 358,
+            "ogg": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t05.mp3"
+        },
+        {
+            "song": "Samson And Delilah",
+            "order": 6,
+            "length": 409,
+            "ogg": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t06.mp3"
+        },
+        {
+            "song": "Crazy Fingers ->",
+            "order": 7,
+            "length": 410,
+            "ogg": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t07.mp3"
+        },
+        {
+            "song": "Stella Blue",
+            "order": 8,
+            "length": 790,
+            "ogg": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t08.mp3"
+        },
+        {
+            "song": "Around And Around ->",
+            "order": 9,
+            "length": 410,
+            "ogg": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t09.mp3"
+        },
+        {
+            "song": "One More Saturday Night",
+            "order": 10,
+            "length": 459,
+            "ogg": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t10.mp3"
+        },
+        {
+            "song": "U.S. Blues",
+            "order": 11,
+            "length": 342,
+            "ogg": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t11.ogg",
+            "mp3": "https://archive.org/download/gd1976-06-26.s2.aud.digitalrbb.miller.112790.flac16/gd76-06-26s2t11.mp3"
+        }
+    ]
+}

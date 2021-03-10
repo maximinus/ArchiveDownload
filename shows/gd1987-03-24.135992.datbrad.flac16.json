@@ -1,0 +1,156 @@
+{
+    "title": "gd1987-03-24.135992.datbrad.flac16",
+    "venue": "Hampton Coliseum",
+    "year": 1987,
+    "month": 3,
+    "day": 24,
+    "songs": [
+        {
+            "song": "Crowd intro >",
+            "order": 1,
+            "length": 156,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D101.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D101.mp3"
+        },
+        {
+            "song": "Jack Straw",
+            "order": 2,
+            "length": 398,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D102.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D102.mp3"
+        },
+        {
+            "song": "Candyman",
+            "order": 3,
+            "length": 425,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D103.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D103.mp3"
+        },
+        {
+            "song": "Minglewood Blues",
+            "order": 4,
+            "length": 459,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D104.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D104.mp3"
+        },
+        {
+            "song": "Loser",
+            "order": 5,
+            "length": 469,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D105.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D105.mp3"
+        },
+        {
+            "song": "Mam Tried ->",
+            "order": 6,
+            "length": 153,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D106.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D106.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 7,
+            "length": 292,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D107.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D107.mp3"
+        },
+        {
+            "song": "Bob Banter",
+            "order": 8,
+            "length": 19,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D108.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D108.mp3"
+        },
+        {
+            "song": "Ramble On Rose",
+            "order": 9,
+            "length": 391,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D109.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D109.mp3"
+        },
+        {
+            "song": "Let It Grow",
+            "order": 10,
+            "length": 660,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D110.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D110.mp3"
+        },
+        {
+            "song": "Crowd intro ->",
+            "order": 11,
+            "length": 79,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D201.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D201.mp3"
+        },
+        {
+            "song": "Gimme Some Lovin ->",
+            "order": 12,
+            "length": 310,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D202.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D202.mp3"
+        },
+        {
+            "song": "Black Muddy River ->",
+            "order": 13,
+            "length": 366,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D203.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D203.mp3"
+        },
+        {
+            "song": "Playing In The Band ->",
+            "order": 14,
+            "length": 500,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D204.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D204.mp3"
+        },
+        {
+            "song": "Terrapin Station ->",
+            "order": 15,
+            "length": 731,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D205.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D205.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 16,
+            "length": 441,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D206.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D206.mp3"
+        },
+        {
+            "song": "Space ->",
+            "order": 17,
+            "length": 309,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D207.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D207.mp3"
+        },
+        {
+            "song": "Dear Mr. Fantasy ->",
+            "order": 18,
+            "length": 327,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D208.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D208.mp3"
+        },
+        {
+            "song": "Wharf Rat ->",
+            "order": 19,
+            "length": 616,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D209.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D209.mp3"
+        },
+        {
+            "song": "Not Fade Away ->",
+            "order": 20,
+            "length": 457,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D210.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D210.mp3"
+        },
+        {
+            "song": "Brokedown Palace",
+            "order": 21,
+            "length": 396,
+            "ogg": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D211.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.135992.datbrad.flac16/GratefulDead3-24-87D211.mp3"
+        }
+    ]
+}

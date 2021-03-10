@@ -1,0 +1,51 @@
+{
+    "title": "gd1980-10-09.sbd-partial.stephens.32402.sbeok.shnf",
+    "venue": "Warfield Theater",
+    "year": 1980,
+    "month": 10,
+    "day": 9,
+    "songs": [
+        {
+            "song": "Feel Like A Stranger",
+            "order": 1,
+            "length": 608,
+            "ogg": "https://archive.org/download/gd1980-10-09.sbd-partial.stephens.32402.sbeok.shnf/gd80-10-09d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-09.sbd-partial.stephens.32402.sbeok.shnf/gd80-10-09d1t01.mp3"
+        },
+        {
+            "song": "Friend Of The Devil",
+            "order": 2,
+            "length": 590,
+            "ogg": "https://archive.org/download/gd1980-10-09.sbd-partial.stephens.32402.sbeok.shnf/gd80-10-09d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-09.sbd-partial.stephens.32402.sbeok.shnf/gd80-10-09d1t02.mp3"
+        },
+        {
+            "song": "Mama Tried > Mexicali Blues",
+            "order": 3,
+            "length": 421,
+            "ogg": "https://archive.org/download/gd1980-10-09.sbd-partial.stephens.32402.sbeok.shnf/gd80-10-09d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-09.sbd-partial.stephens.32402.sbeok.shnf/gd80-10-09d1t03.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 4,
+            "length": 410,
+            "ogg": "https://archive.org/download/gd1980-10-09.sbd-partial.stephens.32402.sbeok.shnf/gd80-10-09d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-09.sbd-partial.stephens.32402.sbeok.shnf/gd80-10-09d1t04.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 5,
+            "length": 530,
+            "ogg": "https://archive.org/download/gd1980-10-09.sbd-partial.stephens.32402.sbeok.shnf/gd80-10-09d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-09.sbd-partial.stephens.32402.sbeok.shnf/gd80-10-09d1t05.mp3"
+        },
+        {
+            "song": "Brown Eyed Women",
+            "order": 6,
+            "length": 307,
+            "ogg": "https://archive.org/download/gd1980-10-09.sbd-partial.stephens.32402.sbeok.shnf/gd80-10-09d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-09.sbd-partial.stephens.32402.sbeok.shnf/gd80-10-09d1t06.mp3"
+        }
+    ]
+}

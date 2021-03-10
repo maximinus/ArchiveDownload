@@ -1,0 +1,72 @@
+{
+    "title": "gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648",
+    "venue": "Madison Square Garden",
+    "year": 1990,
+    "month": 9,
+    "day": 16,
+    "songs": [
+        {
+            "song": "tuning",
+            "order": 1,
+            "length": 159,
+            "ogg": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t01.mp3"
+        },
+        {
+            "song": "Hell In A Bucket",
+            "order": 2,
+            "length": 432,
+            "ogg": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t02.mp3"
+        },
+        {
+            "song": "Cold Rain And Snow",
+            "order": 3,
+            "length": 410,
+            "ogg": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t03.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 4,
+            "length": 732,
+            "ogg": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t04.mp3"
+        },
+        {
+            "song": "Stagger Lee",
+            "order": 5,
+            "length": 521,
+            "ogg": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t05.mp3"
+        },
+        {
+            "song": "Queen Jane Approximately",
+            "order": 6,
+            "length": 523,
+            "ogg": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t06.mp3"
+        },
+        {
+            "song": "Tennessee Jed",
+            "order": 7,
+            "length": 663,
+            "ogg": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t07.mp3"
+        },
+        {
+            "song": "Cassidy",
+            "order": 8,
+            "length": 401,
+            "ogg": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t08.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t08.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 9,
+            "length": 595,
+            "ogg": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t09.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-16.144814.set1.nak300.cp4.dalton.miller.sirmick.flac1648/gd1990-09-16s1t09.mp3"
+        }
+    ]
+}

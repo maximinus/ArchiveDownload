@@ -1,0 +1,170 @@
+{
+    "title": "gd1987-07-06.142086.sbd.miller.flac2496",
+    "venue": "Civic Arena",
+    "year": 1987,
+    "month": 7,
+    "day": 6,
+    "songs": [
+        {
+            "song": "01 Tuning",
+            "order": 1,
+            "length": 123,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/01Tuning.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/01Tuning.mp3"
+        },
+        {
+            "song": "02 Feel Like A Stranger",
+            "order": 2,
+            "length": 442,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/02FeelLikeAStranger.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/02FeelLikeAStranger.mp3"
+        },
+        {
+            "song": "03 Franklin's Tower",
+            "order": 3,
+            "length": 513,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/03FranklinsTower.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/03FranklinsTower.mp3"
+        },
+        {
+            "song": "04 New Minglewood Blues",
+            "order": 4,
+            "length": 522,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/04NewMinglewoodBlues.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/04NewMinglewoodBlues.mp3"
+        },
+        {
+            "song": "05 Row Jimmy",
+            "order": 5,
+            "length": 606,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/05RowJimmy.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/05RowJimmy.mp3"
+        },
+        {
+            "song": "06 Mama Tried",
+            "order": 6,
+            "length": 156,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/06MamaTried.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/06MamaTried.mp3"
+        },
+        {
+            "song": "07 Big River",
+            "order": 7,
+            "length": 432,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/07BigRiver.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/07BigRiver.mp3"
+        },
+        {
+            "song": "08 Far From Me",
+            "order": 8,
+            "length": 369,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/08FarFromMe.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/08FarFromMe.mp3"
+        },
+        {
+            "song": "09 Stagger Lee",
+            "order": 9,
+            "length": 310,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/09StaggerLee.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/09StaggerLee.mp3"
+        },
+        {
+            "song": "10 Desolation Row",
+            "order": 10,
+            "length": 632,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/10DesolationRow.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/10DesolationRow.mp3"
+        },
+        {
+            "song": "11 Don't Ease Me In",
+            "order": 11,
+            "length": 224,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/11DontEaseMeIn.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/11DontEaseMeIn.mp3"
+        },
+        {
+            "song": "12 Tuning",
+            "order": 12,
+            "length": 52,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/12Tuning.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/12Tuning.mp3"
+        },
+        {
+            "song": "13 Shakedown Street",
+            "order": 13,
+            "length": 734,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/13ShakedownStreet.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/13ShakedownStreet.mp3"
+        },
+        {
+            "song": "14 Samson And Delilah",
+            "order": 14,
+            "length": 490,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/14SamsonAndDelilah.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/14SamsonAndDelilah.mp3"
+        },
+        {
+            "song": "15 Iko Iko",
+            "order": 15,
+            "length": 361,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/15IkoIko.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/15IkoIko.mp3"
+        },
+        {
+            "song": "16 Banana Boat Song (Day-O)",
+            "order": 16,
+            "length": 143,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/16BananaBoatSongday-o.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/16BananaBoatSongday-o.mp3"
+        },
+        {
+            "song": "17 Man Smart (Woman Smarter)",
+            "order": 17,
+            "length": 376,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/17ManSmartwomanSmarter.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/17ManSmartwomanSmarter.mp3"
+        },
+        {
+            "song": "18 Drums",
+            "order": 18,
+            "length": 515,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/18Drums.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/18Drums.mp3"
+        },
+        {
+            "song": "19 Space",
+            "order": 19,
+            "length": 516,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/19Space.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/19Space.mp3"
+        },
+        {
+            "song": "20 Knockin' On Heaven's Door",
+            "order": 20,
+            "length": 542,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/20KnockinOnHeavensDoor.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/20KnockinOnHeavensDoor.mp3"
+        },
+        {
+            "song": "21 Good Lovin'",
+            "order": 21,
+            "length": 466,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/21GoodLovin.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/21GoodLovin.mp3"
+        },
+        {
+            "song": "22 Encore Break",
+            "order": 22,
+            "length": 212,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/22EncoreBreak.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/22EncoreBreak.mp3"
+        },
+        {
+            "song": "23 Johnny B Goode",
+            "order": 23,
+            "length": 270,
+            "ogg": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/23JohnnyBGoode.ogg",
+            "mp3": "https://archive.org/download/gd1987-07-06.142086.sbd.miller.flac2496/23JohnnyBGoode.mp3"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "title": "gd1982-12-31.118487.set3.sbd.chasingwilma.flac16",
+    "venue": "Oakland Auditorium Arena",
+    "year": 1982,
+    "month": 12,
+    "day": 31,
+    "songs": [
+        {
+            "song": "turn on your lovelight",
+            "order": 1,
+            "length": 324,
+            "ogg": "https://archive.org/download/gd1982-12-31.118487.set3.sbd.chasingwilma.flac16/gd1982-12-31s03t01.ogg",
+            "mp3": "https://archive.org/download/gd1982-12-31.118487.set3.sbd.chasingwilma.flac16/gd1982-12-31s03t01.mp3"
+        },
+        {
+            "song": "tell momma",
+            "order": 2,
+            "length": 253,
+            "ogg": "https://archive.org/download/gd1982-12-31.118487.set3.sbd.chasingwilma.flac16/gd1982-12-31s03t02.ogg",
+            "mp3": "https://archive.org/download/gd1982-12-31.118487.set3.sbd.chasingwilma.flac16/gd1982-12-31s03t02.mp3"
+        },
+        {
+            "song": "baby what you want me to do",
+            "order": 3,
+            "length": 445,
+            "ogg": "https://archive.org/download/gd1982-12-31.118487.set3.sbd.chasingwilma.flac16/gd1982-12-31s03t03.ogg",
+            "mp3": "https://archive.org/download/gd1982-12-31.118487.set3.sbd.chasingwilma.flac16/gd1982-12-31s03t03.mp3"
+        },
+        {
+            "song": "hard to handle",
+            "order": 4,
+            "length": 304,
+            "ogg": "https://archive.org/download/gd1982-12-31.118487.set3.sbd.chasingwilma.flac16/gd1982-12-31s03t04.ogg",
+            "mp3": "https://archive.org/download/gd1982-12-31.118487.set3.sbd.chasingwilma.flac16/gd1982-12-31s03t04.mp3"
+        },
+        {
+            "song": "midnite hour",
+            "order": 5,
+            "length": 276,
+            "ogg": "https://archive.org/download/gd1982-12-31.118487.set3.sbd.chasingwilma.flac16/gd1982-12-31s03t05.ogg",
+            "mp3": "https://archive.org/download/gd1982-12-31.118487.set3.sbd.chasingwilma.flac16/gd1982-12-31s03t05.mp3"
+        }
+    ]
+}

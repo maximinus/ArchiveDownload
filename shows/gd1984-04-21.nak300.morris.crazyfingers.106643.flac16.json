@@ -1,0 +1,184 @@
+{
+    "title": "gd1984-04-21.nak300.morris.crazyfingers.106643.flac16",
+    "venue": "Philadelphia Civic Center",
+    "year": 1984,
+    "month": 4,
+    "day": 21,
+    "songs": [
+        {
+            "song": "tuning",
+            "order": 1,
+            "length": 26,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t01.mp3"
+        },
+        {
+            "song": "Alabama Getaway ->",
+            "order": 2,
+            "length": 281,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t02.mp3"
+        },
+        {
+            "song": "The Promised Land",
+            "order": 3,
+            "length": 297,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t03.mp3"
+        },
+        {
+            "song": "Friend of the Devil",
+            "order": 4,
+            "length": 533,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t04.mp3"
+        },
+        {
+            "song": "Me & My Uncle ->",
+            "order": 5,
+            "length": 194,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t05.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 6,
+            "length": 305,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t06.mp3"
+        },
+        {
+            "song": "West L.A. Fadeaway",
+            "order": 7,
+            "length": 471,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t07.mp3"
+        },
+        {
+            "song": "New Minglewood Blues",
+            "order": 8,
+            "length": 504,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t08.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 9,
+            "length": 36,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t09.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t09.mp3"
+        },
+        {
+            "song": "Tennessee Jed ->",
+            "order": 10,
+            "length": 478,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t10.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t10.mp3"
+        },
+        {
+            "song": "Looks Like Rain ->",
+            "order": 11,
+            "length": 460,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t11.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t11.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 12,
+            "length": 503,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t12.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d1t12.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 13,
+            "length": 32,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t01.mp3"
+        },
+        {
+            "song": "Help on the Way ->",
+            "order": 14,
+            "length": 302,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t02.mp3"
+        },
+        {
+            "song": "Slipknot! ->",
+            "order": 15,
+            "length": 434,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t03.mp3"
+        },
+        {
+            "song": "Franklin's Tower ->",
+            "order": 16,
+            "length": 760,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t04.mp3"
+        },
+        {
+            "song": "Playing in the Band ->",
+            "order": 17,
+            "length": 700,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t05.mp3"
+        },
+        {
+            "song": "China Doll ->",
+            "order": 18,
+            "length": 364,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t06.mp3"
+        },
+        {
+            "song": "I Don't Need Love ->",
+            "order": 19,
+            "length": 320,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t07.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 20,
+            "length": 599,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t08.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d2t08.mp3"
+        },
+        {
+            "song": "Space ->",
+            "order": 21,
+            "length": 604,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d3t01.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d3t01.mp3"
+        },
+        {
+            "song": "Wharf Rat ->",
+            "order": 22,
+            "length": 623,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d3t02.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d3t02.mp3"
+        },
+        {
+            "song": "Throwin' Stones ->",
+            "order": 23,
+            "length": 538,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d3t03.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d3t03.mp3"
+        },
+        {
+            "song": "Not Fade Away",
+            "order": 24,
+            "length": 457,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d3t04.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d3t04.mp3"
+        },
+        {
+            "song": "Brokedown Palace",
+            "order": 25,
+            "length": 318,
+            "ogg": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d3t05.ogg",
+            "mp3": "https://archive.org/download/gd1984-04-21.nak300.morris.crazyfingers.106643.flac16/gd84-04-21d3t05.mp3"
+        }
+    ]
+}

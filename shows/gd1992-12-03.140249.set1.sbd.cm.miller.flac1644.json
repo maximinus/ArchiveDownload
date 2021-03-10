@@ -1,0 +1,58 @@
+{
+    "title": "gd1992-12-03.140249.set1.sbd.cm.miller.flac1644",
+    "venue": "McNichols Sports Arena",
+    "year": 1992,
+    "month": 12,
+    "day": 3,
+    "songs": [
+        {
+            "song": "01 Touch Of Grey",
+            "order": 1,
+            "length": 443,
+            "ogg": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/01TouchOfGrey.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/01TouchOfGrey.mp3"
+        },
+        {
+            "song": "02 Little Red Rooster",
+            "order": 2,
+            "length": 508,
+            "ogg": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/02LittleRedRooster.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/02LittleRedRooster.mp3"
+        },
+        {
+            "song": "03 Peggy-O",
+            "order": 3,
+            "length": 401,
+            "ogg": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/03Peggy-o.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/03Peggy-o.mp3"
+        },
+        {
+            "song": "04 Queen Jane Approximately",
+            "order": 4,
+            "length": 373,
+            "ogg": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/04QueenJaneApproximately.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/04QueenJaneApproximately.mp3"
+        },
+        {
+            "song": "05 Tennessee Jed",
+            "order": 5,
+            "length": 517,
+            "ogg": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/05TennesseeJed.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/05TennesseeJed.mp3"
+        },
+        {
+            "song": "06 Cassidy",
+            "order": 6,
+            "length": 390,
+            "ogg": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/06Cassidy.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/06Cassidy.mp3"
+        },
+        {
+            "song": "07 Don't Ease Me In",
+            "order": 7,
+            "length": 199,
+            "ogg": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/07DontEaseMeIn.ogg",
+            "mp3": "https://archive.org/download/gd1992-12-03.140249.set1.sbd.cm.miller.flac1644/07DontEaseMeIn.mp3"
+        }
+    ]
+}

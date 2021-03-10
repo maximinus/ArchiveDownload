@@ -1,0 +1,51 @@
+{
+    "title": "gd1980-08-20.140367.set2p.aud.flac1644",
+    "venue": "Uptown Theater",
+    "year": 1980,
+    "month": 8,
+    "day": 20,
+    "songs": [
+        {
+            "song": "01-Terrapin Station",
+            "order": 1,
+            "length": 807,
+            "ogg": "https://archive.org/download/gd1980-08-20.140367.set2p.aud.flac1644/01-terrapinStation.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-20.140367.set2p.aud.flac1644/01-terrapinStation.mp3"
+        },
+        {
+            "song": "Drums/Space",
+            "order": 2,
+            "length": 983,
+            "ogg": "https://archive.org/download/gd1980-08-20.140367.set2p.aud.flac1644/02-Drums-Space.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-20.140367.set2p.aud.flac1644/02-Drums-Space.mp3"
+        },
+        {
+            "song": "03-Not Fade Away",
+            "order": 3,
+            "length": 404,
+            "ogg": "https://archive.org/download/gd1980-08-20.140367.set2p.aud.flac1644/03-notFadeAway.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-20.140367.set2p.aud.flac1644/03-notFadeAway.mp3"
+        },
+        {
+            "song": "04-Morning Dew",
+            "order": 4,
+            "length": 695,
+            "ogg": "https://archive.org/download/gd1980-08-20.140367.set2p.aud.flac1644/04-morningDew.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-20.140367.set2p.aud.flac1644/04-morningDew.mp3"
+        },
+        {
+            "song": "05-Good Lovin",
+            "order": 5,
+            "length": 477,
+            "ogg": "https://archive.org/download/gd1980-08-20.140367.set2p.aud.flac1644/05-goodLovin.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-20.140367.set2p.aud.flac1644/05-goodLovin.mp3"
+        },
+        {
+            "song": "06-US Blues",
+            "order": 6,
+            "length": 322,
+            "ogg": "https://archive.org/download/gd1980-08-20.140367.set2p.aud.flac1644/06-usBlues.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-20.140367.set2p.aud.flac1644/06-usBlues.mp3"
+        }
+    ]
+}

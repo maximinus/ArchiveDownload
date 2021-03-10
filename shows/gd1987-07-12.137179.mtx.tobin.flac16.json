@@ -1,0 +1,254 @@
+{
+    "title": "gd1987-07-12.137179.mtx.tobin.flac16",
+    "venue": "Giants Stadium",
+    "year": 1987,
+    "month": 7,
+    "day": 12,
+    "songs": [
+        {
+            "song": "Hell In A Bucket",
+            "order": 1,
+            "length": 362,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d1t01.mp3"
+        },
+        {
+            "song": "West L.A. Fadeaway",
+            "order": 2,
+            "length": 534,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d1t02.mp3"
+        },
+        {
+            "song": "Greatest Story Ever Told",
+            "order": 3,
+            "length": 264,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d1t03.mp3"
+        },
+        {
+            "song": "Loser",
+            "order": 4,
+            "length": 470,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d1t04.mp3"
+        },
+        {
+            "song": "Tons Of Steel",
+            "order": 5,
+            "length": 419,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d1t05.mp3"
+        },
+        {
+            "song": "Ramble On Rose",
+            "order": 6,
+            "length": 490,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d1t06.mp3"
+        },
+        {
+            "song": "When I Paint My Masterpiece",
+            "order": 7,
+            "length": 312,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d1t07.mp3"
+        },
+        {
+            "song": "When Push Comes To Shove",
+            "order": 8,
+            "length": 338,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d1t08.mp3"
+        },
+        {
+            "song": "The Promised Land ->",
+            "order": 9,
+            "length": 231,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d1t09.mp3"
+        },
+        {
+            "song": "Bertha",
+            "order": 10,
+            "length": 435,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d1t10.mp3"
+        },
+        {
+            "song": "Take A Step Back",
+            "order": 11,
+            "length": 103,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d2t01.mp3"
+        },
+        {
+            "song": "Morning Dew ->",
+            "order": 12,
+            "length": 556,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d2t02.mp3"
+        },
+        {
+            "song": "Playing In The Band ->",
+            "order": 13,
+            "length": 546,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d2t03.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 14,
+            "length": 451,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d2t04.mp3"
+        },
+        {
+            "song": "Space ->",
+            "order": 15,
+            "length": 188,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d2t05.mp3"
+        },
+        {
+            "song": "The Other One ->",
+            "order": 16,
+            "length": 390,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d2t06.mp3"
+        },
+        {
+            "song": "Stella Blue ->",
+            "order": 17,
+            "length": 455,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d2t07.mp3"
+        },
+        {
+            "song": "Throwing Stones ->",
+            "order": 18,
+            "length": 551,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d2t08.mp3"
+        },
+        {
+            "song": "Not Fade Away",
+            "order": 19,
+            "length": 406,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d2t09.mp3"
+        },
+        {
+            "song": "Tuning",
+            "order": 20,
+            "length": 375,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d2t10.mp3"
+        },
+        {
+            "song": "Slow Train",
+            "order": 21,
+            "length": 393,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d2t11.mp3"
+        },
+        {
+            "song": "Stuck Inside Of Mobile With The Memphis Blues Again",
+            "order": 22,
+            "length": 76,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t01.mp3"
+        },
+        {
+            "song": "Tomorrow Is A Long Time",
+            "order": 23,
+            "length": 255,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t02.mp3"
+        },
+        {
+            "song": "Highway 61 Revisited",
+            "order": 24,
+            "length": 413,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t03.mp3"
+        },
+        {
+            "song": "It's All Over Now, Baby Blue",
+            "order": 25,
+            "length": 317,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t04.mp3"
+        },
+        {
+            "song": "Ballad Of A Thin Man",
+            "order": 26,
+            "length": 324,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t05.mp3"
+        },
+        {
+            "song": "John Brown",
+            "order": 27,
+            "length": 381,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t06.mp3"
+        },
+        {
+            "song": "The Wicked Messenger",
+            "order": 28,
+            "length": 312,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t07.mp3"
+        },
+        {
+            "song": "Queen Jane Approximately",
+            "order": 29,
+            "length": 391,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t08.mp3"
+        },
+        {
+            "song": "Chimes Of Freedom",
+            "order": 30,
+            "length": 231,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t09.mp3"
+        },
+        {
+            "song": "Joey",
+            "order": 31,
+            "length": 285,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t10.mp3"
+        },
+        {
+            "song": "All Along The Watchtower",
+            "order": 32,
+            "length": 499,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t11.mp3"
+        },
+        {
+            "song": "The Times They Are A-Changin'",
+            "order": 33,
+            "length": 570,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t12.mp3"
+        },
+        {
+            "song": "Touch Of Grey ->",
+            "order": 34,
+            "length": 309,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t13.mp3"
+        },
+        {
+            "song": "Knockin' On Heaven's Door",
+            "order": 35,
+            "length": 478,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-12.137179.mtx.tobin.flac16/gd1987-07-12d3t14.mp3"
+        }
+    ]
+}

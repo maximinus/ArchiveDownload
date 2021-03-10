@@ -1,0 +1,170 @@
+{
+    "title": "gd1987-10-02.pzm.russjcan.94115.sbeok.flac16",
+    "venue": "Shoreline Amphitheatre",
+    "year": 1987,
+    "month": 10,
+    "day": 2,
+    "songs": [
+        {
+            "song": "Little Red Rooster",
+            "order": 1,
+            "length": 133,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t01.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 2,
+            "length": 13,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t02.mp3"
+        },
+        {
+            "song": "Stagger Lee",
+            "order": 3,
+            "length": 408,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t03.mp3"
+        },
+        {
+            "song": "Me and My Uncle",
+            "order": 4,
+            "length": 184,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t04.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 5,
+            "length": 356,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t05.mp3"
+        },
+        {
+            "song": "Row Jimmy",
+            "order": 6,
+            "length": 641,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t06.mp3"
+        },
+        {
+            "song": "Far From Me",
+            "order": 7,
+            "length": 274,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t07.mp3"
+        },
+        {
+            "song": "Let It Grow",
+            "order": 8,
+            "length": 780,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d1t08.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 9,
+            "length": 31,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t01.mp3"
+        },
+        {
+            "song": "China Cat Sunflower >",
+            "order": 10,
+            "length": 199,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t02.mp3"
+        },
+        {
+            "song": "I Know you Rider",
+            "order": 11,
+            "length": 474,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t03.mp3"
+        },
+        {
+            "song": "Man Smart (Woman Smarter)",
+            "order": 12,
+            "length": 481,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t04.mp3"
+        },
+        {
+            "song": "Ship of Fools",
+            "order": 13,
+            "length": 475,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t05.mp3"
+        },
+        {
+            "song": "Truckin' >",
+            "order": 14,
+            "length": 568,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t06.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 15,
+            "length": 216,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t07.mp3"
+        },
+        {
+            "song": "Drums > Space (tape flip)",
+            "order": 16,
+            "length": 275,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t08.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t08.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 17,
+            "length": 447,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t09.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t09.mp3"
+        },
+        {
+            "song": "The Wheel >",
+            "order": 18,
+            "length": 294,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t10.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t10.mp3"
+        },
+        {
+            "song": "Gimme Some Lovin' >",
+            "order": 19,
+            "length": 295,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t11.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t11.mp3"
+        },
+        {
+            "song": "All Along The Watchtower",
+            "order": 20,
+            "length": 374,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t12.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t12.mp3"
+        },
+        {
+            "song": "Don't Ease Me In",
+            "order": 21,
+            "length": 213,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t13.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t13.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 22,
+            "length": 11,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t14.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t14.mp3"
+        },
+        {
+            "song": "Black Muddy River",
+            "order": 23,
+            "length": 371,
+            "ogg": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t15.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-02.pzm.russjcan.94115.sbeok.flac16/gd1987.10.02.d2t15.mp3"
+        }
+    ]
+}

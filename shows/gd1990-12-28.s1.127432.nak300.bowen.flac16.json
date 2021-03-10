@@ -1,0 +1,65 @@
+{
+    "title": "gd1990-12-28.s1.127432.nak300.bowen.flac16",
+    "venue": "Oakland Coliseum Arena",
+    "year": 1990,
+    "month": 12,
+    "day": 28,
+    "songs": [
+        {
+            "song": "Tuning >",
+            "order": 1,
+            "length": 75,
+            "ogg": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t01.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t01.mp3"
+        },
+        {
+            "song": "Cold Rain & Snow",
+            "order": 2,
+            "length": 411,
+            "ogg": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t02.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t02.mp3"
+        },
+        {
+            "song": "Walkin' Blues",
+            "order": 3,
+            "length": 490,
+            "ogg": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t03.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t03.mp3"
+        },
+        {
+            "song": "Friend Of The Devil",
+            "order": 4,
+            "length": 675,
+            "ogg": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t04.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t04.mp3"
+        },
+        {
+            "song": "It's All Over Now",
+            "order": 5,
+            "length": 559,
+            "ogg": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t05.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t05.mp3"
+        },
+        {
+            "song": "Brown Eyed Women",
+            "order": 6,
+            "length": 390,
+            "ogg": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t06.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t06.mp3"
+        },
+        {
+            "song": "Victim Or The Crime >",
+            "order": 7,
+            "length": 585,
+            "ogg": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t07.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t07.mp3"
+        },
+        {
+            "song": "Foolish Heart",
+            "order": 8,
+            "length": 680,
+            "ogg": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t08.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-28.s1.127432.nak300.bowen.flac16/gd1990-12-28t08.mp3"
+        }
+    ]
+}

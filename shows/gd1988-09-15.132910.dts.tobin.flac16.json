@@ -1,0 +1,135 @@
+{
+    "title": "gd1988-09-15.132910.dts.tobin.flac16",
+    "venue": "Madison Square Garden",
+    "year": 1988,
+    "month": 9,
+    "day": 15,
+    "songs": [
+        {
+            "song": "Hell In A Bucket",
+            "order": 1,
+            "length": 365,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d1t01.mp3"
+        },
+        {
+            "song": "Sugaree",
+            "order": 2,
+            "length": 756,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d1t02.mp3"
+        },
+        {
+            "song": "Desolation Row",
+            "order": 3,
+            "length": 753,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d1t03.mp3"
+        },
+        {
+            "song": "Row Jimmy",
+            "order": 4,
+            "length": 652,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d1t04.mp3"
+        },
+        {
+            "song": "Cassidy",
+            "order": 5,
+            "length": 386,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d1t05.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 6,
+            "length": 499,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d1t06.mp3"
+        },
+        {
+            "song": "Samson & Delilah",
+            "order": 7,
+            "length": 478,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d2t01.mp3"
+        },
+        {
+            "song": "Crazy Fingers >",
+            "order": 8,
+            "length": 516,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d2t02.mp3"
+        },
+        {
+            "song": "Playin' In The Band >",
+            "order": 9,
+            "length": 392,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d2t03.mp3"
+        },
+        {
+            "song": "Uncle John's Band >",
+            "order": 10,
+            "length": 537,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d2t04.mp3"
+        },
+        {
+            "song": "Playin' Reprise >",
+            "order": 11,
+            "length": 167,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d2t05.mp3"
+        },
+        {
+            "song": "Drumz >",
+            "order": 12,
+            "length": 485,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d2t06.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 13,
+            "length": 354,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d2t07.mp3"
+        },
+        {
+            "song": "I Will Take You Home >",
+            "order": 14,
+            "length": 228,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d2t08.mp3"
+        },
+        {
+            "song": "All Along The Watchtower >",
+            "order": 15,
+            "length": 312,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d2t09.mp3"
+        },
+        {
+            "song": "Goin' Down The Road Feelin' Bad >",
+            "order": 16,
+            "length": 357,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d2t10.mp3"
+        },
+        {
+            "song": "Lovelight",
+            "order": 17,
+            "length": 507,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d2t11.mp3"
+        },
+        {
+            "song": "U.S. Blues",
+            "order": 18,
+            "length": 322,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1988-09-15.132910.dts.tobin.flac16/gd1988-09-15d2t12.mp3"
+        }
+    ]
+}

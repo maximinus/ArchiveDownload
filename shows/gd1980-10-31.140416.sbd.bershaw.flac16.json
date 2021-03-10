@@ -1,0 +1,527 @@
+{
+    "title": "gd1980-10-31.140416.sbd.bershaw.flac16",
+    "venue": "Radio City Music Hall",
+    "year": 1980,
+    "month": 10,
+    "day": 31,
+    "songs": [
+        {
+            "song": "crowd noise",
+            "order": 1,
+            "length": 47,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t01.mp3"
+        },
+        {
+            "song": "Frankin & Davis preshow",
+            "order": 2,
+            "length": 394,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t02.mp3"
+        },
+        {
+            "song": "Brent Intros ",
+            "order": 3,
+            "length": 27,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t03.mp3"
+        },
+        {
+            "song": "Frankin & Davis intro",
+            "order": 4,
+            "length": 124,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t04.mp3"
+        },
+        {
+            "song": "tuning & banter",
+            "order": 5,
+            "length": 269,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t05.mp3"
+        },
+        {
+            "song": "Heaven Help The Fool",
+            "order": 6,
+            "length": 360,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t06.mp3"
+        },
+        {
+            "song": "tuning & banter",
+            "order": 7,
+            "length": 146,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t07.mp3"
+        },
+        {
+            "song": "Sage And Spirit",
+            "order": 8,
+            "length": 164,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t08.mp3"
+        },
+        {
+            "song": "Little Sadie",
+            "order": 9,
+            "length": 163,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t09.mp3"
+        },
+        {
+            "song": "tuning & banter",
+            "order": 10,
+            "length": 44,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t10.mp3"
+        },
+        {
+            "song": "The Monkey And The Engineer",
+            "order": 11,
+            "length": 148,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t11.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t11.mp3"
+        },
+        {
+            "song": "tuning & banter",
+            "order": 12,
+            "length": 53,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t12.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t12.mp3"
+        },
+        {
+            "song": "It Mustve Been The Roses",
+            "order": 13,
+            "length": 387,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t13.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t13.mp3"
+        },
+        {
+            "song": "tuning & banter",
+            "order": 14,
+            "length": 53,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t14.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t14.mp3"
+        },
+        {
+            "song": "Cassidy",
+            "order": 15,
+            "length": 344,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t15.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t15.mp3"
+        },
+        {
+            "song": "tuning & banter",
+            "order": 16,
+            "length": 106,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t16.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t16.mp3"
+        },
+        {
+            "song": "Bird Song ->",
+            "order": 17,
+            "length": 571,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t17.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t17.mp3"
+        },
+        {
+            "song": "Ripple",
+            "order": 18,
+            "length": 281,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t18.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t18.mp3"
+        },
+        {
+            "song": "ambiance",
+            "order": 19,
+            "length": 121,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t19.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t19.mp3"
+        },
+        {
+            "song": "Jerry\u2019s Kids Telethon",
+            "order": 20,
+            "length": 103,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t20.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t20.mp3"
+        },
+        {
+            "song": "Jerry Garcia Interview",
+            "order": 21,
+            "length": 57,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t21.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t21.mp3"
+        },
+        {
+            "song": "Steve Parrish Interview #1",
+            "order": 22,
+            "length": 120,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t22.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t22.mp3"
+        },
+        {
+            "song": "Are You Too High",
+            "order": 23,
+            "length": 89,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t23.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t23.mp3"
+        },
+        {
+            "song": "Hassles In Hempstead",
+            "order": 24,
+            "length": 68,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t24.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t24.mp3"
+        },
+        {
+            "song": "Drummers Interview",
+            "order": 25,
+            "length": 136,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t25.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t25.mp3"
+        },
+        {
+            "song": "Bathroom Navigation",
+            "order": 26,
+            "length": 77,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t26.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t26.mp3"
+        },
+        {
+            "song": "Drug Warning #1",
+            "order": 27,
+            "length": 32,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t27.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t27.mp3"
+        },
+        {
+            "song": "Jerry's Kids Update",
+            "order": 28,
+            "length": 71,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t28.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t28.mp3"
+        },
+        {
+            "song": "Deadheads",
+            "order": 29,
+            "length": 64,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t29.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t29.mp3"
+        },
+        {
+            "song": "Dr. Henry Kissinger",
+            "order": 30,
+            "length": 162,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t30.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t30.mp3"
+        },
+        {
+            "song": "Jerry's Kids Update",
+            "order": 31,
+            "length": 26,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t31.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t31.mp3"
+        },
+        {
+            "song": "Sharon Interview",
+            "order": 32,
+            "length": 52,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t32.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t32.mp3"
+        },
+        {
+            "song": "Bob Weir Interview",
+            "order": 33,
+            "length": 187,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t33.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t33.mp3"
+        },
+        {
+            "song": "Brunswick Check Presentation",
+            "order": 34,
+            "length": 143,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t34.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s1t34.mp3"
+        },
+        {
+            "song": "tuning & banter",
+            "order": 35,
+            "length": 216,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t01.mp3"
+        },
+        {
+            "song": "Jack Straw",
+            "order": 36,
+            "length": 371,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t02.mp3"
+        },
+        {
+            "song": "Cold Rain And Snow",
+            "order": 37,
+            "length": 374,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t03.mp3"
+        },
+        {
+            "song": "tuning & banter",
+            "order": 38,
+            "length": 111,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t04.mp3"
+        },
+        {
+            "song": "Me And My Uncle ->",
+            "order": 39,
+            "length": 178,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t05.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 40,
+            "length": 263,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t06.mp3"
+        },
+        {
+            "song": "tuning & banter",
+            "order": 41,
+            "length": 81,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t07.mp3"
+        },
+        {
+            "song": "Ramble On Rose ->",
+            "order": 42,
+            "length": 472,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t08.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 43,
+            "length": 613,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t09.mp3"
+        },
+        {
+            "song": "tuning & banter",
+            "order": 44,
+            "length": 106,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t10.mp3"
+        },
+        {
+            "song": "Brown Eyed Women ->",
+            "order": 45,
+            "length": 311,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t11.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t11.mp3"
+        },
+        {
+            "song": "Looks Like Rain ->",
+            "order": 46,
+            "length": 413,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t12.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t12.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 47,
+            "length": 379,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t13.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t13.mp3"
+        },
+        {
+            "song": "Break Announcement",
+            "order": 48,
+            "length": 36,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t14.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t14.mp3"
+        },
+        {
+            "song": "Jerry's Kids Update/Missing Finger",
+            "order": 49,
+            "length": 71,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t15.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t15.mp3"
+        },
+        {
+            "song": "Trivia Question",
+            "order": 50,
+            "length": 56,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t16.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t16.mp3"
+        },
+        {
+            "song": "Steve Parrish Interview #2",
+            "order": 51,
+            "length": 133,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t17.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t17.mp3"
+        },
+        {
+            "song": "Phil Lesh Interview",
+            "order": 52,
+            "length": 145,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t18.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t18.mp3"
+        },
+        {
+            "song": "Trivia Question",
+            "order": 53,
+            "length": 82,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t19.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t19.mp3"
+        },
+        {
+            "song": "Brent Mydland Interview",
+            "order": 54,
+            "length": 120,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t20.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t20.mp3"
+        },
+        {
+            "song": "Trivia Question",
+            "order": 55,
+            "length": 125,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t21.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t21.mp3"
+        },
+        {
+            "song": "Jerry's Kids Update",
+            "order": 56,
+            "length": 86,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t22.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t22.mp3"
+        },
+        {
+            "song": "Drug Warning #2",
+            "order": 57,
+            "length": 158,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t23.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t23.mp3"
+        },
+        {
+            "song": "More Brunswick & Tripping Tom",
+            "order": 58,
+            "length": 174,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t24.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s2t24.mp3"
+        },
+        {
+            "song": "tuning and banter",
+            "order": 59,
+            "length": 735,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t01.mp3"
+        },
+        {
+            "song": "Don't Ease Me In ->",
+            "order": 60,
+            "length": 216,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t02.mp3"
+        },
+        {
+            "song": "Lost Sailor ->",
+            "order": 61,
+            "length": 366,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t03.mp3"
+        },
+        {
+            "song": "Saint Of Circumstance ->",
+            "order": 62,
+            "length": 391,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t04.mp3"
+        },
+        {
+            "song": "Franklin's Tower ->",
+            "order": 63,
+            "length": 541,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t05.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 64,
+            "length": 736,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t06.mp3"
+        },
+        {
+            "song": "Space ->",
+            "order": 65,
+            "length": 253,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t07.mp3"
+        },
+        {
+            "song": "Fire On The Mountain ->",
+            "order": 66,
+            "length": 618,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t08.mp3"
+        },
+        {
+            "song": "Not Fade Away ->",
+            "order": 67,
+            "length": 384,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t09.mp3"
+        },
+        {
+            "song": "Stella Blue ->",
+            "order": 68,
+            "length": 589,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t10.mp3"
+        },
+        {
+            "song": "Going Down The Road Felling Bad ->",
+            "order": 69,
+            "length": 374,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t11.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t11.mp3"
+        },
+        {
+            "song": "Good Lovin'",
+            "order": 70,
+            "length": 398,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t12.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t12.mp3"
+        },
+        {
+            "song": "encore applause & banter",
+            "order": 71,
+            "length": 360,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t13.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t13.mp3"
+        },
+        {
+            "song": "Uncle John's Band",
+            "order": 72,
+            "length": 485,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t14.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t14.mp3"
+        },
+        {
+            "song": "applause",
+            "order": 73,
+            "length": 47,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t15.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t15.mp3"
+        },
+        {
+            "song": "Frankin & Davis outro & crowd",
+            "order": 74,
+            "length": 195,
+            "ogg": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t16.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-31.140416.sbd.bershaw.flac16/gd1980-10-31.sbd.bershaw.s3t16.mp3"
+        }
+    ]
+}

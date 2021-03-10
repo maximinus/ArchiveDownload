@@ -1,0 +1,135 @@
+{
+    "title": "gd1983-10-08.123722.flac16",
+    "venue": "Richmond Coliseum",
+    "year": 1983,
+    "month": 10,
+    "day": 8,
+    "songs": [
+        {
+            "song": "Feel Like a Stranger",
+            "order": 1,
+            "length": 475,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/01.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/01.mp3"
+        },
+        {
+            "song": "Friend of the Devil",
+            "order": 2,
+            "length": 567,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/02.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/02.mp3"
+        },
+        {
+            "song": "Minglewood",
+            "order": 3,
+            "length": 528,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/03.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/03.mp3"
+        },
+        {
+            "song": "Brown Eyed Woman",
+            "order": 4,
+            "length": 354,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/04.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/04.mp3"
+        },
+        {
+            "song": "Cassidy",
+            "order": 5,
+            "length": 332,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/05.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/05.mp3"
+        },
+        {
+            "song": "West LA Fadeaway",
+            "order": 6,
+            "length": 600,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/06.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/06.mp3"
+        },
+        {
+            "song": "Hell in a Bucket",
+            "order": 7,
+            "length": 367,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/07.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/07.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 8,
+            "length": 514,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/08.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/08.mp3"
+        },
+        {
+            "song": "Day Job",
+            "order": 9,
+            "length": 409,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/09.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/09.mp3"
+        },
+        {
+            "song": "Playing in the Band ->",
+            "order": 10,
+            "length": 744,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/10.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/10.mp3"
+        },
+        {
+            "song": "Crazy Fingers ->",
+            "order": 11,
+            "length": 627,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/11.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/11.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 12,
+            "length": 1181,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/12.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/12.mp3"
+        },
+        {
+            "song": "Truckin' ->",
+            "order": 13,
+            "length": 410,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/13.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/13.mp3"
+        },
+        {
+            "song": "Spoonful ->",
+            "order": 14,
+            "length": 187,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/14.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/14.mp3"
+        },
+        {
+            "song": "Wharf Rat ->",
+            "order": 15,
+            "length": 578,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/15.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/15.mp3"
+        },
+        {
+            "song": "Sugar Magnolia (tease) ->",
+            "order": 16,
+            "length": 66,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/16.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/16.mp3"
+        },
+        {
+            "song": "Good Love",
+            "order": 17,
+            "length": 491,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/17.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/17.mp3"
+        },
+        {
+            "song": "U.S. Blues",
+            "order": 18,
+            "length": 310,
+            "ogg": "https://archive.org/download/gd1983-10-08.123722.flac16/18.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-08.123722.flac16/18.mp3"
+        }
+    ]
+}

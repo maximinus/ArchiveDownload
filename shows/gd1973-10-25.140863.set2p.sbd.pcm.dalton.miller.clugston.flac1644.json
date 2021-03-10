@@ -1,0 +1,37 @@
+{
+    "title": "gd1973-10-25.140863.set2p.sbd.pcm.dalton.miller.clugston.flac1644",
+    "venue": "Dane County Coliseum",
+    "year": 1973,
+    "month": 10,
+    "day": 25,
+    "songs": [
+        {
+            "song": "Dark Star Space",
+            "order": 1,
+            "length": 196,
+            "ogg": "https://archive.org/download/gd1973-10-25.140863.set2p.sbd.pcm.dalton.miller.clugston.flac1644/Gd73-10-25T01DarkStarSpace.ogg",
+            "mp3": "https://archive.org/download/gd1973-10-25.140863.set2p.sbd.pcm.dalton.miller.clugston.flac1644/Gd73-10-25T01DarkStarSpace.mp3"
+        },
+        {
+            "song": "Eyes Of The World",
+            "order": 2,
+            "length": 953,
+            "ogg": "https://archive.org/download/gd1973-10-25.140863.set2p.sbd.pcm.dalton.miller.clugston.flac1644/Gd73-10-25T02EyesOfTheWorld.ogg",
+            "mp3": "https://archive.org/download/gd1973-10-25.140863.set2p.sbd.pcm.dalton.miller.clugston.flac1644/Gd73-10-25T02EyesOfTheWorld.mp3"
+        },
+        {
+            "song": "Stella Blue",
+            "order": 3,
+            "length": 529,
+            "ogg": "https://archive.org/download/gd1973-10-25.140863.set2p.sbd.pcm.dalton.miller.clugston.flac1644/Gd73-10-25T03StellaBlue.ogg",
+            "mp3": "https://archive.org/download/gd1973-10-25.140863.set2p.sbd.pcm.dalton.miller.clugston.flac1644/Gd73-10-25T03StellaBlue.mp3"
+        },
+        {
+            "song": "Weather Report Suite",
+            "order": 4,
+            "length": 1004,
+            "ogg": "https://archive.org/download/gd1973-10-25.140863.set2p.sbd.pcm.dalton.miller.clugston.flac1644/Gd73-10-25T04WeatherReportSuite.ogg",
+            "mp3": "https://archive.org/download/gd1973-10-25.140863.set2p.sbd.pcm.dalton.miller.clugston.flac1644/Gd73-10-25T04WeatherReportSuite.mp3"
+        }
+    ]
+}

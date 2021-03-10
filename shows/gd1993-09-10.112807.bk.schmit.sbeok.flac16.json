@@ -1,0 +1,156 @@
+{
+    "title": "gd1993-09-10.112807.bk.schmit.sbeok.flac16",
+    "venue": "Richfield Coliseum",
+    "year": 1993,
+    "month": 9,
+    "day": 10,
+    "songs": [
+        {
+            "song": "walk on",
+            "order": 1,
+            "length": 209,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t01.mp3"
+        },
+        {
+            "song": "Jack Straw",
+            "order": 2,
+            "length": 376,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t02.mp3"
+        },
+        {
+            "song": "They Love Each Other",
+            "order": 3,
+            "length": 457,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t03.mp3"
+        },
+        {
+            "song": "Red Rooster",
+            "order": 4,
+            "length": 553,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t04.mp3"
+        },
+        {
+            "song": "Tom Thumb's Blues",
+            "order": 5,
+            "length": 342,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t05.mp3"
+        },
+        {
+            "song": "Ramble on Rose",
+            "order": 6,
+            "length": 508,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t06.mp3"
+        },
+        {
+            "song": "Black-Throated Wind",
+            "order": 7,
+            "length": 375,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t07.mp3"
+        },
+        {
+            "song": "Bertha",
+            "order": 8,
+            "length": 421,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d1t08.mp3"
+        },
+        {
+            "song": "walk on",
+            "order": 9,
+            "length": 117,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t01.mp3"
+        },
+        {
+            "song": "China Cat Sunflower >",
+            "order": 10,
+            "length": 200,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t02.mp3"
+        },
+        {
+            "song": "I Know You Rider",
+            "order": 11,
+            "length": 598,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t03.mp3"
+        },
+        {
+            "song": "Way to Go Home",
+            "order": 12,
+            "length": 397,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t04.mp3"
+        },
+        {
+            "song": "Corrina >",
+            "order": 13,
+            "length": 547,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t05.mp3"
+        },
+        {
+            "song": "Uncle John's Band >",
+            "order": 14,
+            "length": 638,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t06.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 15,
+            "length": 913,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d2t07.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 16,
+            "length": 1009,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d3t01.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d3t01.mp3"
+        },
+        {
+            "song": "The Wheel >",
+            "order": 17,
+            "length": 316,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d3t02.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d3t02.mp3"
+        },
+        {
+            "song": "All Along the Watchtower >",
+            "order": 18,
+            "length": 345,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d3t03.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d3t03.mp3"
+        },
+        {
+            "song": "Attics of My Life >",
+            "order": 19,
+            "length": 260,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d3t04.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d3t04.mp3"
+        },
+        {
+            "song": "Not Fade Away",
+            "order": 20,
+            "length": 541,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d3t05.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d3t05.mp3"
+        },
+        {
+            "song": "e: U.S. Blues",
+            "order": 21,
+            "length": 351,
+            "ogg": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d3t06.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-10.112807.bk.schmit.sbeok.flac16/gd1993-09-10d3t06.mp3"
+        }
+    ]
+}

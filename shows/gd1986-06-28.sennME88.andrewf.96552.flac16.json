@@ -1,0 +1,163 @@
+{
+    "title": "gd1986-06-28.sennME88.andrewf.96552.flac16",
+    "venue": "Alpine Valley Music Theatre",
+    "year": 1986,
+    "month": 6,
+    "day": 28,
+    "songs": [
+        {
+            "song": "Tuning",
+            "order": 1,
+            "length": 52,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t01.mp3"
+        },
+        {
+            "song": "Hell In A Bucket",
+            "order": 2,
+            "length": 389,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t02.mp3"
+        },
+        {
+            "song": "Ramble On Rose",
+            "order": 3,
+            "length": 441,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t03.mp3"
+        },
+        {
+            "song": "C.C. Rider",
+            "order": 4,
+            "length": 466,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t04.mp3"
+        },
+        {
+            "song": "Row Jimmy",
+            "order": 5,
+            "length": 606,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t05.mp3"
+        },
+        {
+            "song": "Beat It On Down The Line >",
+            "order": 6,
+            "length": 186,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t06.mp3"
+        },
+        {
+            "song": "Touch Of Grey >",
+            "order": 7,
+            "length": 332,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t07.mp3"
+        },
+        {
+            "song": "Looks Like Rain >",
+            "order": 8,
+            "length": 495,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t08.mp3"
+        },
+        {
+            "song": "Don't Ease Me In",
+            "order": 9,
+            "length": 187,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t09.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d1t09.mp3"
+        },
+        {
+            "song": "Tuning",
+            "order": 10,
+            "length": 67,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t01.mp3"
+        },
+        {
+            "song": "Playing In The Band >",
+            "order": 11,
+            "length": 493,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t02.mp3"
+        },
+        {
+            "song": "Uncle John's Band >",
+            "order": 12,
+            "length": 400,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t03.mp3"
+        },
+        {
+            "song": "Jam >",
+            "order": 13,
+            "length": 399,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t04.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 14,
+            "length": 577,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t05.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 15,
+            "length": 303,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t06.mp3"
+        },
+        {
+            "song": "China Doll >",
+            "order": 16,
+            "length": 288,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t07.mp3"
+        },
+        {
+            "song": "Playing Reprise >",
+            "order": 17,
+            "length": 193,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t08.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t08.mp3"
+        },
+        {
+            "song": "Goin' Down The Road Feelin' Bad >",
+            "order": 18,
+            "length": 343,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t09.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t09.mp3"
+        },
+        {
+            "song": "Turn on Your Lovelight",
+            "order": 19,
+            "length": 327,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t10.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t10.mp3"
+        },
+        {
+            "song": "Tuning",
+            "order": 20,
+            "length": 59,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t11.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t11.mp3"
+        },
+        {
+            "song": "One More Saturday Night",
+            "order": 21,
+            "length": 268,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t12.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t12.mp3"
+        },
+        {
+            "song": "It's All Over Now, Baby Blue",
+            "order": 22,
+            "length": 411,
+            "ogg": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t13.ogg",
+            "mp3": "https://archive.org/download/gd1986-06-28.sennME88.andrewf.96552.flac16/gd1986-06-28d2t13.mp3"
+        }
+    ]
+}

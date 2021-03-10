@@ -1,0 +1,58 @@
+{
+    "title": "gd1970-11-06.aud.weinberg.moore-berger.119818.flac16",
+    "venue": "Capitol Theater",
+    "year": 1970,
+    "month": 11,
+    "day": 6,
+    "songs": [
+        {
+            "song": "Good Lovin' (ending)(warbles at very end)",
+            "order": 1,
+            "length": 165,
+            "ogg": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t01.mp3"
+        },
+        {
+            "song": "portion of jam/",
+            "order": 2,
+            "length": 129,
+            "ogg": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t02.mp3"
+        },
+        {
+            "song": "jam > Not Fade Away >",
+            "order": 3,
+            "length": 472,
+            "ogg": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t03.mp3"
+        },
+        {
+            "song": "Goin' Down The Road >",
+            "order": 4,
+            "length": 300,
+            "ogg": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t04.mp3"
+        },
+        {
+            "song": "Not Fade Away (brief glitch) >",
+            "order": 5,
+            "length": 113,
+            "ogg": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t05.mp3"
+        },
+        {
+            "song": "Caution (brief warble 10:35)",
+            "order": 6,
+            "length": 832,
+            "ogg": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t06.mp3"
+        },
+        {
+            "song": "Turn On Your Lovelight// (glitch) only 49 sec's",
+            "order": 7,
+            "length": 44,
+            "ogg": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-06.aud.weinberg.moore-berger.119818.flac16/gd70-11-06d1t07.mp3"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "title": "gd1985-11-20.134789.dts.tobin.flac16",
+    "venue": "Henry J. Kaiser Convention Center",
+    "year": 1985,
+    "month": 11,
+    "day": 20,
+    "songs": [
+        {
+            "song": "Tuning",
+            "order": 1,
+            "length": 140,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d1t01.mp3"
+        },
+        {
+            "song": "Jack Straw",
+            "order": 2,
+            "length": 336,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d1t02.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 3,
+            "length": 456,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d1t03.mp3"
+        },
+        {
+            "song": "C. C. Rider",
+            "order": 4,
+            "length": 450,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d1t04.mp3"
+        },
+        {
+            "song": "Stagger Lee",
+            "order": 5,
+            "length": 355,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d1t05.mp3"
+        },
+        {
+            "song": "My Brother Esau",
+            "order": 6,
+            "length": 269,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d1t06.mp3"
+        },
+        {
+            "song": "High Time",
+            "order": 7,
+            "length": 499,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d1t07.mp3"
+        },
+        {
+            "song": "Beat It On Down the Line",
+            "order": 8,
+            "length": 184,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d1t08.mp3"
+        },
+        {
+            "song": "Promised Land",
+            "order": 9,
+            "length": 263,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d1t09.mp3"
+        },
+        {
+            "song": "Don't Ease Me In",
+            "order": 10,
+            "length": 183,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d1t10.mp3"
+        },
+        {
+            "song": "Iko Iko",
+            "order": 11,
+            "length": 407,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d1t11.mp3"
+        },
+        {
+            "song": "Lost Sailor",
+            "order": 12,
+            "length": 421,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d2t01.mp3"
+        },
+        {
+            "song": "Saint of Circumstance",
+            "order": 13,
+            "length": 431,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d2t02.mp3"
+        },
+        {
+            "song": "Terrapin Station",
+            "order": 14,
+            "length": 1053,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d2t03.mp3"
+        },
+        {
+            "song": "Don't Need Love",
+            "order": 15,
+            "length": 547,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d2t04.mp3"
+        },
+        {
+            "song": "Drums",
+            "order": 16,
+            "length": 297,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d2t05.mp3"
+        },
+        {
+            "song": "Space",
+            "order": 17,
+            "length": 428,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d2t06.mp3"
+        },
+        {
+            "song": "Stella Blue",
+            "order": 18,
+            "length": 419,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d2t07.mp3"
+        },
+        {
+            "song": "Sugar Magnolia",
+            "order": 19,
+            "length": 519,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d2t08.mp3"
+        },
+        {
+            "song": "U. S. Blues'",
+            "order": 20,
+            "length": 285,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-11-20.134789.dts.tobin.flac16/gd1985-11-20d2t09.mp3"
+        }
+    ]
+}

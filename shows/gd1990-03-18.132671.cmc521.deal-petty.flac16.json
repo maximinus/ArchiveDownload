@@ -1,0 +1,170 @@
+{
+    "title": "gd1990-03-18.132671.cmc521.deal-petty.flac16",
+    "venue": "Hartford Civic Center",
+    "year": 1990,
+    "month": 3,
+    "day": 18,
+    "songs": [
+        {
+            "song": "Tuning",
+            "order": 1,
+            "length": 114,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t01.mp3"
+        },
+        {
+            "song": "Shakedown Street",
+            "order": 2,
+            "length": 754,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t02.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 3,
+            "length": 673,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t03.mp3"
+        },
+        {
+            "song": "Stagger Lee",
+            "order": 4,
+            "length": 394,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t04.mp3"
+        },
+        {
+            "song": "Me & My Uncle>",
+            "order": 5,
+            "length": 185,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t05.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 6,
+            "length": 417,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t06.mp3"
+        },
+        {
+            "song": "Friend Of The Devil",
+            "order": 7,
+            "length": 556,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t07.mp3"
+        },
+        {
+            "song": "Just A Little Light",
+            "order": 8,
+            "length": 362,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t08.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t08.mp3"
+        },
+        {
+            "song": "When I Paint My Masterpiece",
+            "order": 9,
+            "length": 348,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t09.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t09.mp3"
+        },
+        {
+            "song": "Ramble On Rose",
+            "order": 10,
+            "length": 537,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t10.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t10.mp3"
+        },
+        {
+            "song": "The Music Never Stopped",
+            "order": 11,
+            "length": 480,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t11.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s1t11.mp3"
+        },
+        {
+            "song": "Tuning",
+            "order": 12,
+            "length": 175,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t01.mp3"
+        },
+        {
+            "song": "Iko Iko",
+            "order": 13,
+            "length": 485,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t02.mp3"
+        },
+        {
+            "song": "Looks Like Rain>",
+            "order": 14,
+            "length": 503,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t03.mp3"
+        },
+        {
+            "song": "He's Gone>",
+            "order": 15,
+            "length": 536,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t04.mp3"
+        },
+        {
+            "song": "Truckin'>",
+            "order": 16,
+            "length": 535,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t05.mp3"
+        },
+        {
+            "song": "Spoonful>",
+            "order": 17,
+            "length": 370,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t06.mp3"
+        },
+        {
+            "song": "Drums>",
+            "order": 18,
+            "length": 470,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t07.mp3"
+        },
+        {
+            "song": "Space>",
+            "order": 19,
+            "length": 674,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t08.mp3"
+        },
+        {
+            "song": "The Wheel>",
+            "order": 20,
+            "length": 354,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t09.mp3"
+        },
+        {
+            "song": "All Along The Watchtower>",
+            "order": 21,
+            "length": 368,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t10.mp3"
+        },
+        {
+            "song": "Morning Dew",
+            "order": 22,
+            "length": 817,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t11.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t11.mp3"
+        },
+        {
+            "song": "E: U.S. Blues",
+            "order": 23,
+            "length": 482,
+            "ogg": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t12.ogg",
+            "mp3": "https://archive.org/download/gd1990-03-18.132671.cmc521.deal-petty.flac16/gd1990-03-18.s2t12.mp3"
+        }
+    ]
+}

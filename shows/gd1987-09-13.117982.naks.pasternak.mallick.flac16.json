@@ -1,0 +1,135 @@
+{
+    "title": "gd1987-09-13.117982.naks.pasternak.mallick.flac16",
+    "venue": "Capital Centre",
+    "year": 1987,
+    "month": 9,
+    "day": 13,
+    "songs": [
+        {
+            "song": "Iko Iko",
+            "order": 1,
+            "length": 416,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t01.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 2,
+            "length": 534,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t02.mp3"
+        },
+        {
+            "song": "Brown Eyed Women",
+            "order": 3,
+            "length": 342,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t03.mp3"
+        },
+        {
+            "song": "Fever",
+            "order": 4,
+            "length": 309,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t04.mp3"
+        },
+        {
+            "song": "Stagger Lee",
+            "order": 5,
+            "length": 340,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t05.mp3"
+        },
+        {
+            "song": "When I Paint My Masterpiece",
+            "order": 6,
+            "length": 295,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t06.mp3"
+        },
+        {
+            "song": "Bird Song>",
+            "order": 7,
+            "length": 572,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t07.mp3"
+        },
+        {
+            "song": "The Promised Land",
+            "order": 8,
+            "length": 309,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t08.mp3"
+        },
+        {
+            "song": "Scarlet Begonias>",
+            "order": 9,
+            "length": 487,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t09.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t09.mp3"
+        },
+        {
+            "song": "Fire On The Mountain",
+            "order": 10,
+            "length": 531,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t10.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d1t10.mp3"
+        },
+        {
+            "song": "Playing In The Band>",
+            "order": 11,
+            "length": 642,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t01.mp3"
+        },
+        {
+            "song": "Drums>",
+            "order": 12,
+            "length": 511,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t02.mp3"
+        },
+        {
+            "song": "Space>",
+            "order": 13,
+            "length": 365,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t03.mp3"
+        },
+        {
+            "song": "The Other One>",
+            "order": 14,
+            "length": 283,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t04.mp3"
+        },
+        {
+            "song": "Stella Blue>",
+            "order": 15,
+            "length": 407,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t05.mp3"
+        },
+        {
+            "song": "Throwing Stones>",
+            "order": 16,
+            "length": 490,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t06.mp3"
+        },
+        {
+            "song": "Good Lovin'>La Bamba>Good Lovin'",
+            "order": 17,
+            "length": 493,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t07.mp3"
+        },
+        {
+            "song": "E: Knockin' On Heaven's Door",
+            "order": 18,
+            "length": 829,
+            "ogg": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t08.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-13.117982.naks.pasternak.mallick.flac16/gd1987-09-13d2t08.mp3"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "title": "gd1980-08-19.140366.set2.aud.flac1648",
+    "venue": "Uptown Theater",
+    "year": 1980,
+    "month": 8,
+    "day": 19,
+    "songs": [
+        {
+            "song": "01-Little Red Rooster",
+            "order": 1,
+            "length": 475,
+            "ogg": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/01-littleRedRooster.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/01-littleRedRooster.mp3"
+        },
+        {
+            "song": "02-China Cat Sunflower",
+            "order": 2,
+            "length": 377,
+            "ogg": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/02-chinaCatSunflower.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/02-chinaCatSunflower.mp3"
+        },
+        {
+            "song": "03-I Know You Rider",
+            "order": 3,
+            "length": 346,
+            "ogg": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/03-iKnowYouRider.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/03-iKnowYouRider.mp3"
+        },
+        {
+            "song": "04-Estimated Prophet",
+            "order": 4,
+            "length": 577,
+            "ogg": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/04-estimatedProphet.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/04-estimatedProphet.mp3"
+        },
+        {
+            "song": "05-Eyes Of The World",
+            "order": 5,
+            "length": 519,
+            "ogg": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/05-eyesOfTheWorld.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/05-eyesOfTheWorld.mp3"
+        },
+        {
+            "song": "Space",
+            "order": 6,
+            "length": 435,
+            "ogg": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/06-Space.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/06-Space.mp3"
+        },
+        {
+            "song": "07-Playin In The Band Reprise",
+            "order": 7,
+            "length": 367,
+            "ogg": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/07-playinInTheBandReprise.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/07-playinInTheBandReprise.mp3"
+        },
+        {
+            "song": "08-Comes A Time",
+            "order": 8,
+            "length": 584,
+            "ogg": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/08-comesATime.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/08-comesATime.mp3"
+        },
+        {
+            "song": "09-Playin In The Band",
+            "order": 9,
+            "length": 598,
+            "ogg": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/09-playinInTheBand.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/09-playinInTheBand.mp3"
+        },
+        {
+            "song": "10-Around And Around",
+            "order": 10,
+            "length": 258,
+            "ogg": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/10-aroundAndAround.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/10-aroundAndAround.mp3"
+        },
+        {
+            "song": "11-Alabama Getaway",
+            "order": 11,
+            "length": 290,
+            "ogg": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/11-alabamaGetaway.ogg",
+            "mp3": "https://archive.org/download/gd1980-08-19.140366.set2.aud.flac1648/11-alabamaGetaway.mp3"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "title": "gd1991-06-28.fob.hayes.84509.sbeok.flac16",
+    "venue": "Mile High Stadium",
+    "year": 1991,
+    "month": 6,
+    "day": 28,
+    "songs": [
+        {
+            "song": "Touch Of Grey",
+            "order": 1,
+            "length": 381,
+            "ogg": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D101.ogg",
+            "mp3": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D101.mp3"
+        },
+        {
+            "song": "greatest story ever told",
+            "order": 2,
+            "length": 300,
+            "ogg": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D102.ogg",
+            "mp3": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D102.mp3"
+        },
+        {
+            "song": "Mississippi Half-Step Uptown Toodeloo",
+            "order": 3,
+            "length": 526,
+            "ogg": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D103.ogg",
+            "mp3": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D103.mp3"
+        },
+        {
+            "song": "Wang Dang Doodle",
+            "order": 4,
+            "length": 374,
+            "ogg": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D104.ogg",
+            "mp3": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D104.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 5,
+            "length": 162,
+            "ogg": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D105.ogg",
+            "mp3": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D105.mp3"
+        },
+        {
+            "song": "Iko Iko",
+            "order": 6,
+            "length": 683,
+            "ogg": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D106.ogg",
+            "mp3": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D106.mp3"
+        },
+        {
+            "song": "Cassidy -> Don't Ease Me In",
+            "order": 7,
+            "length": 610,
+            "ogg": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D107.ogg",
+            "mp3": "https://archive.org/download/gd1991-06-28.fob.hayes.84509.sbeok.flac16/GD_1991-06-28_D107.mp3"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "title": "gd1984-07-13.139747.sbd.pcm.miller.flac1644",
+    "venue": "Greek Theatre, U. Of California",
+    "year": 1984,
+    "month": 7,
+    "day": 13,
+    "songs": [
+        {
+            "song": "01 Tuning",
+            "order": 1,
+            "length": 34,
+            "ogg": "https://archive.org/download/gd1984-07-13.139747.sbd.pcm.miller.flac1644/01Tuning.ogg",
+            "mp3": "https://archive.org/download/gd1984-07-13.139747.sbd.pcm.miller.flac1644/01Tuning.mp3"
+        },
+        {
+            "song": "02 Scarlet Begonias",
+            "order": 2,
+            "length": 722,
+            "ogg": "https://archive.org/download/gd1984-07-13.139747.sbd.pcm.miller.flac1644/02ScarletBegonias.ogg",
+            "mp3": "https://archive.org/download/gd1984-07-13.139747.sbd.pcm.miller.flac1644/02ScarletBegonias.mp3"
+        },
+        {
+            "song": "03 Touch Of Grey",
+            "order": 3,
+            "length": 380,
+            "ogg": "https://archive.org/download/gd1984-07-13.139747.sbd.pcm.miller.flac1644/03TouchOfGrey.ogg",
+            "mp3": "https://archive.org/download/gd1984-07-13.139747.sbd.pcm.miller.flac1644/03TouchOfGrey.mp3"
+        },
+        {
+            "song": "04 Fire On The Mountain",
+            "order": 4,
+            "length": 745,
+            "ogg": "https://archive.org/download/gd1984-07-13.139747.sbd.pcm.miller.flac1644/04FireOnTheMountain.ogg",
+            "mp3": "https://archive.org/download/gd1984-07-13.139747.sbd.pcm.miller.flac1644/04FireOnTheMountain.mp3"
+        },
+        {
+            "song": "05 Man Smart (Woman Smarter)",
+            "order": 5,
+            "length": 426,
+            "ogg": "https://archive.org/download/gd1984-07-13.139747.sbd.pcm.miller.flac1644/05ManSmartwomanSmarter.ogg",
+            "mp3": "https://archive.org/download/gd1984-07-13.139747.sbd.pcm.miller.flac1644/05ManSmartwomanSmarter.mp3"
+        },
+        {
+            "song": "06 Drums",
+            "order": 6,
+            "length": 229,
+            "ogg": "https://archive.org/download/gd1984-07-13.139747.sbd.pcm.miller.flac1644/06Drums.ogg",
+            "mp3": "https://archive.org/download/gd1984-07-13.139747.sbd.pcm.miller.flac1644/06Drums.mp3"
+        }
+    ]
+}

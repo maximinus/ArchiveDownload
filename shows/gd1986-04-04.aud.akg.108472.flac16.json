@@ -1,0 +1,163 @@
+{
+    "title": "gd1986-04-04.aud.akg.108472.flac16",
+    "venue": "Hartford Civic Center",
+    "year": 1986,
+    "month": 4,
+    "day": 4,
+    "songs": [
+        {
+            "song": "Crowd/Tuning",
+            "order": 1,
+            "length": 197,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t1.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t1.mp3"
+        },
+        {
+            "song": "Jack Straw",
+            "order": 2,
+            "length": 338,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t2.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t2.mp3"
+        },
+        {
+            "song": "Dire Wolf",
+            "order": 3,
+            "length": 213,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t3.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t3.mp3"
+        },
+        {
+            "song": "C.C. Rider",
+            "order": 4,
+            "length": 435,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t4.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t4.mp3"
+        },
+        {
+            "song": "Candyman",
+            "order": 5,
+            "length": 470,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t5.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t5.mp3"
+        },
+        {
+            "song": "It's All Over Now",
+            "order": 6,
+            "length": 447,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t6.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t6.mp3"
+        },
+        {
+            "song": "Crazy Fingers >",
+            "order": 7,
+            "length": 450,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t7.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t7.mp3"
+        },
+        {
+            "song": "Greatest Story Ever Told",
+            "order": 8,
+            "length": 242,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t8.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t8.mp3"
+        },
+        {
+            "song": "Day Job*",
+            "order": 9,
+            "length": 250,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t9.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d1t9.mp3"
+        },
+        {
+            "song": "Touch Of Grey >",
+            "order": 10,
+            "length": 376,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t1.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t1.mp3"
+        },
+        {
+            "song": "Looks Like Rain >",
+            "order": 11,
+            "length": 557,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t2.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t2.mp3"
+        },
+        {
+            "song": "He's Gone >",
+            "order": 12,
+            "length": 532,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t3.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t3.mp3"
+        },
+        {
+            "song": "Smokestack Lightnin' >",
+            "order": 13,
+            "length": 351,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t4.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t4.mp3"
+        },
+        {
+            "song": "Jam>",
+            "order": 14,
+            "length": 181,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t5.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t5.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 15,
+            "length": 716,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t6.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t6.mp3"
+        },
+        {
+            "song": "Space",
+            "order": 16,
+            "length": 383,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t7.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d2t7.mp3"
+        },
+        {
+            "song": "The Wheel >",
+            "order": 17,
+            "length": 269,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d3t1.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d3t1.mp3"
+        },
+        {
+            "song": "Stella Blue >",
+            "order": 18,
+            "length": 467,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d3t2.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d3t2.mp3"
+        },
+        {
+            "song": "Throwing Stones >",
+            "order": 19,
+            "length": 518,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d3t3.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d3t3.mp3"
+        },
+        {
+            "song": "Lovelight",
+            "order": 20,
+            "length": 290,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d3t4.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d3t4.mp3"
+        },
+        {
+            "song": "Crowd",
+            "order": 21,
+            "length": 65,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d3t5.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d3t5.mp3"
+        },
+        {
+            "song": "Box Of Rain",
+            "order": 22,
+            "length": 355,
+            "ogg": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d3t6.ogg",
+            "mp3": "https://archive.org/download/gd1986-04-04.aud.akg.108472.flac16/d3t6.mp3"
+        }
+    ]
+}

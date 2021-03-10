@@ -1,0 +1,142 @@
+{
+    "title": "gd1985-08-31.123824.nak300.flac16",
+    "venue": "Manor Downs",
+    "year": 1985,
+    "month": 8,
+    "day": 31,
+    "songs": [
+        {
+            "song": "Mississippi Half Step >",
+            "order": 1,
+            "length": 501,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t01.mp3"
+        },
+        {
+            "song": "El Paso",
+            "order": 2,
+            "length": 342,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t02.mp3"
+        },
+        {
+            "song": "Dupree's Diamond Blues",
+            "order": 3,
+            "length": 497,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t03.mp3"
+        },
+        {
+            "song": "Mexicali Blues >",
+            "order": 4,
+            "length": 295,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t04.mp3"
+        },
+        {
+            "song": "Big River",
+            "order": 5,
+            "length": 323,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t05.mp3"
+        },
+        {
+            "song": "Althea",
+            "order": 6,
+            "length": 489,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t06.mp3"
+        },
+        {
+            "song": "My Brother Esau",
+            "order": 7,
+            "length": 306,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t07.mp3"
+        },
+        {
+            "song": "Jack A Roe",
+            "order": 8,
+            "length": 281,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t08.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t08.mp3"
+        },
+        {
+            "song": "Let It Grow",
+            "order": 9,
+            "length": 775,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t09.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s1t09.mp3"
+        },
+        {
+            "song": "Terrapin Station >*",
+            "order": 10,
+            "length": 697,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t01.mp3"
+        },
+        {
+            "song": "Estimated Prophet >",
+            "order": 11,
+            "length": 915,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t02.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 12,
+            "length": 546,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t03.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 13,
+            "length": 329,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t04.mp3"
+        },
+        {
+            "song": "Goin' Down The Road Feelin' Bad >",
+            "order": 14,
+            "length": 502,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t05.mp3"
+        },
+        {
+            "song": "Stella Blue >",
+            "order": 15,
+            "length": 428,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t06.mp3"
+        },
+        {
+            "song": "Throwing Stones >",
+            "order": 16,
+            "length": 515,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t07.mp3"
+        },
+        {
+            "song": "Not Fade Away",
+            "order": 17,
+            "length": 444,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t08.mp3"
+        },
+        {
+            "song": "She Belongs To Me",
+            "order": 18,
+            "length": 488,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t09.mp3"
+        },
+        {
+            "song": "One More Saturday Night",
+            "order": 19,
+            "length": 288,
+            "ogg": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1985-08-31.123824.nak300.flac16/gd1985-08-31s2t10.mp3"
+        }
+    ]
+}

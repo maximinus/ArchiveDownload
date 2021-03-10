@@ -1,0 +1,1036 @@
+ 
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <META NAME="CREATED" CONTENT="19990905;23344153">
+    <META NAME="CHANGED" CONTENT="20080131;100192">
+    <TITLE>Grateful Dead 1975</TITLE>
+<meta name="DESCRIPTION" content="db.etree.org is the most popular site for finding and trading live concerts anywhere.">
+<meta name="KEYWORDS" content="shn,flac,shorten,live music,concerts,trade music,free music,sources,recording,performances">
+<meta http-equiv="X-UA-Compatible" content="IE=8;FF=3;OtherUA=4" />
+<link rel="shortcut icon" href="https://db.etree.org/favicon2.ico">
+<link rel="stylesheet" href="/lib/db.css" title="Classic" type="text/css">
+<link rel="alternate stylesheet" href="/lib/blue.css" type="text/css" title="Cerulean">
+<link rel="home" type="text/html" title="db.etree.org home" href="/">
+<link rel="up" type="text/html" title="My List" href="/db/index/mylist">
+<link rel="help" type="text/html" title="site documentation" href="/docs/">
+<link rel="search" type="text/html" title="search" href="/shows_search.php">
+<link rel="bookmark" type="text/html" title="Add Show" href="/myshows_add.php">
+<link rel="bookmark" type="text/html" title="Want List" href="/wantlist.php">
+<link rel="bookmark" type="text/html" title="Manage Lists" href="/mylists.php">
+<link rel="bookmark" type="text/html" title="My Trading Family" href="/my_family.php">
+
+<link rel="home" type="text/html" title="db.etree.org home" href="/">
+<link rel="up" type="text/html" title="My List" href="/db/index/mylist">
+<link rel="help" type="text/html" title="site documentation" href="/docs/">
+<link rel="search" type="text/html" title="search" href="/shows_search.php">
+<link rel="bookmark" type="text/html" title="Add Show" href="/myshows_add.php">
+<link rel="bookmark" type="text/html" title="Want List" href="/wantlist.php">
+<link rel="bookmark" type="text/html" title="Manage Lists" href="/mylists.php">
+<link rel="bookmark" type="text/html" title="My Trading Family" href="/my_family.php">
+
+
+<link rel="stylesheet" href="/lib/nicetitle.css" type="text/css">
+<script src="/js/lib/prototype.js"></script>
+<script src="/js/s.t.us/scriptaculous.js"></script>
+<script src="/js/s.t.us/effects.js"></script>
+<script src="/lib/nicetitle.js"></script>
+<script src="/js/db.js"></script>
+
+<script src="/js/jquery/jquery.min.js"></script>
+<script src="/js/jquery/jquery-ui.min.js"></script>
+<script>
+    jQuery.noConflict();
+</script>
+
+<script src="/js/texttools.js"></script>
+
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+
+<center>
+
+<div style="float:right;text-align:right;">
+
+<script>
+
+
+
+    if (readCookie('SHN')) {
+        document.write('<a href="/shnmaint/"><img src="/images/ico/user_suit.png" class="ico"> Source Admin</a> &nbsp;&nbsp; ');
+
+        document.write('<a href="/shnmaint/shows_corrections.php"><img src="/images/ico/text_signature.png" class="ico"> Approve Corrections</a> ');
+    }
+
+    if (readCookie('ADMIN')) {
+        document.write('&nbsp;&nbsp; <a href="/dbadmin/"><img src="/images/ico/user_gray.png" class="ico"> Administration</a> &nbsp;&nbsp;');
+    }
+
+    if (readCookie('musicLover')) {
+        document.write('<a href="/logout/"><img src="/images/ico/disconnect.png" class="ico"> Logout</a> &nbsp;&nbsp;');
+    } else {
+        document.write('<a href="/login/"><img src="/images/ico/user_go.png" class="ico"> Login</a> &nbsp;&nbsp;');
+        document.write('<a href="/adduser.php"><img src="/images/ico/user_add.png" width="16" height="16" class="ico"> Join db.etree</a> &nbsp;&nbsp;');
+    }
+
+
+</script>
+<br>
+</div>
+
+<div style="text-align:left;">
+<a href="/index.php"><img src="/etreedb-small.png" align="left" name="The Trader's Database" border="0"></a>
+
+<br style="font-size:.5em;">
+    <b>Browse</b>
+    <a href="/users.php"><img src="/images/ico/table_multiple.png" class="ico"> Collections</a>
+    <a href="/db/shows/artists"><img src="/images/ico/world.png" class="ico"> Artists</a>
+    <a href="/db/sources/artists/"><img src="/images/ico/page.png" class="ico"> Sources</a>
+
+    &nbsp;&nbsp;<b>Search</b>
+    <a href="/shows_search.php"><img src="/images/ico/find.png" class="ico">
+        Dates
+    </a>
+
+
+<br style="font-size:.5em;">
+<br style="font-size:.5em;">
+    <a href="/myshows_add.php"><img src="/images/ico/table_add.png" class="ico"> Add Show</a>
+
+    &nbsp;&nbsp;
+    <a href="/mylists_shows.php"><img src="/images/ico/application_form.png" class="ico"> List Management</a>
+
+    &nbsp;&nbsp;
+<a href="/docs/"><img src="/images/ico/help.png" class="ico"> Help</a>
+
+<br><br>
+</div>
+
+
+<br>
+
+<script src="/js/jquery/jquery.textareatools.js"></script>
+<script>
+    jQuery(function() {
+        jQuery('textarea').each(function(index, node) {
+            jQuery(this).textareaTools();
+        });
+    });
+</script>
+
+<style>
+
+a.selected_year {
+    background-color: #efd1b4;
+	color: black;
+    font-size: 1.2em;
+	font-weight: bold;
+	border: solid;
+	border-radius: 4px;
+	border-color: #efd1b4;
+}
+
+h1.billboard {
+	border: none;
+	border-radius: 10px;
+	border-color: #ef9b49;
+	width: 80%;
+	margin-top: 0px;
+}
+
+div.header {
+	background-color: #EF9B49;
+	width: 80%;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+div.footer {
+	background-color: #EF9B49;
+	width: 80%;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+div.header p, div.footer p {
+	padding: 5px;
+	line-height: 2em;
+}
+
+</style>
+
+
+    <h1 class="billboard">
+		<span id="2">Grateful Dead</span>
+	</h1>
+
+
+<div class="header">
+
+<p>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1939">
+    Unknown</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1963">
+    1963</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1964">
+    1964</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1965">
+    1965</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1966">
+    1966</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1967">
+    1967</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1968">
+    1968</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1969">
+    1969</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1970">
+    1970</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1971">
+    1971</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1972">
+    1972</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1973">
+    1973</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1974">
+    1974</a>
+    <a class="selected_year" href="/db/shows/browse/artist_key/2/year/1975">
+    1975</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1976">
+    1976</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1977">
+    1977</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1978">
+    1978</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1979">
+    1979</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1980">
+    1980</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1981">
+    1981</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1982">
+    1982</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1983">
+    1983</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1984">
+    1984</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1985">
+    1985</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1986">
+    1986</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1987">
+    1987</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1988">
+    1988</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1989">
+    1989</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1990">
+    1990</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1991">
+    1991</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1992">
+    1992</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1993">
+    1993</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1994">
+    1994</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1995">
+    1995</a>
+</p>
+</div>
+
+
+<div class="t b1">
+    <a href="/db/shows/browse/artist_key/2/year/1975/diff/true">
+        <img class="ico" src="/images/ico/application_link.png"> Filter against your list
+    </a>
+
+</div>
+
+
+<table width="80%" valign="top">
+
+
+    <tr>
+        <th>Date</th>
+        <th>Venue</th>
+        <th>City</th>
+        <th>State</th>
+        <th>Download</th>
+        <th>Add</th>
+        <th>Sources</th>
+    </tr>
+
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+01/??/75
+Aces, Mill Valley, CA" href="/lookup_show.php?shows_key=641658">01/??/75</a>
+                                </td>
+        <td>Ace's</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+    
+                <a title="gd1975-01-00.137598.studio.thefirstday.bershaw.flac16" href="https://www.archive.org/details/gd1975-01-00.137598.studio.thefirstday.bershaw.flac16"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(641658); return false;" href="/db/myshows/insert/shows_key/641658">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title=" flac16 ; Source: Studio Reel - Bob Gurman&#039;s TDK LX 35/90B @7.5ips; Lineage: Studio Master Reel -&gt; ?-&gt; Reel @7.5ips (TEAC A-4010 SL playback)-&gt; Lexicon Lambda-&gt; Logic 24/96 AIFF -&gt; wav conversion to 16bit-44.1k-&gt; xAct -&gt; flac" href="/shn/137598">137598</a>                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+02/28/75
+Bob Weirs Studio, Mill Valley, CA" href="/lookup_show.php?shows_key=417245">02/28/75</a>
+                                </td>
+        <td>Bob Weir's Studio</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+                <a title="Grateful Dead - 1975-02-28 - Mill Valley, CA - rehearsal" href="http://bt.etree.org/details.php?id=517314"><img src="/bt.png" border="0"></a>
+                <a title="gd75-02-28.93779.studio.smith.sbeok.t-flac16 - See Comment -" href="http://bt.etree.org/details.php?id=537395"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd1975-02-28.sbd.smith.93779.sbeok.flac16" href="https://www.archive.org/details/gd1975-02-28.sbd.smith.93779.sbeok.flac16"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(417245); return false;" href="/db/myshows/insert/shows_key/417245">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title=" flac16 ; SBD MR &gt; R &gt; R &gt; CD * &gt; EAC &gt; WAV &gt; FLAC" href="/shn/93779">93779</a>                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+03/17/75
+Aces, Mill Valley, CA" href="/lookup_show.php?shows_key=70078">03/17/75</a>
+                                </td>
+        <td>Ace's</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+                <a title="gd75-03-17.01011.studio.vernon.sbeok.t-flac16 - See Comment -" href="http://bt.etree.org/details.php?id=537397"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd75-03-17.sbd.vernon.10111.sbeok.shnf" href="https://www.archive.org/details/gd75-03-17.sbd.vernon.10111.sbeok.shnf"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(70078); return false;" href="/db/myshows/insert/shows_key/70078">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="SBD&gt;MR&gt;DAT&gt;CDR; David Crosby and the Dead from weir&#039;s Studio; via Raoul Duke; seeded to etree by Matt Vernon" href="/shn/10111">10111</a>                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+03/21/75
+Aces studio, Mill Valley, CA" href="/lookup_show.php?shows_key=121551">03/21/75</a>
+                                </td>
+        <td>Ace's studio</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+    
+                <a title="gd75-03-21.sbd.backus.14288.sbeok.shnf" href="https://www.archive.org/details/gd75-03-21.sbd.backus.14288.sbeok.shnf"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(121551); return false;" href="/db/myshows/insert/shows_key/121551">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="SNACK rehearsals, poss compilation of dates; ??&gt; cass&gt; cooledit&gt; mkw&gt; shn; Tracking/ re-shn (v3) from original single shn file, by terrapinstation" href="/shn/14288">14288</a>                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+03/23/75
+Kezar Stadium, San Francisco, CA" href="/lookup_show.php?shows_key=943">03/23/75</a>
+                                </td>
+        <td>Kezar Stadium</td>
+        <td>San Francisco</td>
+        <td>CA</td>
+        <td>
+                <a title="Grateful Dead - Kezar Stadium, w/ Saunders &amp; Lagin - 3/23/75 [fm.13585]" href="http://bt.etree.org/details.php?id=506818"><img src="/bt.png" border="0"></a>
+                <a title="gd1975-03-23.sbd.snack.18525.flac16" href="http://bt.etree.org/details.php?id=536500"><img src="/bt.png" border="0"></a>
+                <a title="gd75-03-23.32539.prefm.hope-ross.sbeok.t-flac16 - See Comment -" href="http://bt.etree.org/details.php?id=537434"><img src="/bt.png" border="0"></a>
+                <a title="gd75-03-23.94026.fm.smith-lee.sbeok.t-flac16 - See Comment -" href="http://bt.etree.org/details.php?id=537435"><img src="/bt.png" border="0"></a>
+                <a title="gd75-03-23.110126.sbd.miller.t-flac16" href="http://bt.etree.org/details.php?id=559628"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd1975-03-23.sbd.skankweed.13585.shnf" href="https://www.archive.org/details/gd1975-03-23.sbd.skankweed.13585.shnf"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-03-23.sbd.snack.18525.flac16" href="https://www.archive.org/details/gd1975-03-23.sbd.snack.18525.flac16"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-03-23.fm.unknown.32299.shnf" href="https://www.archive.org/details/gd1975-03-23.fm.unknown.32299.shnf"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-03-23.pre-fm-sbd.hope-ross.32539.shnf" href="https://www.archive.org/details/gd1975-03-23.pre-fm-sbd.hope-ross.32539.shnf"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-03-23.fm.lee-smith.94026.sbeok.flac16" href="https://www.archive.org/details/gd1975-03-23.fm.lee-smith.94026.sbeok.flac16"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-03-23.sbd.miller.110126.flac16" href="https://www.archive.org/details/gd1975-03-23.sbd.miller.110126.flac16"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-03-23.126296.fm.kafer-boswell-smith.flac24" href="https://www.archive.org/details/gd1975-03-23.126296.fm.kafer-boswell-smith.flac24"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(943); return false;" href="/db/myshows/insert/shows_key/943">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="SBD&gt;FM&gt;?&gt;DAT&gt;CDR
+
+Only flaw listed: One small d/o in the 1st Blues for Allah (Track 2) @ 4:36" href="/shn/13585">13585</a>,                            <a title="Unknown SBD
+Note: This is disc 1 of a 5 disc set containing all of the sets from the 3/23/1975 SNACK Benefit.  Other artists were Tower of Power, Santana, Doobie Brothers, Jefferson Starship, Joan Baez and, finally, Neil Young, Bob Dylan &amp; The Band." href="/shn/18525">18525</a>,                            <a title="Source: FM &gt; ??? &gt; WAV &gt; SHN 
+&quot;Originally part of gd1991-03-31 on gdlive.com.&quot;" href="/shn/32299">32299</a>,                            <a title="SBD&gt;Pre-FM SBD MR&gt;DAT&gt;Digi-Remaster&gt;CD&gt;CD&gt;EAC&gt;MKW&gt;SHN" href="/shn/32539">32539</a>,                            <a title=" flac16 ; FMMR  (Peter Kafer) @ 7 1/2 ips &gt; R  @ 7 1/2 ips (Pat Lee)* &gt; CD.
+Reel to reel transfer by Taper Pat - (R copied @ 7.5 ips using a Revox A-77&gt;A-77) --- Mastered to cd by Matt Smith --- Playback info: R &gt; Akai GX625 &gt; apogee mini me (24/96) &gt; apogee  mini dac (monitoring) &gt; Lynx One soundcard &gt; wavelab 5.0 (dithered to 20/44) &gt; CD &gt; EAC &gt; WAV (shntool confirms no sbes) &gt; FLAC (TLH)
+" href="/shn/94026">94026</a>,                            <a title=" flac16 ; Recording Info: SBD -&gt; Master Reel -&gt; Dat; Transfer Info: Dat -&gt; Samplitude Professional v11.1 -&gt; FLAC; All Transfers and Mastering By Charlie Miller" href="/shn/110126">110126</a>,                            <a title=" flac24 ; FMMR (Peter Kafer) @ 7 1/2 ips &gt; R @ 7 1/2 ips (Will Boswell); Transfer info: Akai GX636 direct tape head output &gt; Bottlehead tube tape pre pair Tesla tubes circa 1980 &gt; Apogee Mini Me 24/96 &gt; Apogee Mini DAC monitoring and mastering &gt; FLAC" href="/shn/126296">126296</a>                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+03/26/75
+Aces Studio, Mill Valley, CA" href="/lookup_show.php?shows_key=129882">03/26/75</a>
+                                </td>
+        <td>Ace's Studio</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+                <a title="gd75-03-26.14289.studio.bacus.sbeok.t-flac16 - Final Comment -" href="http://bt.etree.org/details.php?id=537461"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd75-03-26.sbd.backus.14289.sbeok.shnf" href="https://www.archive.org/details/gd75-03-26.sbd.backus.14289.sbeok.shnf"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(129882); return false;" href="/db/myshows/insert/shows_key/129882">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="rehearsals; sbd&gt; ?&gt; PCM&gt; SEK&#039;D Prodif96Pro&gt; wav&gt; SHN; 1-disc portion of 6 discs seeded to abgd, with seeking reshn on t1,2 by terrapinstation" href="/shn/14289">14289</a>                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+03/??/75
+Studio (Blues for Allah Outtakes), Unknown, CA" href="/lookup_show.php?shows_key=60345">03/??/75</a>
+                                </td>
+        <td>Studio (Blues for Allah Outtakes)</td>
+        <td>Unknown</td>
+        <td>CA</td>
+        <td>
+                <a title="gd75-03-00.04231.studio.backus.sbeok.t-flac16 - See Comment -" href="http://bt.etree.org/details.php?id=537396"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd1975-03-00.sbd.terrapin-station.4231.shnf" href="https://www.archive.org/details/gd1975-03-00.sbd.terrapin-station.4231.shnf"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(60345); return false;" href="/db/myshows/insert/shows_key/60345">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="liberated bootleg CD-&gt; EAC-&gt; WAV-&gt; SHN; via Dave Backus" href="/shn/4231">4231</a>                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+03/??/75
+Bob Weirs Studio, Mill Valley, CA" href="/lookup_show.php?shows_key=418523">03/??/75</a>
+                                </td>
+        <td>Bob Weir's Studio</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(418523); return false;" href="/db/myshows/insert/shows_key/418523">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+04/02/75
+Aces Studio, Mill Valley, CA" href="/lookup_show.php?shows_key=129888">04/02/75</a>
+                                </td>
+        <td>Ace's Studio</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+                <a title="Grateful Dead 1975-04-02 Ace&#039;s Studio, Mill Valley, CA  *Rehearsal SBD*" href="http://bt.etree.org/details.php?id=503675"><img src="/bt.png" border="0"></a>
+                <a title="gd75-04-02.14290.studio.backus.sbeok.t-flac16 - Final Comment -" href="http://bt.etree.org/details.php?id=537462"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd75-04-02.sbd.backus.14290.sbeok.shnf" href="https://www.archive.org/details/gd75-04-02.sbd.backus.14290.sbeok.shnf"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(129888); return false;" href="/db/myshows/insert/shows_key/129888">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="rehearsals; 1st Gen cass&gt; PCM&gt; SEK&#039;D Prodif96Pro&gt; wav&gt; SHN; There&#039;s some question as to the accuracy of this date; via terrapinstation to etree" href="/shn/14290">14290</a>                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+04/17/75
+Aces Studio, Mill Valley, CA" href="/lookup_show.php?shows_key=83888">04/17/75</a>
+                                </td>
+        <td>Ace's Studio</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+                <a title="gd75-04-17.14291.sbd.backus.sbeok.t-flac16 - Final Comment -" href="http://bt.etree.org/details.php?id=537463"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd75-04-17.sbd.backus.14291.sbeok.shnf" href="https://www.archive.org/details/gd75-04-17.sbd.backus.14291.sbeok.shnf"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-04-17.122863.flacf" href="https://www.archive.org/details/gd1975-04-17.122863.flacf"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(83888); return false;" href="/db/myshows/insert/shows_key/83888">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="rehearsals; sbd&gt; ? gen cass&gt; PCM&gt; SEK&#039;D Prodif96Pro&gt; wav&gt; SHN; SBEs fixed with shntool, renamed to fit Etree standards and re-shn&#039;ed by terrapinstation" href="/shn/14291">14291</a>,                            <a title=" flac16 ; Straight from my reel to reel masters" href="/shn/122863">122863</a>                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+05/07/75
+Studio, Unknown, CA" href="/lookup_show.php?shows_key=134122">05/07/75</a>
+                                </td>
+        <td>Studio</td>
+        <td>Unknown</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(134122); return false;" href="/db/myshows/insert/shows_key/134122">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+05/28/75
+Club Front, San Rafael, CA" href="/lookup_show.php?shows_key=357941">05/28/75</a>
+                                </td>
+        <td>Club Front</td>
+        <td>San Rafael</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(357941); return false;" href="/db/myshows/insert/shows_key/357941">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+06/03/75
+Aces Studio, Mill Valley, CA" href="/lookup_show.php?shows_key=345728">06/03/75</a>
+                                </td>
+        <td>Ace's Studio</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(345728); return false;" href="/db/myshows/insert/shows_key/345728">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+06/04/75
+Aces Studio, Mill Valley, CA" href="/lookup_show.php?shows_key=345726">06/04/75</a>
+                                </td>
+        <td>Ace's Studio</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(345726); return false;" href="/db/myshows/insert/shows_key/345726">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+06/05/75
+Club Front, San Rafael, CA" href="/lookup_show.php?shows_key=129886">06/05/75</a>
+                                </td>
+        <td>Club Front</td>
+        <td>San Rafael</td>
+        <td>CA</td>
+        <td>
+                <a title="gd75-06-05.14292.sbd-rehersals.backus.sbeok.t-flac16" href="http://bt.etree.org/details.php?id=537491"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd75-06-05.sbd.backus.14292.sbeok.shnf" href="https://www.archive.org/details/gd75-06-05.sbd.backus.14292.sbeok.shnf"><img src="/lma.png" border="0"></a>
+                <a title="gd75-06-05.sbd.hanno.21936.sbeok.shnf" href="https://www.archive.org/details/gd75-06-05.sbd.hanno.21936.sbeok.shnf"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(129886); return false;" href="/db/myshows/insert/shows_key/129886">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="rehearsals; SBD: 2nd gen cass&gt; PCM&gt;SEK&#039;D Prodif96Pro&gt; wav&gt; SHN; SBEs fixed (with shntool), files renamed, re-shn&#039;ed, text file created by terrapinstation" href="/shn/14292">14292</a>,                            <a title="rehearsal sessions from June 3, 4 &amp; 5, 1975 from low-generation cassette. via Hanno Bunjes, Uli Teute" href="/shn/21936">21936</a>                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+06/07/75
+Bob Weirs Studio, Mill Valley, CA" href="/lookup_show.php?shows_key=418522">06/07/75</a>
+                                </td>
+        <td>Bob Weir's Studio</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+                <a title="gd1975-xx-xx.bluesruffs.sbd.smith.94427.sbeok.flac16" href="http://bt.etree.org/details.php?id=518441"><img src="/bt.png" border="0"></a>
+                <a title="gd75-06-07.94427.bluesruffs.sbd.smith.sbeok.flac16" href="http://bt.etree.org/details.php?id=537492"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd1975-06-07.bluesruffs.sbd.smith.94427.sbeok.flac16" href="https://www.archive.org/details/gd1975-06-07.bluesruffs.sbd.smith.94427.sbeok.flac16"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(418522); return false;" href="/db/myshows/insert/shows_key/418522">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title=" flac16 ; &quot;Blues Ruffs&quot; : SBD MR &gt; R &gt; Rs &gt; CD * &gt; EAC &gt; WAV &gt; FLAC via Matt Smith" href="/shn/94427">94427</a>                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+06/17/75
+Winterland Arena, San Francisco, CA" href="/lookup_show.php?shows_key=944">06/17/75</a>
+                                </td>
+        <td>Winterland Arena</td>
+        <td>San Francisco</td>
+        <td>CA</td>
+        <td>
+                <a title="gd1975-06-17.mtx.menke.gems.97079.flac16  ** New MTX MOTB/Gems**" href="http://bt.etree.org/details.php?id=521835"><img src="/bt.png" border="0"></a>
+                <a title="gd1975-06-17.fob.menke.motb.0033.97078.flac24  **New MOTB 24 Bit**" href="http://bt.etree.org/details.php?id=521820"><img src="/bt.png" border="0"></a>
+                <a title="gd1975-06-17.fob.menke.motb.0033.97077.flac16 **New MOTB 16 Bit**" href="http://bt.etree.org/details.php?id=521816"><img src="/bt.png" border="0"></a>
+                <a title="gd75-06-17.97079.mtx.menke.gems.flac16" href="http://bt.etree.org/details.php?id=537522"><img src="/bt.png" border="0"></a>
+                <a title="gd75-06-17.96125.sbd.gems.f-flac16" href="http://bt.etree.org/details.php?id=537521"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd75-06-17.bertrando.unknown.233.sbeok.shnf" href="https://www.archive.org/details/gd75-06-17.bertrando.unknown.233.sbeok.shnf"><img src="/lma.png" border="0"></a>
+                <a title="gd75-06-17.sbd.partial.backus.20084.sbeok.shnf" href="https://www.archive.org/details/gd75-06-17.sbd.partial.backus.20084.sbeok.shnf"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-06-17.mtx.chappell.SB7.29465.flac16" href="https://www.archive.org/details/gd1975-06-17.mtx.chappell.SB7.29465.flac16"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-06-17.aud.unknown.87560.flac16" href="https://www.archive.org/details/gd1975-06-17.aud.unknown.87560.flac16"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-06-17.sbd.GEMS.96125.flac16" href="https://www.archive.org/details/gd1975-06-17.sbd.GEMS.96125.flac16"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-06-17.mtx.tobin.96148.flac16" href="https://www.archive.org/details/gd1975-06-17.mtx.tobin.96148.flac16"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-06-17.mtx.dts.tobin.96162.flac16" href="https://www.archive.org/details/gd1975-06-17.mtx.dts.tobin.96162.flac16"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-06-17.fob.menke.motb.97077.flac16" href="https://www.archive.org/details/gd1975-06-17.fob.menke.motb.97077.flac16"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-06-17.fob.menke.motb.97078.flac24" href="https://www.archive.org/details/gd1975-06-17.fob.menke.motb.97078.flac24"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-06-17.mtx.menke.gems.97079.flac16" href="https://www.archive.org/details/gd1975-06-17.mtx.menke.gems.97079.flac16"><img src="/lma.png" border="0"></a>
+                                    
+                </td>
+        <td align="center"><a onClick="addShow(944); return false;" href="/db/myshows/insert/shows_key/944">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="AUD CM&gt;DAT&gt;CD&gt; EAC&gt; SHN; Recorded by Rob Bertrando: Sony ECM-280 mics
+&gt; Sony TC-152 SD cassette &gt; playback on Nak Dragon &gt; DAT; audience from
+Winterland floor, about 30-35&#039; back, just to the? left of dead center;
+via Alan Fink, Mark Ferguson" href="/shn/233">233</a>,                            <a title="sbd&gt;? gen cass&gt;PCM&gt;SEK&#039;D Prodif96Pro&gt;wav&gt;SHN via David Backus
+" href="/shn/20084">20084</a>,                            <a title=" flac16 ; AUD/SBD Matrix of 2 previously circulating sources: AUD - (shn ID #233) and SBD - (shn ID #20084).  Edited and converted by Chris Chappell." href="/shn/29465">29465</a>,                            <a title=" flac16 ; Sony ECM-280&#039;s &gt; Sony TC-152SD playback on Nak Dragon &gt; Sony PCM 601ES &gt; Beta Beta &gt; Sony R500 DAT &gt;HHb-850 CDR Pitch correction and slight EQ in Audacity" href="/shn/87560">87560</a>,                            <a title=" flac16 ; SBD Source: MSR@ 7 1/2 ips &gt; Maxell UDXL II reel @3 3/4 ips.(Will Boswell)&gt;Akai GX 625&gt;Apogee Mini Me(24/96)&gt;Apogee Mini DAC(monitoring/mastering)&gt;wavelab 5.0(dithered to 20/44)&gt;CD Edited and Mastered by Jamie Waddell on the GEMS Edit Station" href="/shn/96125">96125</a>,                            <a title=" flac16 ; Matrix 2 Source Mix - SBD (shn id 96125) MSR@ 7 1/2 ips &gt; Maxell UDXL II reel @3 3/4 ips.(Will Boswell)&gt;Akai GX 625&gt;Apogee Mini Me(24/96)&gt;Apogee Mini DAC(monitoring/mastering)&gt;wavelab 5.0(dithered to 20/44)&gt;CD CD&#039;s supplied by Matt Smith and edited by Jamie Waddell + AUD (shn id 233) AUD CM&gt;DAT&gt;CD&gt;EAC&gt;SHN Recorded by Rob Bertrando - patches, timing and matrix mixing by Kevin Tobin" href="/shn/96148">96148</a>,                            <a title=" DTS-Audio-CD 5.1 Mix ; - SBD (shn id 96125) MSR@ 7 1/2 ips &gt; Maxell UDXL II reel @3 3/4 ips.(Will Boswell)&gt;Akai GX 625&gt;Apogee Mini Me(24/96)&gt;Apogee Mini DAC(monitoring/mastering)&gt;wavelab 5.0(dithered to 20/44)&gt;CD CD&#039;s supplied by Matt Smith and edited by Jamie Waddell + AUD (shn id 233) AUD CM&gt;DAT&gt;CD&gt;EAC&gt;SHN Recorded by Rob Bertrando - patches, timing and dts encoding by Kevin Tobin" href="/shn/96162">96162</a>,                            <a title=" flac16 ; 1 x ECM 250, 1 x ECM 270 =&gt; Sony TC-152SD &gt;&gt; MAC  &gt;&gt; Nakamichi CR7a =&gt; Korg MR-1000 &gt;&gt; DSF [1-bit 5.6448 MHz Stereo] &gt;&gt; Korg MR-1000 =&gt; Korg AudioGate &gt;&gt; WAV [24/96] Taped by Bob Menke &amp; Louis Falanga; Edited By Derek McCabe; MOTB 0033
+" href="/shn/97077">97077</a>,                            <a title=" flac24 ; 1 x ECM 250, 1 x ECM 270 =&gt; Sony TC-152SD &gt;&gt; MAC  &gt;&gt; Nakamichi CR7a =&gt; Korg MR-1000 &gt;&gt; DSF [1-bit 5.6448 MHz Stereo] &gt;&gt; Korg MR-1000 =&gt; Korg AudioGate &gt;&gt; WAV [24/96] Taped by Bob Menke &amp; Louis Falanga; Edited By Derek McCabe; MOTB 0033" href="/shn/97078">97078</a>,                            <a title=" flac16 ; MTX 1 x ECM 250, 1 x ECM 270 =&gt; Sony TC-152SD &gt;&gt; MAC  &gt;&gt; Nakamichi CR7a =&gt; Korg MR-1000 &gt;&gt; DSF [1-bit 5.6448 MHz Stereo] &gt;&gt; Korg MR-1000 =&gt; Korg AudioGate &gt;&gt; WAV [24/96] Taped by Bob Menke &amp; Louis Falanga; Edited By Derek McCabe; MOTB 0033 and flac16; SBD Source: MSR@ 7 1/2 ips &gt; Maxell UDXL II reel @3 3/4 ips.(Will Boswell)&gt;Akai GX 625&gt;Apogee Mini Me(24/96)&gt;Apogee Mini DAC(monitoring/mastering)&gt;wavelab 5.0(dithered to 20/44)&gt;CD Edited and Mastered by Jamie Waddell on the GEMS Edit Station" href="/shn/97079">97079</a>,                            <a title=" flac16 ; Source: Sony ECM-280&#039;s &gt; Sony TC-152SD &gt; Cass master &gt; reel &gt; dat (44.1) - Recorded by Rob Bertrando from the floor, about 30-35&#039; back, just to the  left of dead  center. Provided by Tim Dalton. Transfer: Dat &gt; Sony PCM-R500 &gt; Tascam DA-3000 &gt; wav 16/44.1 - Transferred by Charlie Miller; Lineage: wav 16/44.1 &gt; iZotope RX6 advanced &gt; iZotope Ozone 5 Advanced &gt;CD Wave &gt;Flac 16; edited and mastered SIRMick September 2018;  fixed version  in circulation" href="/shn/143100">143100</a>,                            <a title=" flac16 ; Source: Sony ECM-280&#039;s &gt; Sony TC-152SD &gt; Cass master &gt; reel &gt; dat (44.1) - Recorded by Rob Bertrando from the floor, about 30-35&#039; back, just to the  left of dead  center Provided by Tim Dalton; Transfer: Dat &gt; Sony PCM-R500 &gt; Tascam DA-3000 &gt; wav 16/44.1 - Transferred by Charlie Miller; Lineage: wav 16/44.1 &gt; iZotope RX6 advanced &gt; iZotope Ozone 5 Advanced &gt;CD Wave &gt;Flac 16; fixed version of  source ID 143100 " href="/shn/143102">143102</a>                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+06/26/75
+Granada Theater, U.C.S.B., Santa Barbara, CA" href="/lookup_show.php?shows_key=2468">06/26/75</a>
+                                </td>
+        <td>Granada Theater, U.C.S.B.</td>
+        <td>Santa Barbara</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(2468); return false;" href="/db/myshows/insert/shows_key/2468">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+06/??/75
+Club Front Rehearsals, San Rafael, CA" href="/lookup_show.php?shows_key=199826">06/??/75</a>
+                                </td>
+        <td>Club Front Rehearsals</td>
+        <td>San Rafael</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(199826); return false;" href="/db/myshows/insert/shows_key/199826">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+07/07/75
+Aces Studio, Mill Valley, CA" href="/lookup_show.php?shows_key=129885">07/07/75</a>
+                                </td>
+        <td>Ace's Studio</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+    
+                <a title="gd75-07-07.sbd.backus.14293.sbeok.shnf" href="https://www.archive.org/details/gd75-07-07.sbd.backus.14293.sbeok.shnf"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(129885); return false;" href="/db/myshows/insert/shows_key/129885">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="sbd&gt;? gen cass&gt; PCM&gt; SEK&#039;D Prodif96Pro&gt; wav&gt; SHN; via terrapinstation to etree" href="/shn/14293">14293</a>                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+07/23/75
+Club Front Studio, San Rafael, CA" href="/lookup_show.php?shows_key=660638">07/23/75</a>
+                                </td>
+        <td>Club Front Studio</td>
+        <td>San Rafael</td>
+        <td>CA</td>
+        <td>
+                <a title="gd1975-07-23.140800.studio.bershaw.flac16" href="http://bt.etree.org/details.php?id=597856"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd1975-07-23.140800.sbd.bershaw.flac1644" href="https://www.archive.org/details/gd1975-07-23.140800.sbd.bershaw.flac1644"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(660638); return false;" href="/db/myshows/insert/shows_key/660638">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title=" flac16 ; source/lineage: studio reel-&gt; ?-&gt; Maxell MX-S 100 cassette with Dolby B; Transfer: Nakamichi Dragon (playback with Dolby B) -&gt; Lexicon Lambda-&gt; Logic Pro-&gt; wav -&gt; xAct -&gt; flac" href="/shn/140800">140800</a>                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+07/24/75
+Club Front Studio, San Rafael, CA" href="/lookup_show.php?shows_key=660639">07/24/75</a>
+                                </td>
+        <td>Club Front Studio</td>
+        <td>San Rafael</td>
+        <td>CA</td>
+        <td>
+                <a title="gd1975-07-24.140801.studio.bershaw.flac16" href="http://bt.etree.org/details.php?id=597857"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd1975-07-24.140801.sbd.bershaw.flac1644" href="https://www.archive.org/details/gd1975-07-24.140801.sbd.bershaw.flac1644"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(660639); return false;" href="/db/myshows/insert/shows_key/660639">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title=" flac16 ; source/lineage: studio reel-&gt; ?-&gt; Maxell MX-S 100 cassette with Dolby B; Transfer: Nakamichi Dragon (playback with Dolby B) -&gt; Lexicon Lambda-&gt; Logic Pro-&gt; wav -&gt; xAct -&gt; flac" href="/shn/140801">140801</a>                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+08/13/75
+Great American Music Hall, San Francisco, CA" href="/lookup_show.php?shows_key=945">08/13/75</a>
+                                </td>
+        <td>Great American Music Hall</td>
+        <td>San Francisco</td>
+        <td>CA</td>
+        <td>
+                <a title="gd75-08-13.23661.fm.vernon.sbeok.t-flac16" href="http://bt.etree.org/details.php?id=537550"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd1975-08-13.fm.cousinit.18512.sbeok.shnf" href="https://www.archive.org/details/gd1975-08-13.fm.cousinit.18512.sbeok.shnf"><img src="/lma.png" border="0"></a>
+                <a title="gd75-08-13.fm.vernon.23661.sbeok.shnf" href="https://www.archive.org/details/gd75-08-13.fm.vernon.23661.sbeok.shnf"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(945); return false;" href="/db/myshows/insert/shows_key/945">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="FM Source:  SBD&gt;FM&gt;MC&gt;DAT&gt;WAV&gt;SHN
+SBD Source: MSR&gt;R(2)&gt;C&gt;DAT&gt;WAV&gt;SHN
+
+With full intro and tunings- these are missing from the OFTV release." href="/shn/18512">18512</a>,                            <a title="Pitch corrected version of FM broadcast originally seeded by CousinIt by Matt Vernon" href="/shn/23661">23661</a>                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+09/01/75
+Club Front Studio, San Rafael, CA" href="/lookup_show.php?shows_key=660704">09/01/75</a>
+                                </td>
+        <td>Club Front Studio</td>
+        <td>San Rafael</td>
+        <td>CA</td>
+        <td>
+                <a title="gd1975-09-01.140813.studio.bershaw.flac16" href="http://bt.etree.org/details.php?id=597860"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd1975-09-01.140813.studio.bershaw.flac1644" href="https://www.archive.org/details/gd1975-09-01.140813.studio.bershaw.flac1644"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(660704); return false;" href="/db/myshows/insert/shows_key/660704">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title=" flac16 ; source/lineage: studio reel-&gt; ?-&gt; Maxell MX-S 100 cassette with Dolby B; Transfer: Nakamichi Dragon (playback with Dolby B) -&gt; Lexicon Lambda-&gt; Logic Pro-&gt; wav -&gt; xAct -&gt; flac" href="/shn/140813">140813</a>                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+09/16/75
+Club Front Studio, San Rafael, CA" href="/lookup_show.php?shows_key=660637">09/16/75</a>
+                                </td>
+        <td>Club Front Studio</td>
+        <td>San Rafael</td>
+        <td>CA</td>
+        <td>
+                <a title="gd1975-09-16.140795.studio.bershaw.flac16" href="http://bt.etree.org/details.php?id=597862"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd1975-09-16.140795.sbd.bershaw.flac1644" href="https://www.archive.org/details/gd1975-09-16.140795.sbd.bershaw.flac1644"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(660637); return false;" href="/db/myshows/insert/shows_key/660637">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title=" flac16 ; source/lineage: studio reel-&gt; ?-&gt; Maxell MX-S 100 cassette with Dolby B; Transfer: Nakamichi Dragon (playback with Dolby B) -&gt; Lexicon Lambda-&gt; Logic Pro-&gt; wav -&gt; xAct -&gt; flac" href="/shn/140795">140795</a>                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+09/28/75
+Lindley Meadows, Golden Gate Park, San Francisco, CA" href="/lookup_show.php?shows_key=66128">09/28/75</a>
+                                </td>
+        <td>Lindley Meadows, Golden Gate Park</td>
+        <td>San Francisco</td>
+        <td>CA</td>
+        <td>
+                <a title="Grateful Dead 9/28/75 - Golden Gate Park - San Francisco, CA [SBD-BERTHA] *RESEED*" href="http://bt.etree.org/details.php?id=26365"><img src="/bt.png" border="0"></a>
+                <a title="Grateful Dead 75-09-28 Golden Gate Park - FOB Menke/Falanga/MOTB" href="http://bt.etree.org/details.php?id=515087"><img src="/bt.png" border="0"></a>
+                <a title="gd75-09-28.09392.sbd.fink.sbeok.t-llac16" href="http://bt.etree.org/details.php?id=537580"><img src="/bt.png" border="0"></a>
+                <a title="gd75-09-28.102155.mtx.seamons.t-flac16" href="http://bt.etree.org/details.php?id=537582"><img src="/bt.png" border="0"></a>
+                <a title="gd75-09-28.22257.sbd.bertha-ashley.sbeok.t-flac16" href="http://bt.etree.org/details.php?id=537581"><img src="/bt.png" border="0"></a>
+                <a title="Grateful Dead -- Hunter&#039;s Trix -- Vol. 59 -- 09/28/75 -- Lindley Meadows, Golden Gate Park - San Francisco, CA" href="http://bt.etree.org/details.php?id=539408"><img src="/bt.png" border="0"></a>
+                <a title="gd75-09-28.mtx.seamons" href="http://bt.etree.org/details.php?id=555862"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd1975-09-28.unknown.beggs.236.shnf" href="https://www.archive.org/details/gd1975-09-28.unknown.beggs.236.shnf"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-09-28.sbd.unknown.2562.sbefail.shnf" href="https://www.archive.org/details/gd1975-09-28.sbd.unknown.2562.sbefail.shnf"><img src="/lma.png" border="0"></a>
+                <a title="gd75-09-28.sbd.fink.9392.sbeok.shnf" href="https://www.archive.org/details/gd75-09-28.sbd.fink.9392.sbeok.shnf"><img src="/lma.png" border="0"></a>
+                <a title="gd75-09-28.sbd.bertha-ashley.22257.sbeok.shnf" href="https://www.archive.org/details/gd75-09-28.sbd.bertha-ashley.22257.sbeok.shnf"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-09-28.aud.gofob.86250.flac16" href="https://www.archive.org/details/gd1975-09-28.aud.gofob.86250.flac16"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-09-28.fob.menke-falanga.motb-0069.91769.flac16" href="https://www.archive.org/details/gd1975-09-28.fob.menke-falanga.motb-0069.91769.flac16"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-09-28.fob.menke-falanga.motb-0069.91770.flac24" href="https://www.archive.org/details/gd1975-09-28.fob.menke-falanga.motb-0069.91770.flac24"><img src="/lma.png" border="0"></a>
+                <a title="gd1975-09-28.mtx.seamons.102155.sbeok.flac16" href="https://www.archive.org/details/gd1975-09-28.mtx.seamons.102155.sbeok.flac16"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(66128); return false;" href="/db/myshows/insert/shows_key/66128">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="Source: ?? &gt; Turtle Tree &gt; CD &gt; SHN; via B. Beggs; note some confusion
+on this etreed material, needs sorting out" href="/shn/236">236</a>,                            <a title="sbd&gt; reel (mic mix)&gt; DAT&gt; CD; via Mike Lai; modified info file courtesy Dave Laesser; note TLEO not included" href="/shn/2562">2562</a>,                            <a title="SBD : MR &gt; DAT &gt; CDR (HHb850); DAT &gt; CDR transfer by Dan Sisler; Seeded to etree by Alan J. Fink" href="/shn/9392">9392</a>,                            <a title="Bertha Remaster of the master reel source; SBD&gt;&gt;MR&gt;&gt;DAT&gt;&gt;CDA&gt;&gt;WAV(EAC)&gt;&gt;SHN&gt;&gt;DAW(Bertha)&gt;&gt;CDA/SHN - Sound A
+
+" href="/shn/22257">22257</a>,                            <a title=" flac16 ; Source: On Stage Mic&#039;s (BY Band) &gt; ? &gt; Dat @ 44.1 Transfer: Fostex D5 &gt; Zoltrix &gt; Sf 6.0 (fades,normalized,patches) &gt; Cd Wave &gt; Flac 16/44.1" href="/shn/86250">86250</a>,                            <a title=" flac16 ; Analog Audience Source: FOB Master Cassettes (MAC) Medium Stock Brands: MAC = 2 x Maxell UD 120 Analog Lineage: 2 x Sony ECM-270 =&gt; Sony TC-152 &gt;&gt; MAC Analog Sound Preservation: MAC &gt;&gt; Nakamichi DR-8 =&gt; Korg MR-1000 &gt;&gt; DSF [1-bit 5.6448 MHz Stereo] &gt;&gt; Korg MR-1000 =&gt; Korg AudioGate &gt;&gt; WAV [24/96] Taped By: Bob Menke and Louis Falanga Transfer By: Bob Menke Mastering By: Derek McCabe" href="/shn/91769">91769</a>,                            <a title=" flac24 ; Analog Audience Source: FOB Master Cassettes (MAC) Medium Stock Brands: MAC = 2 x Maxell UD 120 Analog Lineage: 2 x Sony ECM-270 =&gt; Sony TC-152 &gt;&gt; MAC Analog Sound Preservation: MAC &gt;&gt; Nakamichi DR-8 =&gt; Korg MR-1000 &gt;&gt; DSF [1-bit 5.6448 MHz Stereo] &gt;&gt; Korg MR-1000 =&gt; Korg AudioGate &gt;&gt; WAV [24/96] Taped By: Bob Menke and Louis Falanga" href="/shn/91770">91770</a>,                            <a title=" flac16 ; Matrix by Hunter Seamons using Final Cut Pro (SHN &amp; FLAC&gt;AIFF&gt;Final Cut&gt;WAV&gt;FLAC16)" href="/shn/102155">102155</a>                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+??/??/75
+Rehearsals, Mill Valley, CA" href="/lookup_show.php?shows_key=128984">??/??/75</a>
+                                </td>
+        <td>Rehearsals</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(128984); return false;" href="/db/myshows/insert/shows_key/128984">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+??/??/75
+Rehearsals, Mill Valley, CA" href="/lookup_show.php?shows_key=179824">??/??/75</a>
+                                </td>
+        <td>Rehearsals</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(179824); return false;" href="/db/myshows/insert/shows_key/179824">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+??/??/75
+Bob Weirs Studio, Mill Valley, CA" href="/lookup_show.php?shows_key=440233">??/??/75</a>
+                                </td>
+        <td>Bob Weir's Studio</td>
+        <td>Mill Valley</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(440233); return false;" href="/db/myshows/insert/shows_key/440233">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+</table>
+
+<div class="footer">
+	<p>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1939">
+        Unknown</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1963">
+        1963</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1964">
+        1964</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1965">
+        1965</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1966">
+        1966</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1967">
+        1967</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1968">
+        1968</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1969">
+        1969</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1970">
+        1970</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1971">
+        1971</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1972">
+        1972</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1973">
+        1973</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1974">
+        1974</a>
+            <a class="selected_year" href="/db/shows/browse/artist_key/2/year/1975">
+        1975</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1976">
+        1976</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1977">
+        1977</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1978">
+        1978</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1979">
+        1979</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1980">
+        1980</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1981">
+        1981</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1982">
+        1982</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1983">
+        1983</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1984">
+        1984</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1985">
+        1985</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1986">
+        1986</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1987">
+        1987</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1988">
+        1988</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1989">
+        1989</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1990">
+        1990</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1991">
+        1991</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1992">
+        1992</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1993">
+        1993</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1994">
+        1994</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1995">
+        1995</a>
+    	</p>
+</div>
+
+<script>
+    
+    function addTextTools(node) {
+        new jsTextTools($(node));
+    }
+    
+
+    field = new Ajax.InPlaceEditor('2', '/lib/inline_artist.php?artist_key=2&field=name', {size:50});
+
+
+function addShow(shows_key, shninfo_key) {
+    Windows.closeAllModalWindows();
+    if (shninfo_key == 'undefined') shninfo_key = 0;
+    Dialog.info({url: '/myshows_add_inline.php?shows_key=' + shows_key + '&shninfo_key=' + shninfo_key},
+        {
+        id: 'win_addshow',
+        className: 'alphacube',
+        title: 'Add To Your Collection',
+        height: 400
+        }
+    );
+}
+
+
+</script>
+<div id="footer" style="font-size:0.8em">
+<center>
+	<table width=80%>
+		<tr><td colspan="5">
+			<hr>
+
+		
+		</td></tr>
+
+		
+
+		<tr class="hl">
+		<td>All content by members of the etree.org community, for the etree.org community. &copy; 2018 etree.org</tr>
+		        <td>       	
+			<div style="text-align:right;">
+			Cached: Wed, 13 Nov 2019 07:59:23 EST<br>
+			</div>
+			</td>
+		</tr>
+	</table>
+</center>
+</div>
+
+
+
+
+</body></html>

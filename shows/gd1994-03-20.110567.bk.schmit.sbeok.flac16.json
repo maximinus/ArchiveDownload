@@ -1,0 +1,72 @@
+{
+    "title": "gd1994-03-20.110567.bk.schmit.sbeok.flac16",
+    "venue": "Richfield Coliseum",
+    "year": 1994,
+    "month": 3,
+    "day": 20,
+    "songs": [
+        {
+            "song": "walk on",
+            "order": 1,
+            "length": 101,
+            "ogg": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t01.mp3"
+        },
+        {
+            "song": "Cold Rain and Snow",
+            "order": 2,
+            "length": 439,
+            "ogg": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t02.mp3"
+        },
+        {
+            "song": "It's All Over Now",
+            "order": 3,
+            "length": 461,
+            "ogg": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t03.mp3"
+        },
+        {
+            "song": "Candyman",
+            "order": 4,
+            "length": 425,
+            "ogg": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t04.mp3"
+        },
+        {
+            "song": "Mama Tried",
+            "order": 5,
+            "length": 147,
+            "ogg": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t05.mp3"
+        },
+        {
+            "song": "Big River",
+            "order": 6,
+            "length": 387,
+            "ogg": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t06.mp3"
+        },
+        {
+            "song": "Lazy River Road",
+            "order": 7,
+            "length": 476,
+            "ogg": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t07.mp3"
+        },
+        {
+            "song": "Let It Grow",
+            "order": 8,
+            "length": 757,
+            "ogg": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t08.mp3"
+        },
+        {
+            "song": "Don't Ease Me In",
+            "order": 9,
+            "length": 193,
+            "ogg": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t09.ogg",
+            "mp3": "https://archive.org/download/gd1994-03-20.110567.bk.schmit.sbeok.flac16/gd1994-03-20d1t09.mp3"
+        }
+    ]
+}

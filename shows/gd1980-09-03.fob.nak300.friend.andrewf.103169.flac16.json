@@ -1,0 +1,191 @@
+{
+    "title": "gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16",
+    "venue": "Springfield Civic Center",
+    "year": 1980,
+    "month": 9,
+    "day": 3,
+    "songs": [
+        {
+            "song": "crowd & tuning",
+            "order": 1,
+            "length": 50,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t01.mp3"
+        },
+        {
+            "song": "Mississippi Half Step >",
+            "order": 2,
+            "length": 491,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t02.mp3"
+        },
+        {
+            "song": "Franklin's Tower >",
+            "order": 3,
+            "length": 547,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t03.mp3"
+        },
+        {
+            "song": "Mama Tried >",
+            "order": 4,
+            "length": 145,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t04.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 5,
+            "length": 339,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t05.mp3"
+        },
+        {
+            "song": "Althea >",
+            "order": 6,
+            "length": 474,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t06.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 7,
+            "length": 490,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t07.mp3"
+        },
+        {
+            "song": "Candyman",
+            "order": 8,
+            "length": 502,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t08.mp3"
+        },
+        {
+            "song": "Easy to Love You",
+            "order": 9,
+            "length": 245,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t09.mp3"
+        },
+        {
+            "song": "Let it Grow >",
+            "order": 10,
+            "length": 646,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t10.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 11,
+            "length": 274,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t11.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s1t11.mp3"
+        },
+        {
+            "song": "crowd & tuning",
+            "order": 12,
+            "length": 129,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t01.mp3"
+        },
+        {
+            "song": "Feel Like a Stranger",
+            "order": 13,
+            "length": 698,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t02.mp3"
+        },
+        {
+            "song": "High Time",
+            "order": 14,
+            "length": 515,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t03.mp3"
+        },
+        {
+            "song": "Lost Sailor >",
+            "order": 15,
+            "length": 411,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t04.mp3"
+        },
+        {
+            "song": "Saint of Circumstance >",
+            "order": 16,
+            "length": 367,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t05.mp3"
+        },
+        {
+            "song": "Jam >",
+            "order": 17,
+            "length": 326,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t06.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 18,
+            "length": 636,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t07.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 19,
+            "length": 148,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t08.mp3"
+        },
+        {
+            "song": "He's Gone >",
+            "order": 20,
+            "length": 621,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t09.mp3"
+        },
+        {
+            "song": "Truckin' >",
+            "order": 21,
+            "length": 447,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t10.mp3"
+        },
+        {
+            "song": "Black Peter >",
+            "order": 22,
+            "length": 540,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t11.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t11.mp3"
+        },
+        {
+            "song": "Around & Around >",
+            "order": 23,
+            "length": 235,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t12.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t12.mp3"
+        },
+        {
+            "song": "Johnny B. Goode",
+            "order": 24,
+            "length": 279,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t13.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t13.mp3"
+        },
+        {
+            "song": "crowd & tuning",
+            "order": 25,
+            "length": 48,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t14.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t14.mp3"
+        },
+        {
+            "song": "Brokedown Palace",
+            "order": 26,
+            "length": 328,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t15.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.friend.andrewf.103169.flac16/gd1980-09-03s2t15.mp3"
+        }
+    ]
+}

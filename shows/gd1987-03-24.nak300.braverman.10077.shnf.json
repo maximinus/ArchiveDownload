@@ -1,0 +1,135 @@
+{
+    "title": "gd1987-03-24.nak300.braverman.10077.shnf",
+    "venue": "Hampton Coliseum",
+    "year": 1987,
+    "month": 3,
+    "day": 24,
+    "songs": [
+        {
+            "song": "Jack Straw",
+            "order": 1,
+            "length": 402,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t01.mp3"
+        },
+        {
+            "song": "Candyman",
+            "order": 2,
+            "length": 438,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t02.mp3"
+        },
+        {
+            "song": "Minglewood Blues",
+            "order": 3,
+            "length": 414,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t03.mp3"
+        },
+        {
+            "song": "Loser",
+            "order": 4,
+            "length": 448,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t04.mp3"
+        },
+        {
+            "song": "Mama Tried",
+            "order": 5,
+            "length": 152,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t05.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 6,
+            "length": 333,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t06.mp3"
+        },
+        {
+            "song": "Ramble on Rose",
+            "order": 7,
+            "length": 386,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t07.mp3"
+        },
+        {
+            "song": "Let It Grow",
+            "order": 8,
+            "length": 641,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d1t08.mp3"
+        },
+        {
+            "song": "Gimme Some Lovin'",
+            "order": 9,
+            "length": 314,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t01.mp3"
+        },
+        {
+            "song": "Black Muddy River",
+            "order": 10,
+            "length": 373,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t02.mp3"
+        },
+        {
+            "song": "Playing in the Band",
+            "order": 11,
+            "length": 518,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t03.mp3"
+        },
+        {
+            "song": "Terrapin",
+            "order": 12,
+            "length": 732,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t04.mp3"
+        },
+        {
+            "song": "drums",
+            "order": 13,
+            "length": 492,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t05.mp3"
+        },
+        {
+            "song": "space",
+            "order": 14,
+            "length": 380,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t06.mp3"
+        },
+        {
+            "song": "Dear Mr. Fantasy",
+            "order": 15,
+            "length": 330,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t07.mp3"
+        },
+        {
+            "song": "Wharf Rat",
+            "order": 16,
+            "length": 623,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t08.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t08.mp3"
+        },
+        {
+            "song": "Not Fade Away",
+            "order": 17,
+            "length": 437,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t09.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t09.mp3"
+        },
+        {
+            "song": "Brokedown Palace (encore)",
+            "order": 18,
+            "length": 373,
+            "ogg": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t10.ogg",
+            "mp3": "https://archive.org/download/gd1987-03-24.nak300.braverman.10077.shnf/gd87-03-24d2t10.mp3"
+        }
+    ]
+}

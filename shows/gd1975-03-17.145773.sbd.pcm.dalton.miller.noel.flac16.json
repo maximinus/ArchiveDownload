@@ -1,0 +1,114 @@
+{
+    "title": "gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16",
+    "venue": "Ace's",
+    "year": 1975,
+    "month": 3,
+    "day": 17,
+    "songs": [
+        {
+            "song": "jam (fades outs)",
+            "order": 1,
+            "length": 265,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t02.mp3"
+        },
+        {
+            "song": "One More Day jam (fades in, multiple takes)",
+            "order": 2,
+            "length": 225,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t03.mp3"
+        },
+        {
+            "song": "banter",
+            "order": 3,
+            "length": 703,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t04.mp3"
+        },
+        {
+            "song": "One More Day (David Crosby; vocals, multiple takes)",
+            "order": 4,
+            "length": 1357,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t05.mp3"
+        },
+        {
+            "song": "Homeward Through the Haze (David Crosby; vocals)",
+            "order": 5,
+            "length": 1133,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t06.mp3"
+        },
+        {
+            "song": "tuning -> jam (fades out)",
+            "order": 6,
+            "length": 1503,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t07.mp3"
+        },
+        {
+            "song": "One More Day (Phil blows it)",
+            "order": 7,
+            "length": 226,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t08.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t08.mp3"
+        },
+        {
+            "song": "One More Day (David Crosby; vocals, multiple takes)",
+            "order": 8,
+            "length": 576,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t09.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t09.mp3"
+        },
+        {
+            "song": "The Music Never Stopped intro",
+            "order": 9,
+            "length": 628,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t10.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t10.mp3"
+        },
+        {
+            "song": "The Music Never Stopped intro (playback)",
+            "order": 10,
+            "length": 283,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t11.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t11.mp3"
+        },
+        {
+            "song": "tuning/Happy Birthday/Frozen Logger/The Music Never Stopped/jam",
+            "order": 11,
+            "length": 345,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t12.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t12.mp3"
+        },
+        {
+            "song": "The Music Never Stopped",
+            "order": 12,
+            "length": 322,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t13.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t13.mp3"
+        },
+        {
+            "song": "jam (multiple takes)",
+            "order": 13,
+            "length": 350,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t14.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t14.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 14,
+            "length": 228,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t15.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t15.mp3"
+        },
+        {
+            "song": "jam",
+            "order": 15,
+            "length": 159,
+            "ogg": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t16.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-17.145773.sbd.pcm.dalton.miller.noel.flac16/gd75-03-17.s1t16.mp3"
+        }
+    ]
+}

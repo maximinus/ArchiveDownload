@@ -1,0 +1,79 @@
+{
+    "title": "gd1981-05-08.139413.set2.aud.schley.flac2448",
+    "venue": "Nassau Coliseum",
+    "year": 1981,
+    "month": 5,
+    "day": 8,
+    "songs": [
+        {
+            "song": "Shakedown Street >",
+            "order": 1,
+            "length": 1021,
+            "ogg": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t01.mp3"
+        },
+        {
+            "song": "Samson & Delilah",
+            "order": 2,
+            "length": 422,
+            "ogg": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t02.mp3"
+        },
+        {
+            "song": "Terrapin >",
+            "order": 3,
+            "length": 789,
+            "ogg": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t03.mp3"
+        },
+        {
+            "song": "Playin' in the Band >",
+            "order": 4,
+            "length": 1004,
+            "ogg": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t04.mp3"
+        },
+        {
+            "song": "Drums (with Ken Kesey) >",
+            "order": 5,
+            "length": 445,
+            "ogg": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t05.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 6,
+            "length": 396,
+            "ogg": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t06.mp3"
+        },
+        {
+            "song": "Not Fade Away >",
+            "order": 7,
+            "length": 548,
+            "ogg": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t07.mp3"
+        },
+        {
+            "song": "Stella Blue >",
+            "order": 8,
+            "length": 574,
+            "ogg": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t08.mp3"
+        },
+        {
+            "song": "Sugar Magnolia",
+            "order": 9,
+            "length": 551,
+            "ogg": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t09.mp3"
+        },
+        {
+            "song": "Encore: U.S. Blues",
+            "order": 10,
+            "length": 363,
+            "ogg": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.139413.set2.aud.schley.flac2448/gd1981-05-08s2t10.mp3"
+        }
+    ]
+}

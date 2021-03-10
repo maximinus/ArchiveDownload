@@ -1,0 +1,163 @@
+{
+    "title": "gd1988-09-11.109518.nak-pasternak.mallick.flac16",
+    "venue": "The Spectrum",
+    "year": 1988,
+    "month": 9,
+    "day": 11,
+    "songs": [
+        {
+            "song": "Iko Iko",
+            "order": 1,
+            "length": 485,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t01.mp3"
+        },
+        {
+            "song": "Feel Like a Stranger>",
+            "order": 2,
+            "length": 469,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t02.mp3"
+        },
+        {
+            "song": "Franklin's Tower",
+            "order": 3,
+            "length": 519,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t03.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 4,
+            "length": 567,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t04.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 5,
+            "length": 394,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t05.mp3"
+        },
+        {
+            "song": "Stuck Inside of Mobile",
+            "order": 6,
+            "length": 638,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t06.mp3"
+        },
+        {
+            "song": "Tennessee Jed",
+            "order": 7,
+            "length": 512,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t07.mp3"
+        },
+        {
+            "song": "Promised Land",
+            "order": 8,
+            "length": 291,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d1t08.mp3"
+        },
+        {
+            "song": "Foolish Heart",
+            "order": 9,
+            "length": 651,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d2t01.mp3"
+        },
+        {
+            "song": "Victim or the Crime",
+            "order": 10,
+            "length": 348,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d2t02.mp3"
+        },
+        {
+            "song": "Scarlet Begonias>",
+            "order": 11,
+            "length": 449,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d2t03.mp3"
+        },
+        {
+            "song": "Fire on the Mountain>",
+            "order": 12,
+            "length": 649,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d2t04.mp3"
+        },
+        {
+            "song": "drums>",
+            "order": 13,
+            "length": 610,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d2t05.mp3"
+        },
+        {
+            "song": "fade out...",
+            "order": 14,
+            "length": 13,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d2t06.mp3"
+        },
+        {
+            "song": "fade in>",
+            "order": 15,
+            "length": 25,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t01.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t01.mp3"
+        },
+        {
+            "song": "space>",
+            "order": 16,
+            "length": 351,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t02.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t02.mp3"
+        },
+        {
+            "song": "The Wheel",
+            "order": 17,
+            "length": 295,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t03.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t03.mp3"
+        },
+        {
+            "song": "Stella Blue",
+            "order": 18,
+            "length": 512,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t04.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t04.mp3"
+        },
+        {
+            "song": "Throwin' Stones",
+            "order": 19,
+            "length": 544,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t05.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t05.mp3"
+        },
+        {
+            "song": "Not Fade Away",
+            "order": 20,
+            "length": 657,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t06.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t06.mp3"
+        },
+        {
+            "song": "NFA reprise",
+            "order": 21,
+            "length": 78,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t07.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t07.mp3"
+        },
+        {
+            "song": "E: Baby Blue",
+            "order": 22,
+            "length": 425,
+            "ogg": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t08.ogg",
+            "mp3": "https://archive.org/download/gd1988-09-11.109518.nak-pasternak.mallick.flac16/gd1988-09-11d3t08.mp3"
+        }
+    ]
+}

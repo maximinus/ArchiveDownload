@@ -1,0 +1,65 @@
+{
+    "title": "gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16",
+    "venue": "Madison Square Garden",
+    "year": 1994,
+    "month": 10,
+    "day": 15,
+    "songs": [
+        {
+            "song": "Shakedown Street",
+            "order": 1,
+            "length": 956,
+            "ogg": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t01.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 2,
+            "length": 536,
+            "ogg": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t02.mp3"
+        },
+        {
+            "song": "Stagger Lee",
+            "order": 3,
+            "length": 537,
+            "ogg": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t03.mp3"
+        },
+        {
+            "song": "Black Throated Wind *",
+            "order": 4,
+            "length": 390,
+            "ogg": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t04.mp3"
+        },
+        {
+            "song": "Just Like Tom Thumb's Blues",
+            "order": 5,
+            "length": 366,
+            "ogg": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t05.mp3"
+        },
+        {
+            "song": "Candyman",
+            "order": 6,
+            "length": 385,
+            "ogg": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t06.mp3"
+        },
+        {
+            "song": "Easy Answers ->",
+            "order": 7,
+            "length": 402,
+            "ogg": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t07.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 8,
+            "length": 545,
+            "ogg": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t08.ogg",
+            "mp3": "https://archive.org/download/gd1994-10-15.139074.FOB.BK4011.Ammons.Noel.t-flac16/gd94-10-15.s1t08.mp3"
+        }
+    ]
+}

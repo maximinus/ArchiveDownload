@@ -1,0 +1,128 @@
+{
+    "title": "gd1988-04-08.nak300.morris.crazyfingers.106590.flac16",
+    "venue": "The Centrum",
+    "year": 1988,
+    "month": 4,
+    "day": 8,
+    "songs": [
+        {
+            "song": "Jack Straw",
+            "order": 1,
+            "length": 301,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t01.mp3"
+        },
+        {
+            "song": "West L.A. Fadeaway",
+            "order": 2,
+            "length": 485,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t02.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 3,
+            "length": 515,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t03.mp3"
+        },
+        {
+            "song": "Stagger Lee",
+            "order": 4,
+            "length": 360,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t04.mp3"
+        },
+        {
+            "song": "Queen Jane Approximately",
+            "order": 5,
+            "length": 372,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t05.mp3"
+        },
+        {
+            "song": "Loser ->",
+            "order": 6,
+            "length": 409,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t06.mp3"
+        },
+        {
+            "song": "Let It Grow",
+            "order": 7,
+            "length": 632,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d1t07.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 8,
+            "length": 80,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t01.mp3"
+        },
+        {
+            "song": "Playing in the Band ->",
+            "order": 9,
+            "length": 322,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t02.mp3"
+        },
+        {
+            "song": "Crazy Fingers ->",
+            "order": 10,
+            "length": 448,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t03.mp3"
+        },
+        {
+            "song": "Uncle John's Band ->",
+            "order": 11,
+            "length": 555,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t04.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 12,
+            "length": 386,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t05.mp3"
+        },
+        {
+            "song": "Space ->",
+            "order": 13,
+            "length": 79,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t06.mp3"
+        },
+        {
+            "song": "The Other One ->",
+            "order": 14,
+            "length": 421,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t07.mp3"
+        },
+        {
+            "song": "Black Peter ->",
+            "order": 15,
+            "length": 434,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t08.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t08.mp3"
+        },
+        {
+            "song": "Turn On Your Lovelight",
+            "order": 16,
+            "length": 338,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t09.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t09.mp3"
+        },
+        {
+            "song": "Black Muddy River",
+            "order": 17,
+            "length": 404,
+            "ogg": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t10.ogg",
+            "mp3": "https://archive.org/download/gd1988-04-08.nak300.morris.crazyfingers.106590.flac16/gd88-04-08d2t10.mp3"
+        }
+    ]
+}

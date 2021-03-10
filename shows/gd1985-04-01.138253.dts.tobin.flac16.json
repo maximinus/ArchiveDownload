@@ -1,0 +1,149 @@
+{
+    "title": "gd1985-04-01.138253.dts.tobin.flac16",
+    "venue": "Cumberland County Civic Center",
+    "year": 1985,
+    "month": 4,
+    "day": 1,
+    "songs": [
+        {
+            "song": "Bertha",
+            "order": 1,
+            "length": 400,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d1t01.mp3"
+        },
+        {
+            "song": "Greatest Story Ever Told",
+            "order": 2,
+            "length": 367,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d1t02.mp3"
+        },
+        {
+            "song": "West L.A. Fadeaway",
+            "order": 3,
+            "length": 464,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d1t03.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 4,
+            "length": 481,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d1t04.mp3"
+        },
+        {
+            "song": "Bird Song",
+            "order": 5,
+            "length": 606,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d1t05.mp3"
+        },
+        {
+            "song": "Just Like Tom Thumb's Blues",
+            "order": 6,
+            "length": 333,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d1t06.mp3"
+        },
+        {
+            "song": "Looks Like Rain >",
+            "order": 7,
+            "length": 502,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d1t07.mp3"
+        },
+        {
+            "song": "Might As Well",
+            "order": 8,
+            "length": 253,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d1t08.mp3"
+        },
+        {
+            "song": "Tuning",
+            "order": 9,
+            "length": 72,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d2t01.mp3"
+        },
+        {
+            "song": "China Cat Sunflower >",
+            "order": 10,
+            "length": 338,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d2t02.mp3"
+        },
+        {
+            "song": "I Know You Rider",
+            "order": 11,
+            "length": 369,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d2t03.mp3"
+        },
+        {
+            "song": "Estimated Prophet >",
+            "order": 12,
+            "length": 648,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d2t04.mp3"
+        },
+        {
+            "song": "Eyes Of The World >",
+            "order": 13,
+            "length": 602,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d2t05.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 14,
+            "length": 442,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d2t06.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 15,
+            "length": 607,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d3t01.mp3"
+        },
+        {
+            "song": "The Other One >",
+            "order": 16,
+            "length": 365,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d3t02.mp3"
+        },
+        {
+            "song": "Stella Blue >",
+            "order": 17,
+            "length": 427,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d3t03.mp3"
+        },
+        {
+            "song": "Around & Around >",
+            "order": 18,
+            "length": 235,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d3t04.mp3"
+        },
+        {
+            "song": "Not Fade Away",
+            "order": 19,
+            "length": 567,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d3t05.mp3"
+        },
+        {
+            "song": "It's All Over Now Baby Blue",
+            "order": 20,
+            "length": 428,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1985-04-01.138253.dts.tobin.flac16/gd1985-04-01d3t06.mp3"
+        }
+    ]
+}

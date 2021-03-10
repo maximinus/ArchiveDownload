@@ -1,0 +1,163 @@
+{
+    "title": "gd1984-06-30.137073.mk41.miller.flac16",
+    "venue": "Indianapolis Sports and Music Center",
+    "year": 1984,
+    "month": 6,
+    "day": 30,
+    "songs": [
+        {
+            "song": "01 Jack Straw",
+            "order": 1,
+            "length": 381,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/01JackStraw.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/01JackStraw.mp3"
+        },
+        {
+            "song": "02 Dire Wolf",
+            "order": 2,
+            "length": 200,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/02DireWolf.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/02DireWolf.mp3"
+        },
+        {
+            "song": "03 Minglewood Blues",
+            "order": 3,
+            "length": 500,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/03MinglewoodBlues.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/03MinglewoodBlues.mp3"
+        },
+        {
+            "song": "04 Dupree's Diamond Blues",
+            "order": 4,
+            "length": 433,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/04DupreesDiamondBlues.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/04DupreesDiamondBlues.mp3"
+        },
+        {
+            "song": "05 Far From Me",
+            "order": 5,
+            "length": 277,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/05FarFromMe.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/05FarFromMe.mp3"
+        },
+        {
+            "song": "06 My Brother Esau",
+            "order": 6,
+            "length": 285,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/06MyBrotherEsau.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/06MyBrotherEsau.mp3"
+        },
+        {
+            "song": "07 Ramble On Rose",
+            "order": 7,
+            "length": 430,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/07RambleOnRose.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/07RambleOnRose.mp3"
+        },
+        {
+            "song": "08 Lost Sailor",
+            "order": 8,
+            "length": 354,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/08LostSailor.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/08LostSailor.mp3"
+        },
+        {
+            "song": "09 Saint Of Circumstance",
+            "order": 9,
+            "length": 407,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/09SaintOfCircumstance.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/09SaintOfCircumstance.mp3"
+        },
+        {
+            "song": "10 Deal",
+            "order": 10,
+            "length": 590,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/10Deal.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/10Deal.mp3"
+        },
+        {
+            "song": "11 Shakedown Street",
+            "order": 11,
+            "length": 861,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/11ShakedownStreet.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/11ShakedownStreet.mp3"
+        },
+        {
+            "song": "12 Playing In The Band",
+            "order": 12,
+            "length": 743,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/12PlayingInTheBand.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/12PlayingInTheBand.mp3"
+        },
+        {
+            "song": "13 Terrapin Station",
+            "order": 13,
+            "length": 815,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/13TerrapinStation.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/13TerrapinStation.mp3"
+        },
+        {
+            "song": "14 Drums",
+            "order": 14,
+            "length": 506,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/14Drums.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/14Drums.mp3"
+        },
+        {
+            "song": "15 Space",
+            "order": 15,
+            "length": 310,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/15Space.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/15Space.mp3"
+        },
+        {
+            "song": "16 Playing In The Band",
+            "order": 16,
+            "length": 225,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/16PlayingInTheBand.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/16PlayingInTheBand.mp3"
+        },
+        {
+            "song": "17 Truckin'",
+            "order": 17,
+            "length": 404,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/17Truckin.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/17Truckin.mp3"
+        },
+        {
+            "song": "18 Spoonful",
+            "order": 18,
+            "length": 181,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/18Spoonful.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/18Spoonful.mp3"
+        },
+        {
+            "song": "19 Stella Blue",
+            "order": 19,
+            "length": 474,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/19StellaBlue.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/19StellaBlue.mp3"
+        },
+        {
+            "song": "20 Going Down The Road Feeling Bad",
+            "order": 20,
+            "length": 380,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/20GoingDownTheRoadFeelingBad.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/20GoingDownTheRoadFeelingBad.mp3"
+        },
+        {
+            "song": "21 One More Saturday Night",
+            "order": 21,
+            "length": 301,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/21OneMoreSaturdayNight.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/21OneMoreSaturdayNight.mp3"
+        },
+        {
+            "song": "22 Keep Your Day Job",
+            "order": 22,
+            "length": 256,
+            "ogg": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/22KeepYourDayJob.ogg",
+            "mp3": "https://archive.org/download/gd1984-06-30.137073.mk41.miller.flac16/22KeepYourDayJob.mp3"
+        }
+    ]
+}

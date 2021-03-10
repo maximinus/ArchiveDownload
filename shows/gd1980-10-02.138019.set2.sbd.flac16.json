@@ -1,0 +1,86 @@
+{
+    "title": "gd1980-10-02.138019.set2.sbd.flac16",
+    "venue": "Warfield Theater",
+    "year": 1980,
+    "month": 10,
+    "day": 2,
+    "songs": [
+        {
+            "song": "Bertha",
+            "order": 1,
+            "length": 394,
+            "ogg": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/01.Bertha.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/01.Bertha.mp3"
+        },
+        {
+            "song": "Greatest Story Ever Told",
+            "order": 2,
+            "length": 257,
+            "ogg": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/02.GreatestStoryEverTold.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/02.GreatestStoryEverTold.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 3,
+            "length": 436,
+            "ogg": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/03.Peggy-o.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/03.Peggy-o.mp3"
+        },
+        {
+            "song": "Mama Tried",
+            "order": 4,
+            "length": 157,
+            "ogg": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/04.MamaTried.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/04.MamaTried.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 5,
+            "length": 322,
+            "ogg": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/05.MexicaliBlues.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/05.MexicaliBlues.mp3"
+        },
+        {
+            "song": "It Must Have Been The Roses",
+            "order": 6,
+            "length": 435,
+            "ogg": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/06.ItMustHaveBeenTheRoses.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/06.ItMustHaveBeenTheRoses.mp3"
+        },
+        {
+            "song": "It's All Over Now",
+            "order": 7,
+            "length": 498,
+            "ogg": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/07.ItsAllOverNow.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/07.ItsAllOverNow.mp3"
+        },
+        {
+            "song": "Loser",
+            "order": 8,
+            "length": 429,
+            "ogg": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/08.Loser.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/08.Loser.mp3"
+        },
+        {
+            "song": "Looks Like Rain",
+            "order": 9,
+            "length": 517,
+            "ogg": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/09.LooksLikeRain.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/09.LooksLikeRain.mp3"
+        },
+        {
+            "song": "China Cat Sunflower",
+            "order": 10,
+            "length": 409,
+            "ogg": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/10.ChinaCatSunflower.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/10.ChinaCatSunflower.mp3"
+        },
+        {
+            "song": "I Know You Rider",
+            "order": 11,
+            "length": 378,
+            "ogg": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/11.IKnowYouRider.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-02.138019.set2.sbd.flac16/11.IKnowYouRider.mp3"
+        }
+    ]
+}

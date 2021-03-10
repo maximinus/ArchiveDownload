@@ -1,0 +1,30 @@
+{
+    "title": "gd1970-09-17.partial.aud.weinberg.33826.flac16",
+    "venue": "Fillmore East",
+    "year": 1970,
+    "month": 9,
+    "day": 17,
+    "songs": [
+        {
+            "song": "Dark Star ->",
+            "order": 1,
+            "length": 1503,
+            "ogg": "https://archive.org/download/gd1970-09-17.partial.aud.weinberg.33826.flac16/gd1970-09-17d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1970-09-17.partial.aud.weinberg.33826.flac16/gd1970-09-17d1t01.mp3"
+        },
+        {
+            "song": "St. Stephen ->",
+            "order": 2,
+            "length": 361,
+            "ogg": "https://archive.org/download/gd1970-09-17.partial.aud.weinberg.33826.flac16/gd1970-09-17d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1970-09-17.partial.aud.weinberg.33826.flac16/gd1970-09-17d1t02.mp3"
+        },
+        {
+            "song": "Good Lovin'",
+            "order": 3,
+            "length": 876,
+            "ogg": "https://archive.org/download/gd1970-09-17.partial.aud.weinberg.33826.flac16/gd1970-09-17d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1970-09-17.partial.aud.weinberg.33826.flac16/gd1970-09-17d1t03.mp3"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "title": "gd1987-09-08.ecm220t.keshavan.miller.106822.flac16",
+    "venue": "Civic Center",
+    "year": 1987,
+    "month": 9,
+    "day": 8,
+    "songs": [
+        {
+            "song": "Tuning",
+            "order": 1,
+            "length": 113,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t01.mp3"
+        },
+        {
+            "song": "Mississippi Half-Step ->",
+            "order": 2,
+            "length": 497,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t02.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 3,
+            "length": 579,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t03.mp3"
+        },
+        {
+            "song": "They Love Each Other",
+            "order": 4,
+            "length": 529,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t04.mp3"
+        },
+        {
+            "song": "Queen Jane Approximately",
+            "order": 5,
+            "length": 317,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t05.mp3"
+        },
+        {
+            "song": "Row Jimmy",
+            "order": 6,
+            "length": 599,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t06.mp3"
+        },
+        {
+            "song": "The Music Never Stopped ->",
+            "order": 7,
+            "length": 432,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t07.mp3"
+        },
+        {
+            "song": "Don't Ease Me In",
+            "order": 8,
+            "length": 215,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t08.mp3"
+        },
+        {
+            "song": "Tuning",
+            "order": 9,
+            "length": 127,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t09.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t09.mp3"
+        },
+        {
+            "song": "Hell In A Bucket ->",
+            "order": 10,
+            "length": 362,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t10.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t10.mp3"
+        },
+        {
+            "song": "Fire On The Mountain",
+            "order": 11,
+            "length": 694,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t11.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d1t11.mp3"
+        },
+        {
+            "song": "Looks Like Rain ->",
+            "order": 12,
+            "length": 573,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t01.mp3"
+        },
+        {
+            "song": "Terrapin Station ->",
+            "order": 13,
+            "length": 670,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t02.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 14,
+            "length": 457,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t03.mp3"
+        },
+        {
+            "song": "Space ->",
+            "order": 15,
+            "length": 305,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t04.mp3"
+        },
+        {
+            "song": "The Other One ->",
+            "order": 16,
+            "length": 518,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t05.mp3"
+        },
+        {
+            "song": "Stella Blue ->",
+            "order": 17,
+            "length": 468,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t06.mp3"
+        },
+        {
+            "song": "Turn On Your Love Light",
+            "order": 18,
+            "length": 385,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t07.mp3"
+        },
+        {
+            "song": "Black Muddy River",
+            "order": 19,
+            "length": 415,
+            "ogg": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t08.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-08.ecm220t.keshavan.miller.106822.flac16/gd87-09-08d2t08.mp3"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "title": "gd1981-05-08.136537.aud.wise.minches.flac24",
+    "venue": "Nassau Coliseum",
+    "year": 1981,
+    "month": 5,
+    "day": 8,
+    "songs": [
+        {
+            "song": "t01.Set Up",
+            "order": 1,
+            "length": 123,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T01.setUp.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T01.setUp.mp3"
+        },
+        {
+            "song": "t02.Jack Straw",
+            "order": 2,
+            "length": 357,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T02.jackStraw.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T02.jackStraw.mp3"
+        },
+        {
+            "song": "t04.Me And My Uncle",
+            "order": 3,
+            "length": 177,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T04.meAndMyUncle.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T04.meAndMyUncle.mp3"
+        },
+        {
+            "song": "t05.Big River",
+            "order": 4,
+            "length": 374,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T05.bigRiver.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T05.bigRiver.mp3"
+        },
+        {
+            "song": "t06.Loser",
+            "order": 5,
+            "length": 481,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T06.loser.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T06.loser.mp3"
+        },
+        {
+            "song": "t07.C C Rider",
+            "order": 6,
+            "length": 495,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T07.cCRider.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T07.cCRider.mp3"
+        },
+        {
+            "song": "t08.Althea",
+            "order": 7,
+            "length": 514,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T08.althea.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T08.althea.mp3"
+        },
+        {
+            "song": "t09.Let It Grow",
+            "order": 8,
+            "length": 613,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T09.letItGrow.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T09.letItGrow.mp3"
+        },
+        {
+            "song": "t10.Don't Ease Me In",
+            "order": 9,
+            "length": 205,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T10.dontEaseMeIn.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T10.dontEaseMeIn.mp3"
+        },
+        {
+            "song": "t11.Set Up",
+            "order": 10,
+            "length": 39,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T11.setUp.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T11.setUp.mp3"
+        },
+        {
+            "song": "t12.Shakedown Street",
+            "order": 11,
+            "length": 966,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T12.shakedownStreet.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T12.shakedownStreet.mp3"
+        },
+        {
+            "song": "t13.Samson And Delilah",
+            "order": 12,
+            "length": 452,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T13.samsonAndDelilah.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T13.samsonAndDelilah.mp3"
+        },
+        {
+            "song": "t14.Terrapin Station",
+            "order": 13,
+            "length": 752,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T14.terrapinStation.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T14.terrapinStation.mp3"
+        },
+        {
+            "song": "t15.Playing In The Band",
+            "order": 14,
+            "length": 975,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T15.playingInTheBand.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T15.playingInTheBand.mp3"
+        },
+        {
+            "song": "t16.Drums",
+            "order": 15,
+            "length": 489,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T16.drums.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T16.drums.mp3"
+        },
+        {
+            "song": "t18.Not Fade Away",
+            "order": 16,
+            "length": 559,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T18.notFadeAway.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T18.notFadeAway.mp3"
+        },
+        {
+            "song": "t19.Stella Blue",
+            "order": 17,
+            "length": 545,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T19.stellaBlue.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T19.stellaBlue.mp3"
+        },
+        {
+            "song": "t20.Sugar Magnolia",
+            "order": 18,
+            "length": 551,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T20.sugarMagnolia.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T20.sugarMagnolia.mp3"
+        },
+        {
+            "song": "t21.U.S. Blues",
+            "order": 19,
+            "length": 348,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T21.u.s.Blues.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/T21.u.s.Blues.mp3"
+        },
+        {
+            "song": "Sugar Magnolia",
+            "order": 20,
+            "length": 418,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/t03.Peggy-O.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/t03.Peggy-O.mp3"
+        },
+        {
+            "song": "U.S. Blues",
+            "order": 21,
+            "length": 333,
+            "ogg": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/t17.Space.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-08.136537.aud.wise.minches.flac24/t17.Space.mp3"
+        }
+    ]
+}

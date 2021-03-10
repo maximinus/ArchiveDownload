@@ -1,0 +1,142 @@
+{
+    "title": "gd1991-05-04.nak300.unknown.laporte.98069.flac16",
+    "venue": "Cal Expo",
+    "year": 1991,
+    "month": 5,
+    "day": 4,
+    "songs": [
+        {
+            "song": "Hell in a Bucket",
+            "order": 1,
+            "length": 377,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T01.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T01.mp3"
+        },
+        {
+            "song": "Sugaree",
+            "order": 2,
+            "length": 932,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T02.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T02.mp3"
+        },
+        {
+            "song": "Minglewood Blues",
+            "order": 3,
+            "length": 487,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T03.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T03.mp3"
+        },
+        {
+            "song": "Loser",
+            "order": 4,
+            "length": 490,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T04.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T04.mp3"
+        },
+        {
+            "song": "The Race is On * (1)",
+            "order": 5,
+            "length": 210,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T05.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T05.mp3"
+        },
+        {
+            "song": "Row Jimmy",
+            "order": 6,
+            "length": 635,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T06.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T06.mp3"
+        },
+        {
+            "song": "Masterpiece",
+            "order": 7,
+            "length": 396,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T07.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T07.mp3"
+        },
+        {
+            "song": "Speedway Boogie >",
+            "order": 8,
+            "length": 549,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T08.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T08.mp3"
+        },
+        {
+            "song": "The Music Never Stopped",
+            "order": 9,
+            "length": 506,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T09.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set1_16bit_T09.mp3"
+        },
+        {
+            "song": "Victim or the Crime >",
+            "order": 10,
+            "length": 651,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T01.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T01.mp3"
+        },
+        {
+            "song": "Crazy Finger >",
+            "order": 11,
+            "length": 522,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T02.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T02.mp3"
+        },
+        {
+            "song": "Playin' in the Band >",
+            "order": 12,
+            "length": 549,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T03.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T03.mp3"
+        },
+        {
+            "song": "Uncle John's Band >",
+            "order": 13,
+            "length": 723,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T04.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T04.mp3"
+        },
+        {
+            "song": "Drums > (2)",
+            "order": 14,
+            "length": 704,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T05.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T05.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 15,
+            "length": 920,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T06.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T06.mp3"
+        },
+        {
+            "song": "I Need a Miracle >",
+            "order": 16,
+            "length": 343,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T07.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T07.mp3"
+        },
+        {
+            "song": "Standing on the Moon >",
+            "order": 17,
+            "length": 611,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T08.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T08.mp3"
+        },
+        {
+            "song": "Saturday Night",
+            "order": 18,
+            "length": 305,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T09.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T09.mp3"
+        },
+        {
+            "song": "Touch of Grey",
+            "order": 19,
+            "length": 432,
+            "ogg": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T10.ogg",
+            "mp3": "https://archive.org/download/gd1991-05-04.nak300.unknown.laporte.98069.flac16/GD91-05-04_Set2_16bit_T10.mp3"
+        }
+    ]
+}

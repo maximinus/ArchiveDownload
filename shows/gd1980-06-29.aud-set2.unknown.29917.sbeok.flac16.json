@@ -1,0 +1,72 @@
+{
+    "title": "gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16",
+    "venue": "Pauley Pavilion - University of California",
+    "year": 1980,
+    "month": 6,
+    "day": 29,
+    "songs": [
+        {
+            "song": "Don't Ease Me In",
+            "order": 1,
+            "length": 267,
+            "ogg": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t01.mp3"
+        },
+        {
+            "song": "Estimated Prophet >",
+            "order": 2,
+            "length": 646,
+            "ogg": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t02.mp3"
+        },
+        {
+            "song": "Scarlet Begonias // >",
+            "order": 3,
+            "length": 474,
+            "ogg": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t03.mp3"
+        },
+        {
+            "song": "Fire On the Mountain >",
+            "order": 4,
+            "length": 739,
+            "ogg": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t04.mp3"
+        },
+        {
+            "song": "Dru // ms >",
+            "order": 5,
+            "length": 585,
+            "ogg": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t05.mp3"
+        },
+        {
+            "song": "// Other One >",
+            "order": 6,
+            "length": 563,
+            "ogg": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t06.mp3"
+        },
+        {
+            "song": "Black Peter >",
+            "order": 7,
+            "length": 626,
+            "ogg": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t07.mp3"
+        },
+        {
+            "song": "Sugar Magnolia",
+            "order": 8,
+            "length": 489,
+            "ogg": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t08.mp3"
+        },
+        {
+            "song": "U.S. Blues",
+            "order": 9,
+            "length": 359,
+            "ogg": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-29.aud-set2.unknown.29917.sbeok.flac16/gd80-06-29s2t09.mp3"
+        }
+    ]
+}

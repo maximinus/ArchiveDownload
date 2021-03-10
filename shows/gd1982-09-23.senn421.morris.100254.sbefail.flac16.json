@@ -1,0 +1,184 @@
+{
+    "title": "gd1982-09-23.senn421.morris.100254.sbefail.flac16",
+    "venue": "New Haven Coliseum",
+    "year": 1982,
+    "month": 9,
+    "day": 23,
+    "songs": [
+        {
+            "song": "tuning",
+            "order": 1,
+            "length": 63,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t01.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t01.mp3"
+        },
+        {
+            "song": "Alabama Getaway ->",
+            "order": 2,
+            "length": 289,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t02.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t02.mp3"
+        },
+        {
+            "song": "Greatest Story Ever Told",
+            "order": 3,
+            "length": 248,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t03.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t03.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 4,
+            "length": 412,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t04.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t04.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 5,
+            "length": 516,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t05.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t05.mp3"
+        },
+        {
+            "song": "Tennessee Jed",
+            "order": 6,
+            "length": 510,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t06.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t06.mp3"
+        },
+        {
+            "song": "Mama Tried ->",
+            "order": 7,
+            "length": 173,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t07.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t07.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 8,
+            "length": 297,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t08.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t08.mp3"
+        },
+        {
+            "song": "Althea ->",
+            "order": 9,
+            "length": 479,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t09.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t09.mp3"
+        },
+        {
+            "song": "Let It Grow",
+            "order": 10,
+            "length": 676,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t10.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd1t10.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 11,
+            "length": 29,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd2t01.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd2t01.mp3"
+        },
+        {
+            "song": "Touch of Gray ->",
+            "order": 12,
+            "length": 382,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd2t02.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd2t02.mp3"
+        },
+        {
+            "song": "Lost Sailor ->",
+            "order": 13,
+            "length": 382,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd2t03.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd2t03.mp3"
+        },
+        {
+            "song": "St of Circumstance ->",
+            "order": 14,
+            "length": 403,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd2t04.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd2t04.mp3"
+        },
+        {
+            "song": "Ship of Fools",
+            "order": 15,
+            "length": 466,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd2t05.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd2t05.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 16,
+            "length": 28,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t01.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t01.mp3"
+        },
+        {
+            "song": "Throwin' Stones ->",
+            "order": 17,
+            "length": 379,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t02.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t02.mp3"
+        },
+        {
+            "song": "drums ->",
+            "order": 18,
+            "length": 365,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t03.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t03.mp3"
+        },
+        {
+            "song": "space ->",
+            "order": 19,
+            "length": 585,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t04.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t04.mp3"
+        },
+        {
+            "song": "The Wheel ->",
+            "order": 20,
+            "length": 406,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t05.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t05.mp3"
+        },
+        {
+            "song": "The Other One ->",
+            "order": 21,
+            "length": 402,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t06.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t06.mp3"
+        },
+        {
+            "song": "Wharf Rat ->",
+            "order": 22,
+            "length": 588,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t07.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t07.mp3"
+        },
+        {
+            "song": "Around & Around ->",
+            "order": 23,
+            "length": 221,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t08.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t08.mp3"
+        },
+        {
+            "song": "Johnny B. Goode",
+            "order": 24,
+            "length": 250,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t09.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t09.mp3"
+        },
+        {
+            "song": "It's All Over Now, Baby Blue",
+            "order": 25,
+            "length": 437,
+            "ogg": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t10.ogg",
+            "mp3": "https://archive.org/download/gd1982-09-23.senn421.morris.100254.sbefail.flac16/gd82-09-23audd3t10.mp3"
+        }
+    ]
+}

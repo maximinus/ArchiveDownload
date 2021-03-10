@@ -1,0 +1,247 @@
+{
+    "title": "gd1987-07-10.135281.dts.tobin.flac16",
+    "venue": "John F Kennedy Stadium",
+    "year": 1987,
+    "month": 7,
+    "day": 10,
+    "songs": [
+        {
+            "song": "Tuning",
+            "order": 1,
+            "length": 51,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d1t01.mp3"
+        },
+        {
+            "song": "Iko Iko",
+            "order": 2,
+            "length": 464,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d1t02.mp3"
+        },
+        {
+            "song": "Jack Straw",
+            "order": 3,
+            "length": 388,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d1t03.mp3"
+        },
+        {
+            "song": "Sugaree",
+            "order": 4,
+            "length": 510,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d1t04.mp3"
+        },
+        {
+            "song": "New Minglewood Blues",
+            "order": 5,
+            "length": 524,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d1t05.mp3"
+        },
+        {
+            "song": "Althea",
+            "order": 6,
+            "length": 441,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d1t06.mp3"
+        },
+        {
+            "song": "My Brother Esau",
+            "order": 7,
+            "length": 300,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d1t07.mp3"
+        },
+        {
+            "song": "Take A Step Back / Mexican Hat Dance Tuning",
+            "order": 8,
+            "length": 94,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d1t08.mp3"
+        },
+        {
+            "song": "When Push Comes To Shove",
+            "order": 9,
+            "length": 367,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d1t09.mp3"
+        },
+        {
+            "song": "Cassidy",
+            "order": 10,
+            "length": 486,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d1t10.mp3"
+        },
+        {
+            "song": "China Cat Sunflower ->",
+            "order": 11,
+            "length": 314,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d2t01.mp3"
+        },
+        {
+            "song": "I Know You Rider",
+            "order": 12,
+            "length": 395,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d2t02.mp3"
+        },
+        {
+            "song": "Looks Like Rain ->",
+            "order": 13,
+            "length": 508,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d2t03.mp3"
+        },
+        {
+            "song": "Terrapin Station ->",
+            "order": 14,
+            "length": 648,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d2t04.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 15,
+            "length": 576,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d2t05.mp3"
+        },
+        {
+            "song": "Space ->",
+            "order": 16,
+            "length": 265,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d2t06.mp3"
+        },
+        {
+            "song": "I Need A Miracle ->",
+            "order": 17,
+            "length": 316,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d2t07.mp3"
+        },
+        {
+            "song": "Black Peter ->",
+            "order": 18,
+            "length": 474,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d2t08.mp3"
+        },
+        {
+            "song": "Around And Around ->",
+            "order": 19,
+            "length": 261,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d2t09.mp3"
+        },
+        {
+            "song": "One More Saturday Night",
+            "order": 20,
+            "length": 283,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d2t10.mp3"
+        },
+        {
+            "song": "Tangled Up In Blue",
+            "order": 21,
+            "length": 343,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t01.mp3"
+        },
+        {
+            "song": "I'll Be Your Baby Tonight",
+            "order": 22,
+            "length": 312,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t02.mp3"
+        },
+        {
+            "song": "Man Of Peace",
+            "order": 23,
+            "length": 293,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t03.mp3"
+        },
+        {
+            "song": "The Ballad Of Frankie Lee And Judas Priest",
+            "order": 24,
+            "length": 326,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t04.mp3"
+        },
+        {
+            "song": "John Brown",
+            "order": 25,
+            "length": 372,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t05.mp3"
+        },
+        {
+            "song": "Simple Twist Of Fate",
+            "order": 26,
+            "length": 364,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t06.mp3"
+        },
+        {
+            "song": "Ballad Of A Thin Man",
+            "order": 27,
+            "length": 332,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t07.mp3"
+        },
+        {
+            "song": "Stuck Inside Of Mobile With The Memphis Blues Again",
+            "order": 28,
+            "length": 408,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t08.mp3"
+        },
+        {
+            "song": "Chimes Of Freedom",
+            "order": 29,
+            "length": 359,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t09.mp3"
+        },
+        {
+            "song": "Queen Jane Approximately",
+            "order": 30,
+            "length": 70,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t10.mp3"
+        },
+        {
+            "song": "Gotta Serve Somebody",
+            "order": 31,
+            "length": 263,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t11.mp3"
+        },
+        {
+            "song": "Joey",
+            "order": 32,
+            "length": 582,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t12.mp3"
+        },
+        {
+            "song": "All Along The Watchtower",
+            "order": 33,
+            "length": 456,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t13.mp3"
+        },
+        {
+            "song": "Touch Of Grey",
+            "order": 34,
+            "length": 385,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1987-07-10.135281.dts.tobin.flac16/gd1987-07-10d3t14.mp3"
+        }
+    ]
+}

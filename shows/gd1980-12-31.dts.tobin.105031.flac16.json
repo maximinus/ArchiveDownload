@@ -1,0 +1,275 @@
+{
+    "title": "gd1980-12-31.dts.tobin.105031.flac16",
+    "venue": "Oakland Auditorium Arena",
+    "year": 1980,
+    "month": 12,
+    "day": 31,
+    "songs": [
+        {
+            "song": "Dire Wolf",
+            "order": 1,
+            "length": 264,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t01.mp3"
+        },
+        {
+            "song": "Thank You Uncle Bobo!",
+            "order": 2,
+            "length": 72,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t02.mp3"
+        },
+        {
+            "song": "On The Road Again",
+            "order": 3,
+            "length": 299,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t03.mp3"
+        },
+        {
+            "song": "To Lay Me Down",
+            "order": 4,
+            "length": 649,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t04.mp3"
+        },
+        {
+            "song": "Monkey & The Engineer",
+            "order": 5,
+            "length": 218,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t05.mp3"
+        },
+        {
+            "song": "Jack-A-Roe",
+            "order": 6,
+            "length": 375,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t06.mp3"
+        },
+        {
+            "song": "Cassidy",
+            "order": 7,
+            "length": 371,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t07.mp3"
+        },
+        {
+            "song": "I've Been All Around This World",
+            "order": 8,
+            "length": 382,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t08.mp3"
+        },
+        {
+            "song": "The Race Is On",
+            "order": 9,
+            "length": 142,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t09.mp3"
+        },
+        {
+            "song": "Bird Song>",
+            "order": 10,
+            "length": 607,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t10.mp3"
+        },
+        {
+            "song": "Ripple",
+            "order": 11,
+            "length": 274,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t11.mp3"
+        },
+        {
+            "song": "Alabama Getaway>",
+            "order": 12,
+            "length": 356,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t12.mp3"
+        },
+        {
+            "song": "Greatest Story Ever Told",
+            "order": 13,
+            "length": 258,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t13.mp3"
+        },
+        {
+            "song": "Tuning (1)",
+            "order": 14,
+            "length": 94,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d1t14.mp3"
+        },
+        {
+            "song": "They Love Each Other",
+            "order": 15,
+            "length": 449,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d2t01.mp3"
+        },
+        {
+            "song": "Tuning (1)",
+            "order": 16,
+            "length": 94,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d2t02.mp3"
+        },
+        {
+            "song": "Little Red Rooster (2)",
+            "order": 17,
+            "length": 622,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d2t03.mp3"
+        },
+        {
+            "song": "China Cat Sunflower>",
+            "order": 18,
+            "length": 353,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d2t04.mp3"
+        },
+        {
+            "song": "I Know You Rider",
+            "order": 19,
+            "length": 426,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d2t05.mp3"
+        },
+        {
+            "song": "Looks Like Rain",
+            "order": 20,
+            "length": 527,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d2t06.mp3"
+        },
+        {
+            "song": "Althea",
+            "order": 21,
+            "length": 500,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d2t07.mp3"
+        },
+        {
+            "song": "Lost Sailor>",
+            "order": 22,
+            "length": 404,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d2t08.mp3"
+        },
+        {
+            "song": "Saint Of Circumstance>",
+            "order": 23,
+            "length": 385,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d2t09.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 24,
+            "length": 442,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d2t10.mp3"
+        },
+        {
+            "song": "New Years Countdown>",
+            "order": 25,
+            "length": 191,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d3t01.mp3"
+        },
+        {
+            "song": "Sugar Magnolia>",
+            "order": 26,
+            "length": 400,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d3t02.mp3"
+        },
+        {
+            "song": "Scarlet Begonias>",
+            "order": 27,
+            "length": 604,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d3t03.mp3"
+        },
+        {
+            "song": "Fire On The Mountain (3)",
+            "order": 28,
+            "length": 637,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d3t04.mp3"
+        },
+        {
+            "song": "Estimated Prophet>",
+            "order": 29,
+            "length": 772,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d3t05.mp3"
+        },
+        {
+            "song": "Jerry w/Drums",
+            "order": 30,
+            "length": 128,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d3t06.mp3"
+        },
+        {
+            "song": "Drums>",
+            "order": 31,
+            "length": 472,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d3t07.mp3"
+        },
+        {
+            "song": "Space>",
+            "order": 32,
+            "length": 409,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d4t01.mp3"
+        },
+        {
+            "song": "The Other One>",
+            "order": 33,
+            "length": 634,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d4t02.mp3"
+        },
+        {
+            "song": "Wharf Rat> (3)",
+            "order": 34,
+            "length": 592,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d4t03.mp3"
+        },
+        {
+            "song": "Around & Around> (3)",
+            "order": 35,
+            "length": 293,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d4t04.mp3"
+        },
+        {
+            "song": "Sunshine Daydream (3)",
+            "order": 36,
+            "length": 302,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d4t05.mp3"
+        },
+        {
+            "song": "I Can't Get No (Satisfaction) >",
+            "order": 37,
+            "length": 376,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d4t06.mp3"
+        },
+        {
+            "song": "Brokedown Palace",
+            "order": 38,
+            "length": 392,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-31.dts.tobin.105031.flac16/gd1980-12-31d4t07.mp3"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "title": "gd1983-06-22.fob.senn.andrewf.92208.flac16",
+    "venue": "City Island",
+    "year": 1983,
+    "month": 6,
+    "day": 22,
+    "songs": [
+        {
+            "song": "Feel Like a Stranger",
+            "order": 1,
+            "length": 544,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t01.mp3"
+        },
+        {
+            "song": "Friend of the Devil",
+            "order": 2,
+            "length": 534,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t02.mp3"
+        },
+        {
+            "song": "C.C. Rider",
+            "order": 3,
+            "length": 495,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t03.mp3"
+        },
+        {
+            "song": "Ramble on Rose",
+            "order": 4,
+            "length": 444,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t04.mp3"
+        },
+        {
+            "song": "Brother Esau",
+            "order": 5,
+            "length": 307,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t05.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 6,
+            "length": 664,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t06.mp3"
+        },
+        {
+            "song": "Three Mile Island announcement",
+            "order": 7,
+            "length": 34,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t07.mp3"
+        },
+        {
+            "song": "Hell in a Bucket",
+            "order": 8,
+            "length": 357,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d1t08.mp3"
+        },
+        {
+            "song": "China Cat Sunflower >",
+            "order": 9,
+            "length": 386,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t01.mp3"
+        },
+        {
+            "song": "I Know You Rider",
+            "order": 10,
+            "length": 396,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t02.mp3"
+        },
+        {
+            "song": "Playin' in the Band >",
+            "order": 11,
+            "length": 891,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t03.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 12,
+            "length": 463,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t04.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 13,
+            "length": 635,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t05.mp3"
+        },
+        {
+            "song": "I Need a Miracle >",
+            "order": 14,
+            "length": 256,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t06.mp3"
+        },
+        {
+            "song": "Stella Blue >",
+            "order": 15,
+            "length": 443,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t07.mp3"
+        },
+        {
+            "song": "Goin' Down the Road >",
+            "order": 16,
+            "length": 379,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t08.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t08.mp3"
+        },
+        {
+            "song": "Not Fade Away",
+            "order": 17,
+            "length": 467,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t09.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t09.mp3"
+        },
+        {
+            "song": "Brokedown Palace",
+            "order": 18,
+            "length": 354,
+            "ogg": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t10.ogg",
+            "mp3": "https://archive.org/download/gd1983-06-22.fob.senn.andrewf.92208.flac16/gd1983-06-22d2t10.mp3"
+        }
+    ]
+}

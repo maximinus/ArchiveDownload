@@ -1,0 +1,794 @@
+ 
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+    <META http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <META NAME="CREATED" CONTENT="19990905;23344153">
+    <META NAME="CHANGED" CONTENT="20080131;100192">
+    <TITLE>Grateful Dead 1965</TITLE>
+<meta name="DESCRIPTION" content="db.etree.org is the most popular site for finding and trading live concerts anywhere.">
+<meta name="KEYWORDS" content="shn,flac,shorten,live music,concerts,trade music,free music,sources,recording,performances">
+<meta http-equiv="X-UA-Compatible" content="IE=8;FF=3;OtherUA=4" />
+<link rel="shortcut icon" href="https://db.etree.org/favicon2.ico">
+<link rel="stylesheet" href="/lib/db.css" title="Classic" type="text/css">
+<link rel="alternate stylesheet" href="/lib/blue.css" type="text/css" title="Cerulean">
+<link rel="home" type="text/html" title="db.etree.org home" href="/">
+<link rel="up" type="text/html" title="My List" href="/db/index/mylist">
+<link rel="help" type="text/html" title="site documentation" href="/docs/">
+<link rel="search" type="text/html" title="search" href="/shows_search.php">
+<link rel="bookmark" type="text/html" title="Add Show" href="/myshows_add.php">
+<link rel="bookmark" type="text/html" title="Want List" href="/wantlist.php">
+<link rel="bookmark" type="text/html" title="Manage Lists" href="/mylists.php">
+<link rel="bookmark" type="text/html" title="My Trading Family" href="/my_family.php">
+
+<link rel="home" type="text/html" title="db.etree.org home" href="/">
+<link rel="up" type="text/html" title="My List" href="/db/index/mylist">
+<link rel="help" type="text/html" title="site documentation" href="/docs/">
+<link rel="search" type="text/html" title="search" href="/shows_search.php">
+<link rel="bookmark" type="text/html" title="Add Show" href="/myshows_add.php">
+<link rel="bookmark" type="text/html" title="Want List" href="/wantlist.php">
+<link rel="bookmark" type="text/html" title="Manage Lists" href="/mylists.php">
+<link rel="bookmark" type="text/html" title="My Trading Family" href="/my_family.php">
+
+
+<link rel="stylesheet" href="/lib/nicetitle.css" type="text/css">
+<script src="/js/lib/prototype.js"></script>
+<script src="/js/s.t.us/scriptaculous.js"></script>
+<script src="/js/s.t.us/effects.js"></script>
+<script src="/lib/nicetitle.js"></script>
+<script src="/js/db.js"></script>
+
+<script src="/js/jquery/jquery.min.js"></script>
+<script src="/js/jquery/jquery-ui.min.js"></script>
+<script>
+    jQuery.noConflict();
+</script>
+
+<script src="/js/texttools.js"></script>
+
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+
+<center>
+
+<div style="float:right;text-align:right;">
+
+<script>
+
+
+
+    if (readCookie('SHN')) {
+        document.write('<a href="/shnmaint/"><img src="/images/ico/user_suit.png" class="ico"> Source Admin</a> &nbsp;&nbsp; ');
+
+        document.write('<a href="/shnmaint/shows_corrections.php"><img src="/images/ico/text_signature.png" class="ico"> Approve Corrections</a> ');
+    }
+
+    if (readCookie('ADMIN')) {
+        document.write('&nbsp;&nbsp; <a href="/dbadmin/"><img src="/images/ico/user_gray.png" class="ico"> Administration</a> &nbsp;&nbsp;');
+    }
+
+    if (readCookie('musicLover')) {
+        document.write('<a href="/logout/"><img src="/images/ico/disconnect.png" class="ico"> Logout</a> &nbsp;&nbsp;');
+    } else {
+        document.write('<a href="/login/"><img src="/images/ico/user_go.png" class="ico"> Login</a> &nbsp;&nbsp;');
+        document.write('<a href="/adduser.php"><img src="/images/ico/user_add.png" width="16" height="16" class="ico"> Join db.etree</a> &nbsp;&nbsp;');
+    }
+
+
+</script>
+<br>
+</div>
+
+<div style="text-align:left;">
+<a href="/index.php"><img src="/etreedb-small.png" align="left" name="The Trader's Database" border="0"></a>
+
+<br style="font-size:.5em;">
+    <b>Browse</b>
+    <a href="/users.php"><img src="/images/ico/table_multiple.png" class="ico"> Collections</a>
+    <a href="/db/shows/artists"><img src="/images/ico/world.png" class="ico"> Artists</a>
+    <a href="/db/sources/artists/"><img src="/images/ico/page.png" class="ico"> Sources</a>
+
+    &nbsp;&nbsp;<b>Search</b>
+    <a href="/shows_search.php"><img src="/images/ico/find.png" class="ico">
+        Dates
+    </a>
+
+
+<br style="font-size:.5em;">
+<br style="font-size:.5em;">
+    <a href="/myshows_add.php"><img src="/images/ico/table_add.png" class="ico"> Add Show</a>
+
+    &nbsp;&nbsp;
+    <a href="/mylists_shows.php"><img src="/images/ico/application_form.png" class="ico"> List Management</a>
+
+    &nbsp;&nbsp;
+<a href="/docs/"><img src="/images/ico/help.png" class="ico"> Help</a>
+
+<br><br>
+</div>
+
+
+<br>
+
+<script src="/js/jquery/jquery.textareatools.js"></script>
+<script>
+    jQuery(function() {
+        jQuery('textarea').each(function(index, node) {
+            jQuery(this).textareaTools();
+        });
+    });
+</script>
+
+<style>
+
+a.selected_year {
+    background-color: #efd1b4;
+	color: black;
+    font-size: 1.2em;
+	font-weight: bold;
+	border: solid;
+	border-radius: 4px;
+	border-color: #efd1b4;
+}
+
+h1.billboard {
+	border: none;
+	border-radius: 10px;
+	border-color: #ef9b49;
+	width: 80%;
+	margin-top: 0px;
+}
+
+div.header {
+	background-color: #EF9B49;
+	width: 80%;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+div.footer {
+	background-color: #EF9B49;
+	width: 80%;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+div.header p, div.footer p {
+	padding: 5px;
+	line-height: 2em;
+}
+
+</style>
+
+
+    <h1 class="billboard">
+		<span id="2">Grateful Dead</span>
+	</h1>
+
+
+<div class="header">
+
+<p>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1939">
+    Unknown</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1963">
+    1963</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1964">
+    1964</a>
+    <a class="selected_year" href="/db/shows/browse/artist_key/2/year/1965">
+    1965</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1966">
+    1966</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1967">
+    1967</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1968">
+    1968</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1969">
+    1969</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1970">
+    1970</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1971">
+    1971</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1972">
+    1972</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1973">
+    1973</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1974">
+    1974</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1975">
+    1975</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1976">
+    1976</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1977">
+    1977</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1978">
+    1978</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1979">
+    1979</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1980">
+    1980</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1981">
+    1981</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1982">
+    1982</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1983">
+    1983</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1984">
+    1984</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1985">
+    1985</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1986">
+    1986</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1987">
+    1987</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1988">
+    1988</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1989">
+    1989</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1990">
+    1990</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1991">
+    1991</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1992">
+    1992</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1993">
+    1993</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1994">
+    1994</a>
+    <a class="" href="/db/shows/browse/artist_key/2/year/1995">
+    1995</a>
+</p>
+</div>
+
+
+<div class="t b1">
+    <a href="/db/shows/browse/artist_key/2/year/1965/diff/true">
+        <img class="ico" src="/images/ico/application_link.png"> Filter against your list
+    </a>
+
+</div>
+
+
+<table width="80%" valign="top">
+
+
+    <tr>
+        <th>Date</th>
+        <th>Venue</th>
+        <th>City</th>
+        <th>State</th>
+        <th>Download</th>
+        <th>Add</th>
+        <th>Sources</th>
+    </tr>
+
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+04/01/65
+Menlo College, Menlo Park, CA" href="/lookup_show.php?shows_key=1005">04/01/65</a>
+                                </td>
+        <td>Menlo College</td>
+        <td>Menlo Park</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(1005); return false;" href="/db/myshows/insert/shows_key/1005">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+05/05/65
+Magoos Pizza Parlor, Menlo Park, CA" href="/lookup_show.php?shows_key=1006">05/05/65</a>
+                                </td>
+        <td>Magoo's Pizza Parlor</td>
+        <td>Menlo Park</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(1006); return false;" href="/db/myshows/insert/shows_key/1006">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+05/12/65
+Magoos Pizza Parlor, Menlo Park, CA" href="/lookup_show.php?shows_key=1007">05/12/65</a>
+                                </td>
+        <td>Magoo's Pizza Parlor</td>
+        <td>Menlo Park</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(1007); return false;" href="/db/myshows/insert/shows_key/1007">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+05/19/65
+Magoos Pizza Parlor, Menlo Park, CA" href="/lookup_show.php?shows_key=665303">05/19/65</a>
+                                </td>
+        <td>Magoo's Pizza Parlor</td>
+        <td>Menlo Park</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(665303); return false;" href="/db/myshows/insert/shows_key/665303">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+05/27/65
+Magoos Pizza Parlor, Menlo Park, CA" href="/lookup_show.php?shows_key=1008">05/27/65</a>
+                                </td>
+        <td>Magoo's Pizza Parlor</td>
+        <td>Menlo Park</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(1008); return false;" href="/db/myshows/insert/shows_key/1008">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+06/18/65
+Frenchys, Hayward, CA" href="/lookup_show.php?shows_key=24">06/18/65</a>
+                                </td>
+        <td>Frenchy's</td>
+        <td>Hayward</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(24); return false;" href="/db/myshows/insert/shows_key/24">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+07/01/65
+Acid Test, Fillmore & L.A., CA" href="/lookup_show.php?shows_key=114803">07/01/65</a>
+                                </td>
+        <td>Acid Test</td>
+        <td>Fillmore & L.A.</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(114803); return false;" href="/db/myshows/insert/shows_key/114803">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+08/01/65
+Fireside Club, San Mateo, CA" href="/lookup_show.php?shows_key=25">08/01/65</a>
+                                </td>
+        <td>Fireside Club</td>
+        <td>San Mateo</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(25); return false;" href="/db/myshows/insert/shows_key/25">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+08/02/65
+Big Als Gas House, Redwood City, CA" href="/lookup_show.php?shows_key=26">08/02/65</a>
+                                </td>
+        <td>Big Al's Gas House</td>
+        <td>Redwood City</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(26); return false;" href="/db/myshows/insert/shows_key/26">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+08/03/65
+Cinnamon A-Go-Go, Redwood City, CA" href="/lookup_show.php?shows_key=27">08/03/65</a>
+                                </td>
+        <td>Cinnamon A-Go-Go</td>
+        <td>Redwood City</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(27); return false;" href="/db/myshows/insert/shows_key/27">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+09/01/65
+In Room, Belmont, CA" href="/lookup_show.php?shows_key=28">09/01/65</a>
+                                </td>
+        <td>In Room</td>
+        <td>Belmont</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(28); return false;" href="/db/myshows/insert/shows_key/28">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+11/01/65
+Pierres, San Francisco, CA" href="/lookup_show.php?shows_key=29">11/01/65</a>
+                                </td>
+        <td>Pierre's</td>
+        <td>San Francisco</td>
+        <td>CA</td>
+        <td>
+                <a title="mmw99-06-26.shnf" href="http://bt.etree.org/details.php?id=578097"><img src="/bt.png" border="0"></a>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(29); return false;" href="/db/myshows/insert/shows_key/29">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+11/03/65
+Golden State Studios, San Francisco, CA" href="/lookup_show.php?shows_key=30">11/03/65</a>
+                                </td>
+        <td>Golden State Studios</td>
+        <td>San Francisco</td>
+        <td>CA</td>
+        <td>
+                <a title="gd65-11-03.09044.sbd.vernon.sbeok.t-flac16" href="http://bt.etree.org/details.php?id=548641"><img src="/bt.png" border="0"></a>
+    
+                <a title="gd65-11-03.sbd.vernon.9044.sbeok.shnf" href="https://www.archive.org/details/gd65-11-03.sbd.vernon.9044.sbeok.shnf"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(30); return false;" href="/db/myshows/insert/shows_key/30">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="Autumn Records Demo, The Warlocks; SBD&gt; MR&gt; ??&gt; DAT&gt; CDR; via Raoul Duke; Seeded to etree by Matt Vernon" href="/shn/9044">9044</a>                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+11/29/65
+The Matrix, San Francicso, CA" href="/lookup_show.php?shows_key=164030">11/29/65</a>
+                                </td>
+        <td>The Matrix</td>
+        <td>San Francicso</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(164030); return false;" href="/db/myshows/insert/shows_key/164030">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+11/??/65
+Studio, San Francisco, CA" href="/lookup_show.php?shows_key=149791">11/??/65</a>
+                                </td>
+        <td>Studio</td>
+        <td>San Francisco</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(149791); return false;" href="/db/myshows/insert/shows_key/149791">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+12/04/65
+San Jose, San Jose, CA" href="/lookup_show.php?shows_key=133784">12/04/65</a>
+                                </td>
+        <td>San Jose</td>
+        <td>San Jose</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(133784); return false;" href="/db/myshows/insert/shows_key/133784">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+12/08/65
+The Matrix, San Francisco, CA" href="/lookup_show.php?shows_key=665304">12/08/65</a>
+                                </td>
+        <td>The Matrix</td>
+        <td>San Francisco</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(665304); return false;" href="/db/myshows/insert/shows_key/665304">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+12/10/65
+Fillmore Auditorium, San Francisco, CA" href="/lookup_show.php?shows_key=32">12/10/65</a>
+                                </td>
+        <td>Fillmore Auditorium</td>
+        <td>San Francisco</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(32); return false;" href="/db/myshows/insert/shows_key/32">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+12/11/65
+Muir Beach Lodge, Muir Beach, CA" href="/lookup_show.php?shows_key=33">12/11/65</a>
+                                </td>
+        <td>Muir Beach Lodge</td>
+        <td>Muir Beach</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(33); return false;" href="/db/myshows/insert/shows_key/33">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b2">
+        <td align="center">
+                                    <a title="Grateful Dead
+12/18/65
+The Big Beat Club, Palo Alto, CA" href="/lookup_show.php?shows_key=34">12/18/65</a>
+                                </td>
+        <td>The Big Beat Club</td>
+        <td>Palo Alto</td>
+        <td>CA</td>
+        <td>
+    
+            
+                </td>
+        <td align="center"><a onClick="addShow(34); return false;" href="/db/myshows/insert/shows_key/34">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                    </td>
+    </tr>
+    <tr class="b1">
+        <td align="center">
+                                    <a title="Grateful Dead
+??/??/65
+studio, n/a, CA" href="/lookup_show.php?shows_key=69790">??/??/65</a>
+                                </td>
+        <td>studio</td>
+        <td>n/a</td>
+        <td>CA</td>
+        <td>
+    
+                <a title="gd1965-11-01.sbd.bershaw.5417.sbeok.shnf" href="https://www.archive.org/details/gd1965-11-01.sbd.bershaw.5417.sbeok.shnf"><img src="/lma.png" border="0"></a>
+            
+                </td>
+        <td align="center"><a onClick="addShow(69790); return false;" href="/db/myshows/insert/shows_key/69790">add</a>
+
+</td>
+        <td style="padding-left:1em;">
+                            <a title="Neal Cassady &amp; Warlocks; part of Acid Test  compilation ; via Alan Bershaw, Thomas Wulf; md5s and txt shown  for this date only" href="/shn/5417">5417</a>                    </td>
+    </tr>
+</table>
+
+<div class="footer">
+	<p>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1939">
+        Unknown</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1963">
+        1963</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1964">
+        1964</a>
+            <a class="selected_year" href="/db/shows/browse/artist_key/2/year/1965">
+        1965</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1966">
+        1966</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1967">
+        1967</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1968">
+        1968</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1969">
+        1969</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1970">
+        1970</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1971">
+        1971</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1972">
+        1972</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1973">
+        1973</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1974">
+        1974</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1975">
+        1975</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1976">
+        1976</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1977">
+        1977</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1978">
+        1978</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1979">
+        1979</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1980">
+        1980</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1981">
+        1981</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1982">
+        1982</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1983">
+        1983</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1984">
+        1984</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1985">
+        1985</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1986">
+        1986</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1987">
+        1987</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1988">
+        1988</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1989">
+        1989</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1990">
+        1990</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1991">
+        1991</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1992">
+        1992</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1993">
+        1993</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1994">
+        1994</a>
+            <a class="" href="/db/shows/browse/artist_key/2/year/1995">
+        1995</a>
+    	</p>
+</div>
+
+<script>
+    
+    function addTextTools(node) {
+        new jsTextTools($(node));
+    }
+    
+
+    field = new Ajax.InPlaceEditor('2', '/lib/inline_artist.php?artist_key=2&field=name', {size:50});
+
+
+function addShow(shows_key, shninfo_key) {
+    Windows.closeAllModalWindows();
+    if (shninfo_key == 'undefined') shninfo_key = 0;
+    Dialog.info({url: '/myshows_add_inline.php?shows_key=' + shows_key + '&shninfo_key=' + shninfo_key},
+        {
+        id: 'win_addshow',
+        className: 'alphacube',
+        title: 'Add To Your Collection',
+        height: 400
+        }
+    );
+}
+
+
+</script>
+<div id="footer" style="font-size:0.8em">
+<center>
+	<table width=80%>
+		<tr><td colspan="5">
+			<hr>
+
+		
+		</td></tr>
+
+		
+
+		<tr class="hl">
+		<td>All content by members of the etree.org community, for the etree.org community. &copy; 2018 etree.org</tr>
+		        <td>       	
+			<div style="text-align:right;">
+			Cached: Wed, 13 Nov 2019 07:58:54 EST<br>
+			</div>
+			</td>
+		</tr>
+	</table>
+</center>
+</div>
+
+
+
+
+</body></html>

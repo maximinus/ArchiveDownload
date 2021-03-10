@@ -1,0 +1,65 @@
+{
+    "title": "gd1982-02-20.137590.s1.nak300.schley.flac2448",
+    "venue": "Golden Hall, Community Concourse",
+    "year": 1982,
+    "month": 2,
+    "day": 20,
+    "songs": [
+        {
+            "song": "Jack Straw",
+            "order": 1,
+            "length": 360,
+            "ogg": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t01.mp3"
+        },
+        {
+            "song": "They Love Each Other",
+            "order": 2,
+            "length": 491,
+            "ogg": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t02.mp3"
+        },
+        {
+            "song": "C.C. Rider",
+            "order": 3,
+            "length": 476,
+            "ogg": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t03.mp3"
+        },
+        {
+            "song": "Tennessee Jed",
+            "order": 4,
+            "length": 504,
+            "ogg": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t04.mp3"
+        },
+        {
+            "song": "Mama Tried >",
+            "order": 5,
+            "length": 184,
+            "ogg": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t05.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 6,
+            "length": 293,
+            "ogg": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t06.mp3"
+        },
+        {
+            "song": "To Lay Me Down >",
+            "order": 7,
+            "length": 528,
+            "ogg": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t07.mp3"
+        },
+        {
+            "song": "Let it Grow",
+            "order": 8,
+            "length": 726,
+            "ogg": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t08.ogg",
+            "mp3": "https://archive.org/download/gd1982-02-20.137590.s1.nak300.schley.flac2448/gd1982-02-20s1t08.mp3"
+        }
+    ]
+}

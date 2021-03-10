@@ -1,0 +1,44 @@
+{
+    "title": "gd1978-11-24.140483.prefm.partial.sirmick.sbeok.flac1644",
+    "venue": "Capitol Theatre",
+    "year": 1978,
+    "month": 11,
+    "day": 24,
+    "songs": [
+        {
+            "song": "KBFH intro >",
+            "order": 1,
+            "length": 44,
+            "ogg": "https://archive.org/download/gd1978-11-24.140483.prefm.partial.sirmick.sbeok.flac1644/gd1978-11-24t01.ogg",
+            "mp3": "https://archive.org/download/gd1978-11-24.140483.prefm.partial.sirmick.sbeok.flac1644/gd1978-11-24t01.mp3"
+        },
+        {
+            "song": "GD intro > Passenger",
+            "order": 2,
+            "length": 364,
+            "ogg": "https://archive.org/download/gd1978-11-24.140483.prefm.partial.sirmick.sbeok.flac1644/gd1978-11-24t02.ogg",
+            "mp3": "https://archive.org/download/gd1978-11-24.140483.prefm.partial.sirmick.sbeok.flac1644/gd1978-11-24t02.mp3"
+        },
+        {
+            "song": "Sugaree",
+            "order": 3,
+            "length": 799,
+            "ogg": "https://archive.org/download/gd1978-11-24.140483.prefm.partial.sirmick.sbeok.flac1644/gd1978-11-24t03.ogg",
+            "mp3": "https://archive.org/download/gd1978-11-24.140483.prefm.partial.sirmick.sbeok.flac1644/gd1978-11-24t03.mp3"
+        },
+        {
+            "song": "I Need a Miracle >",
+            "order": 4,
+            "length": 267,
+            "ogg": "https://archive.org/download/gd1978-11-24.140483.prefm.partial.sirmick.sbeok.flac1644/gd1978-11-24t04.ogg",
+            "mp3": "https://archive.org/download/gd1978-11-24.140483.prefm.partial.sirmick.sbeok.flac1644/gd1978-11-24t04.mp3"
+        },
+        {
+            "song": "Good Lovin'",
+            "order": 5,
+            "length": 409,
+            "ogg": "https://archive.org/download/gd1978-11-24.140483.prefm.partial.sirmick.sbeok.flac1644/gd1978-11-24t05.ogg",
+            "mp3": "https://archive.org/download/gd1978-11-24.140483.prefm.partial.sirmick.sbeok.flac1644/gd1978-11-24t05.mp3"
+        }
+    ]
+}

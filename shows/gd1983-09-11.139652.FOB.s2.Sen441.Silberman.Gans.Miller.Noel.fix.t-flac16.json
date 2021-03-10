@@ -1,0 +1,121 @@
+{
+    "title": "gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16",
+    "venue": "Santa Fe Downs",
+    "year": 1983,
+    "month": 9,
+    "day": 11,
+    "songs": [
+        {
+            "song": "tuning",
+            "order": 1,
+            "length": 42,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t01.mp3"
+        },
+        {
+            "song": "Help on the Way ->",
+            "order": 2,
+            "length": 213,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t02.mp3"
+        },
+        {
+            "song": "Slipknot! ->",
+            "order": 3,
+            "length": 440,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t03.mp3"
+        },
+        {
+            "song": "Franklin's Tower ->",
+            "order": 4,
+            "length": 582,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t04.mp3"
+        },
+        {
+            "song": "Let It Grow",
+            "order": 5,
+            "length": 993,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t05.mp3"
+        },
+        {
+            "song": "He's Gone ->",
+            "order": 6,
+            "length": 646,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t06.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 7,
+            "length": 486,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t07.mp3"
+        },
+        {
+            "song": "Space ->",
+            "order": 8,
+            "length": 587,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t08.mp3"
+        },
+        {
+            "song": "Truckin' ->",
+            "order": 9,
+            "length": 475,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t09.mp3"
+        },
+        {
+            "song": "Wang Dang Doodle ->",
+            "order": 10,
+            "length": 648,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t10.mp3"
+        },
+        {
+            "song": "Morning Dew ->",
+            "order": 11,
+            "length": 609,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t11.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t11.mp3"
+        },
+        {
+            "song": "Around & Around->",
+            "order": 12,
+            "length": 222,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t12.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t12.mp3"
+        },
+        {
+            "song": "Sugar Magnolia ->",
+            "order": 13,
+            "length": 368,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t13.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t13.mp3"
+        },
+        {
+            "song": "Sunshine Daydream",
+            "order": 14,
+            "length": 254,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t14.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t14.mp3"
+        },
+        {
+            "song": "encore break",
+            "order": 15,
+            "length": 55,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t15.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t15.mp3"
+        },
+        {
+            "song": "U.S. Blues",
+            "order": 16,
+            "length": 326,
+            "ogg": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t16.ogg",
+            "mp3": "https://archive.org/download/gd1983-09-11.139652.FOB.s2.Sen441.Silberman.Gans.Miller.Noel.fix.t-flac16/gd83-09-11.s2t16.mp3"
+        }
+    ]
+}

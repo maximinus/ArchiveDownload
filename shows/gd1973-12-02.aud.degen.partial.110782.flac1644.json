@@ -1,0 +1,58 @@
+{
+    "title": "gd1973-12-02.aud.degen.partial.110782.flac1644",
+    "venue": "Music Hall",
+    "year": 1973,
+    "month": 12,
+    "day": 2,
+    "songs": [
+        {
+            "song": "boogie!",
+            "order": 1,
+            "length": 61,
+            "ogg": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t01.mp3"
+        },
+        {
+            "song": "Cold Rain & Snow",
+            "order": 2,
+            "length": 398,
+            "ogg": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t02.mp3"
+        },
+        {
+            "song": "Beat it On Down the Line",
+            "order": 3,
+            "length": 220,
+            "ogg": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t03.mp3"
+        },
+        {
+            "song": "Dire Wolf",
+            "order": 4,
+            "length": 294,
+            "ogg": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t04.mp3"
+        },
+        {
+            "song": "The Race is On",
+            "order": 5,
+            "length": 213,
+            "ogg": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t05.mp3"
+        },
+        {
+            "song": "Brown Eyed Women",
+            "order": 6,
+            "length": 302,
+            "ogg": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t06.mp3"
+        },
+        {
+            "song": "tech problems > taper gets busted",
+            "order": 7,
+            "length": 206,
+            "ogg": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1973-12-02.aud.degen.partial.110782.flac1644/gd1973-12-02s1t07.mp3"
+        }
+    ]
+}

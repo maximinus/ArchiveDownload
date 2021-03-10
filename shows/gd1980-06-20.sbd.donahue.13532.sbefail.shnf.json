@@ -1,0 +1,163 @@
+{
+    "title": "gd1980-06-20.sbd.donahue.13532.sbefail.shnf",
+    "venue": "West High Auditorium",
+    "year": 1980,
+    "month": 6,
+    "day": 20,
+    "songs": [
+        {
+            "song": "Jack Straw >",
+            "order": 1,
+            "length": 457,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t01.mp3"
+        },
+        {
+            "song": "Franklin's Tower >",
+            "order": 2,
+            "length": 661,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t02.mp3"
+        },
+        {
+            "song": "Mama Tried >",
+            "order": 3,
+            "length": 241,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t03.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 4,
+            "length": 415,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t04.mp3"
+        },
+        {
+            "song": "Friend Of The Devil",
+            "order": 5,
+            "length": 604,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t05.mp3"
+        },
+        {
+            "song": "Let It Grow >",
+            "order": 6,
+            "length": 477,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t06.mp3"
+        },
+        {
+            "song": "Althea",
+            "order": 7,
+            "length": 709,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t07.mp3"
+        },
+        {
+            "song": "Easy To Love You",
+            "order": 8,
+            "length": 431,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d1t08.mp3"
+        },
+        {
+            "song": "Lost Sailor >",
+            "order": 9,
+            "length": 397,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t01.mp3"
+        },
+        {
+            "song": "Saint Of Circumstance >",
+            "order": 10,
+            "length": 351,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t02.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 11,
+            "length": 329,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t03.mp3"
+        },
+        {
+            "song": "Alabama Getaway >",
+            "order": 12,
+            "length": 310,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t04.mp3"
+        },
+        {
+            "song": "Greatest Story Every Told",
+            "order": 13,
+            "length": 380,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t05.mp3"
+        },
+        {
+            "song": "Ship Of Fools",
+            "order": 14,
+            "length": 693,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t06.mp3"
+        },
+        {
+            "song": "Estimated Prophet >",
+            "order": 15,
+            "length": 827,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t07.mp3"
+        },
+        {
+            "song": "The Other One >",
+            "order": 16,
+            "length": 405,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d2t08.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 17,
+            "length": 424,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d3t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d3t01.mp3"
+        },
+        {
+            "song": "Not Fade Away >",
+            "order": 18,
+            "length": 421,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d3t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d3t02.mp3"
+        },
+        {
+            "song": "Black Peter >",
+            "order": 19,
+            "length": 600,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d3t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d3t03.mp3"
+        },
+        {
+            "song": "Around and Around >",
+            "order": 20,
+            "length": 236,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d3t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d3t04.mp3"
+        },
+        {
+            "song": "Johnny B. Goode",
+            "order": 21,
+            "length": 272,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d3t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d3t05.mp3"
+        },
+        {
+            "song": "Don't Ease Me In",
+            "order": 22,
+            "length": 218,
+            "ogg": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d3t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-06-20.sbd.donahue.13532.sbefail.shnf/gd80-06-20d3t06.mp3"
+        }
+    ]
+}

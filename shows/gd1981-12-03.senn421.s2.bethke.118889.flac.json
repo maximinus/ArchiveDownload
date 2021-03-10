@@ -1,0 +1,86 @@
+{
+    "title": "gd1981-12-03.senn421.s2.bethke.118889.flac",
+    "venue": "Dane County Coliseum",
+    "year": 1981,
+    "month": 12,
+    "day": 3,
+    "songs": [
+        {
+            "song": "Scarlet Begonias ->",
+            "order": 1,
+            "length": 729,
+            "ogg": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d01t01.ogg",
+            "mp3": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d01t01.mp3"
+        },
+        {
+            "song": "Fire On The Mountain ->",
+            "order": 2,
+            "length": 603,
+            "ogg": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d01t02.ogg",
+            "mp3": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d01t02.mp3"
+        },
+        {
+            "song": "Estimated Prophet ->",
+            "order": 3,
+            "length": 613,
+            "ogg": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d01t03.ogg",
+            "mp3": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d01t03.mp3"
+        },
+        {
+            "song": "He's Gone ->",
+            "order": 4,
+            "length": 791,
+            "ogg": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d01t04.ogg",
+            "mp3": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d01t04.mp3"
+        },
+        {
+            "song": "Jam ->",
+            "order": 5,
+            "length": 84,
+            "ogg": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d01t05.ogg",
+            "mp3": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d01t05.mp3"
+        },
+        {
+            "song": "Drums>",
+            "order": 6,
+            "length": 281,
+            "ogg": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d02t01.ogg",
+            "mp3": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d02t01.mp3"
+        },
+        {
+            "song": "Space ->",
+            "order": 7,
+            "length": 582,
+            "ogg": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d02t02.ogg",
+            "mp3": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d02t02.mp3"
+        },
+        {
+            "song": "Truckin' ->",
+            "order": 8,
+            "length": 470,
+            "ogg": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d02t03.ogg",
+            "mp3": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d02t03.mp3"
+        },
+        {
+            "song": "Black Peter ->",
+            "order": 9,
+            "length": 627,
+            "ogg": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d02t04.ogg",
+            "mp3": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d02t04.mp3"
+        },
+        {
+            "song": "Around And Around ->",
+            "order": 10,
+            "length": 221,
+            "ogg": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d02t05.ogg",
+            "mp3": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d02t05.mp3"
+        },
+        {
+            "song": "Johnny B. Goode",
+            "order": 11,
+            "length": 225,
+            "ogg": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d02t06.ogg",
+            "mp3": "https://archive.org/download/gd1981-12-03.senn421.s2.bethke.118889.flac/gd1981-12-03.senn421.d02t06.mp3"
+        }
+    ]
+}

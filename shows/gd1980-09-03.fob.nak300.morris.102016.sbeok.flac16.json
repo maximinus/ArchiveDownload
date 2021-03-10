@@ -1,0 +1,205 @@
+{
+    "title": "gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16",
+    "venue": "Springfield Civic Center",
+    "year": 1980,
+    "month": 9,
+    "day": 3,
+    "songs": [
+        {
+            "song": "tuning",
+            "order": 1,
+            "length": 43,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t01.mp3"
+        },
+        {
+            "song": "Mississippi Halfstep ->",
+            "order": 2,
+            "length": 483,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t02.mp3"
+        },
+        {
+            "song": "Franklin's Tower ->",
+            "order": 3,
+            "length": 538,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t03.mp3"
+        },
+        {
+            "song": "Mama Tried ->",
+            "order": 4,
+            "length": 144,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t04.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 5,
+            "length": 283,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t05.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 6,
+            "length": 48,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t06.mp3"
+        },
+        {
+            "song": "Althea ->",
+            "order": 7,
+            "length": 466,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t07.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 8,
+            "length": 432,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t08.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 9,
+            "length": 66,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t09.mp3"
+        },
+        {
+            "song": "Candyman",
+            "order": 10,
+            "length": 483,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t10.mp3"
+        },
+        {
+            "song": "Easy To Love You",
+            "order": 11,
+            "length": 244,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t11.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t11.mp3"
+        },
+        {
+            "song": "Let It Grow ->",
+            "order": 12,
+            "length": 641,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t12.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t12.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 13,
+            "length": 260,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t13.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd1t13.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 14,
+            "length": 130,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd2t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd2t01.mp3"
+        },
+        {
+            "song": "Feel Like A Stranger",
+            "order": 15,
+            "length": 644,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd2t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd2t02.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 16,
+            "length": 61,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd2t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd2t03.mp3"
+        },
+        {
+            "song": "High Time",
+            "order": 17,
+            "length": 486,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd2t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd2t04.mp3"
+        },
+        {
+            "song": "Lost Sailor ->",
+            "order": 18,
+            "length": 432,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t01.mp3"
+        },
+        {
+            "song": "St of Circumstance ->",
+            "order": 19,
+            "length": 359,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t02.mp3"
+        },
+        {
+            "song": "jam ->",
+            "order": 20,
+            "length": 314,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t03.mp3"
+        },
+        {
+            "song": "drums ->",
+            "order": 21,
+            "length": 630,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t04.mp3"
+        },
+        {
+            "song": "space ->",
+            "order": 22,
+            "length": 141,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t05.mp3"
+        },
+        {
+            "song": "He's Gone -> ->",
+            "order": 23,
+            "length": 607,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t06.mp3"
+        },
+        {
+            "song": "Truckin' ->",
+            "order": 24,
+            "length": 442,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t07.mp3"
+        },
+        {
+            "song": "Black Peter ->",
+            "order": 25,
+            "length": 530,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t08.mp3"
+        },
+        {
+            "song": "Around & Around ->",
+            "order": 26,
+            "length": 231,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t09.mp3"
+        },
+        {
+            "song": "Johnny B. Goode",
+            "order": 27,
+            "length": 285,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t10.mp3"
+        },
+        {
+            "song": "Brokedown Palace",
+            "order": 28,
+            "length": 373,
+            "ogg": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t11.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-03.fob.nak300.morris.102016.sbeok.flac16/gd80-09-03audd3t11.mp3"
+        }
+    ]
+}

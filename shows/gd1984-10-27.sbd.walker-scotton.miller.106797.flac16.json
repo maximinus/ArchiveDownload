@@ -1,0 +1,30 @@
+{
+    "title": "gd1984-10-27.sbd.walker-scotton.miller.106797.flac16",
+    "venue": "Berkeley Community Theater",
+    "year": 1984,
+    "month": 10,
+    "day": 27,
+    "songs": [
+        {
+            "song": "Beat It On Down The Line",
+            "order": 1,
+            "length": 247,
+            "ogg": "https://archive.org/download/gd1984-10-27.sbd.walker-scotton.miller.106797.flac16/gd84-10-27t01.ogg",
+            "mp3": "https://archive.org/download/gd1984-10-27.sbd.walker-scotton.miller.106797.flac16/gd84-10-27t01.mp3"
+        },
+        {
+            "song": "Goin' Down The Road Feeling Bad ->",
+            "order": 2,
+            "length": 307,
+            "ogg": "https://archive.org/download/gd1984-10-27.sbd.walker-scotton.miller.106797.flac16/gd84-10-27t02.ogg",
+            "mp3": "https://archive.org/download/gd1984-10-27.sbd.walker-scotton.miller.106797.flac16/gd84-10-27t02.mp3"
+        },
+        {
+            "song": "One More Saturday Night",
+            "order": 3,
+            "length": 277,
+            "ogg": "https://archive.org/download/gd1984-10-27.sbd.walker-scotton.miller.106797.flac16/gd84-10-27t03.ogg",
+            "mp3": "https://archive.org/download/gd1984-10-27.sbd.walker-scotton.miller.106797.flac16/gd84-10-27t03.mp3"
+        }
+    ]
+}

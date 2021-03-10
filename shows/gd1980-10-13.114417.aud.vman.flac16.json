@@ -1,0 +1,226 @@
+{
+    "title": "gd1980-10-13.114417.aud.vman.flac16",
+    "venue": "Warfield Theater",
+    "year": 1980,
+    "month": 10,
+    "day": 13,
+    "songs": [
+        {
+            "song": "Weir's wedding anniversary",
+            "order": 1,
+            "length": 53,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t01.mp3"
+        },
+        {
+            "song": "On the Road Again",
+            "order": 2,
+            "length": 183,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t02.mp3"
+        },
+        {
+            "song": "Bird Song",
+            "order": 3,
+            "length": 469,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t03.mp3"
+        },
+        {
+            "song": "El Paso",
+            "order": 4,
+            "length": 300,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t04.mp3"
+        },
+        {
+            "song": "To Lay Me Down",
+            "order": 5,
+            "length": 517,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t05.mp3"
+        },
+        {
+            "song": "Heaven Help the Fool (instrumental)",
+            "order": 6,
+            "length": 366,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t06.mp3"
+        },
+        {
+            "song": "Jack-a-Roe",
+            "order": 7,
+            "length": 279,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t07.mp3"
+        },
+        {
+            "song": "The Race Is On",
+            "order": 8,
+            "length": 194,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t08.mp3"
+        },
+        {
+            "song": "Deep Elem Blues >",
+            "order": 9,
+            "length": 264,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t09.mp3"
+        },
+        {
+            "song": "Ripple",
+            "order": 10,
+            "length": 259,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t10.mp3"
+        },
+        {
+            "song": "Sugaree >",
+            "order": 11,
+            "length": 603,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t11.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t11.mp3"
+        },
+        {
+            "song": "Minglewood Blues",
+            "order": 12,
+            "length": 424,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t12.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t12.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 13,
+            "length": 369,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t13.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d01t13.mp3"
+        },
+        {
+            "song": "CC Rider",
+            "order": 14,
+            "length": 444,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t01.mp3"
+        },
+        {
+            "song": "Big Railroad Blues",
+            "order": 15,
+            "length": 200,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t02.mp3"
+        },
+        {
+            "song": "Lazy Lightning > Supplication",
+            "order": 16,
+            "length": 566,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t03.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 17,
+            "length": 397,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t04.mp3"
+        },
+        {
+            "song": "Cold Rain and Snow",
+            "order": 18,
+            "length": 337,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t05.mp3"
+        },
+        {
+            "song": "Samson and Delilah",
+            "order": 19,
+            "length": 697,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t06.mp3"
+        },
+        {
+            "song": "Ship of Fools",
+            "order": 20,
+            "length": 483,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d02t07.mp3"
+        },
+        {
+            "song": "Lost Sailor >",
+            "order": 21,
+            "length": 411,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t01.mp3"
+        },
+        {
+            "song": "Saint of Circumstance >",
+            "order": 22,
+            "length": 371,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t02.mp3"
+        },
+        {
+            "song": "Jam >",
+            "order": 23,
+            "length": 71,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t03.mp3"
+        },
+        {
+            "song": "Drums/",
+            "order": 24,
+            "length": 493,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t04.mp3"
+        },
+        {
+            "song": "Drumspace >",
+            "order": 25,
+            "length": 565,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t05.mp3"
+        },
+        {
+            "song": "He's Gone >",
+            "order": 26,
+            "length": 775,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t06.mp3"
+        },
+        {
+            "song": "The Other One >",
+            "order": 27,
+            "length": 492,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t07.mp3"
+        },
+        {
+            "song": "Stella Blue >",
+            "order": 28,
+            "length": 630,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t08.mp3"
+        },
+        {
+            "song": "Around and Around/",
+            "order": 29,
+            "length": 232,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t09.mp3"
+        },
+        {
+            "song": "Johnny B. Goode",
+            "order": 30,
+            "length": 273,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t10.mp3"
+        },
+        {
+            "song": "Casey Jones",
+            "order": 31,
+            "length": 349,
+            "ogg": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t11.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-13.114417.aud.vman.flac16/gd80-10-13.d03t11.mp3"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "title": "gd1977-10-28.101243.dts.tobin.flac16",
+    "venue": "Soldiers & Sailors Memorial Hall",
+    "year": 1977,
+    "month": 10,
+    "day": 28,
+    "songs": [
+        {
+            "song": "The Promised Land",
+            "order": 1,
+            "length": 389,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t01.mp3"
+        },
+        {
+            "song": "They Love Each Other",
+            "order": 2,
+            "length": 646,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t02.mp3"
+        },
+        {
+            "song": "Cassidy",
+            "order": 3,
+            "length": 410,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t03.mp3"
+        },
+        {
+            "song": "Tennessee Jed",
+            "order": 4,
+            "length": 771,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t04.mp3"
+        },
+        {
+            "song": "Mexicali Blues ->",
+            "order": 5,
+            "length": 193,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t05.mp3"
+        },
+        {
+            "song": "Big River",
+            "order": 6,
+            "length": 481,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t06.mp3"
+        },
+        {
+            "song": "Brown Eyed Women",
+            "order": 7,
+            "length": 437,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t07.mp3"
+        },
+        {
+            "song": "Lazy Lightnin' ->",
+            "order": 8,
+            "length": 202,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t08.mp3"
+        },
+        {
+            "song": "Supplication",
+            "order": 9,
+            "length": 398,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t09.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t09.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 10,
+            "length": 421,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t10.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d1t10.mp3"
+        },
+        {
+            "song": "Samson And Delilah",
+            "order": 11,
+            "length": 671,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d2t01.mp3"
+        },
+        {
+            "song": "Candyman",
+            "order": 12,
+            "length": 543,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d2t02.mp3"
+        },
+        {
+            "song": "Sunrise",
+            "order": 13,
+            "length": 343,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d2t03.mp3"
+        },
+        {
+            "song": "Passenger",
+            "order": 14,
+            "length": 445,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d2t04.mp3"
+        },
+        {
+            "song": "He's Gone ->",
+            "order": 15,
+            "length": 1178,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t01.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t01.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 16,
+            "length": 204,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t02.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t02.mp3"
+        },
+        {
+            "song": "Not Fade Away ->",
+            "order": 17,
+            "length": 834,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t03.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t03.mp3"
+        },
+        {
+            "song": "Stella Blue ->",
+            "order": 18,
+            "length": 687,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t04.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t04.mp3"
+        },
+        {
+            "song": "Goin' Down The Road Feeling Bad ->",
+            "order": 19,
+            "length": 447,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t05.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t05.mp3"
+        },
+        {
+            "song": "Around And Around",
+            "order": 20,
+            "length": 557,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t06.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t06.mp3"
+        },
+        {
+            "song": "Casey Jones",
+            "order": 21,
+            "length": 517,
+            "ogg": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t07.ogg",
+            "mp3": "https://archive.org/download/gd1977-10-28.101243.dts.tobin.flac16/gd1977-10-28d3t07.mp3"
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "title": "gd1989-10-09.nak300.juteau.116646.flac",
+    "venue": "Hampton Coliseum",
+    "year": 1989,
+    "month": 10,
+    "day": 9,
+    "songs": [
+        {
+            "song": "tuning/crowd",
+            "order": 1,
+            "length": 121,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t01.mp3"
+        },
+        {
+            "song": "Feel Like A Stranger",
+            "order": 2,
+            "length": 470,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t02.mp3"
+        },
+        {
+            "song": "Built To Last",
+            "order": 3,
+            "length": 318,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t03.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 4,
+            "length": 564,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t04.mp3"
+        },
+        {
+            "song": "Ramble On Rose",
+            "order": 5,
+            "length": 481,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t05.mp3"
+        },
+        {
+            "song": "We Can Run",
+            "order": 6,
+            "length": 398,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t06.mp3"
+        },
+        {
+            "song": "Jack-A-Roe",
+            "order": 7,
+            "length": 274,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t07.mp3"
+        },
+        {
+            "song": "Memphis Blues",
+            "order": 8,
+            "length": 678,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t08.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t08.mp3"
+        },
+        {
+            "song": "Row Jimmy",
+            "order": 9,
+            "length": 665,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t09.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t09.mp3"
+        },
+        {
+            "song": "The Music Never Stopped",
+            "order": 10,
+            "length": 490,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t10.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s1t10.mp3"
+        },
+        {
+            "song": "tuning/crowd",
+            "order": 11,
+            "length": 123,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t01.mp3"
+        },
+        {
+            "song": "Playin' In The Band >",
+            "order": 12,
+            "length": 639,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t02.mp3"
+        },
+        {
+            "song": "Uncle John's Band >",
+            "order": 13,
+            "length": 638,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t03.mp3"
+        },
+        {
+            "song": "Playin' In The Band",
+            "order": 14,
+            "length": 222,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t04.mp3"
+        },
+        {
+            "song": "Dark Star >",
+            "order": 15,
+            "length": 1161,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t05.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 16,
+            "length": 630,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t06.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 17,
+            "length": 609,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t07.mp3"
+        },
+        {
+            "song": "Death Don't Have No Mercy >",
+            "order": 18,
+            "length": 508,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t08.mp3"
+        },
+        {
+            "song": "Dear Mr. Fantasy >",
+            "order": 19,
+            "length": 279,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t09.mp3"
+        },
+        {
+            "song": "Hey Jude reprise >",
+            "order": 20,
+            "length": 222,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t10.mp3"
+        },
+        {
+            "song": "Throwing Stones >",
+            "order": 21,
+            "length": 617,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t11.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t11.mp3"
+        },
+        {
+            "song": "Good Lovin'",
+            "order": 22,
+            "length": 558,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t12.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t12.mp3"
+        },
+        {
+            "song": "Attics Of My Life",
+            "order": 23,
+            "length": 329,
+            "ogg": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t13.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-09.nak300.juteau.116646.flac/gd1989-10-09s2t13.mp3"
+        }
+    ]
+}

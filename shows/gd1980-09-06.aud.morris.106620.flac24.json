@@ -1,0 +1,261 @@
+{
+    "title": "gd1980-09-06.aud.morris.106620.flac24",
+    "venue": "State Fairgrounds",
+    "year": 1980,
+    "month": 9,
+    "day": 6,
+    "songs": [
+        {
+            "song": "tuning",
+            "order": 1,
+            "length": 104,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t01.mp3"
+        },
+        {
+            "song": "Alabama Getaway ->",
+            "order": 2,
+            "length": 313,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t02.mp3"
+        },
+        {
+            "song": "Greatest Story Ever Told",
+            "order": 3,
+            "length": 249,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t03.mp3"
+        },
+        {
+            "song": "Sugaree",
+            "order": 4,
+            "length": 908,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t04.mp3"
+        },
+        {
+            "song": "Me & My Uncle ->",
+            "order": 5,
+            "length": 184,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t05.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 6,
+            "length": 307,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t06.mp3"
+        },
+        {
+            "song": "Tennessee Jed",
+            "order": 7,
+            "length": 563,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t07.mp3"
+        },
+        {
+            "song": "Feel Like A Stranger",
+            "order": 8,
+            "length": 688,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t08.mp3"
+        },
+        {
+            "song": "take a step back",
+            "order": 9,
+            "length": 44,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t09.mp3"
+        },
+        {
+            "song": "Friend of the Devil",
+            "order": 10,
+            "length": 566,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d1t10.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 11,
+            "length": 46,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t01.mp3"
+        },
+        {
+            "song": "Far From Me ->",
+            "order": 12,
+            "length": 247,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t02.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 13,
+            "length": 586,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t03.mp3"
+        },
+        {
+            "song": "China Cat Sunflower ->",
+            "order": 14,
+            "length": 371,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t04.mp3"
+        },
+        {
+            "song": "I Know You Rider ->",
+            "order": 15,
+            "length": 313,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t05.mp3"
+        },
+        {
+            "song": "The Promised Land",
+            "order": 16,
+            "length": 252,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t06.mp3"
+        },
+        {
+            "song": "announcements",
+            "order": 17,
+            "length": 66,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t07.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 18,
+            "length": 82,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t08.mp3"
+        },
+        {
+            "song": "Shakedown Street",
+            "order": 19,
+            "length": 712,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t09.mp3"
+        },
+        {
+            "song": "Lost Sailor ->",
+            "order": 20,
+            "length": 343,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t10.mp3"
+        },
+        {
+            "song": "St of Circumstance",
+            "order": 21,
+            "length": 396,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t11.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t11.mp3"
+        },
+        {
+            "song": "Althea",
+            "order": 22,
+            "length": 542,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t12.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d2t12.mp3"
+        },
+        {
+            "song": "tuning jam ->",
+            "order": 23,
+            "length": 166,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t01.mp3"
+        },
+        {
+            "song": "Playing in the Band ->",
+            "order": 24,
+            "length": 579,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t02.mp3"
+        },
+        {
+            "song": "Uncle John's Band ->",
+            "order": 25,
+            "length": 464,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t03.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 26,
+            "length": 716,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t04.mp3"
+        },
+        {
+            "song": "Space ->",
+            "order": 27,
+            "length": 219,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t05.mp3"
+        },
+        {
+            "song": "Not Fade Away ->",
+            "order": 28,
+            "length": 391,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t06.mp3"
+        },
+        {
+            "song": "The Wheel ->",
+            "order": 29,
+            "length": 311,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t07.mp3"
+        },
+        {
+            "song": "Uncle John's Band ->",
+            "order": 30,
+            "length": 190,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t08.mp3"
+        },
+        {
+            "song": "Playing in the Band ->",
+            "order": 31,
+            "length": 183,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t09.mp3"
+        },
+        {
+            "song": "Sugar Magnolia",
+            "order": 32,
+            "length": 550,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t10.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 33,
+            "length": 27,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t11.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t11.mp3"
+        },
+        {
+            "song": "One More Saturday Night ->",
+            "order": 34,
+            "length": 280,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t12.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t12.mp3"
+        },
+        {
+            "song": "Brokedown Palace",
+            "order": 35,
+            "length": 341,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t13.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t13.mp3"
+        },
+        {
+            "song": "aftershow music",
+            "order": 36,
+            "length": 246,
+            "ogg": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t14.ogg",
+            "mp3": "https://archive.org/download/gd1980-09-06.aud.morris.106620.flac24/gd80-09-06d3t14.mp3"
+        }
+    ]
+}

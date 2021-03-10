@@ -1,0 +1,37 @@
+{
+    "title": "gd1995-02-25.143162.pset2.sbd.miller.flac1644",
+    "venue": "Oakland-Alameda County Coliseum",
+    "year": 1995,
+    "month": 2,
+    "day": 25,
+    "songs": [
+        {
+            "song": "01 Space",
+            "order": 1,
+            "length": 433,
+            "ogg": "https://archive.org/download/gd1995-02-25.143162.pset2.sbd.miller.flac1644/01Space.ogg",
+            "mp3": "https://archive.org/download/gd1995-02-25.143162.pset2.sbd.miller.flac1644/01Space.mp3"
+        },
+        {
+            "song": "02 The Other One",
+            "order": 2,
+            "length": 540,
+            "ogg": "https://archive.org/download/gd1995-02-25.143162.pset2.sbd.miller.flac1644/02TheOtherOne.ogg",
+            "mp3": "https://archive.org/download/gd1995-02-25.143162.pset2.sbd.miller.flac1644/02TheOtherOne.mp3"
+        },
+        {
+            "song": "03 Wharf Rat",
+            "order": 3,
+            "length": 629,
+            "ogg": "https://archive.org/download/gd1995-02-25.143162.pset2.sbd.miller.flac1644/03WharfRat.ogg",
+            "mp3": "https://archive.org/download/gd1995-02-25.143162.pset2.sbd.miller.flac1644/03WharfRat.mp3"
+        },
+        {
+            "song": "04 One More Saturday Night",
+            "order": 4,
+            "length": 182,
+            "ogg": "https://archive.org/download/gd1995-02-25.143162.pset2.sbd.miller.flac1644/04OneMoreSaturdayNight.ogg",
+            "mp3": "https://archive.org/download/gd1995-02-25.143162.pset2.sbd.miller.flac1644/04OneMoreSaturdayNight.mp3"
+        }
+    ]
+}

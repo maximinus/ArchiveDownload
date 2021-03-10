@@ -1,0 +1,135 @@
+{
+    "title": "gd1993-09-25.139968.aud.lamarre.berger.flac1648",
+    "venue": "Boston Garden",
+    "year": 1993,
+    "month": 9,
+    "day": 25,
+    "songs": [
+        {
+            "song": "Cold Rain And Snow",
+            "order": 1,
+            "length": 566,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t01.mp3"
+        },
+        {
+            "song": "Wang Dang Doodle",
+            "order": 2,
+            "length": 387,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t02.mp3"
+        },
+        {
+            "song": "Loser",
+            "order": 3,
+            "length": 447,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t03.mp3"
+        },
+        {
+            "song": "It\u2019s All Over Now",
+            "order": 4,
+            "length": 440,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t04.mp3"
+        },
+        {
+            "song": "Just Like Tom Thumb\u2019s Blues",
+            "order": 5,
+            "length": 360,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t05.mp3"
+        },
+        {
+            "song": "Cassidy",
+            "order": 6,
+            "length": 441,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t06.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 7,
+            "length": 546,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s1t07.mp3"
+        },
+        {
+            "song": "Foolish Heart",
+            "order": 8,
+            "length": 911,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t01.mp3"
+        },
+        {
+            "song": "Box Of Rain",
+            "order": 9,
+            "length": 300,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t02.mp3"
+        },
+        {
+            "song": "Crazy Fingers",
+            "order": 10,
+            "length": 533,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t03.mp3"
+        },
+        {
+            "song": "Corina >",
+            "order": 11,
+            "length": 900,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t04.mp3"
+        },
+        {
+            "song": "drums >",
+            "order": 12,
+            "length": 710,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t05.mp3"
+        },
+        {
+            "song": "space >",
+            "order": 13,
+            "length": 906,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t06.mp3"
+        },
+        {
+            "song": "The Wheel >",
+            "order": 14,
+            "length": 297,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t07.mp3"
+        },
+        {
+            "song": "All Along The Watchtower >",
+            "order": 15,
+            "length": 418,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t08.mp3"
+        },
+        {
+            "song": "Black Peter >",
+            "order": 16,
+            "length": 523,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t09.mp3"
+        },
+        {
+            "song": "One More Saturday Night",
+            "order": 17,
+            "length": 368,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t10.mp3"
+        },
+        {
+            "song": "e: I Fought The Law",
+            "order": 18,
+            "length": 203,
+            "ogg": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t11.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-25.139968.aud.lamarre.berger.flac1648/gd1993-09-25s2t11.mp3"
+        }
+    ]
+}

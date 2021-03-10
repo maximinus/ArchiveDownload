@@ -1,0 +1,156 @@
+{
+    "title": "gd1986-12-27.128690.mtx.nicksmix.flac16",
+    "venue": "Henry J. Kaiser Convention Center",
+    "year": 1986,
+    "month": 12,
+    "day": 27,
+    "songs": [
+        {
+            "song": "Playing in the Band ->",
+            "order": 1,
+            "length": 447,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t01.mp3"
+        },
+        {
+            "song": "Bertha",
+            "order": 2,
+            "length": 493,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t02.mp3"
+        },
+        {
+            "song": "Mama Tried ->",
+            "order": 3,
+            "length": 156,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t03.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 4,
+            "length": 319,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t04.mp3"
+        },
+        {
+            "song": "Ramble on Rose",
+            "order": 5,
+            "length": 488,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t05.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 6,
+            "length": 541,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t06.mp3"
+        },
+        {
+            "song": "Bird Song",
+            "order": 7,
+            "length": 528,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d1t07.mp3"
+        },
+        {
+            "song": "Tuning",
+            "order": 8,
+            "length": 179,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t01.mp3"
+        },
+        {
+            "song": "The Mighty Quinn (Quinn The Eskimo)",
+            "order": 9,
+            "length": 333,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t02.mp3"
+        },
+        {
+            "song": "Dancin' in the Street ->",
+            "order": 10,
+            "length": 433,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t03.mp3"
+        },
+        {
+            "song": "Black Muddy River ->",
+            "order": 11,
+            "length": 358,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t04.mp3"
+        },
+        {
+            "song": "Playin' Jam ->",
+            "order": 12,
+            "length": 219,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t05.mp3"
+        },
+        {
+            "song": "I Need a Miracle ->",
+            "order": 13,
+            "length": 352,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t06.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 14,
+            "length": 570,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t07.mp3"
+        },
+        {
+            "song": "Space ->",
+            "order": 15,
+            "length": 393,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t08.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t08.mp3"
+        },
+        {
+            "song": "Truckin' ->",
+            "order": 16,
+            "length": 365,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t09.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t09.mp3"
+        },
+        {
+            "song": "Smokestack Lightning ->",
+            "order": 17,
+            "length": 225,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t10.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t10.mp3"
+        },
+        {
+            "song": "Comes a Time ->",
+            "order": 18,
+            "length": 440,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t11.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t11.mp3"
+        },
+        {
+            "song": "Around & Around ->",
+            "order": 19,
+            "length": 248,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t12.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t12.mp3"
+        },
+        {
+            "song": "Playing in the Band",
+            "order": 20,
+            "length": 178,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t13.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t13.mp3"
+        },
+        {
+            "song": "When Push Comes To Shove",
+            "order": 21,
+            "length": 286,
+            "ogg": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t14.ogg",
+            "mp3": "https://archive.org/download/gd1986-12-27.128690.mtx.nicksmix.flac16/gd86-12-27d2t14.mp3"
+        }
+    ]
+}

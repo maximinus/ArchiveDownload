@@ -1,0 +1,51 @@
+{
+    "title": "gd1973-02-24.142031.aud.owen.berger.flac1644",
+    "venue": "UI Field House, University Of Iowa",
+    "year": 1973,
+    "month": 2,
+    "day": 24,
+    "songs": [
+        {
+            "song": "Wave That Flag",
+            "order": 1,
+            "length": 342,
+            "ogg": "https://archive.org/download/gd1973-02-24.142031.aud.owen.berger.flac1644/gd1973-02-24s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1973-02-24.142031.aud.owen.berger.flac1644/gd1973-02-24s2t01.mp3"
+        },
+        {
+            "song": "You Ain\u2019t Woman Enough (fragment)",
+            "order": 2,
+            "length": 23,
+            "ogg": "https://archive.org/download/gd1973-02-24.142031.aud.owen.berger.flac1644/gd1973-02-24s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1973-02-24.142031.aud.owen.berger.flac1644/gd1973-02-24s2t02.mp3"
+        },
+        {
+            "song": "Truckin\u2019 > nobody\u2019s dang fault doodle jam >",
+            "order": 3,
+            "length": 777,
+            "ogg": "https://archive.org/download/gd1973-02-24.142031.aud.owen.berger.flac1644/gd1973-02-24s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1973-02-24.142031.aud.owen.berger.flac1644/gd1973-02-24s2t03.mp3"
+        },
+        {
+            "song": "Eyes Of The World /> phil > groovy jam > uncle j\u2019s jam>",
+            "order": 4,
+            "length": 1244,
+            "ogg": "https://archive.org/download/gd1973-02-24.142031.aud.owen.berger.flac1644/gd1973-02-24s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1973-02-24.142031.aud.owen.berger.flac1644/gd1973-02-24s2t04.mp3"
+        },
+        {
+            "song": "Sugar Magnolia/",
+            "order": 5,
+            "length": 486,
+            "ogg": "https://archive.org/download/gd1973-02-24.142031.aud.owen.berger.flac1644/gd1973-02-24s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1973-02-24.142031.aud.owen.berger.flac1644/gd1973-02-24s2t05.mp3"
+        },
+        {
+            "song": "El Paso",
+            "order": 6,
+            "length": 259,
+            "ogg": "https://archive.org/download/gd1973-02-24.142031.aud.owen.berger.flac1644/gd1973-02-24s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1973-02-24.142031.aud.owen.berger.flac1644/gd1973-02-24s2t06.mp3"
+        }
+    ]
+}

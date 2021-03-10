@@ -1,0 +1,156 @@
+{
+    "title": "gd1987-10-03.143836.5-1.tobin.flac1648",
+    "venue": "Shoreline Amphitheatre",
+    "year": 1987,
+    "month": 10,
+    "day": 3,
+    "songs": [
+        {
+            "song": "01 Tuning",
+            "order": 1,
+            "length": 40,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/01Tuning.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/01Tuning.mp3"
+        },
+        {
+            "song": "02 Hey Pocky Way",
+            "order": 2,
+            "length": 331,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/02HeyPockyWay.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/02HeyPockyWay.mp3"
+        },
+        {
+            "song": "03 New Minglewood Blues",
+            "order": 3,
+            "length": 456,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/03NewMinglewoodBlues.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/03NewMinglewoodBlues.mp3"
+        },
+        {
+            "song": "04 Candyman",
+            "order": 4,
+            "length": 452,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/04Candyman.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/04Candyman.mp3"
+        },
+        {
+            "song": "05 The Addams Family Tuning",
+            "order": 5,
+            "length": 23,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/05TheAddamsFamilyTuning.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/05TheAddamsFamilyTuning.mp3"
+        },
+        {
+            "song": "06 When I Paint My Masterpiece",
+            "order": 6,
+            "length": 279,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/06WhenIPaintMyMasterpiece.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/06WhenIPaintMyMasterpiece.mp3"
+        },
+        {
+            "song": "07 West LA Fadeaway",
+            "order": 7,
+            "length": 525,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/07WestLaFadeaway.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/07WestLaFadeaway.mp3"
+        },
+        {
+            "song": "08 My Brother Esau",
+            "order": 8,
+            "length": 250,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/08MyBrotherEsau.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/08MyBrotherEsau.mp3"
+        },
+        {
+            "song": "09 Bird Song",
+            "order": 9,
+            "length": 683,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/09BirdSong.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/09BirdSong.mp3"
+        },
+        {
+            "song": "10 The Music Never Stopped",
+            "order": 10,
+            "length": 485,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/10TheMusicNeverStopped.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/10TheMusicNeverStopped.mp3"
+        },
+        {
+            "song": "11 Maggie's Farm",
+            "order": 11,
+            "length": 379,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/11MaggiesFarm.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/11MaggiesFarm.mp3"
+        },
+        {
+            "song": "12 Cumberland Blues",
+            "order": 12,
+            "length": 261,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/12CumberlandBlues.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/12CumberlandBlues.mp3"
+        },
+        {
+            "song": "13 Looks Like Rain",
+            "order": 13,
+            "length": 550,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/13LooksLikeRain.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/13LooksLikeRain.mp3"
+        },
+        {
+            "song": "14 Terrapin Station",
+            "order": 14,
+            "length": 723,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/14TerrapinStation.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/14TerrapinStation.mp3"
+        },
+        {
+            "song": "15 Drums",
+            "order": 15,
+            "length": 436,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/15Drums.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/15Drums.mp3"
+        },
+        {
+            "song": "16 Space",
+            "order": 16,
+            "length": 413,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/16Space.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/16Space.mp3"
+        },
+        {
+            "song": "17 The Other One",
+            "order": 17,
+            "length": 401,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/17TheOtherOne.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/17TheOtherOne.mp3"
+        },
+        {
+            "song": "18 Stella Blue",
+            "order": 18,
+            "length": 501,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/18StellaBlue.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/18StellaBlue.mp3"
+        },
+        {
+            "song": "19 Throwing Stones",
+            "order": 19,
+            "length": 580,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/19ThrowingStones.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/19ThrowingStones.mp3"
+        },
+        {
+            "song": "20 Turn On Your Lovelight",
+            "order": 20,
+            "length": 528,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/20TurnOnYourLovelight.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/20TurnOnYourLovelight.mp3"
+        },
+        {
+            "song": "21 Quinn The Eskimo (The Mighty Quinn)",
+            "order": 21,
+            "length": 315,
+            "ogg": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/21QuinnTheEskimotheMightyQuinn.ogg",
+            "mp3": "https://archive.org/download/gd1987-10-03.143836.5-1.tobin.flac1648/21QuinnTheEskimotheMightyQuinn.mp3"
+        }
+    ]
+}

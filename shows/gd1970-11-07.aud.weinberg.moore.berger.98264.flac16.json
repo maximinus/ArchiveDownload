@@ -1,0 +1,58 @@
+{
+    "title": "gd1970-11-07.aud.weinberg.moore.berger.98264.flac16",
+    "venue": "Capitol Theater",
+    "year": 1970,
+    "month": 11,
+    "day": 7,
+    "songs": [
+        {
+            "song": "Attics Of My Life",
+            "order": 1,
+            "length": 370,
+            "ogg": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t01.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t01.mp3"
+        },
+        {
+            "song": "Sugar Magnolia",
+            "order": 2,
+            "length": 306,
+            "ogg": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t02.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t02.mp3"
+        },
+        {
+            "song": "Big Boss Man",
+            "order": 3,
+            "length": 237,
+            "ogg": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t03.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t03.mp3"
+        },
+        {
+            "song": "Mama Tried",
+            "order": 4,
+            "length": 167,
+            "ogg": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t04.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t04.mp3"
+        },
+        {
+            "song": "China Cat Sunflower ->",
+            "order": 5,
+            "length": 398,
+            "ogg": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t05.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t05.mp3"
+        },
+        {
+            "song": "I Know You Rider",
+            "order": 6,
+            "length": 273,
+            "ogg": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t06.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t06.mp3"
+        },
+        {
+            "song": "King Bee",
+            "order": 7,
+            "length": 479,
+            "ogg": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t07.ogg",
+            "mp3": "https://archive.org/download/gd1970-11-07.aud.weinberg.moore.berger.98264.flac16/gd1970-11-07bd1t07.mp3"
+        }
+    ]
+}

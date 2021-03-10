@@ -1,0 +1,23 @@
+{
+    "title": "gd1971-11-12.142439.partial.sbd.easton.miller.sirmick.flac1644",
+    "venue": "San Antonio Civic Auditorium",
+    "year": 1971,
+    "month": 11,
+    "day": 12,
+    "songs": [
+        {
+            "song": "That's It For The Other One >",
+            "order": 1,
+            "length": 1904,
+            "ogg": "https://archive.org/download/gd1971-11-12.142439.partial.sbd.easton.miller.sirmick.flac1644/gd1971-11-12t01.ogg",
+            "mp3": "https://archive.org/download/gd1971-11-12.142439.partial.sbd.easton.miller.sirmick.flac1644/gd1971-11-12t01.mp3"
+        },
+        {
+            "song": "Big Railroad Blues",
+            "order": 2,
+            "length": 214,
+            "ogg": "https://archive.org/download/gd1971-11-12.142439.partial.sbd.easton.miller.sirmick.flac1644/gd1971-11-12t02.ogg",
+            "mp3": "https://archive.org/download/gd1971-11-12.142439.partial.sbd.easton.miller.sirmick.flac1644/gd1971-11-12t02.mp3"
+        }
+    ]
+}

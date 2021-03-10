@@ -1,0 +1,44 @@
+{
+    "title": "gd1980-10-29.140302.sbd.partial.moore.berger.flac2496",
+    "venue": "Radio City Music Hall",
+    "year": 1980,
+    "month": 10,
+    "day": 29,
+    "songs": [
+        {
+            "song": "The Race Is On",
+            "order": 1,
+            "length": 334,
+            "ogg": "https://archive.org/download/gd1980-10-29.140302.sbd.partial.moore.berger.flac2496/gd1980-10-29s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-29.140302.sbd.partial.moore.berger.flac2496/gd1980-10-29s1t01.mp3"
+        },
+        {
+            "song": "Bird Song",
+            "order": 2,
+            "length": 569,
+            "ogg": "https://archive.org/download/gd1980-10-29.140302.sbd.partial.moore.berger.flac2496/gd1980-10-29s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-29.140302.sbd.partial.moore.berger.flac2496/gd1980-10-29s1t02.mp3"
+        },
+        {
+            "song": "Heaven Help The Fool",
+            "order": 3,
+            "length": 431,
+            "ogg": "https://archive.org/download/gd1980-10-29.140302.sbd.partial.moore.berger.flac2496/gd1980-10-29s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-29.140302.sbd.partial.moore.berger.flac2496/gd1980-10-29s1t03.mp3"
+        },
+        {
+            "song": "Babe It Ain\u2019t No Lie",
+            "order": 4,
+            "length": 484,
+            "ogg": "https://archive.org/download/gd1980-10-29.140302.sbd.partial.moore.berger.flac2496/gd1980-10-29s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-29.140302.sbd.partial.moore.berger.flac2496/gd1980-10-29s1t04.mp3"
+        },
+        {
+            "song": "Ripple",
+            "order": 5,
+            "length": 288,
+            "ogg": "https://archive.org/download/gd1980-10-29.140302.sbd.partial.moore.berger.flac2496/gd1980-10-29s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-29.140302.sbd.partial.moore.berger.flac2496/gd1980-10-29s1t05.mp3"
+        }
+    ]
+}

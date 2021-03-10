@@ -1,0 +1,93 @@
+{
+    "title": "gd1979-09-02.127920.stankiewicz.flac2496",
+    "venue": "Augusta Civic Center",
+    "year": 1979,
+    "month": 9,
+    "day": 2,
+    "songs": [
+        {
+            "song": "crowd",
+            "order": 1,
+            "length": 36,
+            "ogg": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t01.mp3"
+        },
+        {
+            "song": "Samson & Delilah",
+            "order": 2,
+            "length": 442,
+            "ogg": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t02.mp3"
+        },
+        {
+            "song": "Ramble on Rose",
+            "order": 3,
+            "length": 487,
+            "ogg": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t03.mp3"
+        },
+        {
+            "song": "Terrapin Station",
+            "order": 4,
+            "length": 747,
+            "ogg": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t04.mp3"
+        },
+        {
+            "song": "Let it Grow",
+            "order": 5,
+            "length": 555,
+            "ogg": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t05.mp3"
+        },
+        {
+            "song": "Jam",
+            "order": 6,
+            "length": 806,
+            "ogg": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t06.mp3"
+        },
+        {
+            "song": "Drums",
+            "order": 7,
+            "length": 318,
+            "ogg": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t07.mp3"
+        },
+        {
+            "song": "Space",
+            "order": 8,
+            "length": 312,
+            "ogg": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t08.mp3"
+        },
+        {
+            "song": "Stella Blue",
+            "order": 9,
+            "length": 649,
+            "ogg": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t09.mp3"
+        },
+        {
+            "song": "Truckin'",
+            "order": 10,
+            "length": 487,
+            "ogg": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t10.mp3"
+        },
+        {
+            "song": "Around & Around",
+            "order": 11,
+            "length": 477,
+            "ogg": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t11.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t11.mp3"
+        },
+        {
+            "song": "U.S. Blues",
+            "order": 12,
+            "length": 363,
+            "ogg": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t12.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.127920.stankiewicz.flac2496/gd1979-09-02s2t12.mp3"
+        }
+    ]
+}

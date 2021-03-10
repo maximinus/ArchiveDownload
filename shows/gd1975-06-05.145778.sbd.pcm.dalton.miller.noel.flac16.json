@@ -1,0 +1,44 @@
+{
+    "title": "gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16",
+    "venue": "Ace's Studio",
+    "year": 1975,
+    "month": 6,
+    "day": 5,
+    "songs": [
+        {
+            "song": "Help on the Way (multiple takes fades in)",
+            "order": 1,
+            "length": 167,
+            "ogg": "https://archive.org/download/gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16/gd75-06-05.t01.ogg",
+            "mp3": "https://archive.org/download/gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16/gd75-06-05.t01.mp3"
+        },
+        {
+            "song": "Help on the Way (multiple takes)",
+            "order": 2,
+            "length": 567,
+            "ogg": "https://archive.org/download/gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16/gd75-06-05.t02.ogg",
+            "mp3": "https://archive.org/download/gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16/gd75-06-05.t02.mp3"
+        },
+        {
+            "song": "Help on the Way/banter (multiple takes)",
+            "order": 3,
+            "length": 1058,
+            "ogg": "https://archive.org/download/gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16/gd75-06-05.t03.ogg",
+            "mp3": "https://archive.org/download/gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16/gd75-06-05.t03.mp3"
+        },
+        {
+            "song": "Help on the Way",
+            "order": 4,
+            "length": 520,
+            "ogg": "https://archive.org/download/gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16/gd75-06-05.t04.ogg",
+            "mp3": "https://archive.org/download/gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16/gd75-06-05.t04.mp3"
+        },
+        {
+            "song": "Help on the Way/jam -> Slipknot! -> Franklin's Tower intro",
+            "order": 5,
+            "length": 493,
+            "ogg": "https://archive.org/download/gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16/gd75-06-05.t05.ogg",
+            "mp3": "https://archive.org/download/gd1975-06-05.145778.sbd.pcm.dalton.miller.noel.flac16/gd75-06-05.t05.mp3"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "title": "gd1970-09-20.aud.weinberg.bunjes.81728.flac16",
+    "venue": "Fillmore East",
+    "year": 1970,
+    "month": 9,
+    "day": 20,
+    "songs": [
+        {
+            "song": "Sugar Magnolia",
+            "order": 1,
+            "length": 299,
+            "ogg": "https://archive.org/download/gd1970-09-20.aud.weinberg.bunjes.81728.flac16/gd1970-09-2001.ogg",
+            "mp3": "https://archive.org/download/gd1970-09-20.aud.weinberg.bunjes.81728.flac16/gd1970-09-2001.mp3"
+        },
+        {
+            "song": "Mama Tried",
+            "order": 2,
+            "length": 146,
+            "ogg": "https://archive.org/download/gd1970-09-20.aud.weinberg.bunjes.81728.flac16/gd1970-09-2002.ogg",
+            "mp3": "https://archive.org/download/gd1970-09-20.aud.weinberg.bunjes.81728.flac16/gd1970-09-2002.mp3"
+        },
+        {
+            "song": "Not Fade Away >",
+            "order": 3,
+            "length": 845,
+            "ogg": "https://archive.org/download/gd1970-09-20.aud.weinberg.bunjes.81728.flac16/gd1970-09-2003.ogg",
+            "mp3": "https://archive.org/download/gd1970-09-20.aud.weinberg.bunjes.81728.flac16/gd1970-09-2003.mp3"
+        },
+        {
+            "song": "Caution >",
+            "order": 4,
+            "length": 1143,
+            "ogg": "https://archive.org/download/gd1970-09-20.aud.weinberg.bunjes.81728.flac16/gd1970-09-2004.ogg",
+            "mp3": "https://archive.org/download/gd1970-09-20.aud.weinberg.bunjes.81728.flac16/gd1970-09-2004.mp3"
+        },
+        {
+            "song": "Feedback >",
+            "order": 5,
+            "length": 149,
+            "ogg": "https://archive.org/download/gd1970-09-20.aud.weinberg.bunjes.81728.flac16/gd1970-09-2005.ogg",
+            "mp3": "https://archive.org/download/gd1970-09-20.aud.weinberg.bunjes.81728.flac16/gd1970-09-2005.mp3"
+        },
+        {
+            "song": "Goodnight",
+            "order": 6,
+            "length": 199,
+            "ogg": "https://archive.org/download/gd1970-09-20.aud.weinberg.bunjes.81728.flac16/gd1970-09-2006.ogg",
+            "mp3": "https://archive.org/download/gd1970-09-20.aud.weinberg.bunjes.81728.flac16/gd1970-09-2006.mp3"
+        }
+    ]
+}

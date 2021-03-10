@@ -1,0 +1,51 @@
+{
+    "title": "gd1971-02-19.132102.flac16",
+    "venue": "Capitol Theatre",
+    "year": 1971,
+    "month": 2,
+    "day": 19,
+    "songs": [
+        {
+            "song": "Cumberland Blues [4:44] ;",
+            "order": 1,
+            "length": 167,
+            "ogg": "https://archive.org/download/gd1971-02-19.132102.flac16/gd02197101.ogg",
+            "mp3": "https://archive.org/download/gd1971-02-19.132102.flac16/gd02197101.mp3"
+        },
+        {
+            "song": "It Hurts Me Too [5:46] ;",
+            "order": 2,
+            "length": 371,
+            "ogg": "https://archive.org/download/gd1971-02-19.132102.flac16/gd02197102.ogg",
+            "mp3": "https://archive.org/download/gd1971-02-19.132102.flac16/gd02197102.mp3"
+        },
+        {
+            "song": "Bertha [4:52] ;",
+            "order": 3,
+            "length": 397,
+            "ogg": "https://archive.org/download/gd1971-02-19.132102.flac16/gd02197103.ogg",
+            "mp3": "https://archive.org/download/gd1971-02-19.132102.flac16/gd02197103.mp3"
+        },
+        {
+            "song": "Playing In The Band [4:48] ;",
+            "order": 4,
+            "length": 452,
+            "ogg": "https://archive.org/download/gd1971-02-19.132102.flac16/gd02197104.ogg",
+            "mp3": "https://archive.org/download/gd1971-02-19.132102.flac16/gd02197104.mp3"
+        },
+        {
+            "song": "Dark Hollow [3:01] ;",
+            "order": 5,
+            "length": 228,
+            "ogg": "https://archive.org/download/gd1971-02-19.132102.flac16/gd02197105.ogg",
+            "mp3": "https://archive.org/download/gd1971-02-19.132102.flac16/gd02197105.mp3"
+        },
+        {
+            "song": "Smokestack Lightnin' [14:42] ;",
+            "order": 6,
+            "length": 683,
+            "ogg": "https://archive.org/download/gd1971-02-19.132102.flac16/gd02197106.ogg",
+            "mp3": "https://archive.org/download/gd1971-02-19.132102.flac16/gd02197106.mp3"
+        }
+    ]
+}

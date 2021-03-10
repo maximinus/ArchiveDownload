@@ -1,0 +1,170 @@
+{
+    "title": "gd1980-12-26.dts.tobin.121572.flac16",
+    "venue": "Oakland Auditorium Arena",
+    "year": 1980,
+    "month": 12,
+    "day": 26,
+    "songs": [
+        {
+            "song": "Alabama Getaway -",
+            "order": 1,
+            "length": 302,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d1t01.mp3"
+        },
+        {
+            "song": "The Promised Land",
+            "order": 2,
+            "length": 263,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d1t02.mp3"
+        },
+        {
+            "song": "They Love Each Other",
+            "order": 3,
+            "length": 419,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d1t03.mp3"
+        },
+        {
+            "song": "C C Rider",
+            "order": 4,
+            "length": 438,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d1t04.mp3"
+        },
+        {
+            "song": "Althea",
+            "order": 5,
+            "length": 490,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d1t05.mp3"
+        },
+        {
+            "song": "Cassidy",
+            "order": 6,
+            "length": 312,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d1t06.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 7,
+            "length": 405,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d1t07.mp3"
+        },
+        {
+            "song": "Lost Sailor -",
+            "order": 8,
+            "length": 375,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d1t08.mp3"
+        },
+        {
+            "song": "Saint Of Circumstance -",
+            "order": 9,
+            "length": 373,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d1t09.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 10,
+            "length": 471,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d1t10.mp3"
+        },
+        {
+            "song": "Scarlet Begonias -",
+            "order": 11,
+            "length": 501,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d2t01.mp3"
+        },
+        {
+            "song": "Fire On The Mountain",
+            "order": 12,
+            "length": 679,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d2t02.mp3"
+        },
+        {
+            "song": "Samson And Delilah",
+            "order": 13,
+            "length": 516,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d2t03.mp3"
+        },
+        {
+            "song": "Ship Of Fools",
+            "order": 14,
+            "length": 505,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d2t04.mp3"
+        },
+        {
+            "song": "Spanish Jam tease",
+            "order": 15,
+            "length": 37,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d2t05.mp3"
+        },
+        {
+            "song": "Playing In The Band -",
+            "order": 16,
+            "length": 914,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d3t01.mp3"
+        },
+        {
+            "song": "Drums -",
+            "order": 17,
+            "length": 477,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d3t02.mp3"
+        },
+        {
+            "song": "Space -",
+            "order": 18,
+            "length": 183,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d3t03.mp3"
+        },
+        {
+            "song": "Not Fade Away -",
+            "order": 19,
+            "length": 555,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d3t04.mp3"
+        },
+        {
+            "song": "Black Peter -",
+            "order": 20,
+            "length": 545,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d3t05.mp3"
+        },
+        {
+            "song": "Around And Around -",
+            "order": 21,
+            "length": 222,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d3t06.mp3"
+        },
+        {
+            "song": "Good Lovin'",
+            "order": 22,
+            "length": 488,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d3t07.mp3"
+        },
+        {
+            "song": "U.S. Blues",
+            "order": 23,
+            "length": 317,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1980-12-26.dts.tobin.121572.flac16/gd1980-12-26d3t08.mp3"
+        }
+    ]
+}

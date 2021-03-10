@@ -1,0 +1,149 @@
+{
+    "title": "gd1983-10-12.137323.senn421.miller.flac16",
+    "venue": "Madison Square Garden",
+    "year": 1983,
+    "month": 10,
+    "day": 12,
+    "songs": [
+        {
+            "song": "Rain And Snow",
+            "order": 1,
+            "length": 480,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.01ColdRainAndSnow.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.01ColdRainAndSnow.mp3"
+        },
+        {
+            "song": "Minglewood Blues",
+            "order": 2,
+            "length": 559,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.02NewMinglewoodBlues.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.02NewMinglewoodBlues.mp3"
+        },
+        {
+            "song": "On Rose",
+            "order": 3,
+            "length": 416,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.03RambleOnRose.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.03RambleOnRose.mp3"
+        },
+        {
+            "song": "Brother Esau",
+            "order": 4,
+            "length": 319,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.04MyBrotherEsau.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.04MyBrotherEsau.mp3"
+        },
+        {
+            "song": "Must Have Been The Roses",
+            "order": 5,
+            "length": 378,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.05ItMustHaveBeenTheRoses.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.05ItMustHaveBeenTheRoses.mp3"
+        },
+        {
+            "song": "",
+            "order": 6,
+            "length": 369,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.06Cassidy.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.06Cassidy.mp3"
+        },
+        {
+            "song": "Blues",
+            "order": 7,
+            "length": 574,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.07CumberlandBlues.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.07CumberlandBlues.mp3"
+        },
+        {
+            "song": "Like Rain",
+            "order": 8,
+            "length": 504,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.08LooksLikeRain.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.08LooksLikeRain.mp3"
+        },
+        {
+            "song": "As Well",
+            "order": 9,
+            "length": 277,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.09MightAsWell.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.09MightAsWell.mp3"
+        },
+        {
+            "song": "On The Way",
+            "order": 10,
+            "length": 229,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.10HelpOnTheWay.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.10HelpOnTheWay.mp3"
+        },
+        {
+            "song": "",
+            "order": 11,
+            "length": 601,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.11Slipknot.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.11Slipknot.mp3"
+        },
+        {
+            "song": "Tower",
+            "order": 12,
+            "length": 856,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.12FranklinsTower.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.12FranklinsTower.mp3"
+        },
+        {
+            "song": "Smart (Woman Smarter)",
+            "order": 13,
+            "length": 405,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.13ManSmartwomanSmarter.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.13ManSmartwomanSmarter.mp3"
+        },
+        {
+            "song": "Gone",
+            "order": 14,
+            "length": 772,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.14HesGone.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.14HesGone.mp3"
+        },
+        {
+            "song": "",
+            "order": 15,
+            "length": 545,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.15Drums.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.15Drums.mp3"
+        },
+        {
+            "song": "",
+            "order": 16,
+            "length": 789,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.16Space.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.16Space.mp3"
+        },
+        {
+            "song": "",
+            "order": 17,
+            "length": 468,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.17Truckin.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.17Truckin.mp3"
+        },
+        {
+            "song": "Peter",
+            "order": 18,
+            "length": 551,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.18BlackPeter.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.18BlackPeter.mp3"
+        },
+        {
+            "song": "Fade Away",
+            "order": 19,
+            "length": 511,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.19NotFadeAway.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.19NotFadeAway.mp3"
+        },
+        {
+            "song": "",
+            "order": 20,
+            "length": 320,
+            "ogg": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.20Revolution.ogg",
+            "mp3": "https://archive.org/download/gd1983-10-12.137323.senn421.miller.flac16/Gd1983-10-12.20Revolution.mp3"
+        }
+    ]
+}

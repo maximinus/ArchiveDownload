@@ -1,0 +1,163 @@
+{
+    "title": "gd1993-12-08.141520.FOB-mk4.ebel.flac1648",
+    "venue": "Sports Arena",
+    "year": 1993,
+    "month": 12,
+    "day": 8,
+    "songs": [
+        {
+            "song": "01 Tuning",
+            "order": 1,
+            "length": 163,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/01Tuning.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/01Tuning.mp3"
+        },
+        {
+            "song": "02 Rain",
+            "order": 2,
+            "length": 301,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/02Rain.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/02Rain.mp3"
+        },
+        {
+            "song": "03 Let The good Times Roll",
+            "order": 3,
+            "length": 239,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/03LetTheGoodTimesRoll.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/03LetTheGoodTimesRoll.mp3"
+        },
+        {
+            "song": "04 King Bee",
+            "order": 4,
+            "length": 478,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/04KingBee.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/04KingBee.mp3"
+        },
+        {
+            "song": "05 Stagger Lee",
+            "order": 5,
+            "length": 582,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/05StaggerLee.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/05StaggerLee.mp3"
+        },
+        {
+            "song": "06 Me & My Uncle",
+            "order": 6,
+            "length": 182,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/06MeMyUncle.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/06MeMyUncle.mp3"
+        },
+        {
+            "song": "07 Mexicali Blues",
+            "order": 7,
+            "length": 407,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/07MexicaliBlues.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/07MexicaliBlues.mp3"
+        },
+        {
+            "song": "08 Lazy River Road",
+            "order": 8,
+            "length": 475,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/08LazyRiverRoad.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/08LazyRiverRoad.mp3"
+        },
+        {
+            "song": "09 Masterpiece",
+            "order": 9,
+            "length": 384,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/09Masterpiece.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/09Masterpiece.mp3"
+        },
+        {
+            "song": "10 Row Jimmy",
+            "order": 10,
+            "length": 497,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/10RowJimmy.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/10RowJimmy.mp3"
+        },
+        {
+            "song": "11 Picasso Moon",
+            "order": 11,
+            "length": 419,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/11PicassoMoon.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/11PicassoMoon.mp3"
+        },
+        {
+            "song": "12 Tuning",
+            "order": 12,
+            "length": 135,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/12Tuning.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/12Tuning.mp3"
+        },
+        {
+            "song": "13 Iko-Iko",
+            "order": 13,
+            "length": 480,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/13Iko-iko.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/13Iko-iko.mp3"
+        },
+        {
+            "song": "14 Way To Go Home",
+            "order": 14,
+            "length": 426,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/14WayToGoHome.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/14WayToGoHome.mp3"
+        },
+        {
+            "song": "15 Playing In The Band",
+            "order": 15,
+            "length": 521,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/15PlayingInTheBand.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/15PlayingInTheBand.mp3"
+        },
+        {
+            "song": "16 Uncle John's Band",
+            "order": 16,
+            "length": 949,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/16UncleJohnsBand.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/16UncleJohnsBand.mp3"
+        },
+        {
+            "song": "17 Drumz",
+            "order": 17,
+            "length": 719,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/17Drumz.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/17Drumz.mp3"
+        },
+        {
+            "song": "18 Space",
+            "order": 18,
+            "length": 978,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/18Space.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/18Space.mp3"
+        },
+        {
+            "song": "19 The Last Time",
+            "order": 19,
+            "length": 703,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/19TheLastTime.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/19TheLastTime.mp3"
+        },
+        {
+            "song": "20 Morning Dew",
+            "order": 20,
+            "length": 569,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/20MorningDew.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/20MorningDew.mp3"
+        },
+        {
+            "song": "21 Sugar Magnolia",
+            "order": 21,
+            "length": 724,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/21SugarMagnolia.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/21SugarMagnolia.mp3"
+        },
+        {
+            "song": "22 I Fought The Law",
+            "order": 22,
+            "length": 185,
+            "ogg": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/22IFoughtTheLaw.ogg",
+            "mp3": "https://archive.org/download/gd1993-12-08.141520.FOB-mk4.ebel.flac1648/22IFoughtTheLaw.mp3"
+        }
+    ]
+}

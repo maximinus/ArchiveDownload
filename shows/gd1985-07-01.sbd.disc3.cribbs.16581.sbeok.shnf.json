@@ -1,0 +1,51 @@
+{
+    "title": "gd1985-07-01.sbd.disc3.cribbs.16581.sbeok.shnf",
+    "venue": "Merriweather Post Pavilion",
+    "year": 1985,
+    "month": 7,
+    "day": 1,
+    "songs": [
+        {
+            "song": "Space >",
+            "order": 1,
+            "length": 495,
+            "ogg": "https://archive.org/download/gd1985-07-01.sbd.disc3.cribbs.16581.sbeok.shnf/gd85-07-01d3t01.ogg",
+            "mp3": "https://archive.org/download/gd1985-07-01.sbd.disc3.cribbs.16581.sbeok.shnf/gd85-07-01d3t01.mp3"
+        },
+        {
+            "song": "Dear Mr. Fantasy >",
+            "order": 2,
+            "length": 365,
+            "ogg": "https://archive.org/download/gd1985-07-01.sbd.disc3.cribbs.16581.sbeok.shnf/gd85-07-01d3t02.ogg",
+            "mp3": "https://archive.org/download/gd1985-07-01.sbd.disc3.cribbs.16581.sbeok.shnf/gd85-07-01d3t02.mp3"
+        },
+        {
+            "song": "Goin' Down The Road Feelin' Bad >",
+            "order": 3,
+            "length": 361,
+            "ogg": "https://archive.org/download/gd1985-07-01.sbd.disc3.cribbs.16581.sbeok.shnf/gd85-07-01d3t03.ogg",
+            "mp3": "https://archive.org/download/gd1985-07-01.sbd.disc3.cribbs.16581.sbeok.shnf/gd85-07-01d3t03.mp3"
+        },
+        {
+            "song": "Good Lovin'",
+            "order": 4,
+            "length": 618,
+            "ogg": "https://archive.org/download/gd1985-07-01.sbd.disc3.cribbs.16581.sbeok.shnf/gd85-07-01d3t04.ogg",
+            "mp3": "https://archive.org/download/gd1985-07-01.sbd.disc3.cribbs.16581.sbeok.shnf/gd85-07-01d3t04.mp3"
+        },
+        {
+            "song": "(I Can't Get No) Satisfaction >",
+            "order": 5,
+            "length": 325,
+            "ogg": "https://archive.org/download/gd1985-07-01.sbd.disc3.cribbs.16581.sbeok.shnf/gd85-07-01d3t05.ogg",
+            "mp3": "https://archive.org/download/gd1985-07-01.sbd.disc3.cribbs.16581.sbeok.shnf/gd85-07-01d3t05.mp3"
+        },
+        {
+            "song": "It's All Over Now, Baby Blue",
+            "order": 6,
+            "length": 437,
+            "ogg": "https://archive.org/download/gd1985-07-01.sbd.disc3.cribbs.16581.sbeok.shnf/gd85-07-01d3t06.ogg",
+            "mp3": "https://archive.org/download/gd1985-07-01.sbd.disc3.cribbs.16581.sbeok.shnf/gd85-07-01d3t06.mp3"
+        }
+    ]
+}

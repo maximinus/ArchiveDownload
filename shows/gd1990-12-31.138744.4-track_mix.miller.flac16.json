@@ -1,0 +1,86 @@
+{
+    "title": "gd1990-12-31.138744.4-track_mix.miller.flac16",
+    "venue": "Oakland-Alameda County Coliseum",
+    "year": 1990,
+    "month": 12,
+    "day": 31,
+    "songs": [
+        {
+            "song": "01 Midnight Countdown",
+            "order": 1,
+            "length": 150,
+            "ogg": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/01MidnightCountdown.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/01MidnightCountdown.mp3"
+        },
+        {
+            "song": "02 Not Fade Away",
+            "order": 2,
+            "length": 467,
+            "ogg": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/02NotFadeAway.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/02NotFadeAway.mp3"
+        },
+        {
+            "song": "03 Eyes Of The World",
+            "order": 3,
+            "length": 955,
+            "ogg": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/03EyesOfTheWorld.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/03EyesOfTheWorld.mp3"
+        },
+        {
+            "song": "04 Dark Star",
+            "order": 4,
+            "length": 1237,
+            "ogg": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/04DarkStar.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/04DarkStar.mp3"
+        },
+        {
+            "song": "05 Drums",
+            "order": 5,
+            "length": 978,
+            "ogg": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/05Drums.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/05Drums.mp3"
+        },
+        {
+            "song": "06 Space",
+            "order": 6,
+            "length": 484,
+            "ogg": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/06Space.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/06Space.mp3"
+        },
+        {
+            "song": "07 The Other One",
+            "order": 7,
+            "length": 681,
+            "ogg": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/07TheOtherOne.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/07TheOtherOne.mp3"
+        },
+        {
+            "song": "08 Wharf Rat",
+            "order": 8,
+            "length": 626,
+            "ogg": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/08WharfRat.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/08WharfRat.mp3"
+        },
+        {
+            "song": "09 Not Fade Away",
+            "order": 9,
+            "length": 609,
+            "ogg": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/09NotFadeAway.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/09NotFadeAway.mp3"
+        },
+        {
+            "song": "10 The Weight",
+            "order": 10,
+            "length": 502,
+            "ogg": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/10TheWeight.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/10TheWeight.mp3"
+        },
+        {
+            "song": "11 Johnny B Goode",
+            "order": 11,
+            "length": 502,
+            "ogg": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/11JohnnyBGoode.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-31.138744.4-track_mix.miller.flac16/11JohnnyBGoode.mp3"
+        }
+    ]
+}

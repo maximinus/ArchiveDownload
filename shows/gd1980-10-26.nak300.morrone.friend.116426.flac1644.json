@@ -1,0 +1,198 @@
+{
+    "title": "gd1980-10-26.nak300.morrone.friend.116426.flac1644",
+    "venue": "Radio City Music Hall",
+    "year": 1980,
+    "month": 10,
+    "day": 26,
+    "songs": [
+        {
+            "song": "Iko Iko",
+            "order": 1,
+            "length": 383,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t01.mp3"
+        },
+        {
+            "song": "Dark Hollow",
+            "order": 2,
+            "length": 243,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t02.mp3"
+        },
+        {
+            "song": "It Must Have Been the Roses",
+            "order": 3,
+            "length": 427,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t03.mp3"
+        },
+        {
+            "song": "On the Road Again",
+            "order": 4,
+            "length": 200,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t04.mp3"
+        },
+        {
+            "song": "Jackaroe",
+            "order": 5,
+            "length": 309,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t05.mp3"
+        },
+        {
+            "song": "Cassidy",
+            "order": 6,
+            "length": 305,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t06.mp3"
+        },
+        {
+            "song": "China Doll",
+            "order": 7,
+            "length": 348,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t07.mp3"
+        },
+        {
+            "song": "Ripple",
+            "order": 8,
+            "length": 288,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s1t08.mp3"
+        },
+        {
+            "song": "crowd & tuning",
+            "order": 9,
+            "length": 37,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t01.mp3"
+        },
+        {
+            "song": "Jack Straw >",
+            "order": 10,
+            "length": 314,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t02.mp3"
+        },
+        {
+            "song": "Sugaree >",
+            "order": 11,
+            "length": 580,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t03.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 12,
+            "length": 565,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t04.mp3"
+        },
+        {
+            "song": "Brown Eyed Women",
+            "order": 13,
+            "length": 415,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t05.mp3"
+        },
+        {
+            "song": "Let It Grow >",
+            "order": 14,
+            "length": 566,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t06.mp3"
+        },
+        {
+            "song": "Don't Ease Me In",
+            "order": 15,
+            "length": 214,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s2t07.mp3"
+        },
+        {
+            "song": "crowd & tuning",
+            "order": 16,
+            "length": 85,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t01.mp3"
+        },
+        {
+            "song": "Samson And Delilah",
+            "order": 17,
+            "length": 489,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t02.mp3"
+        },
+        {
+            "song": "Althea",
+            "order": 18,
+            "length": 502,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t03.mp3"
+        },
+        {
+            "song": "crowd & tuning, false start",
+            "order": 19,
+            "length": 125,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t04.mp3"
+        },
+        {
+            "song": "Estimated Prophet >",
+            "order": 20,
+            "length": 630,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t05.mp3"
+        },
+        {
+            "song": "He's Gone >",
+            "order": 21,
+            "length": 934,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t06.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 22,
+            "length": 633,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t07.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 23,
+            "length": 392,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t08.mp3"
+        },
+        {
+            "song": "Not Fade Away >",
+            "order": 24,
+            "length": 306,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t09.mp3"
+        },
+        {
+            "song": "Stella Blue >",
+            "order": 25,
+            "length": 666,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t10.mp3"
+        },
+        {
+            "song": "Good Lovin'",
+            "order": 26,
+            "length": 457,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t11.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t11.mp3"
+        },
+        {
+            "song": "Encore: Brokedown Palace",
+            "order": 27,
+            "length": 414,
+            "ogg": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t12.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-26.nak300.morrone.friend.116426.flac1644/gd1980-10-26s3t12.mp3"
+        }
+    ]
+}

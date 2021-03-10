@@ -1,0 +1,86 @@
+{
+    "title": "gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16",
+    "venue": "Hampton Coliseum",
+    "year": 1988,
+    "month": 3,
+    "day": 26,
+    "songs": [
+        {
+            "song": "crowd",
+            "order": 1,
+            "length": 60,
+            "ogg": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d1t01.mp3"
+        },
+        {
+            "song": "China Cat Sunflower > I Know You Rider",
+            "order": 2,
+            "length": 703,
+            "ogg": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d1t02.mp3"
+        },
+        {
+            "song": "Playin in the Band >",
+            "order": 3,
+            "length": 522,
+            "ogg": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d1t03.mp3"
+        },
+        {
+            "song": "Uncle Johns Band >",
+            "order": 4,
+            "length": 609,
+            "ogg": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d1t04.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 5,
+            "length": 692,
+            "ogg": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d1t05.mp3"
+        },
+        {
+            "song": "Space //",
+            "order": 6,
+            "length": 319,
+            "ogg": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d2t01.mp3"
+        },
+        {
+            "song": "//Space >",
+            "order": 7,
+            "length": 312,
+            "ogg": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d2t02.mp3"
+        },
+        {
+            "song": "Gimme Some Lovin >",
+            "order": 8,
+            "length": 284,
+            "ogg": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d2t03.mp3"
+        },
+        {
+            "song": "The Wheel >",
+            "order": 9,
+            "length": 834,
+            "ogg": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d2t04.mp3"
+        },
+        {
+            "song": "All Along the Watchtower > Black Peter >",
+            "order": 10,
+            "length": 347,
+            "ogg": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d2t05.mp3"
+        },
+        {
+            "song": "One More Saturday Night",
+            "order": 11,
+            "length": 499,
+            "ogg": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1988-03-26.set2.nak.cohen.106000.sbeok.flac16/gd88-03-26.d2t06.mp3"
+        }
+    ]
+}

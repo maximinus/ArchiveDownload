@@ -1,0 +1,156 @@
+{
+    "title": "gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648",
+    "venue": "Madison Square Garden",
+    "year": 1990,
+    "month": 9,
+    "day": 20,
+    "songs": [
+        {
+            "song": "Feel Like a Stranger",
+            "order": 1,
+            "length": 545,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t01.mp3"
+        },
+        {
+            "song": "Althea",
+            "order": 2,
+            "length": 546,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t02.mp3"
+        },
+        {
+            "song": "Its All Over Now",
+            "order": 3,
+            "length": 495,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t03.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 4,
+            "length": 129,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t04.mp3"
+        },
+        {
+            "song": "Ramble on Rose",
+            "order": 5,
+            "length": 532,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t05.mp3"
+        },
+        {
+            "song": "El Paso",
+            "order": 6,
+            "length": 349,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t06.mp3"
+        },
+        {
+            "song": "Brown Eyed Women",
+            "order": 7,
+            "length": 387,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t07.mp3"
+        },
+        {
+            "song": "Greatest Story Ever Told",
+            "order": 8,
+            "length": 249,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t08.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t08.mp3"
+        },
+        {
+            "song": "U.S. Blues",
+            "order": 9,
+            "length": 323,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t09.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s1t09.mp3"
+        },
+        {
+            "song": "Truckin' ->",
+            "order": 10,
+            "length": 548,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t01.mp3"
+        },
+        {
+            "song": "China Cat Sunflower ->",
+            "order": 11,
+            "length": 472,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t02.mp3"
+        },
+        {
+            "song": "I Know You Rider ->",
+            "order": 12,
+            "length": 431,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t03.mp3"
+        },
+        {
+            "song": "Man Smart (Women are Smarter) ->",
+            "order": 13,
+            "length": 366,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t04.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 14,
+            "length": 886,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t05.mp3"
+        },
+        {
+            "song": "Space ->",
+            "order": 15,
+            "length": 606,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t06.mp3"
+        },
+        {
+            "song": "Dark Star ->",
+            "order": 16,
+            "length": 734,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t07.mp3"
+        },
+        {
+            "song": "Playing in the Band reprise ->",
+            "order": 17,
+            "length": 300,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t08.mp3"
+        },
+        {
+            "song": "Dark Star ->",
+            "order": 18,
+            "length": 892,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t09.mp3"
+        },
+        {
+            "song": "Throwing Stones ->",
+            "order": 19,
+            "length": 603,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t10.mp3"
+        },
+        {
+            "song": "Touch of Grey",
+            "order": 20,
+            "length": 454,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t11.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t11.mp3"
+        },
+        {
+            "song": "Turn On Your Love Light",
+            "order": 21,
+            "length": 398,
+            "ogg": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t12.ogg",
+            "mp3": "https://archive.org/download/gd1990-09-20.141168.OTS.AKG.Ackerman.Miller.Noel.t-flac1648/gd90-09-20.s2t12.mp3"
+        }
+    ]
+}

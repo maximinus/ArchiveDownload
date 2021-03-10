@@ -1,0 +1,51 @@
+{
+    "title": "gd1981-05-07.147903.tv.vhs.flac",
+    "venue": "Tommorow With Tom Snyder, NBC Studios",
+    "year": 1981,
+    "month": 5,
+    "day": 7,
+    "songs": [
+        {
+            "song": "Tom interviews Jerry Garcia and Ken Kesey",
+            "order": 1,
+            "length": 483,
+            "ogg": "https://archive.org/download/gd1981-05-07.147903.tv.vhs.flac/01%20Interview%20Kesey%20Garcia.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-07.147903.tv.vhs.flac/01%20Interview%20Kesey%20Garcia.mp3"
+        },
+        {
+            "song": "On the Road Again",
+            "order": 2,
+            "length": 201,
+            "ogg": "https://archive.org/download/gd1981-05-07.147903.tv.vhs.flac/02%20On%20the%20Road%20Again.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-07.147903.tv.vhs.flac/02%20On%20the%20Road%20Again.mp3"
+        },
+        {
+            "song": "Dire Wolf",
+            "order": 3,
+            "length": 204,
+            "ogg": "https://archive.org/download/gd1981-05-07.147903.tv.vhs.flac/03%20Dire%20Wolf.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-07.147903.tv.vhs.flac/03%20Dire%20Wolf.mp3"
+        },
+        {
+            "song": "Deep Elem Blues",
+            "order": 4,
+            "length": 261,
+            "ogg": "https://archive.org/download/gd1981-05-07.147903.tv.vhs.flac/04%20Deep%20Elem%20Blues.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-07.147903.tv.vhs.flac/04%20Deep%20Elem%20Blues.mp3"
+        },
+        {
+            "song": "Tom interviews Bob and Jerry, then adds Billy and Mickey",
+            "order": 5,
+            "length": 631,
+            "ogg": "https://archive.org/download/gd1981-05-07.147903.tv.vhs.flac/05%20Interview%20Garcia%20Weir%20Mickey%20Billy.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-07.147903.tv.vhs.flac/05%20Interview%20Garcia%20Weir%20Mickey%20Billy.mp3"
+        },
+        {
+            "song": "Cassidy",
+            "order": 6,
+            "length": 310,
+            "ogg": "https://archive.org/download/gd1981-05-07.147903.tv.vhs.flac/06%20Cassidy.ogg",
+            "mp3": "https://archive.org/download/gd1981-05-07.147903.tv.vhs.flac/06%20Cassidy.mp3"
+        }
+    ]
+}

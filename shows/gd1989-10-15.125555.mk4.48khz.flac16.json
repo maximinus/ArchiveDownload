@@ -1,0 +1,58 @@
+{
+    "title": "gd1989-10-15.125555.mk4.48khz.flac16",
+    "venue": "Meadowlands Arena",
+    "year": 1989,
+    "month": 10,
+    "day": 15,
+    "songs": [
+        {
+            "song": "Let The Good Times Roll>",
+            "order": 1,
+            "length": 233,
+            "ogg": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t01.mp3"
+        },
+        {
+            "song": "Iko Iko",
+            "order": 2,
+            "length": 456,
+            "ogg": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t02.mp3"
+        },
+        {
+            "song": "Walkin Blues",
+            "order": 3,
+            "length": 456,
+            "ogg": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t03.mp3"
+        },
+        {
+            "song": "Far From Me",
+            "order": 4,
+            "length": 342,
+            "ogg": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t04.mp3"
+        },
+        {
+            "song": "Row Jimmy",
+            "order": 5,
+            "length": 679,
+            "ogg": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t05.mp3"
+        },
+        {
+            "song": "Victim or the Crime>",
+            "order": 6,
+            "length": 513,
+            "ogg": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t06.mp3"
+        },
+        {
+            "song": "Standing on the Moon",
+            "order": 7,
+            "length": 492,
+            "ogg": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-15.125555.mk4.48khz.flac16/gd89-10-15s1t07.mp3"
+        }
+    ]
+}

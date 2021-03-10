@@ -1,0 +1,163 @@
+{
+    "title": "gd1977-05-25.dts.tobin.123385.flac16",
+    "venue": "The Mosque",
+    "year": 1977,
+    "month": 5,
+    "day": 25,
+    "songs": [
+        {
+            "song": "Mississippi Half-Step Uptown Toodeloo",
+            "order": 1,
+            "length": 645,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d1t01.mp3"
+        },
+        {
+            "song": "Jack Straw",
+            "order": 2,
+            "length": 377,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d1t02.mp3"
+        },
+        {
+            "song": "They Love Each Other",
+            "order": 3,
+            "length": 441,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d1t03.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 4,
+            "length": 216,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d1t04.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 5,
+            "length": 465,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d1t05.mp3"
+        },
+        {
+            "song": "Cassidy",
+            "order": 6,
+            "length": 324,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d1t06.mp3"
+        },
+        {
+            "song": "Loser",
+            "order": 7,
+            "length": 515,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d1t07.mp3"
+        },
+        {
+            "song": "Lazy Lightnin' ->",
+            "order": 8,
+            "length": 191,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d1t08.mp3"
+        },
+        {
+            "song": "Supplication",
+            "order": 9,
+            "length": 314,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d1t09.mp3"
+        },
+        {
+            "song": "Brown Eyed Women",
+            "order": 10,
+            "length": 371,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d1t10.mp3"
+        },
+        {
+            "song": "The Promised Land",
+            "order": 11,
+            "length": 263,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d1t11.mp3"
+        },
+        {
+            "song": "Scarlet Begonias ->",
+            "order": 12,
+            "length": 631,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d2t01.mp3"
+        },
+        {
+            "song": "Fire On The Mountain",
+            "order": 13,
+            "length": 714,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d2t02.mp3"
+        },
+        {
+            "song": "Estimated Prophet ->",
+            "order": 14,
+            "length": 519,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d2t03.mp3"
+        },
+        {
+            "song": "He's Gone ->",
+            "order": 15,
+            "length": 833,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d2t04.mp3"
+        },
+        {
+            "song": "Drums ->",
+            "order": 16,
+            "length": 308,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d2t05.mp3"
+        },
+        {
+            "song": "The Other One ->",
+            "order": 17,
+            "length": 896,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d3t01.mp3"
+        },
+        {
+            "song": "Wharf Rat ->",
+            "order": 18,
+            "length": 669,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d3t02.mp3"
+        },
+        {
+            "song": "The Other One ->",
+            "order": 19,
+            "length": 220,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d3t03.mp3"
+        },
+        {
+            "song": "The Wheel ->",
+            "order": 20,
+            "length": 323,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d3t04.mp3"
+        },
+        {
+            "song": "Around And Around",
+            "order": 21,
+            "length": 533,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d3t05.mp3"
+        },
+        {
+            "song": "Johnny B. Goode",
+            "order": 22,
+            "length": 253,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1977-05-25.dts.tobin.123385.flac16/gd1977-05-25d3t06.mp3"
+        }
+    ]
+}

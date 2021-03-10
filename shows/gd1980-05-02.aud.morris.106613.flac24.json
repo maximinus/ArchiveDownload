@@ -1,0 +1,170 @@
+{
+    "title": "gd1980-05-02.aud.morris.106613.flac24",
+    "venue": "Hampton Coliseum",
+    "year": 1980,
+    "month": 5,
+    "day": 2,
+    "songs": [
+        {
+            "song": "tuning",
+            "order": 1,
+            "length": 121,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t01.mp3"
+        },
+        {
+            "song": "New Minglewood Blues",
+            "order": 2,
+            "length": 455,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t02.mp3"
+        },
+        {
+            "song": "Loser",
+            "order": 3,
+            "length": 508,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t03.mp3"
+        },
+        {
+            "song": "Mama Tried ->",
+            "order": 4,
+            "length": 149,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t04.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 5,
+            "length": 264,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t05.mp3"
+        },
+        {
+            "song": "Friend of the Devil",
+            "order": 6,
+            "length": 584,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t06.mp3"
+        },
+        {
+            "song": "Far From Me",
+            "order": 7,
+            "length": 237,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t07.mp3"
+        },
+        {
+            "song": "Looks Like Rain",
+            "order": 8,
+            "length": 478,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t08.mp3"
+        },
+        {
+            "song": "Althea ->",
+            "order": 9,
+            "length": 513,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t09.mp3"
+        },
+        {
+            "song": "The Music Never Stopped",
+            "order": 10,
+            "length": 455,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t10.mp3"
+        },
+        {
+            "song": "Alabama Getaway ->",
+            "order": 11,
+            "length": 455,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t10fix.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d1t10fix.mp3"
+        },
+        {
+            "song": "Alabama Getaway ->",
+            "order": 12,
+            "length": 352,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t01.mp3"
+        },
+        {
+            "song": "Alabama Getaway ->",
+            "order": 13,
+            "length": 352,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t01fixed.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t01fixed.mp3"
+        },
+        {
+            "song": "Feel Like A Stranger ->",
+            "order": 14,
+            "length": 479,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t02.mp3"
+        },
+        {
+            "song": "Eyes of the World ->",
+            "order": 15,
+            "length": 437,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t03.mp3"
+        },
+        {
+            "song": "drums->",
+            "order": 16,
+            "length": 554,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t04.mp3"
+        },
+        {
+            "song": "Not Fade Away ->",
+            "order": 17,
+            "length": 437,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t05.mp3"
+        },
+        {
+            "song": "Stella Blue ->",
+            "order": 18,
+            "length": 533,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t06.mp3"
+        },
+        {
+            "song": "I Need A Miracle ->",
+            "order": 19,
+            "length": 235,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t07.mp3"
+        },
+        {
+            "song": "Bertha ->",
+            "order": 20,
+            "length": 338,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t08.mp3"
+        },
+        {
+            "song": "Good Lovin'",
+            "order": 21,
+            "length": 410,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t09.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 22,
+            "length": 52,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t10.mp3"
+        },
+        {
+            "song": "Johnny B. Goode",
+            "order": 23,
+            "length": 280,
+            "ogg": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t11.ogg",
+            "mp3": "https://archive.org/download/gd1980-05-02.aud.morris.106613.flac24/gd80-05-02d2t11.mp3"
+        }
+    ]
+}

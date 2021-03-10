@@ -1,0 +1,170 @@
+{
+    "title": "gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496",
+    "venue": "Augusta Civic Center",
+    "year": 1979,
+    "month": 9,
+    "day": 2,
+    "songs": [
+        {
+            "song": "tuning",
+            "order": 1,
+            "length": 224,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t01.mp3"
+        },
+        {
+            "song": "Jack Straw",
+            "order": 2,
+            "length": 508,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t02.mp3"
+        },
+        {
+            "song": "They Love Each Other",
+            "order": 3,
+            "length": 578,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t03.mp3"
+        },
+        {
+            "song": "Mama Tried >",
+            "order": 4,
+            "length": 164,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t04.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 5,
+            "length": 389,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t05.mp3"
+        },
+        {
+            "song": "Stagger Lee",
+            "order": 6,
+            "length": 530,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t06.mp3"
+        },
+        {
+            "song": "Cassidy",
+            "order": 7,
+            "length": 500,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t07.mp3"
+        },
+        {
+            "song": "Row Jimmy",
+            "order": 8,
+            "length": 739,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t08.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t08.mp3"
+        },
+        {
+            "song": "New Minglewood Blues",
+            "order": 9,
+            "length": 421,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t09.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t09.mp3"
+        },
+        {
+            "song": "Jack-A-Roe",
+            "order": 10,
+            "length": 352,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t10.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t10.mp3"
+        },
+        {
+            "song": "The Music Never Stopped",
+            "order": 11,
+            "length": 502,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t11.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s1t11.mp3"
+        },
+        {
+            "song": "crowd/tuning",
+            "order": 12,
+            "length": 167,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t01.mp3"
+        },
+        {
+            "song": "Samson And Delilah",
+            "order": 13,
+            "length": 511,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t02.mp3"
+        },
+        {
+            "song": "Ramble On Rose",
+            "order": 14,
+            "length": 680,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t03.mp3"
+        },
+        {
+            "song": "Terrapin Station >",
+            "order": 15,
+            "length": 753,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t04.mp3"
+        },
+        {
+            "song": "Let It Grow >",
+            "order": 16,
+            "length": 1374,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t05.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 17,
+            "length": 333,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t06.mp3"
+        },
+        {
+            "song": "Space > patch",
+            "order": 18,
+            "length": 309,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t07.mp3"
+        },
+        {
+            "song": "Stella Blue >",
+            "order": 19,
+            "length": 646,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t08.mp3"
+        },
+        {
+            "song": "Truckin' >",
+            "order": 20,
+            "length": 435,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t09.mp3"
+        },
+        {
+            "song": "Nobody's Fault But Mine Jam >",
+            "order": 21,
+            "length": 64,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t10.mp3"
+        },
+        {
+            "song": "Around And Around",
+            "order": 22,
+            "length": 514,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t11.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t11.mp3"
+        },
+        {
+            "song": "U.S. Blues",
+            "order": 23,
+            "length": 336,
+            "ogg": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t12.ogg",
+            "mp3": "https://archive.org/download/gd1979-09-02.139738.nak700.wagner.miller.sirmick.flac2496/gd1979-09-02s2t12.mp3"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "title": "gd1978-04-18.132410.fob.s2.seaweed.flac16",
+    "venue": "Civic Arena",
+    "year": 1978,
+    "month": 4,
+    "day": 18,
+    "songs": [
+        {
+            "song": "Scarlet Begonias >",
+            "order": 1,
+            "length": 833,
+            "ogg": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t01.mp3"
+        },
+        {
+            "song": "Dancin' In The Streets >",
+            "order": 2,
+            "length": 809,
+            "ogg": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t02.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 3,
+            "length": 1122,
+            "ogg": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t03.mp3"
+        },
+        {
+            "song": "Samson & Delilah",
+            "order": 4,
+            "length": 462,
+            "ogg": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t04.mp3"
+        },
+        {
+            "song": "tuning",
+            "order": 5,
+            "length": 33,
+            "ogg": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t05.mp3"
+        },
+        {
+            "song": "Terrapin Station >",
+            "order": 6,
+            "length": 661,
+            "ogg": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t06.mp3"
+        },
+        {
+            "song": "Around & Around",
+            "order": 7,
+            "length": 529,
+            "ogg": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t07.mp3"
+        },
+        {
+            "song": "encore break -",
+            "order": 8,
+            "length": 34,
+            "ogg": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t08.mp3"
+        },
+        {
+            "song": "U.S. Blues",
+            "order": 9,
+            "length": 345,
+            "ogg": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1978-04-18.132410.fob.s2.seaweed.flac16/gd1978-04-18s2t09.mp3"
+        }
+    ]
+}

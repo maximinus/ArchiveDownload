@@ -1,0 +1,114 @@
+{
+    "title": "gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16",
+    "venue": "Cardinal Stadium",
+    "year": 1990,
+    "month": 7,
+    "day": 6,
+    "songs": [
+        {
+            "song": "tuning",
+            "order": 1,
+            "length": 28,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t01.mp3"
+        },
+        {
+            "song": "china cat>",
+            "order": 2,
+            "length": 407,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t02.mp3"
+        },
+        {
+            "song": "i know you rider",
+            "order": 3,
+            "length": 446,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t03.mp3"
+        },
+        {
+            "song": "women smarter",
+            "order": 4,
+            "length": 468,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t04.mp3"
+        },
+        {
+            "song": "sotm>",
+            "order": 5,
+            "length": 700,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t05.mp3"
+        },
+        {
+            "song": "hes gone>",
+            "order": 6,
+            "length": 632,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t06.mp3"
+        },
+        {
+            "song": "jam>",
+            "order": 7,
+            "length": 875,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t07.mp3"
+        },
+        {
+            "song": "drums>",
+            "order": 8,
+            "length": 587,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d1t08.mp3"
+        },
+        {
+            "song": "space>",
+            "order": 9,
+            "length": 551,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t01.mp3"
+        },
+        {
+            "song": "truckin>",
+            "order": 10,
+            "length": 463,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t02.mp3"
+        },
+        {
+            "song": "wharf rat>",
+            "order": 11,
+            "length": 749,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t03.mp3"
+        },
+        {
+            "song": "",
+            "order": 12,
+            "length": 480,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t04.mp3"
+        },
+        {
+            "song": "around and around",
+            "order": 13,
+            "length": 445,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t05.mp3"
+        },
+        {
+            "song": "crowd",
+            "order": 14,
+            "length": 213,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t06.mp3"
+        },
+        {
+            "song": "baby blue",
+            "order": 15,
+            "length": 513,
+            "ogg": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1990-07-06.aud-set2.unknown.82915.sbeok.flac16/gd90-07-06d2t07.mp3"
+        }
+    ]
+}

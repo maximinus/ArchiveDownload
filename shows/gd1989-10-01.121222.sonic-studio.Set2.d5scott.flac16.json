@@ -1,0 +1,79 @@
+{
+    "title": "gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16",
+    "venue": "Shoreline Amphitheatre",
+    "year": 1989,
+    "month": 10,
+    "day": 1,
+    "songs": [
+        {
+            "song": "Hell In A Bucket",
+            "order": 1,
+            "length": 394,
+            "ogg": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/01.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/01.mp3"
+        },
+        {
+            "song": "Scarlet Begonias",
+            "order": 2,
+            "length": 643,
+            "ogg": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/02.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/02.mp3"
+        },
+        {
+            "song": "Woman Are Smarter",
+            "order": 3,
+            "length": 469,
+            "ogg": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/03.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/03.mp3"
+        },
+        {
+            "song": "He's Gone",
+            "order": 4,
+            "length": 781,
+            "ogg": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/04.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/04.mp3"
+        },
+        {
+            "song": "Drums",
+            "order": 5,
+            "length": 137,
+            "ogg": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/05.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/05.mp3"
+        },
+        {
+            "song": "Space",
+            "order": 6,
+            "length": 593,
+            "ogg": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/06.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/06.mp3"
+        },
+        {
+            "song": "The Other One",
+            "order": 7,
+            "length": 469,
+            "ogg": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/07.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/07.mp3"
+        },
+        {
+            "song": "Wharf Rat",
+            "order": 8,
+            "length": 620,
+            "ogg": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/08.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/08.mp3"
+        },
+        {
+            "song": "Turn On Your Lovelight",
+            "order": 9,
+            "length": 452,
+            "ogg": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/09.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/09.mp3"
+        },
+        {
+            "song": "Knockin' On Heaven's Door",
+            "order": 10,
+            "length": 433,
+            "ogg": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/10.ogg",
+            "mp3": "https://archive.org/download/gd1989-10-01.121222.sonic-studio.Set2.d5scott.flac16/10.mp3"
+        }
+    ]
+}

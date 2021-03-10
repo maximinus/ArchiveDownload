@@ -1,0 +1,170 @@
+{
+    "title": "gd1987-09-16.125758.AT835.flac16",
+    "venue": "Madison Square Garden",
+    "year": 1987,
+    "month": 9,
+    "day": 16,
+    "songs": [
+        {
+            "song": "Tuning",
+            "order": 1,
+            "length": 30,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T01.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T01.mp3"
+        },
+        {
+            "song": "A Touch of Grey",
+            "order": 2,
+            "length": 380,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T02.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T02.mp3"
+        },
+        {
+            "song": "Scarlet Begonias",
+            "order": 3,
+            "length": 552,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T03.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T03.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 4,
+            "length": 618,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T04.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T04.mp3"
+        },
+        {
+            "song": "Direwolf",
+            "order": 5,
+            "length": 326,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T05.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T05.mp3"
+        },
+        {
+            "song": "My Brother Esau",
+            "order": 6,
+            "length": 289,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T06.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T06.mp3"
+        },
+        {
+            "song": "High Time",
+            "order": 7,
+            "length": 445,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T07.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T07.mp3"
+        },
+        {
+            "song": "Let it Grow*",
+            "order": 8,
+            "length": 736,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T08.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T08.mp3"
+        },
+        {
+            "song": "Dont Ease Me In",
+            "order": 9,
+            "length": 198,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T09.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D1T09.mp3"
+        },
+        {
+            "song": "Tuning",
+            "order": 10,
+            "length": 167,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T01.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T01.mp3"
+        },
+        {
+            "song": "Bertha",
+            "order": 11,
+            "length": 415,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T02.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T02.mp3"
+        },
+        {
+            "song": "Greatest Story Ever Told",
+            "order": 12,
+            "length": 238,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T03.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T03.mp3"
+        },
+        {
+            "song": "Devil With The Blue Dress On",
+            "order": 13,
+            "length": 117,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T04.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T04.mp3"
+        },
+        {
+            "song": "Good Golly Miss Molly",
+            "order": 14,
+            "length": 49,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T05.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T05.mp3"
+        },
+        {
+            "song": "Devil With The Blue Dress On",
+            "order": 15,
+            "length": 59,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T06.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T06.mp3"
+        },
+        {
+            "song": "He's Gone",
+            "order": 16,
+            "length": 817,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T07.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T07.mp3"
+        },
+        {
+            "song": "Drums",
+            "order": 17,
+            "length": 627,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T08.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D2T08.mp3"
+        },
+        {
+            "song": "Space",
+            "order": 18,
+            "length": 573,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D3T01.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D3T01.mp3"
+        },
+        {
+            "song": "Truckin'",
+            "order": 19,
+            "length": 399,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D3T02.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D3T02.mp3"
+        },
+        {
+            "song": "Wharf Rat",
+            "order": 20,
+            "length": 633,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D3T03.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D3T03.mp3"
+        },
+        {
+            "song": "Throwing Stones",
+            "order": 21,
+            "length": 556,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D3T04.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D3T04.mp3"
+        },
+        {
+            "song": "Not Fade Away **",
+            "order": 22,
+            "length": 562,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D3T05.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D3T05.mp3"
+        },
+        {
+            "song": "GDTRFB Sendoff - Black Muddy River",
+            "order": 23,
+            "length": 549,
+            "ogg": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D3T06.ogg",
+            "mp3": "https://archive.org/download/gd1987-09-16.125758.AT835.flac16/D3T06.mp3"
+        }
+    ]
+}

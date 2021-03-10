@@ -1,0 +1,135 @@
+{
+    "title": "gd1978-05-06.aud.rumrunners.97071.flac16",
+    "venue": "Patrick Gymnasium - University of Vermont",
+    "year": 1978,
+    "month": 5,
+    "day": 6,
+    "songs": [
+        {
+            "song": "Sugaree",
+            "order": 1,
+            "length": 779,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t01.mp3"
+        },
+        {
+            "song": "Minglewood Blues",
+            "order": 2,
+            "length": 328,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t02.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 3,
+            "length": 450,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t03.mp3"
+        },
+        {
+            "song": "Beat It On Down The Line",
+            "order": 4,
+            "length": 225,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t04.mp3"
+        },
+        {
+            "song": "Loser",
+            "order": 5,
+            "length": 431,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t05.mp3"
+        },
+        {
+            "song": "Looks Like Rain",
+            "order": 6,
+            "length": 525,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t06.mp3"
+        },
+        {
+            "song": "It Must Have Been The Roses",
+            "order": 7,
+            "length": 406,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t07.mp3"
+        },
+        {
+            "song": "Me And My Uncle",
+            "order": 8,
+            "length": 216,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t08.mp3"
+        },
+        {
+            "song": "Big River",
+            "order": 9,
+            "length": 429,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t09.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t09.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 10,
+            "length": 453,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t10.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d1t10.mp3"
+        },
+        {
+            "song": "Samson And Delilah",
+            "order": 11,
+            "length": 547,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t01.mp3"
+        },
+        {
+            "song": "Sunrise",
+            "order": 12,
+            "length": 263,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t02.mp3"
+        },
+        {
+            "song": "Terrapin Station",
+            "order": 13,
+            "length": 687,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t03.mp3"
+        },
+        {
+            "song": "Playing In The Band",
+            "order": 14,
+            "length": 993,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t04.mp3"
+        },
+        {
+            "song": "Drums",
+            "order": 15,
+            "length": 263,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t05.mp3"
+        },
+        {
+            "song": "Wharf Rat",
+            "order": 16,
+            "length": 610,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t06.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t06.mp3"
+        },
+        {
+            "song": "Sugar Magnolia",
+            "order": 17,
+            "length": 759,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t07.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t07.mp3"
+        },
+        {
+            "song": "One More Saturday Night",
+            "order": 18,
+            "length": 300,
+            "ogg": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t08.ogg",
+            "mp3": "https://archive.org/download/gd1978-05-06.aud.rumrunners.97071.flac16/gd78-05-06-sbd-d2t08.mp3"
+        }
+    ]
+}

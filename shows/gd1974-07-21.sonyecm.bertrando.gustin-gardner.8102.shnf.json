@@ -1,0 +1,170 @@
+{
+    "title": "gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf",
+    "venue": "Hollywood Bowl",
+    "year": 1974,
+    "month": 7,
+    "day": 21,
+    "songs": [
+        {
+            "song": "The Promised Land",
+            "order": 1,
+            "length": 263,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t01.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t01.mp3"
+        },
+        {
+            "song": "Tennessee Jed",
+            "order": 2,
+            "length": 476,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t02.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t02.mp3"
+        },
+        {
+            "song": "Me & my Uncle",
+            "order": 3,
+            "length": 193,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t03.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t03.mp3"
+        },
+        {
+            "song": "Sugaree",
+            "order": 4,
+            "length": 465,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t04.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t04.mp3"
+        },
+        {
+            "song": "Jack Straw",
+            "order": 5,
+            "length": 331,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t05.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t05.mp3"
+        },
+        {
+            "song": "Mississippi Half Step >",
+            "order": 6,
+            "length": 516,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t06.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t06.mp3"
+        },
+        {
+            "song": "It Must Have Been The Roses",
+            "order": 7,
+            "length": 76,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t07.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t07.mp3"
+        },
+        {
+            "song": "El Paso",
+            "order": 8,
+            "length": 284,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t08.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t08.mp3"
+        },
+        {
+            "song": "Scarlet Begonias",
+            "order": 9,
+            "length": 286,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t09.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t09.mp3"
+        },
+        {
+            "song": "Around And Around",
+            "order": 10,
+            "length": 422,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t10.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t10.mp3"
+        },
+        {
+            "song": "Seastones",
+            "order": 11,
+            "length": 305,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t11.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d1t11.mp3"
+        },
+        {
+            "song": "China Cat Sunflower ->",
+            "order": 12,
+            "length": 775,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d2t01.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d2t01.mp3"
+        },
+        {
+            "song": "I Know You Rider",
+            "order": 13,
+            "length": 540,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d2t02.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d2t02.mp3"
+        },
+        {
+            "song": "Big River",
+            "order": 14,
+            "length": 290,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d2t03.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d2t03.mp3"
+        },
+        {
+            "song": "Row Jimmy",
+            "order": 15,
+            "length": 310,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d2t04.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d2t04.mp3"
+        },
+        {
+            "song": "Playing in the Band ->",
+            "order": 16,
+            "length": 519,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d2t05.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d2t05.mp3"
+        },
+        {
+            "song": "Wharf Rat >",
+            "order": 17,
+            "length": 1255,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t01.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t01.mp3"
+        },
+        {
+            "song": "Truckin >",
+            "order": 18,
+            "length": 540,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t02.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t02.mp3"
+        },
+        {
+            "song": "Playing In The Band",
+            "order": 19,
+            "length": 615,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t03.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t03.mp3"
+        },
+        {
+            "song": "Ship of Fools",
+            "order": 20,
+            "length": 414,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t04.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t04.mp3"
+        },
+        {
+            "song": "Sugar Magnolia",
+            "order": 21,
+            "length": 403,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t05.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t05.mp3"
+        },
+        {
+            "song": "US Blues",
+            "order": 22,
+            "length": 641,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t06.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t06.mp3"
+        },
+        {
+            "song": "",
+            "order": 23,
+            "length": 336,
+            "ogg": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t07.ogg",
+            "mp3": "https://archive.org/download/gd1974-07-21.sonyecm.bertrando.gustin-gardner.8102.shnf/gd74-07-21d3t07.mp3"
+        }
+    ]
+}

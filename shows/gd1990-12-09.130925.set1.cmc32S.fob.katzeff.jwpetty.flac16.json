@@ -1,0 +1,72 @@
+{
+    "title": "gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16",
+    "venue": "Compton Terrace",
+    "year": 1990,
+    "month": 12,
+    "day": 9,
+    "songs": [
+        {
+            "song": "Hell In A Bucket",
+            "order": 1,
+            "length": 68,
+            "ogg": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t01.cmc32S.fob.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t01.cmc32S.fob.mp3"
+        },
+        {
+            "song": "Bertha",
+            "order": 2,
+            "length": 511,
+            "ogg": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t02.cmc32S.fob.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t02.cmc32S.fob.mp3"
+        },
+        {
+            "song": "Little Red Rooster",
+            "order": 3,
+            "length": 473,
+            "ogg": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t03.cmc32S.fob.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t03.cmc32S.fob.mp3"
+        },
+        {
+            "song": "Jack-a-Roe",
+            "order": 4,
+            "length": 551,
+            "ogg": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t04.cmc32S.fob.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t04.cmc32S.fob.mp3"
+        },
+        {
+            "song": "Maggie's Farm",
+            "order": 5,
+            "length": 325,
+            "ogg": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t05.cmc32S.fob.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t05.cmc32S.fob.mp3"
+        },
+        {
+            "song": "Black Throated Wind",
+            "order": 6,
+            "length": 455,
+            "ogg": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t06.cmc32S.fob.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t06.cmc32S.fob.mp3"
+        },
+        {
+            "song": "Bird Song",
+            "order": 7,
+            "length": 423,
+            "ogg": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t07.cmc32S.fob.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t07.cmc32S.fob.mp3"
+        },
+        {
+            "song": "Valley Road",
+            "order": 8,
+            "length": 862,
+            "ogg": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t08.cmc32S.fob.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t08.cmc32S.fob.mp3"
+        },
+        {
+            "song": "",
+            "order": 9,
+            "length": 295,
+            "ogg": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t09.cmc32S.fob.ogg",
+            "mp3": "https://archive.org/download/gd1990-12-09.130925.set1.cmc32S.fob.katzeff.jwpetty.flac16/gd1990-12-09.s1t09.cmc32S.fob.mp3"
+        }
+    ]
+}

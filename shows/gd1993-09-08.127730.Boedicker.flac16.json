@@ -1,0 +1,142 @@
+{
+    "title": "gd1993-09-08.127730.Boedicker.flac16",
+    "venue": "Richfield Coliseum",
+    "year": 1993,
+    "month": 9,
+    "day": 8,
+    "songs": [
+        {
+            "song": "crowd",
+            "order": 1,
+            "length": 126,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track01.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track01.mp3"
+        },
+        {
+            "song": "Feel Like A Stranger>",
+            "order": 2,
+            "length": 505,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track02.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track02.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 3,
+            "length": 456,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track03.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track03.mp3"
+        },
+        {
+            "song": "Wang Dang Doodle",
+            "order": 4,
+            "length": 417,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track04.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track04.mp3"
+        },
+        {
+            "song": "Brown Eyed Woman",
+            "order": 5,
+            "length": 371,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track05.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track05.mp3"
+        },
+        {
+            "song": "When I Paint My Masterpiece",
+            "order": 6,
+            "length": 322,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track06.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track06.mp3"
+        },
+        {
+            "song": "Liberty>",
+            "order": 7,
+            "length": 416,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track07.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track07.mp3"
+        },
+        {
+            "song": "Johnny B.Goode",
+            "order": 8,
+            "length": 308,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track08.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc01Track08.mp3"
+        },
+        {
+            "song": "crowd",
+            "order": 9,
+            "length": 76,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc02Track01.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc02Track01.mp3"
+        },
+        {
+            "song": "Foolish Heart",
+            "order": 10,
+            "length": 672,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc02Track02.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc02Track02.mp3"
+        },
+        {
+            "song": "Estimated Prophet>",
+            "order": 11,
+            "length": 688,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc02Track03.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc02Track03.mp3"
+        },
+        {
+            "song": "Eyes Of The World>",
+            "order": 12,
+            "length": 750,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc02Track04.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc02Track04.mp3"
+        },
+        {
+            "song": "Drums>",
+            "order": 13,
+            "length": 806,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc02Track05.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc02Track05.mp3"
+        },
+        {
+            "song": "Space>",
+            "order": 14,
+            "length": 850,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc03Track01.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc03Track01.mp3"
+        },
+        {
+            "song": "I Need A Miracle>",
+            "order": 15,
+            "length": 335,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc03Track02.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc03Track02.mp3"
+        },
+        {
+            "song": "Standing On The Moon Jam>",
+            "order": 16,
+            "length": 174,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc03Track03.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc03Track03.mp3"
+        },
+        {
+            "song": "Black Peter>",
+            "order": 17,
+            "length": 452,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc03Track04.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc03Track04.mp3"
+        },
+        {
+            "song": "Sugar Magnolia",
+            "order": 18,
+            "length": 585,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc03Track05.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc03Track05.mp3"
+        },
+        {
+            "song": "The Weight",
+            "order": 19,
+            "length": 328,
+            "ogg": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc03Track06.ogg",
+            "mp3": "https://archive.org/download/gd1993-09-08.127730.Boedicker.flac16/Disc03Track06.mp3"
+        }
+    ]
+}

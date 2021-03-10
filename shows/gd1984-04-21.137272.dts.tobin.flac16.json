@@ -1,0 +1,177 @@
+{
+    "title": "gd1984-04-21.137272.dts.tobin.flac16",
+    "venue": "Philadelphia Civic Center",
+    "year": 1984,
+    "month": 4,
+    "day": 21,
+    "songs": [
+        {
+            "song": "Tuning",
+            "order": 1,
+            "length": 32,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d1t01.mp3"
+        },
+        {
+            "song": "Alabama Getaway >",
+            "order": 2,
+            "length": 282,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d1t02.mp3"
+        },
+        {
+            "song": "Promised Land",
+            "order": 3,
+            "length": 283,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d1t03.mp3"
+        },
+        {
+            "song": "Friend Of The Devil",
+            "order": 4,
+            "length": 529,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d1t04.mp3"
+        },
+        {
+            "song": "Me And My Uncle >",
+            "order": 5,
+            "length": 196,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d1t05.mp3"
+        },
+        {
+            "song": "Mexicali Blues",
+            "order": 6,
+            "length": 322,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d1t06.mp3"
+        },
+        {
+            "song": "West L.A. Fadeaway",
+            "order": 7,
+            "length": 490,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d1t07.mp3"
+        },
+        {
+            "song": "New Minglewood Blues",
+            "order": 8,
+            "length": 527,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d1t08.mp3"
+        },
+        {
+            "song": "Tennessee Jed >",
+            "order": 9,
+            "length": 483,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d1t09.mp3"
+        },
+        {
+            "song": "Looks Like Rain >",
+            "order": 10,
+            "length": 467,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d1t10.mp3"
+        },
+        {
+            "song": "Deal",
+            "order": 11,
+            "length": 504,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d1t11.mp3"
+        },
+        {
+            "song": "Help On The Way >",
+            "order": 12,
+            "length": 295,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d2t01.mp3"
+        },
+        {
+            "song": "Slipknot! >",
+            "order": 13,
+            "length": 400,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d2t02.mp3"
+        },
+        {
+            "song": "Franklin's Tower >",
+            "order": 14,
+            "length": 772,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d2t03.mp3"
+        },
+        {
+            "song": "Playing In The Band >",
+            "order": 15,
+            "length": 707,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d2t04.mp3"
+        },
+        {
+            "song": "China Doll >",
+            "order": 16,
+            "length": 325,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d2t05.mp3"
+        },
+        {
+            "song": "Playing Jam >",
+            "order": 17,
+            "length": 50,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d2t06.mp3"
+        },
+        {
+            "song": "Don't Need Love >",
+            "order": 18,
+            "length": 322,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d2t07.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 19,
+            "length": 626,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d2t08.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 20,
+            "length": 593,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d3t01.mp3"
+        },
+        {
+            "song": "Wharf Rat >",
+            "order": 21,
+            "length": 631,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d3t02.mp3"
+        },
+        {
+            "song": "Throwing Stones >",
+            "order": 22,
+            "length": 530,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d3t03.mp3"
+        },
+        {
+            "song": "Not Fade Away",
+            "order": 23,
+            "length": 483,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d3t04.mp3"
+        },
+        {
+            "song": "Brokedown Palace",
+            "order": 24,
+            "length": 314,
+            "ogg": "",
+            "mp3": "https://archive.org/download/gd1984-04-21.137272.dts.tobin.flac16/gd1984-04-21d3t05.mp3"
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "title": "gd1980-10-27.nak300.morrone.friend.116196.flac1644",
+    "venue": "Radio City Music Hall",
+    "year": 1980,
+    "month": 10,
+    "day": 27,
+    "songs": [
+        {
+            "song": "crowd & tuning",
+            "order": 1,
+            "length": 123,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t01.mp3"
+        },
+        {
+            "song": "The Race is On",
+            "order": 2,
+            "length": 223,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t02.mp3"
+        },
+        {
+            "song": "I've Been All Around this World",
+            "order": 3,
+            "length": 364,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t03.mp3"
+        },
+        {
+            "song": "Monkey & the Engineer",
+            "order": 4,
+            "length": 209,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t04.mp3"
+        },
+        {
+            "song": "To Lay Me Down",
+            "order": 5,
+            "length": 555,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t05.mp3"
+        },
+        {
+            "song": "Heaven Help the Fool",
+            "order": 6,
+            "length": 439,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t06.mp3"
+        },
+        {
+            "song": "Rosalie McFall",
+            "order": 7,
+            "length": 241,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t07.mp3"
+        },
+        {
+            "song": "On the Road Again",
+            "order": 8,
+            "length": 174,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t08.mp3"
+        },
+        {
+            "song": "Birdsong",
+            "order": 9,
+            "length": 672,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t09.mp3"
+        },
+        {
+            "song": "Ripple",
+            "order": 10,
+            "length": 283,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s1t10.mp3"
+        },
+        {
+            "song": "Alabama Getaway >",
+            "order": 11,
+            "length": 288,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t01.mp3"
+        },
+        {
+            "song": "Greatest Story Ever Told",
+            "order": 12,
+            "length": 257,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t02.mp3"
+        },
+        {
+            "song": "Friend of the Devil",
+            "order": 13,
+            "length": 618,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t03.mp3"
+        },
+        {
+            "song": "Minglewood Blues",
+            "order": 14,
+            "length": 431,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t04.mp3"
+        },
+        {
+            "song": "Peggy-O",
+            "order": 15,
+            "length": 427,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t05.mp3"
+        },
+        {
+            "song": "Passenger",
+            "order": 16,
+            "length": 349,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t06.mp3"
+        },
+        {
+            "song": "Row Jimmy",
+            "order": 17,
+            "length": 626,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t07.mp3"
+        },
+        {
+            "song": "Lost Sailor >",
+            "order": 18,
+            "length": 373,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t08.mp3"
+        },
+        {
+            "song": "Saint of Circumstance >",
+            "order": 19,
+            "length": 390,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t09.mp3"
+        },
+        {
+            "song": "Deal >",
+            "order": 20,
+            "length": 392,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s2t10.mp3"
+        },
+        {
+            "song": "Truckin' >",
+            "order": 21,
+            "length": 492,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t01.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t01.mp3"
+        },
+        {
+            "song": "Scarlet Begonias >",
+            "order": 22,
+            "length": 495,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t02.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t02.mp3"
+        },
+        {
+            "song": "Fire on the Mountain >",
+            "order": 23,
+            "length": 556,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t03.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t03.mp3"
+        },
+        {
+            "song": "Drums >",
+            "order": 24,
+            "length": 736,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t04.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t04.mp3"
+        },
+        {
+            "song": "Space >",
+            "order": 25,
+            "length": 287,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t05.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t05.mp3"
+        },
+        {
+            "song": "Wharf Rat >",
+            "order": 26,
+            "length": 606,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t06.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t06.mp3"
+        },
+        {
+            "song": "I Need a Miracle >",
+            "order": 27,
+            "length": 222,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t07.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t07.mp3"
+        },
+        {
+            "song": "Bertha >",
+            "order": 28,
+            "length": 381,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t08.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t08.mp3"
+        },
+        {
+            "song": "Johnny B. Goode",
+            "order": 29,
+            "length": 265,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t09.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t09.mp3"
+        },
+        {
+            "song": "Encore: Casey Jones",
+            "order": 30,
+            "length": 386,
+            "ogg": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t10.ogg",
+            "mp3": "https://archive.org/download/gd1980-10-27.nak300.morrone.friend.116196.flac1644/gd1980-10-27s3t10.mp3"
+        }
+    ]
+}

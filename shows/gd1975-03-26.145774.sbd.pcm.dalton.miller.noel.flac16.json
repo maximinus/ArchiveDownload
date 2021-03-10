@@ -1,0 +1,65 @@
+{
+    "title": "gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16",
+    "venue": "Ace's",
+    "year": 1975,
+    "month": 3,
+    "day": 26,
+    "songs": [
+        {
+            "song": "tuning/banter",
+            "order": 1,
+            "length": 235,
+            "ogg": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t01.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t01.mp3"
+        },
+        {
+            "song": "jam",
+            "order": 2,
+            "length": 536,
+            "ogg": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t02.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t02.mp3"
+        },
+        {
+            "song": "Lazy Lightnin' jam/tuning",
+            "order": 3,
+            "length": 211,
+            "ogg": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t03.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t03.mp3"
+        },
+        {
+            "song": "banter/tuning/noodling/jam",
+            "order": 4,
+            "length": 413,
+            "ogg": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t04.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t04.mp3"
+        },
+        {
+            "song": "Slipknot!/banter",
+            "order": 5,
+            "length": 202,
+            "ogg": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t05.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t05.mp3"
+        },
+        {
+            "song": "Lazy Lightnin'",
+            "order": 6,
+            "length": 44,
+            "ogg": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t06.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t06.mp3"
+        },
+        {
+            "song": "Blues or Allah/banter",
+            "order": 7,
+            "length": 424,
+            "ogg": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t07.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t07.mp3"
+        },
+        {
+            "song": "[playback session, jam -> Slipknot!]",
+            "order": 8,
+            "length": 709,
+            "ogg": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t08.ogg",
+            "mp3": "https://archive.org/download/gd1975-03-26.145774.sbd.pcm.dalton.miller.noel.flac16/gd75-03-26.t08.mp3"
+        }
+    ]
+}
