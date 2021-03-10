@@ -14,6 +14,13 @@ ETREE_BASE_URL = 'https://db.etree.org/db/shows/browse/artist_key/2/year/'
 ARCHIVE_URL = 'www.archive.org'
 SHOWS_DIRECTORY = 'shows'
 
+
+# Basic plan:
+# Extract the archive links from etree
+# Grab all linked pages
+# Grab info from archive page
+
+
 class Show:
 	def __init__(self, item, title):
 		self.venue = ''
@@ -270,14 +277,15 @@ def getEtreeYear(year):
 		return ''
 
 def getEtreeData():
-	print('Obtaining Etree list')
-	for i in tqdm(range(1965, 1995)):
+	print('* Obtaining Etree list')
+	for i in tqdm(range(1965, 1996)):
 		data = getEtreeYear(i)
 		with open('./etree_source/year_{0}.html'.format(i), 'w') as page_file:
 			page_file.write(data)
 
 def extractEtreeYear(year):
 	# load the page, insert into bs4
+	print('* Extracting archive links from etree years')
 	with open('./etree_source/year_{0}.html'.format(year), 'r') as page_file:
 		data = page_file.read()
 	soup = BeautifulSoup(data, features='html.parser')
@@ -302,6 +310,7 @@ def extractEtreeYear(year):
 	return(show_links)
 
 def getArchiveListFromEtree():
+	# Extract page data from etree
 	shows = extractEtreeData(data)
 	# now go through the shows
 	for show in tqdm(shows):
@@ -310,6 +319,10 @@ def getArchiveListFromEtree():
 		show.saveData()
 
 if __name__ == '__main__':
+	# get all etree years
+	# loop through for links
+	# save the links
+	getEtreeData()
 	archive_links = []
 	for i in tqdm(range(1965, 1996)):
 		new_data = extractEtreeYear(i)
