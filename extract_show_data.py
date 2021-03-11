@@ -2,13 +2,14 @@
 
 import os
 import json
+import fuzzywuzzy
 from tqdm import tqdm
 from bs4 import BeautifulSoup
 
 SHOW_DIR = './data/archive_source/90s'
 from gd_data import Show, Track
 
-# load the archive files and extract the data
+# load the archive files and extract the song data for now
 
 def cleanName(name):
     if len(name) == 0:
@@ -22,8 +23,6 @@ def cleanName(name):
     # if starting with '[0-9]+', remove those digits
     while(name[0].isdigit()):
         name = name[1:]
-    # ensure lowercase for everything
-    name = name.lower()
     # return None if there is an error, else return a string
     if len(name) == 9:
         return
@@ -78,7 +77,7 @@ if __name__ == '__main__':
     files.sort()
     songs = []
     # grab some
-    for i in files[:20]:
+    for i in files[:50]:
         # add full path
         filepath = f'{SHOW_DIR}/{i}'
         print(f'* Extracting: {i}')
