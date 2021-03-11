@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-
 class Show:
 	def __init__(self, item, title):
 		self.venue = ''

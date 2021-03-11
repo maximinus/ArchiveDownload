@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
 import os
+#!/usr/bin/env python3
+
 import sys
 import json
 import requests
@@ -16,7 +18,7 @@ from get_etree_links import ETREE_FOLDER
 
 # you can run the code again if some pages fail: pages already obtained will not be re-downloaded
 
-
+ARCHIVE_FOLDER = './data/archive_source'
 HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0'}
 
 
@@ -24,7 +26,7 @@ HEADERS = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko
 def getArchivePageData(url):
     # perform a GET on this url if we don't have it
     # return False if the page could not be found or obtained
-    filename = f"./archive_source/{url.split('/')[-1]}.html"
+    filename = f"{ARCHIVE_FOLDER}/{url.split('/')[-1]}.html"
     if os.path.isfile(filename):
         return True
     response = requests.get(url, headers=HEADERS)
