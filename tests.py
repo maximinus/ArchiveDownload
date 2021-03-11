@@ -3,7 +3,8 @@
 # tests for class items
 
 import unittest
-from grab import Show, Track
+from gd_data import Show, Track
+
 
 class TestShow(unittest.TestCase):
 	def test_CanGetNull(self):
