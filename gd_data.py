@@ -91,7 +91,6 @@ class Track:
 			self.getSong(name)
 			self.track_number = index
 			self.getLength(duration)
-			self.getLinks(links)
 		except Exception as e:
 			print(' * Error: {0}'.format(e))
 			print(' * {0} : {1}'.format(name, duration))
@@ -114,25 +113,6 @@ class Track:
 		minutes = self.length // 60
 		seconds = self.length - (minutes * 60)
 		return('{0}m {1}s'.format(minutes, seconds))
-
-	def getLinks(self, links):
-		# grab the URL links
-		self.ogg = None
-		self.mp3 = None
-		for i in links:
-			# just grab the first for now
-			if i.endswith('mp3') and self.mp3 is None:
-				self.mp3 = i
-			if i.endswith('ogg') and self.ogg is None:
-				self.ogg = i
-
-	def linkTxt(self):
-		texts = []
-		if self.mp3 is not None:
-			texts.append('MP3')
-		if self.ogg is not None:
-			texts.append('OGG')
-		return '[{0}]'.format(', '.join(texts))
 
 	def toJSON(self):
 		ogg_file = self.ogg if self.ogg is not None else ''
@@ -158,4 +138,4 @@ class Track:
 		return new_track
 
 	def __repr__(self):
-		return('{: >30} {: >10} {: >12}'.format(self.song, self.getTimeString(), self.linkTxt()))
+		return(f'{self.song}, {self.getTimeString()}')
