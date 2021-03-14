@@ -50,7 +50,6 @@ def matchStringStart(name):
                 return song[0]
             if name.endswith(songname.lower()):
                 return song[0]
-    print(f'{name}')
 
 def getMatch(name):
     # find an identical match
@@ -95,7 +94,7 @@ def extractSongData(page, filename):
         name = t.find('meta', {'itemprop': 'name'})['content']
         name = getRealSongName(name, filename)
         duration = t.find('meta', {'itemprop': 'duration'})['content']
-        #links = [x['href'] for x in t.findAll('link')]
+        # links = [x['href'] for x in t.findAll('link')]
         if name is not None:
             songs.append(Track(name, duration, order))
         order += 1
@@ -127,6 +126,16 @@ def exportTrackNames(songs):
     #with open('./data/song_fails.json', 'w') as json_file:
     #    json.dump(cleaned_names, json_file, indent=4)
 
+def saveShows(shows):
+    # save all as json
+    json_data = []
+    print('* Exporting shows')
+    for i in tqdm(shows):
+        json_data.append(i.toJSON())
+    with open('grateful_dead.json', 'w') as json_file:
+        json.dump(json_data, json_file, indent=4)
+
+
 if __name__ == '__main__':
     # current results: 1225 fails
     files = getAllFiles(SHOW_DIR)
@@ -135,12 +144,14 @@ if __name__ == '__main__':
     songs = []
     shows = []
     # grab some
+    print('* Importing Data')
     for i in tqdm(files):
         # add full path
         filepath = f'{SHOW_DIR}/{i}'
         # print(filepath)
         archive_text = getSinglePage(filepath)
-        #songs.extend(extractPageData(archive_text, filepath))
-        shows.append(Show.getFromArchivePage(archive_text))
-    for i in shows:
-        print(i.date)
+        songs = extractSongData(archive_text, filepath)
+        new_show = Show.getFromArchivePage(archive_text)
+        new_show.songs = songs
+        shows.append(new_show)
+    saveShows(shows)

@@ -7,8 +7,7 @@ class Show:
     def __init__(self):
         self.venue = ''
         self.date = None
-        self.city = ''
-        self.state = ''
+        self.location = ''
         self.songs = []
 
     @classmethod
@@ -20,43 +19,36 @@ class Show:
         date_data = date_text.split('-')
         date_data = [int(x) for x in date_data]
         show.date = date(date_data[0], date_data[1], date_data[2])
+        # need location and venue
+        metadata = soup.find('div', {'class': 'metadata-expandable-list'})
+        for i in metadata.find_all('dl'):
+            dt_tag = i.find('dt')
+            if dt_tag.text.lower() == 'location':
+                show.location = i.find('dd').text.strip()
+            elif dt_tag.text.lower() == 'venue':
+                show.venue = i.find('dd').text.strip()
         return(show)
 
-    def getDetails(self, item):
-        self.title = item['data-id']
-        data = self.title.split('.')[0]
-        # result = gd1989-08-18
-        data = data[2:].split('-')
-        year = int(data[0])
-        month = int(data[1])
-        day = int(data[2])
-        self.date = date(year, month, day)
-
     def toJSON(self):
-        return {'title': self.title,
-                'venue': self.venue,
+        return {'venue': self.venue,
                 'year': self.date.year,
                 'month': self.date.month,
                 'day': self.date.day,
-                'city': self.city,
-                'state': self.state,
+                'location': self.location,
                 'songs': [x.toJSON() for x in self.songs]}
 
     @classmethod
     def fromJSON(cls, json_data):
         new_show = Show()
-        new_show.title = json_data['title']
         new_show.venue = json_data['venue']
-        new_show.city = json_data['city']
-        new_show.state = json_data['state']
+        new_show.location = json_data['location']
         new_show.date = date(json_data['year'], json_data['month'], json_data['day'])
         new_show.songs = [Track.fromJSON(x) for x in json_data['songs']]
         return new_show
 
     def __repr__(self):
         date_format = self.date.strftime('%a %d %b %y')
-        recording = self.title.split('.')[-1]
-        return '{0}: {1}'.format(date_format, recording)
+        return f'{date_format}: {self.venue}'
 
 class Track:
     def __init__(self, name, duration, index):
@@ -89,26 +81,14 @@ class Track:
         return('{0}m {1}s'.format(minutes, seconds))
 
     def toJSON(self):
-        ogg_file = self.ogg if self.ogg is not None else ''
-        mp3_file = self.mp3 if self.mp3 is not None else ''
         return {'song': self.song,
-                'order': self.track_number,
-                'length': self.length,
-                'ogg': ogg_file,
-                'mp3': mp3_file}
+                'length': self.length}
 
     @classmethod
     def fromJSON(cls, json_data):
         new_track = Track('', '', '', 0)
         new_track.title = json_data['song']
-        new_track.track_number = json_data['order']
         new_track.length = json_data['length']
-        new_track.ogg = json_data['ogg']
-        if new_track.ogg != '':
-             new_track.ogg = None
-        new_track.mp3 = json_data['mp3']
-        if new_track.mp3 != '':
-            new_track.mp3 = None
         return new_track
 
     def __repr__(self):
