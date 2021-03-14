@@ -1,32 +1,25 @@
 #!/usr/bin/env python3
 
+from datetime import date
+from bs4 import BeautifulSoup
+
 class Show:
-    def __init__(self, item, title):
+    def __init__(self):
         self.venue = ''
         self.date = None
         self.city = ''
         self.state = ''
         self.songs = []
 
-    def getVenue(self, title):
-        try:
-            self.venue = title.split(':')[-1].strip()
-        except:
-            self.venue = "Unknown"
-
     @classmethod
-    def getFromArchive(cls, item, title):
+    def getFromArchivePage(cls, page):
         show = Show()
-        try:
-            show.getVenue(title)
-            show.getDetails(item)
-        except:
-            pass
-        return(show)
-
-    @classmethod
-    def getFromEtree(cls):
-        show = Show()
+        soup = BeautifulSoup(page, features='html.parser')
+        date_text = soup.find('span', {'itemprop': 'datePublished'}).text
+        # this is in the format YYYY-MM-DD
+        date_data = date_text.split('-')
+        date_data = [int(x) for x in date_data]
+        show.date = date(date_data[0], date_data[1], date_data[2])
         return(show)
 
     def getDetails(self, item):
@@ -38,25 +31,6 @@ class Show:
         month = int(data[1])
         day = int(data[2])
         self.date = date(year, month, day)
-
-    def downloadPage(self):
-        # returns the archive page, or '' if no joy
-        url = '{0}{1}'.format(ARCHIVE_BASE_URL, self.title)
-        # use requests to load the page
-        response = requests.get(url)
-        if response.status_code == 200:
-            return response.text
-        else:
-            # some error
-            return ''
-
-    def getFilePath(self):
-        return './{0}/{1}.json'.format(SHOWS_DIRECTORY, self.title)
-
-    def saveData(self):
-        json_data = self.toJSON()
-        with open(self.getFilePath(), 'w') as json_file:
-            json.dump(json_data, json_file, indent=4)
 
     def toJSON(self):
         return {'title': self.title,
