@@ -46,34 +46,30 @@ class Show:
         new_show.songs = [Track.fromJSON(x) for x in json_data['songs']]
         return new_show
 
+    def compare(self, other):
+        # all songs must be the same
+        if len(self.songs) != len(other.songs):
+            return False
+        for i in range(len(self.songs)):
+            if self.songs[i].compare(other.songs[i]) == False:
+                return False
+        return True
+
     def __repr__(self):
         date_format = self.date.strftime('%a %d %b %y')
         return f'{date_format}: {self.venue}'
 
 class Track:
+    # duration of -1 means info is missing
     def __init__(self, name, duration, index):
         # we can extract many things from this data
         try:
-            self.getSong(name)
+            self.name = name
             self.track_number = index
-            self.getLength(duration)
+            self.length = duration
         except Exception as e:
             print(' * Error: {0}'.format(e))
             print(' * {0} : {1}'.format(name, duration))
-
-    def getSong(self, name):
-        # starts with gd?
-        if name.startswith('gd'):
-            data = ' '.join(name.split()[2:])
-            self.song = data
-        else:
-            self.song = name
-
-    def getLength(self, duration):
-        # example of this data: PT0M304S
-        # always of the format
-        data = duration[4:-1]
-        self.length = int(data)
 
     def getTimeString(self):
         minutes = self.length // 60
@@ -81,15 +77,21 @@ class Track:
         return('{0}m {1}s'.format(minutes, seconds))
 
     def toJSON(self):
-        return {'song': self.song,
+        return {'song': self.name,
                 'length': self.length}
 
     @classmethod
     def fromJSON(cls, json_data):
-        new_track = Track('', '', '', 0)
-        new_track.title = json_data['song']
+        new_track = Track('', '', 0)
+        new_track.name = json_data['song']
         new_track.length = json_data['length']
         return new_track
 
+    def compare(self, other):
+        if self.name == other.name:
+            return True
+        print(f'{self.name} != {other.name}')
+        return False
+
     def __repr__(self):
-        return(f'{self.song}, {self.getTimeString()}')
+        return(f'{self.name}, {self.getTimeString()}')

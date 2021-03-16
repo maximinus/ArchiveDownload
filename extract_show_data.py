@@ -80,7 +80,8 @@ def getRealSongName(name, filename):
     if result is not None:
         return result
     # no exact match, let's try a fuzzy match
-    return getFuzzyMatch(clean_name, filename)
+    result = getFuzzyMatch(clean_name, filename)
+    return result
 
 def extractSongData(page, filename):
     # parse the HTML to get the links
