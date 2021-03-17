@@ -3,6 +3,8 @@
 from datetime import date
 from bs4 import BeautifulSoup
 
+import unittest
+
 class Show:
     def __init__(self):
         self.venue = ''
@@ -88,10 +90,47 @@ class Track:
         return new_track
 
     def compare(self, other):
-        if self.name == other.name:
-            return True
-        print(f'{self.name} != {other.name}')
-        return False
+        return self.name == other.name
 
     def __repr__(self):
         return(f'{self.name}, {self.getTimeString()}')
+
+def getDistance(a, b):
+    # calculate the levenstein distance between 2 sets. A and B are lists of Tracks
+    if len(b) == 0:
+        return len(a)
+    if len(a) == 0:
+        return len(b)
+    if a[0].compare(b[0]):
+        # first track of both sequences is same
+        return getDistance(a[1:], b[1:])
+    # none of these?
+    l1 = getDistance(a, b[1:])
+    l2 = getDistance(a[1:], b)
+    l3 = getDistance(a[1:], b[1:])
+    return min(l1, l2, l3) + 1
+
+
+# add testcases here as well
+class TestDistance(unittest.TestCase):
+    def test_empty_distance_zero(self):
+        a = [Track(x, 0, 0) for x in ['a', 'b', 'c']]
+        b = [Track(x, 0, 0) for x in ['a', 'b', 'c']]
+        distance = getDistance(a, b)
+        self.assertEqual(0, distance)
+
+    def test_one_empty(self):
+        a = []
+        b = [Track(x, 0, 0) for x in ['a', 'b', 'c']]
+        distance = getDistance(a, b)
+        self.assertEqual(3, distance)
+
+    def test_different(self):
+        a = [Track(x, 0, 0) for x in ['a', 'b', 'c']]
+        b = [Track(x, 0, 0) for x in ['x', 'y', 'z']]
+        distance = getDistance(a, b)
+        self.assertEqual(3, distance)
+
+
+if __name__ == '__main__':
+    unittest.main()
