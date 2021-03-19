@@ -64,7 +64,6 @@ SONGS = [["A Little Light"],
          ["Easy Answers"],
          ["Easy To Love You"],
          ["El Paso"],
-         ["Encore Break", "Encore", "Encore Break (Added From Set 1 Tape)", "Encore..Break (Tape Pause Between)"],
          ["Estimated Prophet"],
          ["Eternity"],
          ["Eyes Of The World", "Eyes-> Jam->"],
@@ -112,9 +111,8 @@ SONGS = [["A Little Light"],
          ["I'm A King Bee"],
          ["I've Been All Around this World"],
          ["Jam", "JAM!", "Jam (2)", "JAM (Bob, Bruce, Jerry)", "two soldiers jam", "bruce and drummers jam", "piano jam"],
-         ["Jack A Roe"],
          ["Jack Straw", "jack straw (if you listen, you can hear brett laugh)", "Jack Straw * ( Cuts In, Start Patched ** )"],
-         ["Jack-A-Roe"],
+         ["Jack-A-Roe", "Jack A Roe"],
          ["Jam", "Mock Turtle Jam"],
          ["Johnny B. Goode", "J.B. Goode", "JB Goode"],
          ["Just A Little Light"],
@@ -276,14 +274,14 @@ SONGS = [["A Little Light"],
          ["A Day At The Dentist"],
 
          # stuff to ignore
-         ["encore break"],
+         ["Encore Break", "Encore", "Encore Break (Added From Set 1 Tape)", "Encore..Break (Tape Pause Between)", "encore break"],
          ["Filler", "Filler - Me and Bobby McGee"],
          ["Crowd/Tuning", "Tuning", "We Want Phil'", "Crowd", "./-", "Bill Graham Speech", "its a bullshit lie", "Tuning (taper narrative)", "we want phil - 'there's this rumor goin' round...'"],
         ]
 
 
 # all the listing above that we would like removed from a setlist
-NOT_SONGS = ["encore break", "Filler", "Crowd/Tuning"]
+NOT_SONGS = ["Encore Break", "Filler", "Crowd/Tuning"]
 
 # songs that need replacing with one or more other songs
 REPLACE_SONGS = {

@@ -2,6 +2,7 @@
 
 from datetime import date
 from bs4 import BeautifulSoup
+from fuzzywuzzy import fuzz
 
 import unittest
 
@@ -74,6 +75,7 @@ class Track:
             print(' * {0} : {1}'.format(name, duration))
 
     def getTimeString(self):
+        return '0'
         minutes = self.length // 60
         seconds = self.length - (minutes * 60)
         return('{0}m {1}s'.format(minutes, seconds))
@@ -95,41 +97,35 @@ class Track:
     def __repr__(self):
         return(f'{self.name}, {self.getTimeString()}')
 
-def getDistance(a, b):
-    # calculate the levenstein distance between 2 sets. A and B are lists of Tracks
-    if len(b) == 0:
-        return len(a)
-    if len(a) == 0:
-        return len(b)
-    if a[0].compare(b[0]):
-        # first track of both sequences is same
-        return getDistance(a[1:], b[1:])
-    # none of these?
-    l1 = getDistance(a, b[1:])
-    l2 = getDistance(a[1:], b)
-    l3 = getDistance(a[1:], b[1:])
-    return min(l1, l2, l3) + 1
-
+def makeStringsFromShows(shows):
+    # 74 possible different songs should be enough
+    master = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890[](){}!$%^'
+    index = 0
+    all_songs = {}
+    show_strings_mapped = []
+    for i in shows:
+        new_string = []
+        for j in i.songs:
+            if j.name in all_songs:
+                new_string.append(all_songs[j.name])
+            else:
+                all_songs[j.name] = master[index]
+                new_string.append(master[index])
+                index += 1
+        show_strings_mapped.append([i, ''.join(new_string)])
+    return show_strings_mapped
 
 # add testcases here as well
 class TestDistance(unittest.TestCase):
-    def test_empty_distance_zero(self):
-        a = [Track(x, 0, 0) for x in ['a', 'b', 'c']]
-        b = [Track(x, 0, 0) for x in ['a', 'b', 'c']]
-        distance = getDistance(a, b)
-        self.assertEqual(0, distance)
-
-    def test_one_empty(self):
-        a = []
-        b = [Track(x, 0, 0) for x in ['a', 'b', 'c']]
-        distance = getDistance(a, b)
-        self.assertEqual(3, distance)
-
-    def test_different(self):
-        a = [Track(x, 0, 0) for x in ['a', 'b', 'c']]
-        b = [Track(x, 0, 0) for x in ['x', 'y', 'z']]
-        distance = getDistance(a, b)
-        self.assertEqual(3, distance)
+    def test_given(self):
+        SET_ONE = ['Touch Of Gray', 'Greatest Story', 'Jack-A-Roe', 'Little Red Rooster', 'Stagger Lee', 'Queen Jane Approximately', 'The Last Time', 'Cassidy', 'Deal', 'China Cat Sunflower',
+                   'I Know You Rider', 'Just A Little Light', 'Estimated Prophet', 'Eyes Of The World', 'Drums', 'Space', 'The Wheel', 'Gimme Some Lovin', 'Wharf Rat', 'Sugar Magnolia', 'Knockin On Heavens Door']
+        SET_TWO = ['Touch Of Gray', 'Greatest Story', 'Jack-A-Roe', 'Little Red Rooster', 'Stagger Lee', 'High Time', 'Memphis Blues Again', 'Cassidy', 'Deal', 'China Cat Sunflower',
+                   'I Know You Rider', 'Just A Little Light', 'Estimated Prophet', 'Eyes Of The World', 'Drums', 'Space', 'The Wheel', 'Gimme Some Lovin', 'Wharf Rat', 'Sugar Magnolia', 'Encore Break', 'Knockin On Heavens Door']
+        s1 = [Track(x, 0, 0) for x in SET_ONE]
+        s2 = [Track(x, 0, 0) for x in SET_TWO]
+        results = makeStringsFromShows([s1, s2])
+        print(fuzz.ratio(results[0], results[1]))
 
 
 if __name__ == '__main__':
