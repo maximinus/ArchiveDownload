@@ -8,7 +8,8 @@ from bs4 import BeautifulSoup
 
 from songs import SONGS
 
-SHOW_DIR = './data/archive_source/90s'
+SHOW_DIR = './data/archive_source/70s'
+EXPORT_FILE = 'grateful_dead_70s.json'
 from gd_data import Show, Track
 
 # load the archive files and extract the song data for now
@@ -17,6 +18,9 @@ def cleanName(name):
     # before we compare, clean up the input
     # strip white space
     name = name.strip()
+    # remove all * at end
+    while name.endswith('*'):
+        name = name[:-1]
     # compare as lowercase
     name = name.lower()
     # remove any > or ->
@@ -59,6 +63,9 @@ def getMatch(name):
                 return song[0]
 
 def getFuzzyMatch(name, filename):
+    match = matchStringStart(name)
+    if match is not None:
+        return match
     highest_score = 0
     match = ''
     for song in SONGS:
@@ -68,8 +75,9 @@ def getFuzzyMatch(name, filename):
                 match = song[0]
                 highest_score = score
     if highest_score < 50:
-        # still rejected. Search for a song name at the start
-        return matchStringStart(name)
+        # still rejected. Output
+        print(f'Rejected: {name}')
+        return
     return match
 
 def getRealSongName(name, filename):
@@ -132,8 +140,10 @@ def saveShows(shows):
     json_data = []
     print('* Exporting shows')
     for i in tqdm(shows):
-        json_data.append(i.toJSON())
-    with open('grateful_dead.json', 'w') as json_file:
+        data = i.toJSON()
+        if data is not None:
+            json_data.append(data)
+    with open(EXPORT_FILE, 'w') as json_file:
         json.dump(json_data, json_file, indent=4)
 
 

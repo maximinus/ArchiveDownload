@@ -19,9 +19,12 @@ class Show:
         soup = BeautifulSoup(page, features='html.parser')
         date_text = soup.find('span', {'itemprop': 'datePublished'}).text
         # this is in the format YYYY-MM-DD
-        date_data = date_text.split('-')
-        date_data = [int(x) for x in date_data]
-        show.date = date(date_data[0], date_data[1], date_data[2])
+        try:
+            date_data = date_text.split('-')
+            date_data = [int(x) for x in date_data]
+            show.date = date(date_data[0], date_data[1], date_data[2])
+        except:
+            print('Bad date: {date_text}')
         # need location and venue
         metadata = soup.find('div', {'class': 'metadata-expandable-list'})
         for i in metadata.find_all('dl'):
@@ -33,12 +36,16 @@ class Show:
         return(show)
 
     def toJSON(self):
-        return {'venue': self.venue,
-                'year': self.date.year,
-                'month': self.date.month,
-                'day': self.date.day,
-                'location': self.location,
-                'songs': [x.toJSON() for x in self.songs]}
+        try:
+            data = {'venue': self.venue,
+                    'year': self.date.year,
+                    'month': self.date.month,
+                    'day': self.date.day,
+                    'location': self.location,
+                    'songs': [x.toJSON() for x in self.songs]}
+            return data
+        except:
+            return
 
     @classmethod
     def fromJSON(cls, json_data):
