@@ -4,6 +4,9 @@ import json
 import datetime
 from tqdm import tqdm
 
+import gd
+import detector
+
 # DATASET A: we a set of archive data that has:
 # date
 # venue
@@ -27,15 +30,30 @@ from tqdm import tqdm
 
 # Show:
 # Day / Length of each set compared to other shows as % (i.e. 107% of the length of an average show) / Archive links
-# Most Common Combo / Most Common Song / Longest by % against average / Shortest by % against average
+# Most Common Combo / 
+# Most Common Song / Rarest Songs / 
+# Longest by % against average / Shortest by % against average
+# Bar chart average rarity per song in order
+# Bar chart of song lengths in order
+# Bar chart vs average length per song
 # Closest shows by setlist / Furthest Away
 # My Review
 
 # Front Page:
 # Longest Shows / Shortest Shows / Most Average / Most Unique (both based on setlist distance)
 # Longest Songs / Longest Jams / Shortest Songs / Most Common Songs / Length By Year / Songs Per Show By Year / Total Unique Songs By Year
-# First Songs Played / First Songs Stopped / Most Common Date / Most Common Day / Most Common Combos / Shows Per Month / Band Birthday Shows
+# First Songs Stopped / Most Common Date / Most Common Day / Most Common Combos / Shows Per Month
 # Longest Lived Songs / Longest Gaps / Longest Repeats / Most Common Encores
+
+# Combos: Same as songs, but look for combos and treat as one song:
+# Scarlet > Fire
+# China > Rider
+# Estimated > Eyes
+# Playin' > UJB
+# Drums > Space
+
+# Encores
+# Most common, longest, shortest, most songs, % chance
 
 
 def loadArchiveData():
@@ -122,7 +140,6 @@ def getPerfectMatch(show, archive_shows):
 	index = 0
 	songs = {}
 	archive_string = ''
-	matching_shows = []
 	# run through the database show and convert into a setlist
 	set_name = ':sets'
 	if set_name not in show:
@@ -138,7 +155,6 @@ def getPerfectMatch(show, archive_shows):
 				songs[song_name] = song_string[index]
 				archive_string += songs[song_name]
 				index += 1
-	print(f'Database: {archive_string}')
 	# now we have the show string, repeat for the archive shows to see matches
 	for i in archive_shows:
 		show_string = ''
@@ -151,10 +167,10 @@ def getPerfectMatch(show, archive_shows):
 				show_string += songs[song_name]
 				index += 1
 		# do we have a match?
-		print(f' Archive: {show_string}')
 		if show_string == archive_string:
-			matching_shows.append(i)
-	return matching_shows
+			# return first one found
+			return i
+	return
 
 
 def compareSongStrings(database_string, show_string):
@@ -197,7 +213,6 @@ def getLinearMatch(show, archive_shows):
 	index = 0
 	songs = {}
 	database_string = ''
-	matching_shows = []
 	# run through the database show and convert into a setlist
 	set_name = ':sets'
 	if set_name not in show:
@@ -224,31 +239,162 @@ def getLinearMatch(show, archive_shows):
 				songs[song_name] = song_string[index]
 				show_string += songs[song_name]
 				index += 1
+		if compareSongStrings(database_string, show_string):
+			# we found a match, we'll just take the first one thanks
+			return(i)
 
-		if compareSongStrings(database_string, song_string):
-			matching_shows.append(i)
-		else:
-			print(f'{database_string} -> {show_string}')
 
-	return matching_shows
+def noSets(show):
+	if ':sets' in show:
+		if len(show[':sets']) == 0:
+			return True
+	if ':set' in show:
+		if len(show[':set']) == 0:
+			return True
+	return False
+
+
+def showWithNoSongs(show, show_date):
+	venue = show[':venue']
+	city = show[':city']
+	state = show[':state']
+	country = show[':country']
+	new_venue = gd.Venue(venue, city, state, country)
+	new_show = gd.Show(show_date, [], new_venue)
+	return new_show
+
+
+def getLength(song):
+	# time is a string in format PT0M403S, i.e. 403s
+	time = song['length']
+	str_time = time[4:-1]
+	int_time = int(str_time)
+	return int_time
+
+
+def getSetListFromPerfect(show, archive):
+	finished_sets = []
+	set_name = ':sets'
+	if set_name not in show:
+		set_name = ':set'
+	archive_index = 0
+	for single_set in show[set_name]:
+		new_set = []
+		for single_song in single_set[':songs']:
+			name = single_song[':name']
+			length = getLength(archive[archive_index])
+			trans = single_song[':segued']
+			new_set.append(gd.SongInstance(name, length, trans))
+			archive_index += 1
+		finished_sets.append(new_set)
+	return finished_sets
+
+
+def getSetListFromLinear(show, archive):
+	# this is the case where database has nn, and the show has n
+	# so we do the same as perfect, except to skip the doubled songs
+	last_song = ''
+	finished_sets = []
+	set_name = ':sets'
+	if set_name not in show:
+		set_name = ':set'
+	archive_index = 0
+	for single_set in show[set_name]:
+		new_set = []
+		for single_song in single_set[':songs']:
+			name = single_song[':name']
+			# same as the last song? Different from archive?
+			if name == last_song and archive[archive_index]['song'] != name:
+				# skip past this one and do not advance the archive index
+				continue
+			length = getLength(archive[archive_index])
+			#print(f'Matching: {name} == {archive[archive_index]["song"]}')
+			trans = single_song[':segued']
+			new_set.append(gd.SongInstance(name, length, trans))
+			archive_index += 1
+		finished_sets.append(new_set)
+	return finished_sets
+
+
+def getPossibleArchiveSet(show_date, archive, database_show):
+	# the database has no set data for this show
+	# get all the shows that match this
+	matches = getArchiveShows(show_date, archive)
+	if len(matches) <= 0:
+		# nothing!
+		return
+	# find the one with the most songs
+	best_match = matches[0]
+	max_songs = -1
+	for i in matches:
+		total_songs = len(i['songs'])
+		if total_songs > max_songs:
+			max_songs = total_songs
+			best_match = i
+	if max_songs <= 0:
+		# found nothing
+		return
+	# return the gd.ShowInstance
+	new_show = showWithNoSongs(database_show, show_date)
+	# no set info, ah well (!), also we lose all transitions
+	songs = []
+	for i in best_match['songs']:
+		length = getLength(i)
+		songs.append(gd.SongInstance(i['song'], length, False))
+		new_show.sets = [songs]
+	return new_show
 
 
 def matchupShows(archive, database):
 	# go through the database one by one
-	perfect_matches = 0
+	unhandled = 0
+	collated_shows = []
 	for show in database:
 		# find all shows in archive that match this show
 		show_date = getDateFromDatabase(show)
+		if noSets(show[1]) == True:
+			# we can add this one easily
+			# we need to add from the archive. Take the most complete one
+			archive_result = getPossibleArchiveSet(show_date, archive, show[1])
+			if archive_result is not None:
+				#print(f'Check values for {show_date} taken from archive')
+				collated_shows.append(archive_result)
+			# and then carry on
+			continue
 		archive_shows = getArchiveShows(show_date, archive)
+		new_show = showWithNoSongs(show[1], show_date)
 		if len(archive_shows) == 0:
-			# no matches
-			pass
+			# we add with no sets
+			collated_shows.append(new_show)
+			continue
 		else:
 			# some matches. See if any are perfect
-			same_set = getLinearMatch(show[1], archive_shows)
-			if len(same_set) > 0:
-				perfect_matches += 1
-	print(f'  Matches: {perfect_matches}')
+			same_set = getPerfectMatch(show[1], archive_shows)
+			if same_set is not None:
+				new_show.sets = getSetListFromPerfect(show[1], same_set['songs'])
+				collated_shows.append(new_show)
+				# perfect match - easy
+				continue
+
+			show_sets = detector.getMatchedSongLengths(show[1], archive_shows)
+			new_show.sets = show_sets
+			collated_shows.append(new_show)
+			continue
+
+			# try with the linear match format
+			#same_set = getLinearMatch(show[1], archive_shows)
+			#if same_set is not None:
+			#	# great, this is easy
+			#	new_show = showWithNoSongs(show[1], show_date)
+			#	# bit buggy for now
+			#	new_show.sets = getSetListFromLinear(show[1], same_set['songs'])
+			#	collated_shows.append(new_show)
+			# no, we didn't manage to find a match
+		unhandled += 1
+
+	print(f'* Unhandled: {unhandled}')
+	print(f'*   Handled: {len(collated_shows)}')
+	return(collated_shows)
 
 
 if __name__ == '__main__':
@@ -256,4 +402,5 @@ if __name__ == '__main__':
 	#showArchiveStats(archive)
 	database = loadDatabaseData()
 	#showDatabaseStats(database)
-	matchupShows(archive, database)
+	final_shows = matchupShows(archive, database)
+	gd.saveShows(final_shows, 'gd_database.pickle')
