@@ -279,12 +279,12 @@ def getSetListFromPerfect(show, archive):
 		set_name = ':set'
 	archive_index = 0
 	for single_set in show[set_name]:
-		new_set = []
+		new_set = gd.ShowSet([])
 		for single_song in single_set[':songs']:
 			name = single_song[':name']
 			length = getLength(archive[archive_index])
 			trans = single_song[':segued']
-			new_set.append(gd.SongInstance(name, length, trans))
+			new_set.songs.append(gd.SongInstance(name, length, trans))
 			archive_index += 1
 		finished_sets.append(new_set)
 	return finished_sets
@@ -341,15 +341,14 @@ def getPossibleArchiveSet(show_date, archive, database_show):
 	for i in best_match['songs']:
 		length = getLength(i)
 		songs.append(gd.SongInstance(i['song'], length, False))
-		new_show.sets = [songs]
+		new_show.sets = [gd.ShowSet(songs)]
 	return new_show
 
 
 def matchupShows(archive, database):
 	# go through the database one by one
-	unhandled = 0
 	collated_shows = []
-	for show in database:
+	for show in tqdm(database):
 		# find all shows in archive that match this show
 		show_date = getDateFromDatabase(show)
 		if noSets(show[1]) == True:
@@ -365,6 +364,7 @@ def matchupShows(archive, database):
 		new_show = showWithNoSongs(show[1], show_date)
 		if len(archive_shows) == 0:
 			# we add with no sets
+			new_show.sets = []
 			collated_shows.append(new_show)
 			continue
 		else:
@@ -389,10 +389,7 @@ def matchupShows(archive, database):
 			#	# bit buggy for now
 			#	new_show.sets = getSetListFromLinear(show[1], same_set['songs'])
 			#	collated_shows.append(new_show)
-			# no, we didn't manage to find a match
-		unhandled += 1
 
-	print(f'* Unhandled: {unhandled}')
 	print(f'*   Handled: {len(collated_shows)}')
 	return(collated_shows)
 
