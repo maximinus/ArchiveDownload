@@ -1,0 +1,495 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css" rel="stylesheet">
+        <title>Grateful Dead Database</title>
+    </head>
+    <body>
+
+    <div class="container">
+
+        <header class="navbar navbar-expand-lg navbar-light bg-light px-2">
+            <span class="navbar-brand mb-0 h1">Grateful DB</span>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Shows</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Songs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Combos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Encores</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="collapse navbar-collapse navbar-light bg-light text-right">
+                <ul class="navbar-nav ms-auto flex-nowrap">
+                    <form class="form-inline my-2 my-lg-0">
+                        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    </form>
+                </ul>
+            </div>
+        </header>
+
+    
+        <div class="row py-4">
+            <h1>The Other One</h1>
+            <h5 class="text-muted">Played 615 times, from <a href="#">31st Oct 67</a> to <a href="#">8th Jul 95</a> (27 years, 250 days).</h5>
+            <h5 class="text-muted">It was the <a href="#">66th</a> different song played and first played at the <a href="#">35th</a> recorded show.</h5>
+            <h5 class="text-muted">The average length of the song is 9m 30s.</h5>
+        </div>
+        <div class="row py-2">
+            <div class="col-4">
+
+                <div class="card h-100">
+                    <div class="card-header">
+                        <h5>% of shows played at each year</h5>
+                    </div>
+                    <canvas id="chance-played" height="230"></canvas>
+                </div>
+
+            </div>
+            <div class="col-4">
+
+                <div class="card h-100">
+
+                    <div class="card-header">
+                        <h5>Longest Versions</h5>
+                    </div>
+
+                    <table class="table fs-6">
+                        <thead>
+                          <tr class="small">
+                            <th scope="col">#</th>
+                            <th scope="col">Date</th>
+                            <th scope="col">Length</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          
+                            <tr class="small">
+                              <th scope="row">1</th>
+                              <td><a href="#">10th May 72</a></td>
+                              <td>34m 18s</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">2</th>
+                              <td><a href="#">17th Sep 72</a></td>
+                              <td>32m 2s</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">3</th>
+                              <td><a href="#">3rd Sep 72</a></td>
+                              <td>30m 43s</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">4</th>
+                              <td><a href="#">24th May 72</a></td>
+                              <td>29m 42s</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">5</th>
+                              <td><a href="#">22nd Aug 72</a></td>
+                              <td>29m 30s</td>
+                            </tr>
+                          
+                        </tbody>
+                    </table>
+
+                </div>
+
+            </div>
+            <div class="col-4">
+
+                <div class="card h-100">
+
+                    <div class="card-header">
+                        <h5>Shortest Versions</h5>
+                    </div>
+
+                    <table class="table fs-6">
+                        <thead>
+                          <tr class="small">
+                            <th scope="col">#</th>
+                            <th scope="col">Date</th>
+                            <th scope="col">Length</th>
+                          </tr>
+                        </thead>
+                          <tbody>
+                          
+                              <tr class="small">
+                                <th scope="row">1</th>
+                                <td><a href="#">26th Apr 69</a></td>
+                                <td>1m 9s</td>
+                              </tr>
+                          
+                              <tr class="small">
+                                <th scope="row">2</th>
+                                <td><a href="#">19th Oct 72</a></td>
+                                <td>1m 33s</td>
+                              </tr>
+                          
+                              <tr class="small">
+                                <th scope="row">3</th>
+                                <td><a href="#">22nd Apr 69</a></td>
+                                <td>2m 1s</td>
+                              </tr>
+                          
+                              <tr class="small">
+                                <th scope="row">4</th>
+                                <td><a href="#">10th May 72</a></td>
+                                <td>2m 5s</td>
+                              </tr>
+                          
+                              <tr class="small">
+                                <th scope="row">5</th>
+                                <td><a href="#">20th Jan 79</a></td>
+                                <td>2m 17s</td>
+                              </tr>
+                          
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+        </div><!-- End of row -->
+
+        <div class="row py-2">
+            <div class="col-4">
+
+                <div class="card h-100">
+                    <div class="card-header">
+                        <h5>Average % length / year</h5>
+                    </div>
+                    <canvas id="avg-length" height="230"></canvas>
+                 </div>
+
+            </div>
+            <div class="col-4">
+
+                <div class="card h-100">
+
+                    <div class="card-header">
+                        <h5>Songs Before</h5>
+                    </div>
+
+                    <table class="table fs-6">
+                        <thead>
+                          <tr class="small">
+                            <th scope="col">#</th>
+                            <th scope="col">Song</th>
+                            <th scope="col">Total</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          
+                            <tr class="small">
+                              <th scope="row">1</th>
+                              <td><a href="#">Drums</a></td>
+                              <td>299</td>
+                          </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">2</th>
+                              <td><a href="#">Space</a></td>
+                              <td>83</td>
+                          </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">3</th>
+                              <td><a href="#">Truckin'</a></td>
+                              <td>53</td>
+                          </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">4</th>
+                              <td><a href="#">Cryptical Envelopment</a></td>
+                              <td>28</td>
+                          </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">5</th>
+                              <td><a href="#">He's Gone</a></td>
+                              <td>23</td>
+                          </tr>
+                          
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+            <div class="col-4">
+
+                <div class="card h-100">
+
+                    <div class="card-header">
+                        <h5>Songs After</h5>
+                    </div>
+
+                    <table class="table fs-6">
+                        <thead>
+                          <tr class="small">
+                            <th scope="col">#</th>
+                            <th scope="col">Date</th>
+                            <th scope="col">Length</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          
+                            <tr class="small">
+                              <th scope="row">1</th>
+                              <td><a href="#">Wharf Rat</a></td>
+                              <td>161</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">2</th>
+                              <td><a href="#">Cryptical Envelopment</a></td>
+                              <td>96</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">3</th>
+                              <td><a href="#">Stella Blue</a></td>
+                              <td>84</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">4</th>
+                              <td><a href="#">Black Peter</a></td>
+                              <td>36</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">5</th>
+                              <td><a href="#">Drums</a></td>
+                              <td>29</td>
+                            </tr>
+                          
+                        </tbody>
+                    </table>
+
+                </div>
+
+            </div>
+        </div><!-- End of row -->
+
+        <div class="row py-2">
+            <div class="col-4">
+
+                <div class="card h-100">
+                    <div class="card-header">
+                        <h5>Average Show Position</h5>
+                    </div>
+                    <canvas id="avg-position" height="230"></canvas>
+                </div>
+
+            </div>
+            <div class="col-4">
+
+                <div class="card h-100">
+
+                    <div class="card-header">
+                        <h5>First Versions</h5>
+                    </div>
+
+                    <table class="table fs-6">
+                        <thead>
+                          <tr class="small">
+                            <th scope="col">#</th>
+                            <th scope="col">Date</th>
+                            <th scope="col">Location</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          
+                            <tr class="small">
+                              <th scope="row">1</th>
+                              <td><a href="#">31st Oct 67</a></td>
+                              <td>Winterland Arena</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">2</th>
+                              <td><a href="#">10th Nov 67</a></td>
+                              <td>Shrine Exhibition Hall</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">3</th>
+                              <td><a href="#">11th Nov 67</a></td>
+                              <td>Shrine Exhibition Hall</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">4</th>
+                              <td><a href="#">17th Jan 68</a></td>
+                              <td>Carousel Ballroom</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">5</th>
+                              <td><a href="#">22nd Jan 68</a></td>
+                              <td>Eagles Auditorium</td>
+                            </tr>
+                          
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+            <div class="col-4">
+
+                <div class="card h-100">
+
+                    <div class="card-header">
+                        <h5>Last Versions</h5>
+                    </div>
+
+                    <table class="table fs-6">
+                        <thead>
+                          <tr class="small">
+                            <th scope="col">#</th>
+                            <th scope="col">Date</th>
+                            <th scope="col">Location</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          
+                            <tr class="small">
+                              <th scope="row">1</th>
+                              <td><a href="#">8th Jul 95</a></td>
+                              <td>Soldier Field</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">2</th>
+                              <td><a href="#">19th Jun 95</a></td>
+                              <td>Giants Stadium</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">3</th>
+                              <td><a href="#">21st May 95</a></td>
+                              <td>Sam Boyd Silver Bowl</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">4</th>
+                              <td><a href="#">26th Mar 95</a></td>
+                              <td>The Omni</td>
+                            </tr>
+                          
+                            <tr class="small">
+                              <th scope="row">5</th>
+                              <td><a href="#">25th Feb 95</a></td>
+                              <td>Oakland Coliseum Arena</td>
+                            </tr>
+                          
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div><!-- End of row -->
+
+        <div class="row py-8 my-3 text-center">
+            <div class="card bg-light">
+                <div class="card-body">
+                    <p class="card-text small">Grateful DB, Copr. Chris Handy 2021, released under the MIT license</p>
+                </div>
+            </div>
+        </div><!-- End of footer row -->
+
+    </div>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script type="text/javascript">
+        Chart.defaults.plugins.legend = false;
+        var ctx1 = document.getElementById('chance-played').getContext('2d');
+        var myChart1 = new Chart(ctx1, {
+            type: 'line',
+            data: {
+                labels: ['65', '66', '67', '68', '69', '70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '80', '81', '82', '83', '84', '85', '86', '87', '88', '89', '90', '91', '92', '93', '94', '95'],
+                datasets: [{
+                    label: '% shows played at',
+                    data: [0.0,0.0,15.789473684210526,57.14285714285714,47.32142857142857,38.392857142857146,63.1578947368421,63.95348837209303,33.33333333333333,20.0,25.0,29.268292682926827,26.666666666666668,24.390243902439025,24.0,26.744186046511626,29.411764705882355,34.42622950819672,27.27272727272727,25.0,25.352112676056336,26.08695652173913,32.94117647058823,28.749999999999996,28.767123287671232,24.324324324324326,24.675324675324674,23.636363636363637,20.98765432098765,15.66265060240964,10.638297872340425],
+                    fill: false,
+                    borderColor: 'rgb(230, 60, 60)',
+                    tension: 0.1
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        var ctx2 = document.getElementById('avg-length').getContext('2d');
+        var myChart2 = new Chart(ctx2, {
+            type: 'line',
+            data: {
+                labels: ['65', '66', '67', '68', '69', '70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '80', '81', '82', '83', '84', '85', '86', '87', '88', '89', '90', '91', '92', '93', '94', '95'],
+                datasets: [{
+                    label: 'Average % Length / Year',
+                    data: [0,0,31,52,89,101,122,187,144,142,58,99,107,103,100,82,77,79,89,89,66,61,67,71,87,90,92,77,86,97,87],
+                    fill: false,
+                    borderColor: 'rgb(60, 60, 230)',
+                    tension: 0.1
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        var ctx3 = document.getElementById('avg-position').getContext('2d');
+        var myChart3 = new Chart(ctx3, {
+            type: 'line',
+            data: {
+                labels: ['65', '66', '67', '68', '69', '70', '71', '72', '73', '74', '75', '76', '77', '78', '79', '80', '81', '82', '83', '84', '85', '86', '87', '88', '89', '90', '91', '92', '93', '94', '95'],
+                datasets: [{
+                    label: 'Avg position in show / Year',
+                    data: [0,0,1.5055555555555555,1.3806432878124053,1.6893760167404948,1.7968082632700704,2.286508671732857,2.3918034233542254,2.685442104192104,2.6923701298701292,2.5,2.653485838779956,2.5228715728715727,2.6082377344877345,2.594837261503928,2.8687417654808955,2.6196454013822437,2.632682264825122,2.6132856341189674,2.606849747474748,2.5786896745230083,2.5054533429533428,2.5528409090909094,2.5462983876027354,2.6449254449254447,2.581146785313452,2.59300903774588,2.5290182040182043,2.6496583481877596,2.4131115616409735,2.6822222222222223],
+                    fill: false,
+                    borderColor: 'rgb(60, 230, 60)',
+                    tension: 0.1
+                },
+                {
+                    label: '2nd Set',
+                    data: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+                    fill: false,
+                    borderColor: 'rgb(140, 140, 140)',
+                    pointRadius: 0,
+                }],
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    </script>
+    </body>
+</html>
