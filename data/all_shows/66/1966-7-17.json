@@ -1,0 +1,52 @@
+{
+    "year": 1966,
+    "month": 7,
+    "day": 17,
+    "venue": {
+        "venue": "Fillmore Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Big Boss Man",
+                    "length": "0m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Cream Puff War",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "9m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Stealin'",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "7m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

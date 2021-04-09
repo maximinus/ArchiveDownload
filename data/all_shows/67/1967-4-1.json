@@ -1,0 +1,37 @@
+{
+    "year": 1967,
+    "month": 4,
+    "day": 1,
+    "venue": {
+        "venue": "The Rock Garden",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jam",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Day Tripper",
+                    "length": "2m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "2m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Minglewood Blues",
+                    "length": "2m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "year": 1981,
+    "month": 12,
+    "day": 9,
+    "venue": {
+        "venue": "Events Center",
+        "city": "Boulder",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "15m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "(I Can't Get No) Satisfaction",
+                    "length": "6m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

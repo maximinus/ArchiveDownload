@@ -1,0 +1,12 @@
+{
+    "year": 1970,
+    "month": 3,
+    "day": 17,
+    "venue": {
+        "venue": "Kleinhans Music Hall",
+        "city": "Buffalo",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": []
+}

@@ -1,0 +1,125 @@
+{
+    "year": 1992,
+    "month": 12,
+    "day": 17,
+    "venue": {
+        "venue": "Oakland Auditorium Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "9m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "7m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Baba O'Riley",
+                    "length": "3m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Tomorrow Never Knows",
+                    "length": "4m 58s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

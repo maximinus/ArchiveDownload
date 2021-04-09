@@ -1,0 +1,140 @@
+{
+    "year": 1980,
+    "month": 5,
+    "day": 11,
+    "venue": {
+        "venue": "Cumberland County Civic Center",
+        "city": "Portland",
+        "state": "ME",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "10m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "6m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "5m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 2s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

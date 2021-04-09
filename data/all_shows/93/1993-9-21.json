@@ -1,0 +1,105 @@
+{
+    "year": 1993,
+    "month": 9,
+    "day": 21,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Broken Arrow",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "17m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Weight",
+                    "length": "6m 2s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

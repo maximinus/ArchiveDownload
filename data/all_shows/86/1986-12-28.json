@@ -1,0 +1,127 @@
+{
+    "year": 1986,
+    "month": 12,
+    "day": 28,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

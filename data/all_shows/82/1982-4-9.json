@@ -1,0 +1,125 @@
+{
+    "year": 1982,
+    "month": 4,
+    "day": 9,
+    "venue": {
+        "venue": "Community War Memorial",
+        "city": "Rochester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "10m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "(I Can't Get No) Satisfaction",
+                    "length": "6m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

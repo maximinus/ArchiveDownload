@@ -1,0 +1,136 @@
+{
+    "year": 1971,
+    "month": 2,
+    "day": 18,
+    "venue": {
+        "venue": "Capitol Theater",
+        "city": "Port Chester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "11m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "3m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "9m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 44s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "year": 1974,
+    "month": 6,
+    "day": 8,
+    "venue": {
+        "venue": "Oakland Coliseum Stadium",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "5m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "23m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "14m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "11m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

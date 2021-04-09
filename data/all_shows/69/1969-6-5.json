@@ -1,0 +1,106 @@
+{
+    "year": 1969,
+    "month": 6,
+    "day": 5,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "6m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "11m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "16m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "12m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "3m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "20m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "11m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "25m 53s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

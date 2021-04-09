@@ -1,0 +1,115 @@
+{
+    "year": 1981,
+    "month": 7,
+    "day": 4,
+    "venue": {
+        "venue": "Manor Downs",
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "14m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 50s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

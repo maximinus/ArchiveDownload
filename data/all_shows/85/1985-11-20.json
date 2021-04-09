@@ -1,0 +1,115 @@
+{
+    "year": 1985,
+    "month": 11,
+    "day": 20,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "17m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Need Love",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "4m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "year": 1980,
+    "month": 10,
+    "day": 7,
+    "venue": {
+        "venue": "Warfield Theater",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "4m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Rosalie Mcfall",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey And The Engineer",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Heaven Help The Fool",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "10m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 28s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

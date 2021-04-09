@@ -1,0 +1,116 @@
+{
+    "year": 1983,
+    "month": 5,
+    "day": 13,
+    "venue": {
+        "venue": "Greek Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "19m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "10m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

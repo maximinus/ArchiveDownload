@@ -1,0 +1,130 @@
+{
+    "year": 1995,
+    "month": 6,
+    "day": 19,
+    "venue": {
+        "venue": "Giants Stadium",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "12m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Unbroken Chain",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "8m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Mathilda",
+                    "length": "3m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "14m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "10m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "8m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "7m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

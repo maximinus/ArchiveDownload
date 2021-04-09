@@ -1,0 +1,130 @@
+{
+    "year": 1987,
+    "month": 9,
+    "day": 16,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "3m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Devil In A Blue Dress",
+                    "length": "2m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Golly Miss Molly",
+                    "length": "0m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Devil In A Blue Dress",
+                    "length": "1m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

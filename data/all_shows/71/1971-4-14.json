@@ -1,0 +1,145 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 14,
+    "venue": {
+        "venue": "Bucknell University",
+        "city": "Lewisburg",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "10m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "9m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Second That Emotion",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bird Song",
+                    "length": "12m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "16m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "11m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

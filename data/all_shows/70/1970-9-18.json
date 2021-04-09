@@ -1,0 +1,177 @@
+{
+    "year": 1970,
+    "month": 9,
+    "day": 18,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Workin' Man Blues",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Rain",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Fair Chance To Know",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Rain",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Sawmill",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "The Weight",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "It's A Man's World",
+                    "length": "10m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Till The Morning Comes",
+                    "length": "3m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Operator",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "12m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "3m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "13m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "2m 2s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

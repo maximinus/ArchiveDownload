@@ -1,0 +1,77 @@
+{
+    "year": 1968,
+    "month": 11,
+    "day": 1,
+    "venue": {
+        "venue": "Silver Dollar Fairgrounds",
+        "city": "Chico",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Intro",
+                    "length": "12m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "0m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "1m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "2m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "11m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "1m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "year": 1969,
+    "month": 6,
+    "day": 13,
+    "venue": {
+        "venue": "Fresno Convention Center",
+        "city": "Fresno",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hard To Handle",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "2m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "12m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "9m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "11m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "21m 2s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

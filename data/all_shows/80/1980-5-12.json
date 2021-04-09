@@ -1,0 +1,120 @@
+{
+    "year": 1980,
+    "month": 5,
+    "day": 12,
+    "venue": {
+        "venue": "Boston Garden",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "3m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 28s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

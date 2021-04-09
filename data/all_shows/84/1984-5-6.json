@@ -1,0 +1,125 @@
+{
+    "year": 1984,
+    "month": 5,
+    "day": 6,
+    "venue": {
+        "venue": "Silva Hall",
+        "city": "Eugene",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 15s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

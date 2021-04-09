@@ -1,0 +1,87 @@
+{
+    "year": 1968,
+    "month": 9,
+    "day": 2,
+    "venue": {
+        "venue": "Betty Nelson's Organic Raspberry Farm",
+        "city": "Sultan",
+        "state": "WA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Intro",
+                    "length": "1m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "14m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "13m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "0m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "12m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "11m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "3m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Intro",
+                    "length": "1m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "14m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "13m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "0m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

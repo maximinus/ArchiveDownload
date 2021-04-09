@@ -1,0 +1,160 @@
+{
+    "year": 1972,
+    "month": 9,
+    "day": 21,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "13m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "16m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "He's Gone",
+                    "length": "14m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "12m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "37m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

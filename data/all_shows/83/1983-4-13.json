@@ -1,0 +1,130 @@
+{
+    "year": 1983,
+    "month": 4,
+    "day": 13,
+    "venue": {
+        "venue": "Patrick Gym",
+        "city": "Burlington",
+        "state": "VT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "6m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "15m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "7m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Maybe You Know",
+                    "length": "3m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "12m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "year": 1995,
+    "month": 3,
+    "day": 18,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "8m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "10m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "All Too Much",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "11m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "12m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "15m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Visions Of Johanna",
+                    "length": "10m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Rain",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "All Too Much",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

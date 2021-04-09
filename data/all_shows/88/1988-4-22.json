@@ -1,0 +1,120 @@
+{
+    "year": 1988,
+    "month": 4,
+    "day": 22,
+    "venue": {
+        "venue": "Irvine Meadows Amphitheatre",
+        "city": "Irvine",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "9m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Louie Louie",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

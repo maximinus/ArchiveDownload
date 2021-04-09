@@ -1,0 +1,120 @@
+{
+    "year": 1985,
+    "month": 7,
+    "day": 1,
+    "venue": {
+        "venue": "Merriweather Post Pavilion",
+        "city": "Columbia",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Day Job",
+                    "length": "4m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "13m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "5m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "(I Can't Get No) Satisfaction",
+                    "length": "5m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "year": 1976,
+    "month": 7,
+    "day": 13,
+    "venue": {
+        "venue": "Orpheum Theatre",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "14m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "5m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "0m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "3m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "15m 36s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

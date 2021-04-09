@@ -1,0 +1,115 @@
+{
+    "year": 1994,
+    "month": 8,
+    "day": 3,
+    "venue": {
+        "venue": "Giants Stadium",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "If The Shoe Fits",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "16m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "4m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "14m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "9m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "11m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "15m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "11m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 58s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

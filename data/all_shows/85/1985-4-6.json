@@ -1,0 +1,115 @@
+{
+    "year": 1985,
+    "month": 4,
+    "day": 6,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "10m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 5s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 13,
+    "venue": {
+        "venue": "Swing Auditorium",
+        "city": "San Bernardino",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "12m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "24m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

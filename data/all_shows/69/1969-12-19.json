@@ -1,0 +1,107 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 19,
+    "venue": {
+        "venue": "Fillmore Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Monkey And The Engineer",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Little Sadie",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Long Black Limousine",
+                    "length": "4m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "I've Been All Around This World",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Masons Children",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "3m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "7m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "5m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "31m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

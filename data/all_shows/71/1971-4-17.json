@@ -1,0 +1,131 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 17,
+    "venue": {
+        "venue": "Dillon Gym",
+        "city": "Princeton",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "19m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "1m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "17m 16s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

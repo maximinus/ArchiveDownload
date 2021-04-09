@@ -1,0 +1,136 @@
+{
+    "year": 1973,
+    "month": 9,
+    "day": 11,
+    "venue": {
+        "venue": "College Of William and Mary",
+        "city": "Williamsburg",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "3m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "10m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "16m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Let Me Sing Your Blues Away",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "1m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "23m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "12m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 10s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

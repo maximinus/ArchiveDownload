@@ -1,0 +1,137 @@
+{
+    "year": 1970,
+    "month": 8,
+    "day": 18,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "3m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Operator",
+                    "length": "2m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Rosalie McFall",
+                    "length": "3m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Jordan",
+                    "length": "2m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Swing Low, Sweet Chariot",
+                    "length": "3m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "14m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "It's A Man's World",
+                    "length": "12m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

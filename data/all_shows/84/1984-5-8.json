@@ -1,0 +1,130 @@
+{
+    "year": 1984,
+    "month": 5,
+    "day": 8,
+    "venue": {
+        "venue": "Silva Hall",
+        "city": "Eugene",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "5m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "18m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "4m 51s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

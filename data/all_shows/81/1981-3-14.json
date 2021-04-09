@@ -1,0 +1,135 @@
+{
+    "year": 1981,
+    "month": 3,
+    "day": 14,
+    "venue": {
+        "venue": "Hartford Civic Center",
+        "city": "Hartford",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "12m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "3m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 3s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

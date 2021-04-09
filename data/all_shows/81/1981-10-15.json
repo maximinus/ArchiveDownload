@@ -1,0 +1,120 @@
+{
+    "year": 1981,
+    "month": 10,
+    "day": 15,
+    "venue": {
+        "venue": "Melk Weg",
+        "city": "Amsterdam",
+        "state": "",
+        "country": "NL"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

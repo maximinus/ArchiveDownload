@@ -1,0 +1,150 @@
+{
+    "year": 1974,
+    "month": 5,
+    "day": 21,
+    "venue": {
+        "venue": "Hec. S. Edmundson Pavilion",
+        "city": "Seattle",
+        "state": "WA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Money Money",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "1m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "5m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "10m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "China Doll",
+                    "length": "5m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "46m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "13m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 0s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

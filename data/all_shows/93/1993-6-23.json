@@ -1,0 +1,105 @@
+{
+    "year": 1993,
+    "month": 6,
+    "day": 23,
+    "venue": {
+        "venue": "Deer Creek Music Center",
+        "city": "Noblesville",
+        "state": "IN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Let The Good Times Roll",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Broken Arrow",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Wave To The Wind",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "24m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Lucy In The Sky With Diamonds",
+                    "length": "4m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

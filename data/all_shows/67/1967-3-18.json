@@ -1,0 +1,87 @@
+{
+    "year": 1967,
+    "month": 3,
+    "day": 18,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "3m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "10m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Golden Road",
+                    "length": "2m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Cream Puff War",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "12m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "3m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "13m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "6m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

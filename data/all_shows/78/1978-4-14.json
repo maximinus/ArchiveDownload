@@ -1,0 +1,115 @@
+{
+    "year": 1978,
+    "month": 4,
+    "day": 14,
+    "venue": {
+        "venue": "Cassell Coliseum",
+        "city": "Blacksburg",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "16m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "19m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

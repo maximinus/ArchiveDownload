@@ -1,0 +1,112 @@
+{
+    "year": 1981,
+    "month": 11,
+    "day": 30,
+    "venue": {
+        "venue": "Hara Arena",
+        "city": "Dayton",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Minglewood Blues",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "13m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "3m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "5m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

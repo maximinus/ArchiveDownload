@@ -1,0 +1,115 @@
+{
+    "year": 1974,
+    "month": 9,
+    "day": 9,
+    "venue": {
+        "venue": "Alexandra Palace",
+        "city": "London",
+        "state": "",
+        "country": "UK"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "3m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "23m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

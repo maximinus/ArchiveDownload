@@ -1,0 +1,120 @@
+{
+    "year": 1982,
+    "month": 8,
+    "day": 1,
+    "venue": {
+        "venue": "Zoo Amphitheatre",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "13m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "9m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

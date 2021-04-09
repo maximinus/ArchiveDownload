@@ -1,0 +1,42 @@
+{
+    "year": 1970,
+    "month": 11,
+    "day": 21,
+    "venue": {
+        "venue": "Sargent Gym",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "6m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

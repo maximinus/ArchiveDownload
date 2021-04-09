@@ -1,0 +1,125 @@
+{
+    "year": 1980,
+    "month": 12,
+    "day": 27,
+    "venue": {
+        "venue": "Oakland Auditorium Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "12m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "12m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

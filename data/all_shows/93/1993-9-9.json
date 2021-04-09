@@ -1,0 +1,100 @@
+{
+    "year": 1993,
+    "month": 9,
+    "day": 9,
+    "venue": {
+        "venue": "Richfield Coliseum",
+        "city": "Richfield",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "16m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "3m 0s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

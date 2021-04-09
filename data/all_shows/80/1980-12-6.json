@@ -1,0 +1,57 @@
+{
+    "year": 1980,
+    "month": 12,
+    "day": 6,
+    "venue": {
+        "venue": "Recreation Center",
+        "city": "Mill Valley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "3m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "I've Been All Around This World",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey And The Engineer",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "5m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

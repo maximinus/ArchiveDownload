@@ -1,0 +1,130 @@
+{
+    "year": 1988,
+    "month": 7,
+    "day": 30,
+    "venue": {
+        "venue": "Laguna Seca Recreation Area",
+        "city": "Monterey",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Let The Good Times Roll",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "8m 3s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

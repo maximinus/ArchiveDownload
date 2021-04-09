@@ -1,0 +1,102 @@
+{
+    "year": 1969,
+    "month": 11,
+    "day": 7,
+    "venue": {
+        "venue": "Fillmore Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Star Spangled Banner",
+                    "length": "1m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "5m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "3m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "17m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "5m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "25m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

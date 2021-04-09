@@ -1,0 +1,52 @@
+{
+    "year": 1968,
+    "month": 6,
+    "day": 19,
+    "venue": {
+        "venue": "Carousel Ballroom",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "20m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "9m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "The Main Ten",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "23m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One Jam",
+                    "length": "12m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

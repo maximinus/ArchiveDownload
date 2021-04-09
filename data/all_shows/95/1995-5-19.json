@@ -1,0 +1,100 @@
+{
+    "year": 1995,
+    "month": 5,
+    "day": 19,
+    "venue": {
+        "venue": "Sam Boyd Silver Bowl",
+        "city": "Las Vegas",
+        "state": "NV",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Picasso Moon",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "11m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "8m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "10m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "9m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Lucy In The Sky With Diamonds",
+                    "length": "5m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

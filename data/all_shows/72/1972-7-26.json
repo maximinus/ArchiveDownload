@@ -1,0 +1,165 @@
+{
+    "year": 1972,
+    "month": 7,
+    "day": 26,
+    "venue": {
+        "venue": "Paramount Theater",
+        "city": "Portland",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "9m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "15m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "You Win Again",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "30m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "9m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

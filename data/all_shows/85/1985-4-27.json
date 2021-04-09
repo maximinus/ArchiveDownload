@@ -1,0 +1,135 @@
+{
+    "year": 1985,
+    "month": 4,
+    "day": 27,
+    "venue": {
+        "venue": "Frost Amphitheatre",
+        "city": "Palo Alto",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "7m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "5m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "8m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "6m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "5m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 16s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

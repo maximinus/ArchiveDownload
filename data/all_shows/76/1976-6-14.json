@@ -1,0 +1,140 @@
+{
+    "year": 1976,
+    "month": 6,
+    "day": 14,
+    "venue": {
+        "venue": "Beacon Theatre",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "2m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "19m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Wheel",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "10m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "11m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "11m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "13m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

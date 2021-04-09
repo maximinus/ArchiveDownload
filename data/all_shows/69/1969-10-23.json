@@ -1,0 +1,12 @@
+{
+    "year": 1969,
+    "month": 10,
+    "day": 23,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": []
+}

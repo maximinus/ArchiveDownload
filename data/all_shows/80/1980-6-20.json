@@ -1,0 +1,135 @@
+{
+    "year": 1980,
+    "month": 6,
+    "day": 20,
+    "venue": {
+        "venue": "West High Auditorium",
+        "city": "Anchorage",
+        "state": "AK",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "4m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "11m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "11m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

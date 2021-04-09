@@ -1,0 +1,105 @@
+{
+    "year": 1988,
+    "month": 9,
+    "day": 30,
+    "venue": {
+        "venue": "Shoreline Amphitheatre",
+        "city": "Mountain View",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 15s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

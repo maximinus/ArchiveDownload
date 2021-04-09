@@ -1,0 +1,120 @@
+{
+    "year": 1992,
+    "month": 12,
+    "day": 6,
+    "venue": {
+        "venue": "Compton Terrace Amphitheatre",
+        "city": "Tempe",
+        "state": "AZ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Maggie's Farm",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "12m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "16m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 10s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

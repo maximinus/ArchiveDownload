@@ -1,0 +1,121 @@
+{
+    "year": 1970,
+    "month": 3,
+    "day": 20,
+    "venue": {
+        "venue": "Capitol Theater",
+        "city": "Port Chester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "2m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Katie Mae",
+                    "length": "3m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "4m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "3m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "13m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "23m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "3m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

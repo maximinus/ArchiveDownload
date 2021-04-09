@@ -1,0 +1,114 @@
+{
+    "year": 1978,
+    "month": 9,
+    "day": 14,
+    "venue": {
+        "venue": "Gizah Sound and Light Theater",
+        "city": "Cairo",
+        "state": "",
+        "country": "EG"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Ollin Arrageed",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "12m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugaree",
+                    "length": "13m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "11m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": []
+        }
+    ]
+}

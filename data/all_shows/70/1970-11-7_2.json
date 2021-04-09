@@ -1,0 +1,62 @@
+{
+    "year": 1970,
+    "month": 11,
+    "day": 7,
+    "venue": {
+        "venue": "Capitol Theater",
+        "city": "Port Chester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Attics Of My Life",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "11m 0s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

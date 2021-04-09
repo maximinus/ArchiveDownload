@@ -1,0 +1,110 @@
+{
+    "year": 1969,
+    "month": 5,
+    "day": 31,
+    "venue": {
+        "venue": "McArthur Court",
+        "city": "Eugene",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hard To Handle",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Green Green Grass Of Home",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "3m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "29m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "14m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "23m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "4m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "0m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "3m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

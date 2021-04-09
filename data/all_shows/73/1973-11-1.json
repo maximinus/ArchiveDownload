@@ -1,0 +1,57 @@
+{
+    "year": 1973,
+    "month": 11,
+    "day": 1,
+    "venue": {
+        "venue": "McGaw Memorial Hall",
+        "city": "Evanston",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "10m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "14m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "13m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 7s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

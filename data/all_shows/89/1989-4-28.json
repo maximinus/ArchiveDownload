@@ -1,0 +1,120 @@
+{
+    "year": 1989,
+    "month": 4,
+    "day": 28,
+    "venue": {
+        "venue": "Irvine Meadows Amphitheatre",
+        "city": "Irvine",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Just A Little Light",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 55s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

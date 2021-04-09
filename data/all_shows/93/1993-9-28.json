@@ -1,0 +1,110 @@
+{
+    "year": 1993,
+    "month": 9,
+    "day": 28,
+    "venue": {
+        "venue": "Boston Garden",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "12m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "12m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "14m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

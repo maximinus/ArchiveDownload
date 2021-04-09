@@ -1,0 +1,120 @@
+{
+    "year": 1979,
+    "month": 12,
+    "day": 4,
+    "venue": {
+        "venue": "Uptown Theatre",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "14m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 51s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

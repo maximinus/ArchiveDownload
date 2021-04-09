@@ -1,0 +1,110 @@
+{
+    "year": 1978,
+    "month": 4,
+    "day": 18,
+    "venue": {
+        "venue": "Pittsburgh Civic Arena",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "14m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "13m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "13m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "18m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "9m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

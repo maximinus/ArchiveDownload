@@ -1,0 +1,62 @@
+{
+    "year": 1968,
+    "month": 2,
+    "day": 3,
+    "venue": {
+        "venue": "Crystal Ballroom",
+        "city": "Portland",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "2m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Born Cross-Eyed",
+                    "length": "2m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "1m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "10m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 18,
+    "venue": {
+        "venue": "Lusk Field House",
+        "city": "Cortland",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Second That Emotion",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "24m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

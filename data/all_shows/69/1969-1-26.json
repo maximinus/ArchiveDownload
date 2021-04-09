@@ -1,0 +1,71 @@
+{
+    "year": 1969,
+    "month": 1,
+    "day": 26,
+    "venue": {
+        "venue": "Avalon Ballroom",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "6m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Clementine",
+                    "length": "10m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "10m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Dark Star",
+                    "length": "9m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "5m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "15m 11s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

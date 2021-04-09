@@ -1,0 +1,120 @@
+{
+    "year": 1980,
+    "month": 12,
+    "day": 30,
+    "venue": {
+        "venue": "Oakland Auditorium Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "10m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "12m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "12m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

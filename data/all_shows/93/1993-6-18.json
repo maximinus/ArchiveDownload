@@ -1,0 +1,105 @@
+{
+    "year": 1993,
+    "month": 6,
+    "day": 18,
+    "venue": {
+        "venue": "Soldier Field",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "9m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "11m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

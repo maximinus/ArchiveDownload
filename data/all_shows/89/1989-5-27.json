@@ -1,0 +1,115 @@
+{
+    "year": 1989,
+    "month": 5,
+    "day": 27,
+    "venue": {
+        "venue": "Oakland Coliseum Stadium",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Blow Away",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "I Will Take You Home",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "7m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

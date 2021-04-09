@@ -1,0 +1,121 @@
+{
+    "year": 1994,
+    "month": 6,
+    "day": 18,
+    "venue": {
+        "venue": "Autzen Stadium",
+        "city": "Eugene",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Maggie's Farm",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "12m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "15m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Days Between",
+                    "length": "14m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "3m 5s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "year": 1995,
+    "month": 2,
+    "day": 21,
+    "venue": {
+        "venue": "Delta Center",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Salt Lake City",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Broken Arrow",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Foolish Heart",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "I Just Want To Make Love To You",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "That Would Be Something",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Visions Of Johanna",
+                    "length": "10m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "7m 3s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

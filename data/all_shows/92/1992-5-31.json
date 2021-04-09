@@ -1,0 +1,135 @@
+{
+    "year": 1992,
+    "month": 5,
+    "day": 31,
+    "venue": {
+        "venue": "Sam Boyd Silver Bowl",
+        "city": "Las Vegas",
+        "state": "NV",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "5m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "13m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "6m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "6m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "8m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "4m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "6m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Baba O'Riley",
+                    "length": "3m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Tomorrow Never Knows",
+                    "length": "4m 7s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "year": 1986,
+    "month": 4,
+    "day": 22,
+    "venue": {
+        "venue": "Berkeley Community Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Visions Of Johanna",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "17m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 12s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

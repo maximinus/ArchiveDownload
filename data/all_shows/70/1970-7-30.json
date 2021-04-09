@@ -1,0 +1,57 @@
+{
+    "year": 1970,
+    "month": 7,
+    "day": 30,
+    "venue": {
+        "venue": "The Matrix",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "To Lay Me Down",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Rosalie McFall",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "3m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Swing Low, Sweet Chariot",
+                    "length": "3m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

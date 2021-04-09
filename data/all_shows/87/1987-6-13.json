@@ -1,0 +1,115 @@
+{
+    "year": 1987,
+    "month": 6,
+    "day": 13,
+    "venue": {
+        "venue": "County Fairgrounds",
+        "city": "Ventura",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "7m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "year": 1988,
+    "month": 4,
+    "day": 7,
+    "venue": {
+        "venue": "The Centrum",
+        "city": "Worcester",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "5m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "8m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "4m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "4m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

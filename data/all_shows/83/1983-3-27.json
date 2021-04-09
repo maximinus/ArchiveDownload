@@ -1,0 +1,115 @@
+{
+    "year": 1983,
+    "month": 3,
+    "day": 27,
+    "venue": {
+        "venue": "Irvine Meadows Amphitheatre",
+        "city": "Irvine",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "12m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

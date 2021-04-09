@@ -1,0 +1,77 @@
+{
+    "year": 1970,
+    "month": 2,
+    "day": 7,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Green Green Grass Of Home",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Sawmill",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "*Seasons of My Heart",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "5m 57s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

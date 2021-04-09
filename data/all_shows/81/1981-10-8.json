@@ -1,0 +1,130 @@
+{
+    "year": 1981,
+    "month": 10,
+    "day": 8,
+    "venue": {
+        "venue": "The Forum Theater",
+        "city": "Copenhagen",
+        "state": "",
+        "country": "DK"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "9m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "14m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "15m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "14m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "3m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

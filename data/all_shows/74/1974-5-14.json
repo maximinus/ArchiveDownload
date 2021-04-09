@@ -1,0 +1,145 @@
+{
+    "year": 1974,
+    "month": 5,
+    "day": 14,
+    "venue": {
+        "venue": "Adams Field House",
+        "city": "Missoula,",
+        "state": "MT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "7m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "21m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "1m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "10m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "26m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "China Doll",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "3m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "12m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "year": 1984,
+    "month": 7,
+    "day": 22,
+    "venue": {
+        "venue": "County Fairgrounds",
+        "city": "Ventura",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Day Job",
+                    "length": "4m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "I Just Want To Make Love To You",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Midnight Hour",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

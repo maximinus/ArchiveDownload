@@ -1,0 +1,115 @@
+{
+    "year": 1992,
+    "month": 3,
+    "day": 13,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "11m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "9m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "13m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Way To Go Home",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Wave To The Wind",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "8m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "7m 3s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

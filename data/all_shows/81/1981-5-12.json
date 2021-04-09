@@ -1,0 +1,130 @@
+{
+    "year": 1981,
+    "month": 5,
+    "day": 12,
+    "venue": {
+        "venue": "Veterans Memorial Coliseum",
+        "city": "New Haven",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "12m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "17m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "year": 1968,
+    "month": 6,
+    "day": 14,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Space",
+                    "length": "3m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "0m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "7m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "11m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "4m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "17m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "3m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

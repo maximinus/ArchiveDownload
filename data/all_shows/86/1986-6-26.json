@@ -1,0 +1,110 @@
+{
+    "year": 1986,
+    "month": 6,
+    "day": 26,
+    "venue": {
+        "venue": "Hubert H. Humphrey Metrodome",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

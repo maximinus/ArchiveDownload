@@ -1,0 +1,120 @@
+{
+    "year": 1992,
+    "month": 3,
+    "day": 23,
+    "venue": {
+        "venue": "The Palace",
+        "city": "Auburn Hills",
+        "state": "MI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "9m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Wave To The Wind",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "16m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "15m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Gloria",
+                    "length": "8m 11s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

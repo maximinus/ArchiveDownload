@@ -1,0 +1,146 @@
+{
+    "year": 1971,
+    "month": 2,
+    "day": 24,
+    "venue": {
+        "venue": "Capitol Theater",
+        "city": "Port Chester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "10m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "17m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "9m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "19m 52s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

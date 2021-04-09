@@ -1,0 +1,130 @@
+{
+    "year": 1984,
+    "month": 4,
+    "day": 21,
+    "venue": {
+        "venue": "Civic Convention Hall Auditorium",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "12m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Need Love",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

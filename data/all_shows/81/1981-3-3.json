@@ -1,0 +1,120 @@
+{
+    "year": 1981,
+    "month": 3,
+    "day": 3,
+    "venue": {
+        "venue": "Cleveland Music Hall",
+        "city": "Cleveland",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "10m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "16m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "year": 1976,
+    "month": 8,
+    "day": 2,
+    "venue": {
+        "venue": "Colt Park",
+        "city": "Hartford",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "4m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "10m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Might As Well",
+                    "length": "9m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "16m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "8m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

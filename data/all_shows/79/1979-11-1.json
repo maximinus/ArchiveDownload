@@ -1,0 +1,130 @@
+{
+    "year": 1979,
+    "month": 11,
+    "day": 1,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "18m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "20m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "16m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "11m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

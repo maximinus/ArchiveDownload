@@ -1,0 +1,140 @@
+{
+    "year": 1981,
+    "month": 7,
+    "day": 11,
+    "venue": {
+        "venue": "Alpine Valley Music Theatre",
+        "city": "East Troy",
+        "state": "WI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "15m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "11m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "7m 1s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

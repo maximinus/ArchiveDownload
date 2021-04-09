@@ -1,0 +1,120 @@
+{
+    "year": 1995,
+    "month": 7,
+    "day": 8,
+    "venue": {
+        "venue": "Soldier Field",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "All Too Much",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "16m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Visions Of Johanna",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

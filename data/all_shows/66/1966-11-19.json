@@ -1,0 +1,77 @@
+{
+    "year": 1966,
+    "month": 11,
+    "day": 19,
+    "venue": {
+        "venue": "Fillmore Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "NRPS",
+                    "length": "0m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Hi-Heeled Sneakers",
+                    "length": "4m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Cream Puff War",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "11m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Midnight Hour",
+                    "length": "18m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

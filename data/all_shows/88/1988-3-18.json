@@ -1,0 +1,105 @@
+{
+    "year": 1988,
+    "month": 3,
+    "day": 18,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "11m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "11m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 15s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

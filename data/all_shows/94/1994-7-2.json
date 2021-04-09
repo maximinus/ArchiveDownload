@@ -1,0 +1,116 @@
+{
+    "year": 1994,
+    "month": 7,
+    "day": 2,
+    "venue": {
+        "venue": "Shoreline Amphitheatre",
+        "city": "Mountain View",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "9m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "10m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "If The Shoe Fits",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "9m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "17m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 10s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

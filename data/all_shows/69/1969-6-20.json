@@ -1,0 +1,57 @@
+{
+    "year": 1969,
+    "month": 6,
+    "day": 20,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "St. Stephen",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "3m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "2m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Mountains Of The Moon",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "What's Become Of The Baby",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "5m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

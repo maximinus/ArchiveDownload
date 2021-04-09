@@ -1,0 +1,120 @@
+{
+    "year": 1994,
+    "month": 3,
+    "day": 21,
+    "venue": {
+        "venue": "Richfield Coliseum",
+        "city": "Richfield",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "12m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Picasso Moon",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "9m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "15m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "15m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "2m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "9m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "year": 1978,
+    "month": 11,
+    "day": 14,
+    "venue": {
+        "venue": "Boston Music Hall",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugaree",
+                    "length": "11m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "6m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "From The Heart Of Me",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

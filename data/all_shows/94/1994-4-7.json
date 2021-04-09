@@ -1,0 +1,92 @@
+{
+    "year": 1994,
+    "month": 4,
+    "day": 7,
+    "venue": {
+        "venue": "Miami Arena",
+        "city": "Miami",
+        "state": "FL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "12m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "22m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "22m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "12m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Liberty",
+                    "length": "5m 54s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

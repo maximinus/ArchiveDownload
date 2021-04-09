@@ -1,0 +1,62 @@
+{
+    "year": 1968,
+    "month": 12,
+    "day": 29,
+    "venue": {
+        "venue": "Gulfstream Park Racetrack",
+        "city": "Hallandale",
+        "state": "FL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "12m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "11m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "0m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "1m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

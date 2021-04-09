@@ -1,0 +1,115 @@
+{
+    "year": 1984,
+    "month": 6,
+    "day": 27,
+    "venue": {
+        "venue": "Merriweather Post Pavilion",
+        "city": "Columbia",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "11m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Why Don't We Do It In The Road",
+                    "length": "2m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

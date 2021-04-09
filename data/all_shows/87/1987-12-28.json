@@ -1,0 +1,120 @@
+{
+    "year": 1987,
+    "month": 12,
+    "day": 28,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "9m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "2m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

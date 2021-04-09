@@ -1,0 +1,120 @@
+{
+    "year": 1995,
+    "month": 3,
+    "day": 30,
+    "venue": {
+        "venue": "The Omni",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Broken Arrow",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Alabama Getaway",
+                    "length": "8m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "11m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "That Would Be Something",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Visions Of Johanna",
+                    "length": "11m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Lucy In The Sky With Diamonds",
+                    "length": "4m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

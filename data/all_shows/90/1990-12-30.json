@@ -1,0 +1,110 @@
+{
+    "year": 1990,
+    "month": 12,
+    "day": 30,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "10m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Maggie's Farm",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Valley Road",
+                    "length": "5m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "10m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "19m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "13m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

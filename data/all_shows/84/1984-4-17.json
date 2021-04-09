@@ -1,0 +1,115 @@
+{
+    "year": 1984,
+    "month": 4,
+    "day": 17,
+    "venue": {
+        "venue": "Niagara Falls Civic Center",
+        "city": "Niagara Falls",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "9m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "12m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "9m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "year": 1970,
+    "month": 5,
+    "day": 6,
+    "venue": {
+        "venue": "Kresge Plaza",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "16m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "16m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "12m 9s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

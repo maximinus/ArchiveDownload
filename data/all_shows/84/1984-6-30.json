@@ -1,0 +1,130 @@
+{
+    "year": 1984,
+    "month": 6,
+    "day": 30,
+    "venue": {
+        "venue": "Indianapolis Sports Center",
+        "city": "Indianapolis",
+        "state": "IN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "10m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "14m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "14m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

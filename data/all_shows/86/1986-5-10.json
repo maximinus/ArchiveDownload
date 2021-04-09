@@ -1,0 +1,115 @@
+{
+    "year": 1986,
+    "month": 5,
+    "day": 10,
+    "venue": {
+        "venue": "Frost Amphitheatre",
+        "city": "Palo Alto",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "10m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "12m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 57s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

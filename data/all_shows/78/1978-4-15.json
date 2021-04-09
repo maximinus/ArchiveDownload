@@ -1,0 +1,110 @@
+{
+    "year": 1978,
+    "month": 4,
+    "day": 15,
+    "venue": {
+        "venue": "College Of William and Mary",
+        "city": "Williamsburg",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "11m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "15m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "11m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunrise",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "14m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "13m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "9m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "year": 1990,
+    "month": 12,
+    "day": 9,
+    "venue": {
+        "venue": "Compton Terrace Amphitheatre",
+        "city": "Tempe",
+        "state": "AZ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Maggie's Farm",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "14m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Valley Road",
+                    "length": "5m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "15m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "4m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 55s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

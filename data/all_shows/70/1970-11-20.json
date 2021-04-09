@@ -1,0 +1,157 @@
+{
+    "year": 1970,
+    "month": 11,
+    "day": 20,
+    "venue": {
+        "venue": "The Palestra",
+        "city": "Rochester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "22m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "1m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "11m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "11m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "5m 58s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

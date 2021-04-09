@@ -1,0 +1,121 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 24,
+    "venue": {
+        "venue": "Wallace Wade Stadium",
+        "city": "Durham",
+        "state": "NC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Good Lovin'",
+                    "length": "22m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "2m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

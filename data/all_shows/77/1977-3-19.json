@@ -1,0 +1,124 @@
+{
+    "year": 1977,
+    "month": 3,
+    "day": 19,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "10m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Eyes Of The World",
+                    "length": "15m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "10m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "13m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

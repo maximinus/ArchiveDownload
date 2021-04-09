@@ -1,0 +1,130 @@
+{
+    "year": 1980,
+    "month": 11,
+    "day": 29,
+    "venue": {
+        "venue": "Alligator Alley Gym",
+        "city": "Gainesville",
+        "state": "FL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 47s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

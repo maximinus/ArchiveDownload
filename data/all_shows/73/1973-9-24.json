@@ -1,0 +1,141 @@
+{
+    "year": 1973,
+    "month": 9,
+    "day": 24,
+    "venue": {
+        "venue": "Pittsburgh Civic Arena",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Nobody's Fault But Mine",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "13m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "1m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 39s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

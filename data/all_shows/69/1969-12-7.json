@@ -1,0 +1,92 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 7,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Black Peter",
+                    "length": "9m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "7m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "7m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "13m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "27m 39s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "year": 1989,
+    "month": 10,
+    "day": 14,
+    "venue": {
+        "venue": "Meadowlands Arena",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "We Can Run But We Can't Hide",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "5m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "8m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Foolish Heart",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "10m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "China Doll",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 58s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

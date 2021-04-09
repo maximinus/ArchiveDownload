@@ -1,0 +1,125 @@
+{
+    "year": 1980,
+    "month": 3,
+    "day": 30,
+    "venue": {
+        "venue": "Capitol Theatre",
+        "city": "Passaic",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "15m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

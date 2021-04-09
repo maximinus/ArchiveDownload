@@ -1,0 +1,91 @@
+{
+    "year": 1971,
+    "month": 1,
+    "day": 24,
+    "venue": {
+        "venue": "Seattle Center Coliseum",
+        "city": "Seattle",
+        "state": "WA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "11m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "0m 44s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

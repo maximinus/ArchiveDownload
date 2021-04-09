@@ -1,0 +1,135 @@
+{
+    "year": 1979,
+    "month": 8,
+    "day": 12,
+    "venue": {
+        "venue": "Red Rocks Amphitheatre",
+        "city": "Morrison",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "4m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "19m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "13m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

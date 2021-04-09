@@ -1,0 +1,115 @@
+{
+    "year": 1979,
+    "month": 9,
+    "day": 4,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "14m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "19m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "11m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "year": 1967,
+    "month": 6,
+    "day": 18,
+    "venue": {
+        "venue": "Monterey Fairgrounds",
+        "city": "Monterey",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "14m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "3m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "11m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

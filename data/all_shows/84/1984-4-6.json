@@ -1,0 +1,120 @@
+{
+    "year": 1984,
+    "month": 4,
+    "day": 6,
+    "venue": {
+        "venue": "Aladdin Theatre",
+        "city": "Las Vegas",
+        "state": "NV",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "11m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

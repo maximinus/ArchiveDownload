@@ -1,0 +1,121 @@
+{
+    "year": 1978,
+    "month": 11,
+    "day": 20,
+    "venue": {
+        "venue": "Cleveland Music Hall",
+        "city": "Cleveland",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "14m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Jam",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Shakedown Street",
+                    "length": "11m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "If I Had The World To Give",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 47s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

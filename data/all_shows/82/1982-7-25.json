@@ -1,0 +1,125 @@
+{
+    "year": 1982,
+    "month": 7,
+    "day": 25,
+    "venue": {
+        "venue": "Compton Terrace Amphitheatre",
+        "city": "Tempe",
+        "state": "AZ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "10m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "4m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

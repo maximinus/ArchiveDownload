@@ -1,0 +1,125 @@
+{
+    "year": 1978,
+    "month": 11,
+    "day": 13,
+    "venue": {
+        "venue": "Boston Music Hall",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

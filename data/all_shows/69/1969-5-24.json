@@ -1,0 +1,77 @@
+{
+    "year": 1969,
+    "month": 5,
+    "day": 24,
+    "venue": {
+        "venue": "Seminole Indian Village",
+        "city": "West Hollywood",
+        "state": "FL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "27m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "6m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "8m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "8m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "11m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "10m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "3m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

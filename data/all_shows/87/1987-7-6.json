@@ -1,0 +1,120 @@
+{
+    "year": 1987,
+    "month": 7,
+    "day": 6,
+    "venue": {
+        "venue": "Pittsburgh Civic Arena",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "10m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "12m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Banana Boat Song",
+                    "length": "2m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

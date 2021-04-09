@@ -1,0 +1,111 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 10,
+    "venue": {
+        "venue": "Thelma Theater",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "11m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "11m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "12m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Queen",
+                    "length": "11m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "2m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "12m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "5m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "0m 58s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

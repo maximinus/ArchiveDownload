@@ -1,0 +1,140 @@
+{
+    "year": 1980,
+    "month": 12,
+    "day": 14,
+    "venue": {
+        "venue": "Long Beach Arena",
+        "city": "Long Beach",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "11m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 0s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

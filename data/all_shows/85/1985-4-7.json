@@ -1,0 +1,110 @@
+{
+    "year": 1985,
+    "month": 4,
+    "day": 7,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Why Don't We Do It In The Road",
+                    "length": "3m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "12m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "She Belongs To Me",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "3m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

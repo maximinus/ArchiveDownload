@@ -1,0 +1,52 @@
+{
+    "year": 1969,
+    "month": 5,
+    "day": 23,
+    "venue": {
+        "venue": "Seminole Indian Village",
+        "city": "West Hollywood",
+        "state": "FL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hard To Handle",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "19m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "14m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "32m 11s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

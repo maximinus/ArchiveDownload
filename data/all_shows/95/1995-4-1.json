@@ -1,0 +1,105 @@
+{
+    "year": 1995,
+    "month": 4,
+    "day": 1,
+    "venue": {
+        "venue": "The Pyramid",
+        "city": "Memphis",
+        "state": "TN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "9m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Take Me To The River",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "8m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Childhood's End",
+                    "length": "4m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "11m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Foolish Heart",
+                    "length": "14m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "8m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "11m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "27m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "5m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "12m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

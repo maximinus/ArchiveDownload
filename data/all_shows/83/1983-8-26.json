@@ -1,0 +1,125 @@
+{
+    "year": 1983,
+    "month": 8,
+    "day": 26,
+    "venue": {
+        "venue": "Portland Memorial Coliseum",
+        "city": "Portland",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "10m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "17m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "4m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

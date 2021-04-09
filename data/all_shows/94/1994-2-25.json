@@ -1,0 +1,125 @@
+{
+    "year": 1994,
+    "month": 2,
+    "day": 25,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "2m 57s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

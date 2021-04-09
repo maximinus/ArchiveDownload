@@ -1,0 +1,105 @@
+{
+    "year": 1988,
+    "month": 2,
+    "day": 14,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "7m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "5m 3s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "year": 1983,
+    "month": 9,
+    "day": 4,
+    "venue": {
+        "venue": "Park West Ski Resort",
+        "city": "Park West",
+        "state": "UT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "14m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "6m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

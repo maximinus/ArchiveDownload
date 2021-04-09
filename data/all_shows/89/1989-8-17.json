@@ -1,0 +1,120 @@
+{
+    "year": 1989,
+    "month": 8,
+    "day": 17,
+    "venue": {
+        "venue": "Greek Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "14m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "23m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 50s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

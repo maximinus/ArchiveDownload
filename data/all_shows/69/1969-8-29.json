@@ -1,0 +1,72 @@
+{
+    "year": 1969,
+    "month": 8,
+    "day": 29,
+    "venue": {
+        "venue": "Family Dog at the Great Highway",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "New Orleans",
+                    "length": "3m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Searchin'",
+                    "length": "3m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin' Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "30m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

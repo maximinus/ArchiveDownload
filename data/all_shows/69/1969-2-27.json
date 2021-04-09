@@ -1,0 +1,105 @@
+{
+    "year": 1969,
+    "month": 2,
+    "day": 27,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "11m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "20m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "9m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "4m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Mountains Of The Moon",
+                    "length": "4m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "21m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "12m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "18m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "6m 28s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

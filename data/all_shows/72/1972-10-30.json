@@ -1,0 +1,36 @@
+{
+    "year": 1972,
+    "month": 10,
+    "day": 30,
+    "venue": {
+        "venue": "Ford Auditorium",
+        "city": "Detroit",
+        "state": "MI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "4m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "16m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

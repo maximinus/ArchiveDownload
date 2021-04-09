@@ -1,0 +1,130 @@
+{
+    "year": 1994,
+    "month": 3,
+    "day": 28,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Let The Good Times Roll",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "9m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Rain",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "9m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "That Would Be Something",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Days Between",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 9s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

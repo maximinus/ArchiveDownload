@@ -1,0 +1,164 @@
+{
+    "year": 1973,
+    "month": 7,
+    "day": 28,
+    "venue": {
+        "venue": "Grand Prix Racecourse",
+        "city": "Watkins Glen",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "11m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "24m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Around & Around",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Nobody's Fault Jam",
+                    "length": "2m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "20m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "9m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "14m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Mountain Jam",
+                    "length": "22m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "5m 39s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

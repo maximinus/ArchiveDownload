@@ -1,0 +1,12 @@
+{
+    "year": 1967,
+    "month": 6,
+    "day": 5,
+    "venue": {
+        "venue": "Caf' au Go",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": []
+}

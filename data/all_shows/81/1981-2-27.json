@@ -1,0 +1,115 @@
+{
+    "year": 1981,
+    "month": 2,
+    "day": 27,
+    "venue": {
+        "venue": "Uptown Theatre",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "6m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

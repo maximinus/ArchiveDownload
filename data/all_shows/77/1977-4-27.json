@@ -1,0 +1,115 @@
+{
+    "year": 1977,
+    "month": 4,
+    "day": 27,
+    "venue": {
+        "venue": "Capitol Theatre",
+        "city": "Passaic",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "13m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "10m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "14m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "7m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "7m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "14m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "year": 1988,
+    "month": 4,
+    "day": 1,
+    "venue": {
+        "venue": "Meadowlands Arena",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "10m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Ballad Of A Thin Man",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "year": 1969,
+    "month": 9,
+    "day": 1,
+    "venue": {
+        "venue": "Baton Rouge Int. Speedway",
+        "city": "Prairieville",
+        "state": "LA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "2m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "7m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "10m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "2m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "7m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "2m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "17m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

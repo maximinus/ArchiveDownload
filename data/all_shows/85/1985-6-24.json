@@ -1,0 +1,130 @@
+{
+    "year": 1985,
+    "month": 6,
+    "day": 24,
+    "venue": {
+        "venue": "River Bend Music Center",
+        "city": "Cincinnati",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "0m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "4m 57s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

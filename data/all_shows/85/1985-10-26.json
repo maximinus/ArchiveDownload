@@ -1,0 +1,130 @@
+{
+    "year": 1985,
+    "month": 10,
+    "day": 26,
+    "venue": {
+        "venue": "Sun Dome",
+        "city": "Tampa",
+        "state": "FL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Need Love",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "6m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Midnight Hour",
+                    "length": "5m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

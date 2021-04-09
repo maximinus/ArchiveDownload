@@ -1,0 +1,131 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 15,
+    "venue": {
+        "venue": "Allegheny College",
+        "city": "Meadville",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "1m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Second That Emotion",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "9m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "1m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 51s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

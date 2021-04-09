@@ -1,0 +1,120 @@
+{
+    "year": 1988,
+    "month": 4,
+    "day": 4,
+    "venue": {
+        "venue": "Hartford Civic Center",
+        "city": "Hartford",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Hey Jude",
+                    "length": "2m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 11s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

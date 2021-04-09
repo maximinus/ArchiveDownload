@@ -1,0 +1,125 @@
+{
+    "year": 1992,
+    "month": 6,
+    "day": 22,
+    "venue": {
+        "venue": "Star Lake Amphitheatre",
+        "city": "Burgettstown",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "9m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "7m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "4m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "2m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "6m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

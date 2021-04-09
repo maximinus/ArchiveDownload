@@ -1,0 +1,102 @@
+{
+    "year": 1994,
+    "month": 6,
+    "day": 14,
+    "venue": {
+        "venue": "Seattle Center Memorial Stadium",
+        "city": "Seattle",
+        "state": "WA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "14m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "10m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "9m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "That Would Be Something",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "29m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "9m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Liberty",
+                    "length": "1m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

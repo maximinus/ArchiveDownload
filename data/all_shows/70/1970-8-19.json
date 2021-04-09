@@ -1,0 +1,152 @@
+{
+    "year": 1970,
+    "month": 8,
+    "day": 19,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Monkey and the Engineer",
+                    "length": "1m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "How Long Blues",
+                    "length": "4m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "2m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "2m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Rosalie McFall",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Wake Up Little Susie",
+                    "length": "1m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Jordan",
+                    "length": "2m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Swing Low, Sweet Chariot",
+                    "length": "2m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Minglewood Blues",
+                    "length": "3m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "13m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

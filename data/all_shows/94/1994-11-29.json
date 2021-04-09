@@ -1,0 +1,111 @@
+{
+    "year": 1994,
+    "month": 11,
+    "day": 29,
+    "venue": {
+        "venue": "McNichols Sports Arena",
+        "city": "Denver",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "8m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Baba O'Riley",
+                    "length": "3m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Tomorrow Never Knows",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

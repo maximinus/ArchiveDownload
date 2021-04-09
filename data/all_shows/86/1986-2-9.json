@@ -1,0 +1,105 @@
+{
+    "year": 1986,
+    "month": 2,
+    "day": 9,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "9m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "4m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "6m 49s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "year": 1985,
+    "month": 7,
+    "day": 13,
+    "venue": {
+        "venue": "County Fairgrounds",
+        "city": "Ventura",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "13m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

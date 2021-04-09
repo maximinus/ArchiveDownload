@@ -1,0 +1,120 @@
+{
+    "year": 1987,
+    "month": 3,
+    "day": 23,
+    "venue": {
+        "venue": "Hampton Coliseum",
+        "city": "Hampton",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Tons Of Steel",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 12s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 16s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

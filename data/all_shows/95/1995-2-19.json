@@ -1,0 +1,112 @@
+{
+    "year": 1995,
+    "month": 2,
+    "day": 19,
+    "venue": {
+        "venue": "Delta Center",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Alabama Getaway",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "If The Shoe Fits",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "17m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

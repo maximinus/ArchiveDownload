@@ -1,0 +1,130 @@
+{
+    "year": 1982,
+    "month": 7,
+    "day": 28,
+    "venue": {
+        "venue": "Red Rocks Amphitheatre",
+        "city": "Morrison",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "12m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "3m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "10m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "14m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "12m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "year": 1982,
+    "month": 4,
+    "day": 18,
+    "venue": {
+        "venue": "Hartford Civic Center",
+        "city": "Hartford",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "3m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

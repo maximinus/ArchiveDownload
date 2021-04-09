@@ -1,0 +1,115 @@
+{
+    "year": 1984,
+    "month": 10,
+    "day": 20,
+    "venue": {
+        "venue": "Carrier Dome",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "7m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "14m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "8m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Revolution",
+                    "length": "5m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

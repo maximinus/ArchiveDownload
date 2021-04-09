@@ -1,0 +1,110 @@
+{
+    "year": 1985,
+    "month": 10,
+    "day": 29,
+    "venue": {
+        "venue": "Fox Theatre",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

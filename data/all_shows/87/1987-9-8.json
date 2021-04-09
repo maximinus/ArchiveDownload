@@ -1,0 +1,117 @@
+{
+    "year": 1987,
+    "month": 9,
+    "day": 8,
+    "venue": {
+        "venue": "Providence Civic Center",
+        "city": "Providence",
+        "state": "RI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "10m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

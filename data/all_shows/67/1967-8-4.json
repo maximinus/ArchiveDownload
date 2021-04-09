@@ -1,0 +1,27 @@
+{
+    "year": 1967,
+    "month": 8,
+    "day": 4,
+    "venue": {
+        "venue": "O'Keefe Centre",
+        "city": "Toronto",
+        "state": "",
+        "country": "CA"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Potato Caboose",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "19m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

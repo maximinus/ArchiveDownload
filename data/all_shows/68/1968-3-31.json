@@ -1,0 +1,47 @@
+{
+    "year": 1968,
+    "month": 3,
+    "day": 31,
+    "venue": {
+        "venue": "Carousel Ballroom",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "We Bid You Good Night",
+                    "length": "1m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

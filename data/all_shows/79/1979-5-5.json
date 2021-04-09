@@ -1,0 +1,110 @@
+{
+    "year": 1979,
+    "month": 5,
+    "day": 5,
+    "venue": {
+        "venue": "Baltimore Civic Center",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "15m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "11m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "14m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "15m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "4m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "12m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 57s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

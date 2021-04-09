@@ -1,0 +1,110 @@
+{
+    "year": 1992,
+    "month": 3,
+    "day": 16,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Let The Good Times Roll",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "10m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "It Takes A Lot To Laugh, It Takes A Train To Cry",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Corrina",
+                    "length": "9m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "15m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "9m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "5m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "year": 1971,
+    "month": 8,
+    "day": 15,
+    "venue": {
+        "venue": "Berkeley Community Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "3m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "7m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "15m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "3m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

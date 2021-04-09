@@ -1,0 +1,110 @@
+{
+    "year": 1983,
+    "month": 6,
+    "day": 22,
+    "venue": {
+        "venue": "City Island",
+        "city": "Harrisburg",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "11m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "14m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "3m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

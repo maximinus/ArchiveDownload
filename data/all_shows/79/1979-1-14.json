@@ -1,0 +1,136 @@
+{
+    "year": 1979,
+    "month": 1,
+    "day": 14,
+    "venue": {
+        "venue": "Utica Memorial Auditorium",
+        "city": "Utica",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Need A Miracle",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "11m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "12m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "11m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

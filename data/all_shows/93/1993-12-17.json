@@ -1,0 +1,120 @@
+{
+    "year": 1993,
+    "month": 12,
+    "day": 17,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "10m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Broken Arrow",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "12m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "13m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "10m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "3m 2s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

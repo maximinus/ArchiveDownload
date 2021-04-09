@@ -1,0 +1,100 @@
+{
+    "year": 1986,
+    "month": 4,
+    "day": 19,
+    "venue": {
+        "venue": "Berkeley Community Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Crazy Fingers",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "22m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

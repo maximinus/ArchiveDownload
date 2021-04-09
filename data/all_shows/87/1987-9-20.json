@@ -1,0 +1,120 @@
+{
+    "year": 1987,
+    "month": 9,
+    "day": 20,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "10m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

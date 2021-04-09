@@ -1,0 +1,120 @@
+{
+    "year": 1988,
+    "month": 3,
+    "day": 30,
+    "venue": {
+        "venue": "Meadowlands Arena",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Hey Pocky Way",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "11m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "2m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

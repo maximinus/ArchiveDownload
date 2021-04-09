@@ -1,0 +1,147 @@
+{
+    "year": 1982,
+    "month": 4,
+    "day": 3,
+    "venue": {
+        "venue": "The Scope",
+        "city": "Norfolk",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "CC Rider",
+                    "length": "9m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "13m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "0m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "3m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 54s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

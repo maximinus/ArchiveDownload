@@ -1,0 +1,156 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 27,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "10m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "9m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Searchin'",
+                    "length": "7m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Riot In Cell Block #9",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Vibrations",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "I Get Around",
+                    "length": "2m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Help Me Rhonda",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Okie From Muskogee",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "10m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "22m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

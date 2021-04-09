@@ -1,0 +1,155 @@
+{
+    "year": 1981,
+    "month": 9,
+    "day": 25,
+    "venue": {
+        "venue": "Stabler Arena",
+        "city": "Bethlehem",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Might As Well",
+                    "length": "4m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "6m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "3m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "3m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 3s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

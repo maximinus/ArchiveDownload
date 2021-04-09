@@ -1,0 +1,110 @@
+{
+    "year": 1992,
+    "month": 12,
+    "day": 11,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "13m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "11m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 50s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "year": 1978,
+    "month": 12,
+    "day": 31,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "13m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "9m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "From The Heart Of Me",
+                    "length": "3m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "3m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "9m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "11m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "13m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "19m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "19m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "9m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Dark Star",
+                    "length": "12m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "4m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "7m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "10m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "4m 39s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "year": 1988,
+    "month": 9,
+    "day": 9,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "I Will Take You Home",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Believe It Or Not",
+                    "length": "9m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 58s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

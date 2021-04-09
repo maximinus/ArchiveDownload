@@ -1,0 +1,132 @@
+{
+    "year": 1970,
+    "month": 7,
+    "day": 14,
+    "venue": {
+        "venue": "Euphoria Ballroom",
+        "city": "San Rafael",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "3m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "How Long Blues",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "10m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "2m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

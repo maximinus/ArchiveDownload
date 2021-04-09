@@ -1,0 +1,132 @@
+{
+    "year": 1970,
+    "month": 2,
+    "day": 14,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "10m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey And The Engineer",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "3m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "I've Been All Around This World",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Wake Up Little Susie",
+                    "length": "2m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Katie Mae",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "13m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Masons Children",
+                    "length": "3m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "14m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "8m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "1m 57s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

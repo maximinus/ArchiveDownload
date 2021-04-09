@@ -1,0 +1,164 @@
+{
+    "year": 1987,
+    "month": 7,
+    "day": 4,
+    "venue": {
+        "venue": "Sullivan Stadium",
+        "city": "Foxboro",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Tons Of Steel",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "10m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Times They Are A Changin'",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Of Peace",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "I'll Be Your Baby Tonight",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "John Brown",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "I Want You",
+                    "length": "4m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Ballad Of A Thin Man",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Chimes Of Freedom",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Slow Train Coming",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Joey",
+                    "length": "10m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "4m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "6m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

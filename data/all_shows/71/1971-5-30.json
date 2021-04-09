@@ -1,0 +1,125 @@
+{
+    "year": 1971,
+    "month": 5,
+    "day": 30,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "The Rub",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "14m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "13m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "0m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

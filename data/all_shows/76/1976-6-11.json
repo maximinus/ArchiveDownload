@@ -1,0 +1,145 @@
+{
+    "year": 1976,
+    "month": 6,
+    "day": 11,
+    "venue": {
+        "venue": "Boston Music Hall",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Might As Well",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "9m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "10m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "2m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "3m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "St. Stephen",
+                    "length": "9m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "11m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "13m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "13m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "4m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

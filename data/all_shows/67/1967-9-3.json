@@ -1,0 +1,57 @@
+{
+    "year": 1967,
+    "month": 9,
+    "day": 3,
+    "venue": {
+        "venue": "Dance Hall",
+        "city": "Rio Nido",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Midnight Hour",
+                    "length": "31m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "10m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "10m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "22m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "14m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

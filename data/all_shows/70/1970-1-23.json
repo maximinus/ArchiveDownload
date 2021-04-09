@@ -1,0 +1,87 @@
+{
+    "year": 1970,
+    "month": 1,
+    "day": 23,
+    "venue": {
+        "venue": "Honolulu Civic Auditorium",
+        "city": "Honolulu",
+        "state": "HI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "16m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "18m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "21m 49s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

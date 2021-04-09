@@ -1,0 +1,130 @@
+{
+    "year": 1978,
+    "month": 12,
+    "day": 16,
+    "venue": {
+        "venue": "Nashville Municipal Auditorium",
+        "city": "Nashville",
+        "state": "TN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugaree",
+                    "length": "14m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "11m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "From The Heart Of Me",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "16m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "3m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "14m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "10m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 5s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

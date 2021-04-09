@@ -1,0 +1,189 @@
+{
+    "year": 1980,
+    "month": 10,
+    "day": 10,
+    "venue": {
+        "venue": "Warfield Theater",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "On The Road Again",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey And The Engineer",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "4m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "3m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Heaven Help The Fool",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

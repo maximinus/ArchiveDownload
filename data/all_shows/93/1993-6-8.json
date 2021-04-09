@@ -1,0 +1,110 @@
+{
+    "year": 1993,
+    "month": 6,
+    "day": 8,
+    "venue": {
+        "venue": "The Palace",
+        "city": "Auburn Hills",
+        "state": "MI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Picasso Moon",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "13m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "That Would Be Something",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "2m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

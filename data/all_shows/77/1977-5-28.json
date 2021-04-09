@@ -1,0 +1,125 @@
+{
+    "year": 1977,
+    "month": 5,
+    "day": 28,
+    "venue": {
+        "venue": "Hartford Civic Center",
+        "city": "Hartford",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "5m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "20m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "15m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

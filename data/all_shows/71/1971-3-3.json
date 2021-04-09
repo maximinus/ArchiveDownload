@@ -1,0 +1,115 @@
+{
+    "year": 1971,
+    "month": 3,
+    "day": 3,
+    "venue": {
+        "venue": "The Syndrome",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "13m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Good Lovin'",
+                    "length": "14m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

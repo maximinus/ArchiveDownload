@@ -1,0 +1,105 @@
+{
+    "year": 1984,
+    "month": 4,
+    "day": 14,
+    "venue": {
+        "venue": "Hampton Coliseum",
+        "city": "Hampton",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Need Love",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

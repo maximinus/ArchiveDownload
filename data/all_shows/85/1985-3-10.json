@@ -1,0 +1,105 @@
+{
+    "year": 1985,
+    "month": 3,
+    "day": 10,
+    "venue": {
+        "venue": "Berkeley Community Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

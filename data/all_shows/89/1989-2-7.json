@@ -1,0 +1,115 @@
+{
+    "year": 1989,
+    "month": 2,
+    "day": 7,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hey Pocky Way",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Just A Little Light",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "9m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "We Can Run But We Can't Hide",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "11m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "8m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

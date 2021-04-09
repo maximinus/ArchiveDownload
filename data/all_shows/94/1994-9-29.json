@@ -1,0 +1,111 @@
+{
+    "year": 1994,
+    "month": 9,
+    "day": 29,
+    "venue": {
+        "venue": "Boston Garden",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "16m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "12m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "3m 10s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

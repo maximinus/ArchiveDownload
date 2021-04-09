@@ -1,0 +1,130 @@
+{
+    "year": 1987,
+    "month": 9,
+    "day": 22,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hey Pocky Way",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Addams Family Tuning",
+                    "length": "0m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "0m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "year": 1969,
+    "month": 7,
+    "day": 12,
+    "venue": {
+        "venue": "NY State Pavilion",
+        "city": "Queens",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Green Green Grass Of Home",
+                    "length": "3m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Ol' Slewfoot",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Mountains Of The Moon",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "13m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "24m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

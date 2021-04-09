@@ -1,0 +1,52 @@
+{
+    "year": 1972,
+    "month": 4,
+    "day": 21,
+    "venue": {
+        "venue": "Beat Club",
+        "city": "Bremen",
+        "state": "",
+        "country": "DE"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "23m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

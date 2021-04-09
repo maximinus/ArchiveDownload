@@ -1,0 +1,130 @@
+{
+    "year": 1985,
+    "month": 9,
+    "day": 2,
+    "venue": {
+        "venue": "Zoo Amphitheatre",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "9m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "14m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

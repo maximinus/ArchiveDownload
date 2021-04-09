@@ -1,0 +1,62 @@
+{
+    "year": 1969,
+    "month": 1,
+    "day": 17,
+    "venue": {
+        "venue": "Robertson Gym",
+        "city": "Santa Barbara",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "17m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "13m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "11m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "10m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "5m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "7m 52s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

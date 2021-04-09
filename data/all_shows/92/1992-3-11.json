@@ -1,0 +1,115 @@
+{
+    "year": 1992,
+    "month": 3,
+    "day": 11,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "6m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "15m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "6m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "year": 1994,
+    "month": 12,
+    "day": 16,
+    "venue": {
+        "venue": "Los Angeles Sports Arena",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Childhood's End",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "12m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Eyes Of The World",
+                    "length": "20m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "9m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "18m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Lucy In The Sky With Diamonds",
+                    "length": "4m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

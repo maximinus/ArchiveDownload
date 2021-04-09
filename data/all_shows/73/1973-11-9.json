@@ -1,0 +1,135 @@
+{
+    "year": 1973,
+    "month": 11,
+    "day": 9,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "10m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "20m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "To Lay Me Down",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "2m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "9m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "15m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

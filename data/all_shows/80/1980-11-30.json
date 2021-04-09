@@ -1,0 +1,145 @@
+{
+    "year": 1980,
+    "month": 11,
+    "day": 30,
+    "venue": {
+        "venue": "Fox Theatre",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "10m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "15m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "4m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "5m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

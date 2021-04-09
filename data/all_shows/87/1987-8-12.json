@@ -1,0 +1,120 @@
+{
+    "year": 1987,
+    "month": 8,
+    "day": 12,
+    "venue": {
+        "venue": "Red Rocks Amphitheatre",
+        "city": "Morrison",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "4m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 30,
+    "venue": {
+        "venue": "Boston Tea Party",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "13m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Masons Children",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "0m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "11m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "12m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boy Pete",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "*Seasons of My Heart",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Silver Threads & Golden Needles",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ol' Slewfoot",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

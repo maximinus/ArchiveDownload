@@ -1,0 +1,102 @@
+{
+    "year": 1994,
+    "month": 7,
+    "day": 17,
+    "venue": {
+        "venue": "Robert F. Kennedy Stadium",
+        "city": "Washington, D.C.",
+        "state": "DC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "11m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "14m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "17m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "12m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

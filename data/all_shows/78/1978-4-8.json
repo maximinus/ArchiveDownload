@@ -1,0 +1,120 @@
+{
+    "year": 1978,
+    "month": 4,
+    "day": 8,
+    "venue": {
+        "venue": "Veteran's Memorial Coliseum",
+        "city": "Jacksonville",
+        "state": "FL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "12m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "14m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "12m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "6m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

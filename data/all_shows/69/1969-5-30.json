@@ -1,0 +1,62 @@
+{
+    "year": 1969,
+    "month": 5,
+    "day": 30,
+    "venue": {
+        "venue": "Springer's Inn",
+        "city": "Portland",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "17m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "9m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "12m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "17m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

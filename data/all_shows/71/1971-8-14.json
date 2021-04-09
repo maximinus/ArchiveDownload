@@ -1,0 +1,145 @@
+{
+    "year": 1971,
+    "month": 8,
+    "day": 14,
+    "venue": {
+        "venue": "Berkeley Community Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "3m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "2m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "3m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "9m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "year": 1981,
+    "month": 3,
+    "day": 6,
+    "venue": {
+        "venue": "Stanley Theatre",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "15m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

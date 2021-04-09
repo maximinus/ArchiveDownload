@@ -1,0 +1,72 @@
+{
+    "year": 1968,
+    "month": 11,
+    "day": 22,
+    "venue": {
+        "venue": "Veterans Hall",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "10m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "11m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "11m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "2m 39s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

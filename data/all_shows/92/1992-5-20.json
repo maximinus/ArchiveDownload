@@ -1,0 +1,110 @@
+{
+    "year": 1992,
+    "month": 5,
+    "day": 20,
+    "venue": {
+        "venue": "Cal Expo Amphitheatre",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "13m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "12m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "10m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

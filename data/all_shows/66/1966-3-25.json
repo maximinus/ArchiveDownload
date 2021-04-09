@@ -1,0 +1,52 @@
+{
+    "year": 1966,
+    "month": 3,
+    "day": 25,
+    "venue": {
+        "venue": "Trouper's Club",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Stealin'",
+                    "length": "2m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A Hog For You Baby",
+                    "length": "3m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "You Don't Have To Ask",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "2m 49s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

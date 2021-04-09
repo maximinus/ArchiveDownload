@@ -1,0 +1,130 @@
+{
+    "year": 1977,
+    "month": 5,
+    "day": 9,
+    "venue": {
+        "venue": "War Memorial Auditorium",
+        "city": "Buffalo",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "6m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "7m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "17m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "9m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunrise",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "9m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "11m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "11m 31s",
+                    "transition": true
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 10s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

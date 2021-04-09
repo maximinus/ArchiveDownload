@@ -1,0 +1,107 @@
+{
+    "year": 1970,
+    "month": 1,
+    "day": 31,
+    "venue": {
+        "venue": "The Warehouse",
+        "city": "New Orleans",
+        "state": "LA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Masons Children",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Long Black Limousine",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "*Seasons of My Heart",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Sawmill",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Old, Old House",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Sadie",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "I've Been All Around This World",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Katie Mae",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "3m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

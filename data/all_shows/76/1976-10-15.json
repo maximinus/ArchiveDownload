@@ -1,0 +1,129 @@
+{
+    "year": 1976,
+    "month": 10,
+    "day": 15,
+    "venue": {
+        "venue": "Shrine Auditorium",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Might As Well",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "15m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "13m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "10m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "12m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": []
+        }
+    ]
+}

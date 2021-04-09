@@ -1,0 +1,110 @@
+{
+    "year": 1985,
+    "month": 4,
+    "day": 13,
+    "venue": {
+        "venue": "Irvine Meadows Amphitheatre",
+        "city": "Irvine",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Why Don't We Do It In The Road",
+                    "length": "4m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 55s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

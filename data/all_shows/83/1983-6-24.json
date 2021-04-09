@@ -1,0 +1,130 @@
+{
+    "year": 1983,
+    "month": 6,
+    "day": 24,
+    "venue": {
+        "venue": "Dane County Coliseum",
+        "city": "Madison",
+        "state": "WI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "9m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "15m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "13m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 36s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

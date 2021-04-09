@@ -1,0 +1,135 @@
+{
+    "year": 1970,
+    "month": 4,
+    "day": 3,
+    "venue": {
+        "venue": "Field House",
+        "city": "Cincinnati",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Wake Up Little Susie",
+                    "length": "2m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Katie Mae",
+                    "length": "4m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "18m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "17m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

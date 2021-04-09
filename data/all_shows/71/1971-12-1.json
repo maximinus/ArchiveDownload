@@ -1,0 +1,136 @@
+{
+    "year": 1971,
+    "month": 12,
+    "day": 1,
+    "venue": {
+        "venue": "Boston Music Hall",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "3m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "The Rub",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 28s",
+                    "transition": "falase"
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Ramble On Rose",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "13m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 9s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

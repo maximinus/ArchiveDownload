@@ -1,0 +1,81 @@
+{
+    "year": 1969,
+    "month": 4,
+    "day": 13,
+    "venue": {
+        "venue": "Glenn Miller Ballroom",
+        "city": "Boulder",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "24m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "23m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "8m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "12m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "10m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Alligator",
+                    "length": "3m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Caution Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Good Night Jam",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

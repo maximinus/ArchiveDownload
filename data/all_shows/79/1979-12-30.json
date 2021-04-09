@@ -1,0 +1,120 @@
+{
+    "year": 1979,
+    "month": 12,
+    "day": 30,
+    "venue": {
+        "venue": "Oakland Auditorium Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "6m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "5m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

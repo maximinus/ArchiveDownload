@@ -1,0 +1,100 @@
+{
+    "year": 1993,
+    "month": 1,
+    "day": 24,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "14m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "6m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

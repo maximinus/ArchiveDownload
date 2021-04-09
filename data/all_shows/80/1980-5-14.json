@@ -1,0 +1,130 @@
+{
+    "year": 1980,
+    "month": 5,
+    "day": 14,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 36s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

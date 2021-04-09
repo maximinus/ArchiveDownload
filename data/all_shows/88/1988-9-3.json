@@ -1,0 +1,120 @@
+{
+    "year": 1988,
+    "month": 9,
+    "day": 3,
+    "venue": {
+        "venue": "Capital Centre",
+        "city": "Landover`",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Let The Good Times Roll",
+                    "length": "4m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "13m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "5m 7s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

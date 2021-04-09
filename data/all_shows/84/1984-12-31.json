@@ -1,0 +1,130 @@
+{
+    "year": 1984,
+    "month": 12,
+    "day": 31,
+    "venue": {
+        "venue": "San Francisco Civic Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "17m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "12m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "6m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "7m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "8m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "5m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 5s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

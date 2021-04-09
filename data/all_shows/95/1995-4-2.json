@@ -1,0 +1,100 @@
+{
+    "year": 1995,
+    "month": 4,
+    "day": 2,
+    "venue": {
+        "venue": "The Pyramid",
+        "city": "Memphis",
+        "state": "TN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "12m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "9m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "9m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "14m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "12m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Unbroken Chain",
+                    "length": "6m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

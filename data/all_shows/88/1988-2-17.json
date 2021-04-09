@@ -1,0 +1,110 @@
+{
+    "year": 1988,
+    "month": 2,
+    "day": 17,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hey Pocky Way",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "12m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "5m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

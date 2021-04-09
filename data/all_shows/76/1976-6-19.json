@@ -1,0 +1,135 @@
+{
+    "year": 1976,
+    "month": 6,
+    "day": 19,
+    "venue": {
+        "venue": "Capitol Theatre",
+        "city": "Passaic",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "18m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Might As Well",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "11m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "10m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "11m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

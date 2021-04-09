@@ -1,0 +1,115 @@
+{
+    "year": 1982,
+    "month": 4,
+    "day": 5,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "6m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

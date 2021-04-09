@@ -1,0 +1,82 @@
+{
+    "year": 1969,
+    "month": 2,
+    "day": 7,
+    "venue": {
+        "venue": "Stanley Theatre",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "9m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "10m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "1m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "China Cat Sunflower Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "1m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "6m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "4m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "year": 1969,
+    "month": 4,
+    "day": 27,
+    "venue": {
+        "venue": "Labor Temple",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "20m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "3m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "25m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "7m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "12m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "14m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

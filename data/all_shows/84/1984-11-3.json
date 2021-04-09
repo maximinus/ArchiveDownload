@@ -1,0 +1,110 @@
+{
+    "year": 1984,
+    "month": 11,
+    "day": 3,
+    "venue": {
+        "venue": "Berkeley Community Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Down In The Bottom",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "9m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Gloria",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Why Don't We Do It In The Road",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "11m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "9m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

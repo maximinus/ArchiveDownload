@@ -1,0 +1,120 @@
+{
+    "year": 1985,
+    "month": 11,
+    "day": 10,
+    "venue": {
+        "venue": "Meadowlands Arena",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "9m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

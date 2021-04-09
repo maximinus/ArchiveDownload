@@ -1,0 +1,102 @@
+{
+    "year": 1970,
+    "month": 11,
+    "day": 23,
+    "venue": {
+        "venue": "Anderson Theater",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "2m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

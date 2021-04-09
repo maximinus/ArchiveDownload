@@ -1,0 +1,110 @@
+{
+    "year": 1978,
+    "month": 6,
+    "day": 25,
+    "venue": {
+        "venue": "Autzen Stadium",
+        "city": "Eugene",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "11m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 50s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

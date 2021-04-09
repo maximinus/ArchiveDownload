@@ -1,0 +1,115 @@
+{
+    "year": 1986,
+    "month": 6,
+    "day": 29,
+    "venue": {
+        "venue": "Alpine Valley Music Theatre",
+        "city": "East Troy",
+        "state": "WI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "10m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "3m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "0m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "U.S. Blues",
+                    "length": "4m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

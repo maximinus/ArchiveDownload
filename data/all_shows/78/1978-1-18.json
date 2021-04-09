@@ -1,0 +1,110 @@
+{
+    "year": 1978,
+    "month": 1,
+    "day": 18,
+    "venue": {
+        "venue": "Stockton Civic Auditorium",
+        "city": "Stockton",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "11m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "19m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "12m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "11m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Around & Around",
+                    "length": "8m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

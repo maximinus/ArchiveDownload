@@ -1,0 +1,110 @@
+{
+    "year": 1983,
+    "month": 7,
+    "day": 30,
+    "venue": {
+        "venue": "County Fairgrounds",
+        "city": "Ventura",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugaree",
+                    "length": "11m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "10m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 12s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

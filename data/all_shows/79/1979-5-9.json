@@ -1,0 +1,105 @@
+{
+    "year": 1979,
+    "month": 5,
+    "day": 9,
+    "venue": {
+        "venue": "Broome County Arena",
+        "city": "Binghamton",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugaree",
+                    "length": "20m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "10m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "13m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

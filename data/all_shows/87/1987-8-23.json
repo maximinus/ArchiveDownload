@@ -1,0 +1,125 @@
+{
+    "year": 1987,
+    "month": 8,
+    "day": 23,
+    "venue": {
+        "venue": "Calaveras County Fairgrounds",
+        "city": "Angel's Camp",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "5m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "3m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "5m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "2m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

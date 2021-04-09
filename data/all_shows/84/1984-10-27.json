@@ -1,0 +1,130 @@
+{
+    "year": 1984,
+    "month": 10,
+    "day": 27,
+    "venue": {
+        "venue": "Berkeley Community Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "9m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "2m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Need Love",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

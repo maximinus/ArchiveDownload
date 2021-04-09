@@ -1,0 +1,125 @@
+{
+    "year": 1987,
+    "month": 6,
+    "day": 14,
+    "venue": {
+        "venue": "County Fairgrounds",
+        "city": "Ventura",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Tons Of Steel",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "5m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "7m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "10m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 54s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

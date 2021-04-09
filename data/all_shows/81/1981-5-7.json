@@ -1,0 +1,12 @@
+{
+    "year": 1981,
+    "month": 5,
+    "day": 7,
+    "venue": {
+        "venue": "NBC Studios",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": []
+}

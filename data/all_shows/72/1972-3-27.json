@@ -1,0 +1,145 @@
+{
+    "year": 1972,
+    "month": 3,
+    "day": 27,
+    "venue": {
+        "venue": "Academy of Music",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Chinatown Shuffle",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "23m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "The Stranger (Two Souls In Communion)",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "7m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 53s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "year": 1994,
+    "month": 9,
+    "day": 27,
+    "venue": {
+        "venue": "Boston Garden",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Maggie's Farm",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "10m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "10m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "15m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "16m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "9m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

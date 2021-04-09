@@ -1,0 +1,105 @@
+{
+    "year": 1993,
+    "month": 3,
+    "day": 17,
+    "venue": {
+        "venue": "Capital Centre",
+        "city": "Landover`",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "12m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "11m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "9m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Liberty",
+                    "length": "6m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Picasso Moon",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "10m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Days Between",
+                    "length": "10m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Lucy In The Sky With Diamonds",
+                    "length": "5m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,262 @@
+{
+    "year": 1970,
+    "month": 11,
+    "day": 8,
+    "venue": {
+        "venue": "Capitol Theater",
+        "city": "Port Chester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "3m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Rosalie McFall",
+                    "length": "3m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Operator",
+                    "length": "2m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Wake Up Little Susie",
+                    "length": "2m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Whatcha Gonna Do",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Rain",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Fair Chance To Know",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "3m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Mystery Train",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "My Babe",
+                    "length": "2m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "New Orleans",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Searchin'",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "10m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "16m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "The Main Ten",
+                    "length": "5m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "10m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "1m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "year": 1993,
+    "month": 3,
+    "day": 25,
+    "venue": {
+        "venue": "Dean Smith Center",
+        "city": "Chapel Hill",
+        "state": "NC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Liberty",
+                    "length": "6m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Wave To The Wind",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "16m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "12m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Weight",
+                    "length": "5m 49s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

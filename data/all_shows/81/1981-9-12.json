@@ -1,0 +1,135 @@
+{
+    "year": 1981,
+    "month": 9,
+    "day": 12,
+    "venue": {
+        "venue": "Greek Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "13m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "14m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "year": 1977,
+    "month": 3,
+    "day": 20,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "13m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "9m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "15m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

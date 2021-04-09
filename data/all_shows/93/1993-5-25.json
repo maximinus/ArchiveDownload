@@ -1,0 +1,120 @@
+{
+    "year": 1993,
+    "month": 5,
+    "day": 25,
+    "venue": {
+        "venue": "Cal Expo Amphitheatre",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Eyes Of The World",
+                    "length": "15m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "16m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Rain",
+                    "length": "5m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

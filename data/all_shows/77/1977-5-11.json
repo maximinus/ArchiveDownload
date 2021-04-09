@@ -1,0 +1,145 @@
+{
+    "year": 1977,
+    "month": 5,
+    "day": 11,
+    "venue": {
+        "venue": "St. Paul Civic Center Arena",
+        "city": "St. Paul",
+        "state": "MN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "11m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "11m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "13m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "10m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "4m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 49s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "year": 1969,
+    "month": 11,
+    "day": 2,
+    "venue": {
+        "venue": "Family Dog at the Great Highway",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Midnight Hour",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "*Seasons of My Heart",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "3m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "30m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "7m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "10m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "11m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

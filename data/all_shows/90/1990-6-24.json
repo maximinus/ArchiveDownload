@@ -1,0 +1,125 @@
+{
+    "year": 1990,
+    "month": 6,
+    "day": 24,
+    "venue": {
+        "venue": "Autzen Stadium",
+        "city": "Eugene",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "9m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Just A Little Light",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Foolish Heart",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 0s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

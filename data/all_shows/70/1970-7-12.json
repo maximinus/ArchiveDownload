@@ -1,0 +1,182 @@
+{
+    "year": 1970,
+    "month": 7,
+    "day": 12,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Monkey and the Engineer",
+                    "length": "1m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "2m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "I've Been All Around this World",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Rosalie McFall",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "2m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Jordan",
+                    "length": "2m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Swing Low, Sweet Chariot",
+                    "length": "2m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "3m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Whatcha Gonna Do",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Gloria",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Fair Chance To Know",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "1m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "14m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "18m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "18m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

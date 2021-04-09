@@ -1,0 +1,140 @@
+{
+    "year": 1976,
+    "month": 7,
+    "day": 16,
+    "venue": {
+        "venue": "Orpheum Theatre",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "5m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Stronger Than Dirt",
+                    "length": "7m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "10m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

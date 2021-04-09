@@ -1,0 +1,32 @@
+{
+    "year": 1966,
+    "month": 10,
+    "day": 7,
+    "venue": {
+        "venue": "Fillmore Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cream Puff War",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "10m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Stealin'",
+                    "length": "2m 59s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "year": 1982,
+    "month": 8,
+    "day": 4,
+    "venue": {
+        "venue": "Kiel Auditorium",
+        "city": "St. Louis",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "14m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 5s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

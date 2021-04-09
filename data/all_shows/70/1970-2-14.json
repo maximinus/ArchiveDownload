@@ -1,0 +1,42 @@
+{
+    "year": 1970,
+    "month": 2,
+    "day": 14,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "23m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "8m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "24m 2s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "year": 1984,
+    "month": 6,
+    "day": 21,
+    "venue": {
+        "venue": "Kingswood Music Theatre",
+        "city": "Ontario",
+        "state": "",
+        "country": "CA"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "13m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "6m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "New Orleans",
+                    "length": "3m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "3m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "5m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

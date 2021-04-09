@@ -1,0 +1,130 @@
+{
+    "year": 1981,
+    "month": 5,
+    "day": 1,
+    "venue": {
+        "venue": "Hampton Coliseum",
+        "city": "Hampton",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "10m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

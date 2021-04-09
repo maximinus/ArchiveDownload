@@ -1,0 +1,130 @@
+{
+    "year": 1976,
+    "month": 6,
+    "day": 18,
+    "venue": {
+        "venue": "Capitol Theatre",
+        "city": "Passaic",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "12m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "13m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Mission In The Rain",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "11m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "0m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "13m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 1s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

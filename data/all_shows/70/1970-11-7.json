@@ -1,0 +1,106 @@
+{
+    "year": 1970,
+    "month": 11,
+    "day": 7,
+    "venue": {
+        "venue": "Capitol Theater",
+        "city": "Port Chester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey And The Engineer",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Operator",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "How Long Blues",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "4m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "5m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "16m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

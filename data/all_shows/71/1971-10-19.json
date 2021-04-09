@@ -1,0 +1,171 @@
+{
+    "year": 1971,
+    "month": 10,
+    "day": 19,
+    "venue": {
+        "venue": "Northrop Auditorium",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "7m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "13m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "3m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 36s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

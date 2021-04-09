@@ -1,0 +1,116 @@
+{
+    "year": 1969,
+    "month": 4,
+    "day": 22,
+    "venue": {
+        "venue": "The Ark",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "2m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "2m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "9m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "10m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "5m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Mountains Of The Moon",
+                    "length": "5m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "2m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "27m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "11m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "23m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "8m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "year": 1992,
+    "month": 12,
+    "day": 13,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Maggie's Farm",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "15m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "16m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "13m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 47s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

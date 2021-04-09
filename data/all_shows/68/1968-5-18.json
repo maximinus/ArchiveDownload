@@ -1,0 +1,52 @@
+{
+    "year": 1968,
+    "month": 5,
+    "day": 18,
+    "venue": {
+        "venue": "Santa Clara County Fairgrounds",
+        "city": "Santa Clara",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alligator",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "13m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "3m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Mountain Jam",
+                    "length": "0m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "11m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "4m 50s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

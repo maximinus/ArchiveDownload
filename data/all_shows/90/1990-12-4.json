@@ -1,0 +1,125 @@
+{
+    "year": 1990,
+    "month": 12,
+    "day": 4,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "12m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Valley Road",
+                    "length": "5m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Eyes Of The World",
+                    "length": "13m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "7m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "6m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

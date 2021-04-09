@@ -1,0 +1,115 @@
+{
+    "year": 1994,
+    "month": 10,
+    "day": 17,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Midnight Hour",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "10m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Eyes Of The World",
+                    "length": "25m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "20m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Rainy Day Women #12 & #35",
+                    "length": "7m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

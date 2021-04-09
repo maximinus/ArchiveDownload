@@ -1,0 +1,119 @@
+{
+    "year": 1989,
+    "month": 12,
+    "day": 31,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "11m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Shakedown Street",
+                    "length": "11m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "14m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Hey Jude",
+                    "length": "2m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "5m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Midnight Hour",
+                    "length": "5m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

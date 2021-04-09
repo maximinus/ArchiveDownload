@@ -1,0 +1,37 @@
+{
+    "year": 1968,
+    "month": 9,
+    "day": 20,
+    "venue": {
+        "venue": "Berkeley Community Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "26m 51s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

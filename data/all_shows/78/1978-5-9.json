@@ -1,0 +1,110 @@
+{
+    "year": 1978,
+    "month": 5,
+    "day": 9,
+    "venue": {
+        "venue": "Onondaga County War Memorial",
+        "city": "Syracuse",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "14m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "9m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Werewolves Of London",
+                    "length": "6m 59s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

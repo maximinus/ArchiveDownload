@@ -1,0 +1,100 @@
+{
+    "year": 1969,
+    "month": 3,
+    "day": 1,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "8m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "11m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "6m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "5m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Mountains Of The Moon",
+                    "length": "5m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "23m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "5m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "18m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Hey Jude",
+                    "length": "7m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

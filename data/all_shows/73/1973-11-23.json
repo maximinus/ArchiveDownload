@@ -1,0 +1,170 @@
+{
+    "year": 1973,
+    "month": 11,
+    "day": 23,
+    "venue": {
+        "venue": "County Coliseum",
+        "city": "El Paso",
+        "state": "TX",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "4m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "1m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "4m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "9m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "12m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "14m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "7m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

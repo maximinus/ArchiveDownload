@@ -1,0 +1,115 @@
+{
+    "year": 1994,
+    "month": 3,
+    "day": 24,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Maggie's Farm",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "8m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Eyes Of The World",
+                    "length": "16m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 59s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

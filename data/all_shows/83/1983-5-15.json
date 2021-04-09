@@ -1,0 +1,125 @@
+{
+    "year": 1983,
+    "month": 5,
+    "day": 15,
+    "venue": {
+        "venue": "Greek Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "13m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

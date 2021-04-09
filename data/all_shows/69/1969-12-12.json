@@ -1,0 +1,166 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 12,
+    "venue": {
+        "venue": "Thelma Theater",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "12m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "1m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "29m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Hard To Handle",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "5m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "8m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "3m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "3m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Alligator",
+                    "length": "4m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "23m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Good Night Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "7m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "3m 15s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

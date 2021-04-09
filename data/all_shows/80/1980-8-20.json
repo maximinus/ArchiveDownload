@@ -1,0 +1,125 @@
+{
+    "year": 1980,
+    "month": 8,
+    "day": 20,
+    "venue": {
+        "venue": "Uptown Theatre",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "13m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

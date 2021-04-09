@@ -1,0 +1,110 @@
+{
+    "year": 1994,
+    "month": 3,
+    "day": 27,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "10m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "13m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "13m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "15m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 51s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

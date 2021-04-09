@@ -1,0 +1,137 @@
+{
+    "year": 1970,
+    "month": 12,
+    "day": 12,
+    "venue": {
+        "venue": "Santa Rosa Fairgrounds",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "9m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "1m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "1m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "11m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "year": 1970,
+    "month": 8,
+    "day": 17,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Let Me In",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "0m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "year": 1995,
+    "month": 6,
+    "day": 27,
+    "venue": {
+        "venue": "The Palace",
+        "city": "Auburn Hills",
+        "state": "MI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "14m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "10m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "All Too Much",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "13m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "13m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 12s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

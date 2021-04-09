@@ -1,0 +1,126 @@
+{
+    "year": 1969,
+    "month": 3,
+    "day": 2,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dark Star",
+                    "length": "20m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "15m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "16m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Doin' That Rag",
+                    "length": "7m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "10m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "11m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "4m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "23m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Good Night Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Caution Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "23m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "7m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "0m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "year": 1983,
+    "month": 10,
+    "day": 18,
+    "venue": {
+        "venue": "Cumberland County Civic Center",
+        "city": "Portland",
+        "state": "ME",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "9m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

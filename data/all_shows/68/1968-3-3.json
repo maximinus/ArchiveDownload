@@ -1,0 +1,57 @@
+{
+    "year": 1968,
+    "month": 3,
+    "day": 3,
+    "venue": {
+        "venue": "Haight Street",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "21m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "12m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "14m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

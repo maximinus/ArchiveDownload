@@ -1,0 +1,120 @@
+{
+    "year": 1989,
+    "month": 12,
+    "day": 8,
+    "venue": {
+        "venue": "Great Western Forum",
+        "city": "Inglewood",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Let The Good Times Roll",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Blow Away",
+                    "length": "11m 55s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "I Will Take You Home",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "11m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 52s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

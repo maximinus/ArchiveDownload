@@ -1,0 +1,81 @@
+{
+    "year": 1970,
+    "month": 3,
+    "day": 7,
+    "venue": {
+        "venue": "Santa Monica Civic Auditorium",
+        "city": "Santa Monica",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Black Peter",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "0m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "3m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "24m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

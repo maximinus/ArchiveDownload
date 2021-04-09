@@ -1,0 +1,47 @@
+{
+    "year": 1970,
+    "month": 2,
+    "day": 4,
+    "venue": {
+        "venue": "Family Dog at the Great Highway",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

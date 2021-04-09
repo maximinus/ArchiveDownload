@@ -1,0 +1,86 @@
+{
+    "year": 1969,
+    "month": 6,
+    "day": 21,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Green Green Grass Of Home",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "2m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Ol' Slewfoot",
+                    "length": "4m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "6m 50s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

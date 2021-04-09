@@ -1,0 +1,125 @@
+{
+    "year": 1988,
+    "month": 7,
+    "day": 17,
+    "venue": {
+        "venue": "Greek Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Foolish Heart",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Believe It Or Not",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Blackbird",
+                    "length": "2m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

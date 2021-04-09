@@ -1,0 +1,120 @@
+{
+    "year": 1987,
+    "month": 10,
+    "day": 2,
+    "venue": {
+        "venue": "Shoreline Amphitheatre",
+        "city": "Mountain View",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 11s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

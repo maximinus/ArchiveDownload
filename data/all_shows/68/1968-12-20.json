@@ -1,0 +1,37 @@
+{
+    "year": 1968,
+    "month": 12,
+    "day": 20,
+    "venue": {
+        "venue": "Shrine Exhibition Hall",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "The Eleven",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Mountains Of The Moon",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "15m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

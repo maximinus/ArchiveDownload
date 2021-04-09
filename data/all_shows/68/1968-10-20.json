@@ -1,0 +1,47 @@
+{
+    "year": 1968,
+    "month": 10,
+    "day": 20,
+    "venue": {
+        "venue": "Greek Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "13m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "13m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "10m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "3m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "14m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

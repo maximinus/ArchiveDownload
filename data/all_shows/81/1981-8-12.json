@@ -1,0 +1,145 @@
+{
+    "year": 1981,
+    "month": 8,
+    "day": 12,
+    "venue": {
+        "venue": "Salt Palace",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Might As Well",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "2m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "2m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 10s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

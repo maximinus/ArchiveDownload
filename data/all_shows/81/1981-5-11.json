@@ -1,0 +1,145 @@
+{
+    "year": 1981,
+    "month": 5,
+    "day": 11,
+    "venue": {
+        "venue": "Veterans Memorial Coliseum",
+        "city": "New Haven",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "(I Can't Get No) Satisfaction",
+                    "length": "6m 52s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

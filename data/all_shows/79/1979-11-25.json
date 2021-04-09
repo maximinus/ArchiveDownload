@@ -1,0 +1,130 @@
+{
+    "year": 1979,
+    "month": 11,
+    "day": 25,
+    "venue": {
+        "venue": "Pauley Pavilion",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "12m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 36s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

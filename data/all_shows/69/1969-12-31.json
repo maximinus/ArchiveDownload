@@ -1,0 +1,181 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 31,
+    "venue": {
+        "venue": "Boston Tea Party",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "7m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Masons Children",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Alligator",
+                    "length": "4m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Alligator",
+                    "length": "12m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Good Night Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Alligator",
+                    "length": "1m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "6m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "3m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "1m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "13m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "9m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boy Pete",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "*Seasons of My Heart",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Silver Threads & Golden Needles",
+                    "length": "2m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Ol' Slewfoot",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "8m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

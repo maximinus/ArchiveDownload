@@ -1,0 +1,115 @@
+{
+    "year": 1993,
+    "month": 6,
+    "day": 19,
+    "venue": {
+        "venue": "Soldier Field",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Maggie's Farm",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Broken Arrow",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "9m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "6m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Rain",
+                    "length": "5m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

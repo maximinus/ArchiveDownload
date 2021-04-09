@@ -1,0 +1,140 @@
+{
+    "year": 1977,
+    "month": 12,
+    "day": 29,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "13m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunrise",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "16m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

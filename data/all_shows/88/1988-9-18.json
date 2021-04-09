@@ -1,0 +1,115 @@
+{
+    "year": 1988,
+    "month": 9,
+    "day": 18,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "6m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "6m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "10m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 55s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 10s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

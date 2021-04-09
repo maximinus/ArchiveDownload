@@ -1,0 +1,125 @@
+{
+    "year": 1976,
+    "month": 6,
+    "day": 27,
+    "venue": {
+        "venue": "Auditorium Theater",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "2m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "5m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Let It Grow",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "9m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "14m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

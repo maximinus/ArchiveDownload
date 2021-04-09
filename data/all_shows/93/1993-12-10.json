@@ -1,0 +1,115 @@
+{
+    "year": 1993,
+    "month": 12,
+    "day": 10,
+    "venue": {
+        "venue": "Los Angeles Sports Arena",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "10m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "8m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "16m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "8m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

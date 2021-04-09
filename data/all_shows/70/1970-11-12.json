@@ -1,0 +1,72 @@
+{
+    "year": 1970,
+    "month": 11,
+    "day": 12,
+    "venue": {
+        "venue": "46th Street Rock Palace",
+        "city": "Brooklyn",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hard To Handle",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "New Orleans",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

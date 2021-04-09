@@ -1,0 +1,115 @@
+{
+    "year": 1986,
+    "month": 4,
+    "day": 3,
+    "venue": {
+        "venue": "Hartford Civic Center",
+        "city": "Hartford",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "3m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "14m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Need Love",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

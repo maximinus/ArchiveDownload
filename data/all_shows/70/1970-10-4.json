@@ -1,0 +1,82 @@
+{
+    "year": 1970,
+    "month": 10,
+    "day": 4,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "0m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Till The Morning Comes",
+                    "length": "3m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 54s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

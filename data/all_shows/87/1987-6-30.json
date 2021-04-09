@@ -1,0 +1,140 @@
+{
+    "year": 1987,
+    "month": 6,
+    "day": 30,
+    "venue": {
+        "venue": "Kingswood Music Theatre",
+        "city": "Ontario",
+        "state": "",
+        "country": "CA"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "4m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "2m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "China Doll",
+                    "length": "4m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "4m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

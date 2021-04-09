@@ -1,0 +1,120 @@
+{
+    "year": 1988,
+    "month": 9,
+    "day": 6,
+    "venue": {
+        "venue": "Capital Centre",
+        "city": "Landover`",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "10m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 10s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

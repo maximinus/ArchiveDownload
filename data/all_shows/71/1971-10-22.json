@@ -1,0 +1,67 @@
+{
+    "year": 1971,
+    "month": 10,
+    "day": 22,
+    "venue": {
+        "venue": "Auditorium Theater",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "18m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

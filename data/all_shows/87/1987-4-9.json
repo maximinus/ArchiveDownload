@@ -1,0 +1,120 @@
+{
+    "year": 1987,
+    "month": 4,
+    "day": 9,
+    "venue": {
+        "venue": "UIC Pavilion",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

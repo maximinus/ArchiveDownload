@@ -1,0 +1,52 @@
+{
+    "year": 1969,
+    "month": 9,
+    "day": 30,
+    "venue": {
+        "venue": "Caf' au Go",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "4m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

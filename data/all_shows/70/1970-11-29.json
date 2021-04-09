@@ -1,0 +1,112 @@
+{
+    "year": 1970,
+    "month": 11,
+    "day": 29,
+    "venue": {
+        "venue": "Club Agora",
+        "city": "Columbus",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "13m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "21m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "2m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 53s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

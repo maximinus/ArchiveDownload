@@ -1,0 +1,51 @@
+{
+    "year": 1975,
+    "month": 3,
+    "day": 23,
+    "venue": {
+        "venue": "Kezar Stadium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Blues For Allah",
+                    "length": "9m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Stronger Than Dirt",
+                    "length": "7m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Stronger Than Dirt",
+                    "length": "9m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Blues For Allah",
+                    "length": "4m 5s",
+                    "transition": true
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

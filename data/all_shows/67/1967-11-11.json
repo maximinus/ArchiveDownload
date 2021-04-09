@@ -1,0 +1,57 @@
+{
+    "year": 1967,
+    "month": 11,
+    "day": 11,
+    "venue": {
+        "venue": "Shrine Exhibition Hall",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "11m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "11m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "2m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "11m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "11m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "25m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

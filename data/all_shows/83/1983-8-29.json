@@ -1,0 +1,113 @@
+{
+    "year": 1983,
+    "month": 8,
+    "day": 29,
+    "venue": {
+        "venue": "Silva Hall",
+        "city": "Eugene",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": []
+        }
+    ]
+}

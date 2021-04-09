@@ -1,0 +1,105 @@
+{
+    "year": 1995,
+    "month": 6,
+    "day": 21,
+    "venue": {
+        "venue": "Knickerbocker Arena",
+        "city": "Albany",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Take Me To The River",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "15m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Broken Arrow",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "18m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "All Too Much",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "12m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

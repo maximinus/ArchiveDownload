@@ -1,0 +1,107 @@
+{
+    "year": 1994,
+    "month": 4,
+    "day": 8,
+    "venue": {
+        "venue": "Miami Arena",
+        "city": "Miami",
+        "state": "FL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Lovin'",
+                    "length": "1m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "12m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "15m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "12m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Days Between",
+                    "length": "14m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "I Fought The Law",
+                    "length": "3m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

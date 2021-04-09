@@ -1,0 +1,12 @@
+{
+    "year": 1966,
+    "month": 1,
+    "day": 5,
+    "venue": {
+        "venue": "The Matrix",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": []
+}

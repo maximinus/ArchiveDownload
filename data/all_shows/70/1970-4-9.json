@@ -1,0 +1,112 @@
+{
+    "year": 1970,
+    "month": 4,
+    "day": 9,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "It's A Man's World",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Katie Mae",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "1m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "21m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

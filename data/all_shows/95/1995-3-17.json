@@ -1,0 +1,116 @@
+{
+    "year": 1995,
+    "month": 3,
+    "day": 17,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "9m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "9m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "7m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "12m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "7m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "20m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "8m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "8m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Lucy In The Sky With Diamonds",
+                    "length": "7m 58s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

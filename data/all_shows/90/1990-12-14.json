@@ -1,0 +1,115 @@
+{
+    "year": 1990,
+    "month": 12,
+    "day": 14,
+    "venue": {
+        "venue": "McNichols Sports Arena",
+        "city": "Denver",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 12s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "9m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "15m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "8m 1s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "year": 1976,
+    "month": 6,
+    "day": 12,
+    "venue": {
+        "venue": "Boston Music Hall",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Mission In The Rain",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "2m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "3m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Wheel",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "12m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "10m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "10m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "3m 15s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

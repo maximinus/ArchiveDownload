@@ -1,0 +1,120 @@
+{
+    "year": 1988,
+    "month": 3,
+    "day": 16,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "14m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "5m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

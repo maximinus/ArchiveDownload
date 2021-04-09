@@ -1,0 +1,52 @@
+{
+    "year": 1969,
+    "month": 5,
+    "day": 7,
+    "venue": {
+        "venue": "Polo Field",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "5m 52s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

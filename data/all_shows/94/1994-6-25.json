@@ -1,0 +1,110 @@
+{
+    "year": 1994,
+    "month": 6,
+    "day": 25,
+    "venue": {
+        "venue": "Sam Boyd Silver Bowl",
+        "city": "Las Vegas",
+        "state": "NV",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "If The Shoe Fits",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "10m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "18m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 36s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

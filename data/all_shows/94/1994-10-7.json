@@ -1,0 +1,110 @@
+{
+    "year": 1994,
+    "month": 10,
+    "day": 7,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "12m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "13m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "11m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "12m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "17m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "That Would Be Something",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "12m 12s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "5m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

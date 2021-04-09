@@ -1,0 +1,110 @@
+{
+    "year": 1995,
+    "month": 5,
+    "day": 26,
+    "venue": {
+        "venue": "Seattle Center Memorial Coliseum",
+        "city": "Seattle",
+        "state": "WA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "8m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "5m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "12m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "11m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "18m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "10m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "7m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 52s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

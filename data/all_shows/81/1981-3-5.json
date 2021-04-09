@@ -1,0 +1,140 @@
+{
+    "year": 1981,
+    "month": 3,
+    "day": 5,
+    "venue": {
+        "venue": "Stanley Theatre",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "9m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Jam",
+                    "length": "7m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "14m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "4m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

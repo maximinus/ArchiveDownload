@@ -1,0 +1,102 @@
+{
+    "year": 1983,
+    "month": 10,
+    "day": 9,
+    "venue": {
+        "venue": "Greensboro Coliseum",
+        "city": "Greensboro",
+        "state": "NC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "12m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Sampson & Delilah",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "15m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 44s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

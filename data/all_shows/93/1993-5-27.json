@@ -1,0 +1,120 @@
+{
+    "year": 1993,
+    "month": 5,
+    "day": 27,
+    "venue": {
+        "venue": "Cal Expo Amphitheatre",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "14m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Picasso Moon",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Wave To The Wind",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Gloria",
+                    "length": "5m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

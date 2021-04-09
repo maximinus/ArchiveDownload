@@ -1,0 +1,12 @@
+{
+    "year": 1969,
+    "month": 6,
+    "day": 11,
+    "venue": {
+        "venue": "California Hall",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": []
+}

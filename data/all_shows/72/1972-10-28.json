@@ -1,0 +1,37 @@
+{
+    "year": 1972,
+    "month": 10,
+    "day": 28,
+    "venue": {
+        "venue": "Cleveland Public Hall",
+        "city": "Cleveland",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "El Paso",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "27m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

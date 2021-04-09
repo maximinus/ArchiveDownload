@@ -1,0 +1,115 @@
+{
+    "year": 1994,
+    "month": 10,
+    "day": 14,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "9m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "23m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "17m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "17m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "5m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "5m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 15s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "year": 1980,
+    "month": 10,
+    "day": 22,
+    "venue": {
+        "venue": "Radio City Music Hall",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "I've Been All Around This World",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey And The Engineer",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Heaven Help The Fool",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "7m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "7m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "4m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

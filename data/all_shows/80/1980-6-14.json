@@ -1,0 +1,105 @@
+{
+    "year": 1980,
+    "month": 6,
+    "day": 14,
+    "venue": {
+        "venue": "Spokane Coliseum",
+        "city": "Spokane",
+        "state": "WA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Big River",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "10m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "11m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

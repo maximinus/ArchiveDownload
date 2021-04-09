@@ -1,0 +1,120 @@
+{
+    "year": 1983,
+    "month": 9,
+    "day": 8,
+    "venue": {
+        "venue": "Red Rocks Amphitheatre",
+        "city": "Morrison",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "13m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "15m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "17m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

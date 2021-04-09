@@ -1,0 +1,130 @@
+{
+    "year": 1978,
+    "month": 5,
+    "day": 11,
+    "venue": {
+        "venue": "Springfield Civic Center Arena",
+        "city": "Springfield",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "15m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "19m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "9m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Werewolves Of London",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 11s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

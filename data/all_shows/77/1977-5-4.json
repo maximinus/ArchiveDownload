@@ -1,0 +1,106 @@
+{
+    "year": 1977,
+    "month": 5,
+    "day": 4,
+    "venue": {
+        "venue": "The Palladium",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "11m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "10m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "19m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Estimated Prophet",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "9m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "18m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "11m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

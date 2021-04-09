@@ -1,0 +1,150 @@
+{
+    "year": 1974,
+    "month": 8,
+    "day": 4,
+    "venue": {
+        "venue": "Civic Convention Hall Auditorium",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "25m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "3m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "18m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "U.S. Blues",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

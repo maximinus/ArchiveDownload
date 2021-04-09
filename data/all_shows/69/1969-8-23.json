@@ -1,0 +1,76 @@
+{
+    "year": 1969,
+    "month": 8,
+    "day": 23,
+    "venue": {
+        "venue": "Pelletier Farm",
+        "city": "St. Helens",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hard To Handle",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "10m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "26m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "12m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "27m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

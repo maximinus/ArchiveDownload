@@ -1,0 +1,217 @@
+{
+    "year": 1968,
+    "month": 12,
+    "day": 31,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "St. Stephen",
+                    "length": "0m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "2m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "14m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "2m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "3m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Born Cross-Eyed",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "0m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "0m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "9m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "15m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "13m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "12m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "9m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "4m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "10m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "16m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "11m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

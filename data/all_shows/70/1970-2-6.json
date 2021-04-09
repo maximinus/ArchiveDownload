@@ -1,0 +1,97 @@
+{
+    "year": 1970,
+    "month": 2,
+    "day": 6,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "0m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "24m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

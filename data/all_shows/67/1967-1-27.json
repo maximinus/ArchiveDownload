@@ -1,0 +1,52 @@
+{
+    "year": 1967,
+    "month": 1,
+    "day": 27,
+    "venue": {
+        "venue": "Avalon Ballroom",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "19m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "2m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "16m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "11m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "8m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

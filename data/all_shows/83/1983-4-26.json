@@ -1,0 +1,130 @@
+{
+    "year": 1983,
+    "month": 4,
+    "day": 26,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Maybe You Know",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Nobody's Fault Jam",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "4m 58s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

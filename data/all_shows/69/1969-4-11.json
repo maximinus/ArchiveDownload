@@ -1,0 +1,71 @@
+{
+    "year": 1969,
+    "month": 4,
+    "day": 11,
+    "venue": {
+        "venue": "University Auditorium",
+        "city": "Tucson",
+        "state": "AZ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "8m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "It's A Sin",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "6m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Dark Star",
+                    "length": "20m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "4m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "4m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "19m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

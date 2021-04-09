@@ -1,0 +1,92 @@
+{
+    "year": 1975,
+    "month": 9,
+    "day": 28,
+    "venue": {
+        "venue": "Lindley Meadows",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "5m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "5m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Stronger Than Dirt",
+                    "length": "6m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

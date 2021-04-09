@@ -1,0 +1,135 @@
+{
+    "year": 1989,
+    "month": 6,
+    "day": 21,
+    "venue": {
+        "venue": "Shoreline Amphitheatre",
+        "city": "Mountain View",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hide Away",
+                    "length": "2m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "10m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "12m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "15m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "8m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 50s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

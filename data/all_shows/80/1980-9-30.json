@@ -1,0 +1,179 @@
+{
+    "year": 1980,
+    "month": 9,
+    "day": 30,
+    "venue": {
+        "venue": "Warfield Theater",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "On The Road Again",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey And The Engineer",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Rosalie Mcfall",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Heaven Help The Fool",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Oh Babe It Ain't No Lie",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

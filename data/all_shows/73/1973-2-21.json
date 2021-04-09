@@ -1,0 +1,135 @@
+{
+    "year": 1973,
+    "month": 2,
+    "day": 21,
+    "venue": {
+        "venue": "Assembly Hall",
+        "city": "Champaign-Urbana",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Wave That Flag",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "You Ain't Woman Enough",
+                    "length": "2m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "5m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "14m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "15m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "7m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 47s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

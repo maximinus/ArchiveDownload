@@ -1,0 +1,120 @@
+{
+    "year": 1987,
+    "month": 5,
+    "day": 9,
+    "venue": {
+        "venue": "Laguna Seca Recreation Area",
+        "city": "Monterey",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Tons Of Steel",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "9m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "4m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "5m 28s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "year": 1973,
+    "month": 6,
+    "day": 29,
+    "venue": {
+        "venue": "Universal Amphitheatre",
+        "city": "Universal City",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "1m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "17m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "3m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "23m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "12m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

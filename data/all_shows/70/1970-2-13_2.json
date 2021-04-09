@@ -1,0 +1,111 @@
+{
+    "year": 1970,
+    "month": 2,
+    "day": 13,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "21m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey And The Engineer",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Little Sadie",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Wake Up Little Susie",
+                    "length": "2m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Katie Mae",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "29m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "22m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "6m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "30m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "3m 54s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

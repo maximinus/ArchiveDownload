@@ -1,0 +1,130 @@
+{
+    "year": 1979,
+    "month": 12,
+    "day": 10,
+    "venue": {
+        "venue": "Soldiers & Sailors Memorial Hall",
+        "city": "Kansas City",
+        "state": "KS",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "9m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "10m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "3m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "9m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "2m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "year": 1985,
+    "month": 3,
+    "day": 22,
+    "venue": {
+        "venue": "Hampton Coliseum",
+        "city": "Hampton",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "16m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "3m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "5m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

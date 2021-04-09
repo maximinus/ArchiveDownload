@@ -1,0 +1,87 @@
+{
+    "year": 1970,
+    "month": 8,
+    "day": 5,
+    "venue": {
+        "venue": "Golden Hall",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Candyman",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Rosalie McFall",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Drink Up And Go Home",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "I Hear A Voice Callin'",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Jordan",
+                    "length": "2m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Swing Low, Sweet Chariot",
+                    "length": "3m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "3m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "4m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

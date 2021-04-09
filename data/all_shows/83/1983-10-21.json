@@ -1,0 +1,125 @@
+{
+    "year": 1983,
+    "month": 10,
+    "day": 21,
+    "venue": {
+        "venue": "The Centrum",
+        "city": "Worcester",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "9m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "7m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "13m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "16m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "8m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "15m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "3m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

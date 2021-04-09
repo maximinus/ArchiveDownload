@@ -1,0 +1,130 @@
+{
+    "year": 1978,
+    "month": 11,
+    "day": 21,
+    "venue": {
+        "venue": "Community War Memorial",
+        "city": "Rochester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "13m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "11m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "year": 1995,
+    "month": 5,
+    "day": 29,
+    "venue": {
+        "venue": "Portland Meadows",
+        "city": "Portland",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Let The Good Times Roll",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "18m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "15m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "14m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "5m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Days Between",
+                    "length": "13m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "12m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "8m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

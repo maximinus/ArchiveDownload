@@ -1,0 +1,67 @@
+{
+    "year": 1978,
+    "month": 11,
+    "day": 17,
+    "venue": {
+        "venue": "Loyola College",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Winin' Boy Blues",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Tom Dooley",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "This Time Forever",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "3m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "KC Moan",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boy Pete",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "4m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Oh Boy",
+                    "length": "2m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

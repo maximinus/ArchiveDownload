@@ -1,0 +1,77 @@
+{
+    "year": 1967,
+    "month": 11,
+    "day": 10,
+    "venue": {
+        "venue": "Shrine Exhibition Hall",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "15m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "10m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "22m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "2m 7s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "year": 1986,
+    "month": 7,
+    "day": 7,
+    "venue": {
+        "venue": "Robert F. Kennedy Stadium",
+        "city": "Washington, D.C.",
+        "state": "DC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "11m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "(I Can't Get No) Satisfaction",
+                    "length": "7m 44s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

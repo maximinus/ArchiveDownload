@@ -1,0 +1,52 @@
+{
+    "year": 1970,
+    "month": 1,
+    "day": 24,
+    "venue": {
+        "venue": "Honolulu Civic Auditorium",
+        "city": "Honolulu",
+        "state": "HI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Masons Children",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

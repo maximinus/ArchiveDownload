@@ -1,0 +1,140 @@
+{
+    "year": 1979,
+    "month": 12,
+    "day": 3,
+    "venue": {
+        "venue": "Uptown Theatre",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "6m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "11m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "16m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "13m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "3m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

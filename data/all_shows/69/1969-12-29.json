@@ -1,0 +1,141 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 29,
+    "venue": {
+        "venue": "Boston Tea Party",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "11m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Midnight Hour",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Masons Children",
+                    "length": "10m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

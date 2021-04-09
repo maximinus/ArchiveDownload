@@ -1,0 +1,125 @@
+{
+    "year": 1982,
+    "month": 4,
+    "day": 11,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

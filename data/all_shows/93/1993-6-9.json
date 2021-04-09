@@ -1,0 +1,110 @@
+{
+    "year": 1993,
+    "month": 6,
+    "day": 9,
+    "venue": {
+        "venue": "The Palace",
+        "city": "Auburn Hills",
+        "state": "MI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Wave To The Wind",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "15m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "5m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

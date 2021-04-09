@@ -1,0 +1,115 @@
+{
+    "year": 1986,
+    "month": 4,
+    "day": 4,
+    "venue": {
+        "venue": "Hartford Civic Center",
+        "city": "Hartford",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Day Job",
+                    "length": "4m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

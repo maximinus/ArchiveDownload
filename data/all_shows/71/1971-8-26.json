@@ -1,0 +1,180 @@
+{
+    "year": 1971,
+    "month": 8,
+    "day": 26,
+    "venue": {
+        "venue": "Gaelic Park",
+        "city": "Bronx",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "3m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Empty Pages",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "17m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 56s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

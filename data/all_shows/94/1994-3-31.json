@@ -1,0 +1,105 @@
+{
+    "year": 1994,
+    "month": 3,
+    "day": 31,
+    "venue": {
+        "venue": "The Omni",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "10m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Eyes Of The World",
+                    "length": "20m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "11m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "20m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "11m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "3m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

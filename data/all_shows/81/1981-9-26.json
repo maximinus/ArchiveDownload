@@ -1,0 +1,130 @@
+{
+    "year": 1981,
+    "month": 9,
+    "day": 26,
+    "venue": {
+        "venue": "War Memorial Auditorium",
+        "city": "Buffalo",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "3m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "2m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

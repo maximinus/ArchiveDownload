@@ -1,0 +1,52 @@
+{
+    "year": 1972,
+    "month": 8,
+    "day": 25,
+    "venue": {
+        "venue": "Berkeley Community Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Frozen Logger",
+                    "length": "2m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

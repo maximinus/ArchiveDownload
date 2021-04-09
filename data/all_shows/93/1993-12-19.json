@@ -1,0 +1,125 @@
+{
+    "year": 1993,
+    "month": 12,
+    "day": 19,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "8m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "13m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "14m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "6m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "4m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "22m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Days Between",
+                    "length": "12m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

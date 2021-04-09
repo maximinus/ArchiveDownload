@@ -1,0 +1,120 @@
+{
+    "year": 1993,
+    "month": 3,
+    "day": 28,
+    "venue": {
+        "venue": "Knickerbocker Arena",
+        "city": "Albany",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "9m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Wave To The Wind",
+                    "length": "7m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "5m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "8m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

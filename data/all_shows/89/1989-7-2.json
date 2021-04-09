@@ -1,0 +1,120 @@
+{
+    "year": 1989,
+    "month": 7,
+    "day": 2,
+    "venue": {
+        "venue": "Sullivan Stadium",
+        "city": "Foxboro",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "We Can Run But We Can't Hide",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "10m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "11m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Hey Jude",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "5m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

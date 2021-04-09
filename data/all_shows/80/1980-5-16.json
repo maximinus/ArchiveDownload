@@ -1,0 +1,135 @@
+{
+    "year": 1980,
+    "month": 5,
+    "day": 16,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "8m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "7m 1s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

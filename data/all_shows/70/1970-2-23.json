@@ -1,0 +1,77 @@
+{
+    "year": 1970,
+    "month": 2,
+    "day": 23,
+    "venue": {
+        "venue": "The Auditorium",
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "I Know You Rider",
+                    "length": "2m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Yellow Dog Story",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey and the Engineer",
+                    "length": "2m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Sadie",
+                    "length": "3m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "13m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Masons Children",
+                    "length": "3m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

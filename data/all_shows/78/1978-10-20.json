@@ -1,0 +1,120 @@
+{
+    "year": 1978,
+    "month": 10,
+    "day": 20,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "4m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "13m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "19m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "10m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Shakedown Street",
+                    "length": "7m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

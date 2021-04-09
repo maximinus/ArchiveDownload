@@ -1,0 +1,125 @@
+{
+    "year": 1978,
+    "month": 12,
+    "day": 15,
+    "venue": {
+        "venue": "Boutwell Auditorium",
+        "city": "Birmingham",
+        "state": "AL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Shakedown Street",
+                    "length": "11m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "From The Heart Of Me",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Need A Miracle",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "11m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "11m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 10s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

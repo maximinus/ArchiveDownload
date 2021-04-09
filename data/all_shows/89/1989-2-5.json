@@ -1,0 +1,115 @@
+{
+    "year": 1989,
+    "month": 2,
+    "day": 5,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "We Can Run But We Can't Hide",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "11m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "13m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "I Will Take You Home",
+                    "length": "3m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 57s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

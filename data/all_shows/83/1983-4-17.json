@@ -1,0 +1,140 @@
+{
+    "year": 1983,
+    "month": 4,
+    "day": 17,
+    "venue": {
+        "venue": "Meadowlands Arena",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "15m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Love The One You're With",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

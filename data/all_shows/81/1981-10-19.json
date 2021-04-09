@@ -1,0 +1,135 @@
+{
+    "year": 1981,
+    "month": 10,
+    "day": 19,
+    "venue": {
+        "venue": "Sports Palace",
+        "city": "Barcelona",
+        "state": "",
+        "country": "ES"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "14m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "14m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "14m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "3m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "1m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "2m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "11m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

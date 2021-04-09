@@ -1,0 +1,120 @@
+{
+    "year": 1994,
+    "month": 12,
+    "day": 11,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "1m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "13m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "If The Shoe Fits",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "14m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "13m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Days Between",
+                    "length": "13m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "5m 59s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

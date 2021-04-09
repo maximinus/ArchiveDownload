@@ -1,0 +1,125 @@
+{
+    "year": 1993,
+    "month": 6,
+    "day": 21,
+    "venue": {
+        "venue": "Deer Creek Music Center",
+        "city": "Noblesville",
+        "state": "IN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "10m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "13m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "10m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "3m 52s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

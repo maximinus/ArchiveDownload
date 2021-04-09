@@ -1,0 +1,141 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 5,
+    "venue": {
+        "venue": "Manhattan Center",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "The Rub",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "7m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "23m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

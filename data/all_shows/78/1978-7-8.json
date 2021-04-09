@@ -1,0 +1,130 @@
+{
+    "year": 1978,
+    "month": 7,
+    "day": 8,
+    "venue": {
+        "venue": "Red Rocks Amphitheatre",
+        "city": "Morrison",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "11m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "10m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Werewolves Of London",
+                    "length": "6m 49s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

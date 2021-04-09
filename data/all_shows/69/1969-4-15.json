@@ -1,0 +1,86 @@
+{
+    "year": 1969,
+    "month": 4,
+    "day": 15,
+    "venue": {
+        "venue": "The Music Box",
+        "city": "Omaha",
+        "state": "NE",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hard To Handle",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "6m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "It's A Sin",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "27m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "2m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "20m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "2m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "year": 1987,
+    "month": 11,
+    "day": 15,
+    "venue": {
+        "venue": "Long Beach Arena",
+        "city": "Long Beach",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "5m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "year": 1967,
+    "month": 10,
+    "day": 31,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alligator",
+                    "length": "11m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "18m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "2m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "10m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "year": 1984,
+    "month": 7,
+    "day": 1,
+    "venue": {
+        "venue": "Pine Knob Music Theatre",
+        "city": "Clarkston",
+        "state": "MI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "15m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

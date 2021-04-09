@@ -1,0 +1,130 @@
+{
+    "year": 1994,
+    "month": 7,
+    "day": 31,
+    "venue": {
+        "venue": "The Palace",
+        "city": "Auburn Hills",
+        "state": "MI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "8m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Midnight Hour",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "16m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "4m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Weight",
+                    "length": "5m 52s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

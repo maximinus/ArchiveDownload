@@ -1,0 +1,120 @@
+{
+    "year": 1986,
+    "month": 2,
+    "day": 11,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 55s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "11m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Hey Bo Diddley",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 28s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

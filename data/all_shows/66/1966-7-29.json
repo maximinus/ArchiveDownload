@@ -1,0 +1,77 @@
+{
+    "year": 1966,
+    "month": 7,
+    "day": 29,
+    "venue": {
+        "venue": "P.N.E. Garden Auditorium",
+        "city": "B.C.",
+        "state": "",
+        "country": "CA"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Intro",
+                    "length": "0m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "3m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "You Don't Have To Ask",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Stealin'",
+                    "length": "3m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Cardboard Cowboy",
+                    "length": "3m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Cream Puff War",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "9m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

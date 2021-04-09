@@ -1,0 +1,115 @@
+{
+    "year": 1994,
+    "month": 10,
+    "day": 15,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "15m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "9m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "10m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "13m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "9m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Want To Tell You",
+                    "length": "5m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

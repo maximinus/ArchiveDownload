@@ -1,0 +1,115 @@
+{
+    "year": 1994,
+    "month": 10,
+    "day": 5,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "9m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "13m 12s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Midnight Hour",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "17m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "13m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

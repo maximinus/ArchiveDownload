@@ -1,0 +1,125 @@
+{
+    "year": 1982,
+    "month": 2,
+    "day": 17,
+    "venue": {
+        "venue": "Warfield Theater",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "10m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "5m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "13m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "(I Can't Get No) Satisfaction",
+                    "length": "6m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

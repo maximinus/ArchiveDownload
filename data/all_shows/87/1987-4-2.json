@@ -1,0 +1,135 @@
+{
+    "year": 1987,
+    "month": 4,
+    "day": 2,
+    "venue": {
+        "venue": "The Centrum",
+        "city": "Worcester",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "7m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

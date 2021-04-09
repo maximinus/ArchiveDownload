@@ -1,0 +1,111 @@
+{
+    "year": 1986,
+    "month": 5,
+    "day": 3,
+    "venue": {
+        "venue": "Cal Expo Amphitheatre",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "2m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "7m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "year": 1981,
+    "month": 12,
+    "day": 7,
+    "venue": {
+        "venue": "Des Moines Civic Center",
+        "city": "Des Moines",
+        "state": "IA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "13m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Nobody's Fault Jam",
+                    "length": "1m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

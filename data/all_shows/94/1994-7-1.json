@@ -1,0 +1,126 @@
+{
+    "year": 1994,
+    "month": 7,
+    "day": 1,
+    "venue": {
+        "venue": "Shoreline Amphitheatre",
+        "city": "Mountain View",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Foolish Heart",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "I Want To Tell You",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "13m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

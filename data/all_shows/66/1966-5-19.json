@@ -1,0 +1,112 @@
+{
+    "year": 1966,
+    "month": 5,
+    "day": 19,
+    "venue": {
+        "venue": "Avalon Ballroom",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "2m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Mindbender",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "2m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "It's A Sin",
+                    "length": "3m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Sick And Tired",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Cream Puff War",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "2m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "3m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Tastebud",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Silver Threads & Golden Needles",
+                    "length": "2m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "You Don't Have To Ask",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Cream Puff War",
+                    "length": "0m 53s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

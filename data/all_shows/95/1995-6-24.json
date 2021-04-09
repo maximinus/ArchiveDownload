@@ -1,0 +1,105 @@
+{
+    "year": 1995,
+    "month": 6,
+    "day": 24,
+    "venue": {
+        "venue": "Robert F. Kennedy Stadium",
+        "city": "Washington, D.C.",
+        "state": "DC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "8m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "10m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "That Would Be Something",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "16m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Days Between",
+                    "length": "14m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "6m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

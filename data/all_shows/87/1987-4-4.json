@@ -1,0 +1,110 @@
+{
+    "year": 1987,
+    "month": 4,
+    "day": 4,
+    "venue": {
+        "venue": "The Centrum",
+        "city": "Worcester",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "4m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Hand Jive",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 1s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

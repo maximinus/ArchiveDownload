@@ -1,0 +1,171 @@
+{
+    "year": 1972,
+    "month": 5,
+    "day": 10,
+    "venue": {
+        "venue": "Concertgebouw",
+        "city": "Amsterdam",
+        "state": "",
+        "country": "NL"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "3m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "10m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Chinatown Shuffle",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "34m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "2m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "The Stranger (Two Souls In Communion)",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

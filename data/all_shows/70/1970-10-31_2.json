@@ -1,0 +1,112 @@
+{
+    "year": 1970,
+    "month": 10,
+    "day": 31,
+    "venue": {
+        "venue": "University Gymnasium, State University of New York",
+        "city": "Stony Brook",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "3m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "4m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 7s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

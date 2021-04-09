@@ -1,0 +1,122 @@
+{
+    "year": 1970,
+    "month": 10,
+    "day": 17,
+    "venue": {
+        "venue": "Cleveland Music Hall",
+        "city": "Cleveland",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "7m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "1m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Studio Outtakes",
+                    "length": "13m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "18m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "19m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "1m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "14m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

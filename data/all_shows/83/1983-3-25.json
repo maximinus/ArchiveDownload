@@ -1,0 +1,120 @@
+{
+    "year": 1983,
+    "month": 3,
+    "day": 25,
+    "venue": {
+        "venue": "Compton Terrace Amphitheatre",
+        "city": "Tempe",
+        "state": "AZ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "9m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

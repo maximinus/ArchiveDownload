@@ -1,0 +1,110 @@
+{
+    "year": 1987,
+    "month": 3,
+    "day": 3,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Tons Of Steel",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "11m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "5m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

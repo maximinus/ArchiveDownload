@@ -1,0 +1,105 @@
+{
+    "year": 1987,
+    "month": 11,
+    "day": 14,
+    "venue": {
+        "venue": "Long Beach Arena",
+        "city": "Long Beach",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "12m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Hey Pocky Way",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Maggie's Farm",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "7m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

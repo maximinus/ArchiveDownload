@@ -1,0 +1,111 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 13,
+    "venue": {
+        "venue": "Catholic Youth Center",
+        "city": "Scranton",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "7m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "19m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Second That Emotion",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "2m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

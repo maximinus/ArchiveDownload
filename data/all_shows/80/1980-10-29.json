@@ -1,0 +1,169 @@
+{
+    "year": 1980,
+    "month": 10,
+    "day": 29,
+    "venue": {
+        "venue": "Radio City Music Hall",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Heaven Help The Fool",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Oh Babe It Ain't No Lie",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "10m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "10m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

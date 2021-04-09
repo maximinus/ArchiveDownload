@@ -1,0 +1,135 @@
+{
+    "year": 1987,
+    "month": 3,
+    "day": 1,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "12m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

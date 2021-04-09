@@ -1,0 +1,130 @@
+{
+    "year": 1983,
+    "month": 10,
+    "day": 14,
+    "venue": {
+        "venue": "Hartford Civic Center",
+        "city": "Hartford",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "6m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Day Job",
+                    "length": "5m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "14m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "16m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "17m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "4m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

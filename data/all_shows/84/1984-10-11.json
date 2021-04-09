@@ -1,0 +1,115 @@
+{
+    "year": 1984,
+    "month": 10,
+    "day": 11,
+    "venue": {
+        "venue": "Augusta Civic Center",
+        "city": "Augusta",
+        "state": "ME",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "15m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "14m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

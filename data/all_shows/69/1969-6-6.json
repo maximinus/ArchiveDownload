@@ -1,0 +1,47 @@
+{
+    "year": 1969,
+    "month": 6,
+    "day": 6,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "13m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Green Green Grass Of Home",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Checkin' Up",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "2m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "46m 59s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

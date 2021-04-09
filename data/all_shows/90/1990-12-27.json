@@ -1,0 +1,120 @@
+{
+    "year": 1990,
+    "month": 12,
+    "day": 27,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "14m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "10m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "14m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "8m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "5m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "6m 57s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

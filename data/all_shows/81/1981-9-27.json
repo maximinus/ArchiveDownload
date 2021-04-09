@@ -1,0 +1,135 @@
+{
+    "year": 1981,
+    "month": 9,
+    "day": 27,
+    "venue": {
+        "venue": "Capital Centre",
+        "city": "Landover`",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

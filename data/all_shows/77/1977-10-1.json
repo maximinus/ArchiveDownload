@@ -1,0 +1,126 @@
+{
+    "year": 1977,
+    "month": 10,
+    "day": 1,
+    "venue": {
+        "venue": "Paramount Theater",
+        "city": "Portland",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "1m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "9m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "9m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "11m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "10m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

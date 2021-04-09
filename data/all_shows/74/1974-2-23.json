@@ -1,0 +1,175 @@
+{
+    "year": 1974,
+    "month": 2,
+    "day": 23,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Around & Around",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "11m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "14m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "20m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "14m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "3m 16s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

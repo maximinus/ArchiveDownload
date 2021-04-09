@@ -1,0 +1,115 @@
+{
+    "year": 1994,
+    "month": 6,
+    "day": 19,
+    "venue": {
+        "venue": "Autzen Stadium",
+        "city": "Eugene",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "If The Shoe Fits",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "14m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "7m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "22m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "11m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "19m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "8m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

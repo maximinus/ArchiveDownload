@@ -1,0 +1,120 @@
+{
+    "year": 1994,
+    "month": 10,
+    "day": 11,
+    "venue": {
+        "venue": "USAir Arena",
+        "city": "Landover",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Picasso Moon",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "If The Shoe Fits",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "9m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Eyes Of The World",
+                    "length": "21m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "16m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "16m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "13m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Lucy In The Sky With Diamonds",
+                    "length": "4m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

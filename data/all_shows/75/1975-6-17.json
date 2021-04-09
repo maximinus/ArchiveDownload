@@ -1,0 +1,100 @@
+{
+    "year": 1975,
+    "month": 6,
+    "day": 17,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Crazy Fingers",
+                    "length": "11m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "9m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "9m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Blues For Allah",
+                    "length": "9m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Stronger Than Dirt",
+                    "length": "8m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Blues For Allah",
+                    "length": "2m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

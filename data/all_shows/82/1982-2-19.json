@@ -1,0 +1,130 @@
+{
+    "year": 1982,
+    "month": 2,
+    "day": 19,
+    "venue": {
+        "venue": "Golden Hall",
+        "city": "San Diego",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 12s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

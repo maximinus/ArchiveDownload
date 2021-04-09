@@ -1,0 +1,101 @@
+{
+    "year": 1976,
+    "month": 6,
+    "day": 28,
+    "venue": {
+        "venue": "Auditorium Theater",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "10m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "15m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "2m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "12m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Eyes Of The World",
+                    "length": "15m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "12m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

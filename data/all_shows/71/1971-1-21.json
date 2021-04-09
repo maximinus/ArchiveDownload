@@ -1,0 +1,101 @@
+{
+    "year": 1971,
+    "month": 1,
+    "day": 21,
+    "venue": {
+        "venue": "Freeborn Hall",
+        "city": "Davis",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "8m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "10m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Other One",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

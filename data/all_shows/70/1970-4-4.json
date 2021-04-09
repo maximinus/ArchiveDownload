@@ -1,0 +1,12 @@
+{
+    "year": 1970,
+    "month": 4,
+    "day": 4,
+    "venue": {
+        "venue": "Field House",
+        "city": "Cincinnati",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": []
+}

@@ -1,0 +1,110 @@
+{
+    "year": 1992,
+    "month": 3,
+    "day": 2,
+    "venue": {
+        "venue": "The Omni",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "17m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "7m 53s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

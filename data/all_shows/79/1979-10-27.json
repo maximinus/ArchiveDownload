@@ -1,0 +1,130 @@
+{
+    "year": 1979,
+    "month": 10,
+    "day": 27,
+    "venue": {
+        "venue": "Cape Cod Coliseum",
+        "city": "South Yarmouth",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "13m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "19m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "15m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution Jam",
+                    "length": "1m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 7s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

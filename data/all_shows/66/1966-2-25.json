@@ -1,0 +1,72 @@
+{
+    "year": 1966,
+    "month": 2,
+    "day": 25,
+    "venue": {
+        "venue": "Ivar Theater",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "On The Road Again",
+                    "length": "2m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "2m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Bass Solo",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "3m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Stealin'",
+                    "length": "1m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Stealin'",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "6m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

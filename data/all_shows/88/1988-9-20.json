@@ -1,0 +1,110 @@
+{
+    "year": 1988,
+    "month": 9,
+    "day": 20,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Louie Louie",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

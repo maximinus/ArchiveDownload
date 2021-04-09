@@ -1,0 +1,127 @@
+{
+    "year": 1970,
+    "month": 3,
+    "day": 20,
+    "venue": {
+        "venue": "Capitol Theater",
+        "city": "Port Chester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "2m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "0m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Katie Mae",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "9m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "13m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "0m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "25m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "3m 44s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

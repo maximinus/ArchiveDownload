@@ -1,0 +1,42 @@
+{
+    "year": 1969,
+    "month": 9,
+    "day": 26,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dark Star",
+                    "length": "16m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "7m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "8m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "4m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "7m 16s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

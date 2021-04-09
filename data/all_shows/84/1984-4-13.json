@@ -1,0 +1,125 @@
+{
+    "year": 1984,
+    "month": 4,
+    "day": 13,
+    "venue": {
+        "venue": "Hampton Coliseum",
+        "city": "Hampton",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "15m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "4m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

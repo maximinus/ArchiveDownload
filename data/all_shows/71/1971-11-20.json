@@ -1,0 +1,132 @@
+{
+    "year": 1971,
+    "month": 11,
+    "day": 20,
+    "venue": {
+        "venue": "Pauley Pavilion",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "23m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "You Win Again",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 59s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "year": 1979,
+    "month": 10,
+    "day": 24,
+    "venue": {
+        "venue": "Springfield Civic Center Arena",
+        "city": "Springfield",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "5m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "13m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "4m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

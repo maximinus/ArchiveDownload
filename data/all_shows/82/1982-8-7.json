@@ -1,0 +1,140 @@
+{
+    "year": 1982,
+    "month": 8,
+    "day": 7,
+    "venue": {
+        "venue": "Alpine Valley Music Theatre",
+        "city": "East Troy",
+        "state": "WI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "4m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "9m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 11s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

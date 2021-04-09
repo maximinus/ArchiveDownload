@@ -1,0 +1,135 @@
+{
+    "year": 1982,
+    "month": 12,
+    "day": 30,
+    "venue": {
+        "venue": "Oakland Auditorium Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "12m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "9m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Hard To Handle",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Tell Mama",
+                    "length": "3m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

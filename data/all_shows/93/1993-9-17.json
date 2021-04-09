@@ -1,0 +1,115 @@
+{
+    "year": 1993,
+    "month": 9,
+    "day": 17,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "13m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "9m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Foolish Heart",
+                    "length": "11m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "That Would Be Something",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "9m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "3m 5s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

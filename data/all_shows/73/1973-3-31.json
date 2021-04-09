@@ -1,0 +1,150 @@
+{
+    "year": 1973,
+    "month": 3,
+    "day": 31,
+    "venue": {
+        "venue": "War Memorial Auditorium",
+        "city": "Buffalo",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "17m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "2m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Nobody's Fault Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "2m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

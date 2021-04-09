@@ -1,0 +1,82 @@
+{
+    "year": 1969,
+    "month": 2,
+    "day": 6,
+    "venue": {
+        "venue": "Kiel Auditorium",
+        "city": "St. Louis",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "14m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "10m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "21m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "7m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "4m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "2m 1s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

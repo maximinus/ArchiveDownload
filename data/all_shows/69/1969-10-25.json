@@ -1,0 +1,42 @@
+{
+    "year": 1969,
+    "month": 10,
+    "day": 25,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "High Time",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "22m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "9m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "21m 53s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

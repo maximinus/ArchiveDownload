@@ -1,0 +1,136 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 6,
+    "venue": {
+        "venue": "Manhattan Center",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Oh Boy",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A Hog For You Baby",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Midnight Hour",
+                    "length": "10m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "2m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "17m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "4m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

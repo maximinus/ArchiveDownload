@@ -1,0 +1,62 @@
+{
+    "year": 1970,
+    "month": 11,
+    "day": 6,
+    "venue": {
+        "venue": "Capitol Theater",
+        "city": "Port Chester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "The Rub",
+                    "length": "3m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "4m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "1m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

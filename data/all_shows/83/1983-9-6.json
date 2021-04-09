@@ -1,0 +1,125 @@
+{
+    "year": 1983,
+    "month": 9,
+    "day": 6,
+    "venue": {
+        "venue": "Red Rocks Amphitheatre",
+        "city": "Morrison",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "9m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "13m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "16m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "11m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "2m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 52s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "year": 1973,
+    "month": 9,
+    "day": 8,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "1m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "14m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "14m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "11m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 47s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

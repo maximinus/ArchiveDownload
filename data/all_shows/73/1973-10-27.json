@@ -1,0 +1,175 @@
+{
+    "year": 1973,
+    "month": 10,
+    "day": 27,
+    "venue": {
+        "venue": "State Fair Coliseum",
+        "city": "Indianapolis",
+        "state": "IN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "4m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Nobody's Fault Jam",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "8m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

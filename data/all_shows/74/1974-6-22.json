@@ -1,0 +1,135 @@
+{
+    "year": 1974,
+    "month": 6,
+    "day": 22,
+    "venue": {
+        "venue": "Jai",
+        "city": "Miami",
+        "state": "FL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Bertha",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "28m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "9m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "15m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 44s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

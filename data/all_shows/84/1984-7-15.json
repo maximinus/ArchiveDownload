@@ -1,0 +1,120 @@
+{
+    "year": 1984,
+    "month": 7,
+    "day": 15,
+    "venue": {
+        "venue": "Greek Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "12m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Why Don't We Do It In The Road",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "10m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Need Love",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

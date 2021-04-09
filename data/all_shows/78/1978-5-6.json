@@ -1,0 +1,115 @@
+{
+    "year": 1978,
+    "month": 5,
+    "day": 6,
+    "venue": {
+        "venue": "Patrick Gym",
+        "city": "Burlington",
+        "state": "VT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugaree",
+                    "length": "14m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Sunrise",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "15m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "11m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 28s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

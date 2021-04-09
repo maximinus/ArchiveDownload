@@ -1,0 +1,96 @@
+{
+    "year": 1982,
+    "month": 11,
+    "day": 26,
+    "venue": {
+        "venue": "Bob Marley Performing Arts Center",
+        "city": "Montego Bay",
+        "state": "",
+        "country": "JM"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugaree",
+                    "length": "9m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "10m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "7m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "8m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "3m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "7m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

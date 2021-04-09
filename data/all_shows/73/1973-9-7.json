@@ -1,0 +1,130 @@
+{
+    "year": 1973,
+    "month": 9,
+    "day": 7,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "13m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "18m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "10m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One Jam",
+                    "length": "7m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "18m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Around & Around",
+                    "length": "5m 53s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

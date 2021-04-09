@@ -1,0 +1,111 @@
+{
+    "year": 1975,
+    "month": 8,
+    "day": 13,
+    "venue": {
+        "venue": "Great American Music Hall",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "3m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "11m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Stronger Than Dirt",
+                    "length": "6m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Around & Around",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "9m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Sage & Spirit",
+                    "length": "3m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Blues For Allah",
+                    "length": "20m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

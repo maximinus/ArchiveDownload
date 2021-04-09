@@ -1,0 +1,57 @@
+{
+    "year": 1969,
+    "month": 7,
+    "day": 7,
+    "venue": {
+        "venue": "Piedmont Park",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "26m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "14m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "37m 9s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

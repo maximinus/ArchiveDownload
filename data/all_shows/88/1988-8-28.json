@@ -1,0 +1,110 @@
+{
+    "year": 1988,
+    "month": 8,
+    "day": 28,
+    "venue": {
+        "venue": "Autzen Stadium",
+        "city": "Eugene",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "9m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "8m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

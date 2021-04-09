@@ -1,0 +1,12 @@
+{
+    "year": 1981,
+    "month": 5,
+    "day": 22,
+    "venue": {
+        "venue": "Warfield Theater",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": []
+}

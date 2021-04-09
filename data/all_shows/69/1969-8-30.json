@@ -1,0 +1,67 @@
+{
+    "year": 1969,
+    "month": 8,
+    "day": 30,
+    "venue": {
+        "venue": "Family Dog at the Great Highway",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "28m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "6m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

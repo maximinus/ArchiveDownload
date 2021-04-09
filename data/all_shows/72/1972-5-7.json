@@ -1,0 +1,165 @@
+{
+    "year": 1972,
+    "month": 5,
+    "day": 7,
+    "venue": {
+        "venue": "Bickershaw Festival",
+        "city": "Wigan",
+        "state": "",
+        "country": "UK"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "11m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Chinatown Shuffle",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "20m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "19m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "25m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "11m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "13m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

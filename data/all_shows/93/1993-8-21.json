@@ -1,0 +1,110 @@
+{
+    "year": 1993,
+    "month": 8,
+    "day": 21,
+    "venue": {
+        "venue": "Autzen Stadium",
+        "city": "Eugene",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "14m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "9m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "3m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

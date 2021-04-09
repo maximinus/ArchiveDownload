@@ -1,0 +1,140 @@
+{
+    "year": 1981,
+    "month": 5,
+    "day": 9,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "14m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Nobody's Fault Jam",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "11m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

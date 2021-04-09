@@ -1,0 +1,122 @@
+{
+    "year": 1995,
+    "month": 7,
+    "day": 6,
+    "venue": {
+        "venue": "Riverport Amphitheatre",
+        "city": "Maryland Heights",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Take Me To The River",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "19m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Unbroken Chain",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "12m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Liberty",
+                    "length": "6m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

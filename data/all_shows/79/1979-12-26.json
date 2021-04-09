@@ -1,0 +1,135 @@
+{
+    "year": 1979,
+    "month": 12,
+    "day": 26,
+    "venue": {
+        "venue": "Oakland Auditorium Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Alabama Getaway",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "19m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "11m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "2m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

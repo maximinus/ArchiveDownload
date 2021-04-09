@@ -1,0 +1,185 @@
+{
+    "year": 1971,
+    "month": 12,
+    "day": 31,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "You Win Again",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Chinatown Shuffle",
+                    "length": "2m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "8m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One Jam",
+                    "length": "5m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 7,
+    "venue": {
+        "venue": "Boston Music Hall",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "1m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "1m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 12s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

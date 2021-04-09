@@ -1,0 +1,115 @@
+{
+    "year": 1984,
+    "month": 10,
+    "day": 30,
+    "venue": {
+        "venue": "Berkeley Community Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "7m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "12m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "11m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "4m 56s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

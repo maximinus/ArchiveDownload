@@ -1,0 +1,120 @@
+{
+    "year": 1979,
+    "month": 5,
+    "day": 7,
+    "venue": {
+        "venue": "Kirby Fieldhouse",
+        "city": "Easton",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "10m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "12m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "15m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

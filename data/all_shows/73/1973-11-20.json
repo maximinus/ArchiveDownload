@@ -1,0 +1,151 @@
+{
+    "year": 1973,
+    "month": 11,
+    "day": 20,
+    "venue": {
+        "venue": "Denver Coliseum",
+        "city": "Denver",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "3m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "2m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "12m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "17m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

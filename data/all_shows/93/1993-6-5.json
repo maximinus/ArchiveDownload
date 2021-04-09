@@ -1,0 +1,125 @@
+{
+    "year": 1993,
+    "month": 6,
+    "day": 5,
+    "venue": {
+        "venue": "Giants Stadium",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "14m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "9m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "3m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "3m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "7m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

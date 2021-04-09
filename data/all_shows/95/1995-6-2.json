@@ -1,0 +1,115 @@
+{
+    "year": 1995,
+    "month": 6,
+    "day": 2,
+    "venue": {
+        "venue": "Shoreline Amphitheatre",
+        "city": "Mountain View",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "6m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "15m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "9m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "That Would Be Something",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "9m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "14m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "7m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "10m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Lucy In The Sky With Diamonds",
+                    "length": "4m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

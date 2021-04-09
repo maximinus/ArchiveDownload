@@ -1,0 +1,120 @@
+{
+    "year": 1994,
+    "month": 10,
+    "day": 18,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "13m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Childhood's End",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "11m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "9m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "3m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "17m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Days Between",
+                    "length": "12m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 11s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

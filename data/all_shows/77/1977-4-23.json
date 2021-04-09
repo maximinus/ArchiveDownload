@@ -1,0 +1,125 @@
+{
+    "year": 1977,
+    "month": 4,
+    "day": 23,
+    "venue": {
+        "venue": "Springfield Civic Center Arena",
+        "city": "Springfield",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugaree",
+                    "length": "13m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "12m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "7m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Estimated Prophet",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "10m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Help On The Way",
+                    "length": "5m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "8m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "10m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "13m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

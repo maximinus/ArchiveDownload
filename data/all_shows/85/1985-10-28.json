@@ -1,0 +1,125 @@
+{
+    "year": 1985,
+    "month": 10,
+    "day": 28,
+    "venue": {
+        "venue": "Fox Theatre",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugaree",
+                    "length": "9m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Kansas City",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "7m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "13m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "2m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "6m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 12s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

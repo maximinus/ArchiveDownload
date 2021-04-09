@@ -1,0 +1,131 @@
+{
+    "year": 1976,
+    "month": 10,
+    "day": 2,
+    "venue": {
+        "venue": "River Front Coliseum",
+        "city": "Cincinnati",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "12m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "11m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "6m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "10m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "11m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "3m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "11m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

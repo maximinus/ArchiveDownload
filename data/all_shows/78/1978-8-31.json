@@ -1,0 +1,125 @@
+{
+    "year": 1978,
+    "month": 8,
+    "day": 31,
+    "venue": {
+        "venue": "Red Rocks Amphitheatre",
+        "city": "Morrison",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "10m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "From The Heart Of Me",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "13m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "16m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "12m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Nobody's Fault Jam",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 5s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

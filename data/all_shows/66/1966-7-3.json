@@ -1,0 +1,62 @@
+{
+    "year": 1966,
+    "month": 7,
+    "day": 3,
+    "venue": {
+        "venue": "Fillmore Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "1m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "2m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "2m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Stealin'",
+                    "length": "2m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

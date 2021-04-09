@@ -1,0 +1,101 @@
+{
+    "year": 1978,
+    "month": 2,
+    "day": 1,
+    "venue": {
+        "venue": "Uptown Theatre",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunrise",
+                    "length": "4m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 58s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

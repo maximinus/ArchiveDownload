@@ -1,0 +1,122 @@
+{
+    "year": 1992,
+    "month": 2,
+    "day": 24,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "11m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "14m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Wave To The Wind",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Encore Break",
+                    "length": "3m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 36s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

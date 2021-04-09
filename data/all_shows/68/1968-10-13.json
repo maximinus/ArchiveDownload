@@ -1,0 +1,77 @@
+{
+    "year": 1968,
+    "month": 10,
+    "day": 13,
+    "venue": {
+        "venue": "Avalon Ballroom",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dark Star",
+                    "length": "13m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "14m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "2m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "5m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

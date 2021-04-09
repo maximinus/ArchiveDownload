@@ -1,0 +1,42 @@
+{
+    "year": 1969,
+    "month": 5,
+    "day": 16,
+    "venue": {
+        "venue": "Campolindo High School",
+        "city": "Moraga",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "11m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "22m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

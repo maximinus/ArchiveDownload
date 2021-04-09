@@ -1,0 +1,111 @@
+{
+    "year": 1981,
+    "month": 10,
+    "day": 16,
+    "venue": {
+        "venue": "Melk Weg",
+        "city": "Amsterdam",
+        "state": "",
+        "country": "NL"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "On The Road Again",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey And The Engineer",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Oh Babe It Ain't No Lie",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Hully Gully",
+                    "length": "3m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Gloria",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 44s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

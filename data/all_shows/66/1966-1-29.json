@@ -1,0 +1,27 @@
+{
+    "year": 1966,
+    "month": 1,
+    "day": 29,
+    "venue": {
+        "venue": "The Matrix",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Supplication",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "0m 39s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

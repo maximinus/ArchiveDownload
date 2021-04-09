@@ -1,0 +1,111 @@
+{
+    "year": 1995,
+    "month": 3,
+    "day": 24,
+    "venue": {
+        "venue": "Charlotte Coliseum",
+        "city": "Charlotte",
+        "state": "NC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "If The Shoe Fits",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "13m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "12m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Liberty",
+                    "length": "6m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

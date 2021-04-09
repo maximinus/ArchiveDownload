@@ -1,0 +1,130 @@
+{
+    "year": 1981,
+    "month": 10,
+    "day": 13,
+    "venue": {
+        "venue": "Walter Koebel Halle",
+        "city": "Ruesselsheim",
+        "state": "",
+        "country": "DE"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "4m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "(I Can't Get No) Satisfaction",
+                    "length": "6m 11s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

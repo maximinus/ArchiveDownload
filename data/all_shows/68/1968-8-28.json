@@ -1,0 +1,47 @@
+{
+    "year": 1968,
+    "month": 8,
+    "day": 28,
+    "venue": {
+        "venue": "Avalon Ballroom",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dark Star",
+                    "length": "10m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "12m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "16m 1s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

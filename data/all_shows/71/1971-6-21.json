@@ -1,0 +1,136 @@
+{
+    "year": 1971,
+    "month": 6,
+    "day": 21,
+    "venue": {
+        "venue": "Chateau d'Herouville",
+        "city": "Herouville",
+        "state": "",
+        "country": "FR"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "2m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "3m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "12m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "9m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "year": 1991,
+    "month": 10,
+    "day": 27,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "13m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "11m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Hey Bo Diddley",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Mona",
+                    "length": "16m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "7m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

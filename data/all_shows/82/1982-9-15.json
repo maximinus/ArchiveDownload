@@ -1,0 +1,110 @@
+{
+    "year": 1982,
+    "month": 9,
+    "day": 15,
+    "venue": {
+        "venue": "Capital Centre",
+        "city": "Landover`",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Day Job",
+                    "length": "5m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "13m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 1s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

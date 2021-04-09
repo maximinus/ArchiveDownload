@@ -1,0 +1,120 @@
+{
+    "year": 1978,
+    "month": 4,
+    "day": 19,
+    "venue": {
+        "venue": "Veterans Memorial Hall",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "14m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "18m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Werewolves Of London",
+                    "length": "10m 44s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

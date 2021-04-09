@@ -1,0 +1,161 @@
+{
+    "year": 1969,
+    "month": 4,
+    "day": 26,
+    "venue": {
+        "venue": "Electric Theater",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Mountains Of The Moon",
+                    "length": "6m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "5m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven Jam",
+                    "length": "3m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "1m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "It's A Sin",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "4m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Silver Threads & Golden Needles",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "33m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "10m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Caution Jam",
+                    "length": "7m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "1m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "4m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "What's Become Of The Baby",
+                    "length": "9m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "2m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "3m 56s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

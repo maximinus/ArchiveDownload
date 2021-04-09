@@ -1,0 +1,82 @@
+{
+    "year": 1966,
+    "month": 7,
+    "day": 30,
+    "venue": {
+        "venue": "P.N.E. Garden Auditorium",
+        "city": "B.C.",
+        "state": "",
+        "country": "CA"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Standing On The Moon",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "3m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "You Don't Have To Ask",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Stealin'",
+                    "length": "3m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Cardboard Cowboy",
+                    "length": "3m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Cream Puff War",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "2m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "5m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "year": 1982,
+    "month": 10,
+    "day": 9,
+    "venue": {
+        "venue": "Frost Amphitheatre",
+        "city": "Palo Alto",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "3m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Throwing Stones",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

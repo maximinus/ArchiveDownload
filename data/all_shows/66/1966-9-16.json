@@ -1,0 +1,57 @@
+{
+    "year": 1966,
+    "month": 9,
+    "day": 16,
+    "venue": {
+        "venue": "Avalon Ballroom",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "11m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Stealin'",
+                    "length": "3m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "12m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Midnight Hour",
+                    "length": "18m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

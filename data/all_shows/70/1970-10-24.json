@@ -1,0 +1,112 @@
+{
+    "year": 1970,
+    "month": 10,
+    "day": 24,
+    "venue": {
+        "venue": "Kiel Opera House",
+        "city": "St. Louis",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "NRPS",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Fair Chance To Know",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "The Weight",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "14m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "19m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "1m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "18m 2s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

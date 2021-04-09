@@ -1,0 +1,130 @@
+{
+    "year": 1976,
+    "month": 10,
+    "day": 14,
+    "venue": {
+        "venue": "Shrine Auditorium",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "10m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "11m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "6m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 5s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

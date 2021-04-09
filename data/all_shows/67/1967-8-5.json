@@ -1,0 +1,27 @@
+{
+    "year": 1967,
+    "month": 8,
+    "day": 5,
+    "venue": {
+        "venue": "O'Keefe Centre",
+        "city": "Toronto",
+        "state": "",
+        "country": "CA"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "11m 9s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

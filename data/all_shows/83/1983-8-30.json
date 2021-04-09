@@ -1,0 +1,125 @@
+{
+    "year": 1983,
+    "month": 8,
+    "day": 30,
+    "venue": {
+        "venue": "Silva Hall",
+        "city": "Eugene",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "(I Can't Get No) Satisfaction",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

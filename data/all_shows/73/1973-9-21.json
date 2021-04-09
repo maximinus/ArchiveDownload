@@ -1,0 +1,140 @@
+{
+    "year": 1973,
+    "month": 9,
+    "day": 21,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "3m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "12m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "15m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Let Me Sing Your Blues Away",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "14m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "14m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 57s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

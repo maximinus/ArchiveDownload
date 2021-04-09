@@ -1,0 +1,102 @@
+{
+    "year": 1970,
+    "month": 4,
+    "day": 15,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "It's A Man's World",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "12m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "12m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "7m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

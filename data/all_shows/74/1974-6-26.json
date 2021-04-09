@@ -1,0 +1,160 @@
+{
+    "year": 1974,
+    "month": 6,
+    "day": 26,
+    "venue": {
+        "venue": "Providence Civic Center",
+        "city": "Providence",
+        "state": "RI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Big River",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "1m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "10m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "2m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "13m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "14m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "15m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Eyes Of The World",
+                    "length": "12m 16s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "year": 1968,
+    "month": 3,
+    "day": 26,
+    "venue": {
+        "venue": "Carousel Ballroom",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": []
+}

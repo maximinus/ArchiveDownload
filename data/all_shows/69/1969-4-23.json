@@ -1,0 +1,140 @@
+{
+    "year": 1969,
+    "month": 4,
+    "day": 23,
+    "venue": {
+        "venue": "The Ark",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "11m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "20m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "2m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "It's A Sin",
+                    "length": "3m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "2m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "6m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "2m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "18m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "3m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "17m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "5m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "12m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "2m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "8m 52s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

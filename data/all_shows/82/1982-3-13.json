@@ -1,0 +1,125 @@
+{
+    "year": 1982,
+    "month": 3,
+    "day": 13,
+    "venue": {
+        "venue": "Centennial Coliseum",
+        "city": "Reno",
+        "state": "NV",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "10m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

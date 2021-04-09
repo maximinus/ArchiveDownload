@@ -1,0 +1,155 @@
+{
+    "year": 1974,
+    "month": 9,
+    "day": 20,
+    "venue": {
+        "venue": "Palais des Sports",
+        "city": "Paris",
+        "state": "",
+        "country": "FR"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "5m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "10m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "5m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "9m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "18m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "16m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "6m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 51s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

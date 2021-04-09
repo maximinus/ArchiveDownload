@@ -1,0 +1,125 @@
+{
+    "year": 1989,
+    "month": 7,
+    "day": 18,
+    "venue": {
+        "venue": "Alpine Valley Music Theatre",
+        "city": "East Troy",
+        "state": "WI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "3m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "China Doll",
+                    "length": "5m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "6m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Hey Jude",
+                    "length": "2m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "4m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "5m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

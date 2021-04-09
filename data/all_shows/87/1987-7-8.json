@@ -1,0 +1,120 @@
+{
+    "year": 1987,
+    "month": 7,
+    "day": 8,
+    "venue": {
+        "venue": "Roanoke Civic Center",
+        "city": "Roanoke",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "6m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "7m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "7m 5s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

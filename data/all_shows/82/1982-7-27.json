@@ -1,0 +1,115 @@
+{
+    "year": 1982,
+    "month": 7,
+    "day": 27,
+    "venue": {
+        "venue": "Red Rocks Amphitheatre",
+        "city": "Morrison",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 12s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

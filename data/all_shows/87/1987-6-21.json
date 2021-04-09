@@ -1,0 +1,125 @@
+{
+    "year": 1987,
+    "month": 6,
+    "day": 21,
+    "venue": {
+        "venue": "Greek Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "4m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "11m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

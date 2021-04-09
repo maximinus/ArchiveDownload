@@ -1,0 +1,12 @@
+{
+    "year": 1968,
+    "month": 8,
+    "day": 20,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": []
+}

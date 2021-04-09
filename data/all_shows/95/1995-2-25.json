@@ -1,0 +1,106 @@
+{
+    "year": 1995,
+    "month": 2,
+    "day": 25,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "15m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Lucy In The Sky With Diamonds",
+                    "length": "4m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

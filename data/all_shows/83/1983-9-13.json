@@ -1,0 +1,115 @@
+{
+    "year": 1983,
+    "month": 9,
+    "day": 13,
+    "venue": {
+        "venue": "Manor Downs",
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "10m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "14m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "14m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "12m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

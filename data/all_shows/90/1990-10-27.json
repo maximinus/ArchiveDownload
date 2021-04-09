@@ -1,0 +1,125 @@
+{
+    "year": 1990,
+    "month": 10,
+    "day": 27,
+    "venue": {
+        "venue": "Zenith",
+        "city": "Paris",
+        "state": "",
+        "country": "FR"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "12m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "10m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

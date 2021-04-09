@@ -1,0 +1,155 @@
+{
+    "year": 1973,
+    "month": 12,
+    "day": 10,
+    "venue": {
+        "venue": "Charlotte Coliseum",
+        "city": "Charlotte",
+        "state": "NC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Nobody's Fault But Mine",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "1m 52s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

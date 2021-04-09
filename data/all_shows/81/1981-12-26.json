@@ -1,0 +1,140 @@
+{
+    "year": 1981,
+    "month": 12,
+    "day": 26,
+    "venue": {
+        "venue": "Oakland Auditorium Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "14m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "13m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven Jam",
+                    "length": "4m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

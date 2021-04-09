@@ -1,0 +1,72 @@
+{
+    "year": 1970,
+    "month": 1,
+    "day": 2,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Masons Children",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "11m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "6m 50s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "year": 1992,
+    "month": 3,
+    "day": 12,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 12s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "year": 1993,
+    "month": 3,
+    "day": 18,
+    "venue": {
+        "venue": "Capital Centre",
+        "city": "Landover`",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Broken Arrow",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Wave To The Wind",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "9m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "15m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "2m 53s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

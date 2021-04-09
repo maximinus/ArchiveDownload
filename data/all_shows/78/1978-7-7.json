@@ -1,0 +1,135 @@
+{
+    "year": 1978,
+    "month": 7,
+    "day": 7,
+    "venue": {
+        "venue": "Red Rocks Amphitheatre",
+        "city": "Morrison",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "8m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "11m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "9m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 9s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

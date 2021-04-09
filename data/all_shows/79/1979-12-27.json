@@ -1,0 +1,120 @@
+{
+    "year": 1979,
+    "month": 12,
+    "day": 27,
+    "venue": {
+        "venue": "Oakland Auditorium Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "11m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "4m 51s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

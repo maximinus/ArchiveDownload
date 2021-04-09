@@ -1,0 +1,120 @@
+{
+    "year": 1987,
+    "month": 9,
+    "day": 11,
+    "venue": {
+        "venue": "Capital Centre",
+        "city": "Landover`",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Tons Of Steel",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "4m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

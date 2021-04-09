@@ -1,0 +1,130 @@
+{
+    "year": 1979,
+    "month": 2,
+    "day": 10,
+    "venue": {
+        "venue": "Soldiers & Sailors Memorial Hall",
+        "city": "Kansas City",
+        "state": "KS",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "From The Heart Of Me",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "13m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "8m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "6m 52s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

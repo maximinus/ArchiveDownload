@@ -1,0 +1,115 @@
+{
+    "year": 1995,
+    "month": 7,
+    "day": 9,
+    "venue": {
+        "venue": "Soldier Field",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Childhood's End",
+                    "length": "4m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "14m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "12m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "14m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "12m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Unbroken Chain",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

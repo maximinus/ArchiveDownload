@@ -1,0 +1,122 @@
+{
+    "year": 1966,
+    "month": 12,
+    "day": 1,
+    "venue": {
+        "venue": "The Matrix",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "See That My Grave Is Kept Clean",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Alice D. Millionaire",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "1m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Cream Puff War",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "2m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Yonder's Wall",
+                    "length": "4m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "3m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "14m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Something On Your Mind",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boy Pete",
+                    "length": "3m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "10m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

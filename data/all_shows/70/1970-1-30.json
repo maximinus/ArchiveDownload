@@ -1,0 +1,97 @@
+{
+    "year": 1970,
+    "month": 1,
+    "day": 30,
+    "venue": {
+        "venue": "The Warehouse",
+        "city": "New Orleans",
+        "state": "LA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "2m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "10m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "1m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "0m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

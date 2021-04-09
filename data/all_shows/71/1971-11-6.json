@@ -1,0 +1,156 @@
+{
+    "year": 1971,
+    "month": 11,
+    "day": 6,
+    "venue": {
+        "venue": "Harding Theater",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "18m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "3m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 56s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

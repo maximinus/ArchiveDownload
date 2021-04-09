@@ -1,0 +1,110 @@
+{
+    "year": 1979,
+    "month": 10,
+    "day": 28,
+    "venue": {
+        "venue": "Cape Cod Coliseum",
+        "city": "South Yarmouth",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "13m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "19m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "9m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "19m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "year": 1980,
+    "month": 10,
+    "day": 23,
+    "venue": {
+        "venue": "Radio City Music Hall",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "On The Road Again",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey And The Engineer",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Oh Babe It Ain't No Lie",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

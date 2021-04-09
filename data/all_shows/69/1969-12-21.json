@@ -1,0 +1,77 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 21,
+    "venue": {
+        "venue": "Fillmore Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Masons Children",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "3m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "1m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "13m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

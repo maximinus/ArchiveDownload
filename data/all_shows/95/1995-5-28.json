@@ -1,0 +1,110 @@
+{
+    "year": 1995,
+    "month": 5,
+    "day": 28,
+    "venue": {
+        "venue": "Portland Meadows",
+        "city": "Portland",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "13m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "9m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Corrina",
+                    "length": "12m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "6m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

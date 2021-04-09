@@ -1,0 +1,120 @@
+{
+    "year": 1984,
+    "month": 10,
+    "day": 6,
+    "venue": {
+        "venue": "Richmond Coliseum",
+        "city": "Richmond",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "13m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "China Doll",
+                    "length": "7m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "5m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "13m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 51s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

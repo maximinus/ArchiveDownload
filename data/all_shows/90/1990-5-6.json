@@ -1,0 +1,120 @@
+{
+    "year": 1990,
+    "month": 5,
+    "day": 6,
+    "venue": {
+        "venue": "California State U. Dominguez Hills",
+        "city": "Carson",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "9m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "10m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Weight",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Blow Away",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "15m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Last Time",
+                    "length": "5m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

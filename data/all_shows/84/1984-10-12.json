@@ -1,0 +1,110 @@
+{
+    "year": 1984,
+    "month": 10,
+    "day": 12,
+    "venue": {
+        "venue": "Augusta Civic Center",
+        "city": "Augusta",
+        "state": "ME",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "10m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "3m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Need Love",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "16m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "2m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "12m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

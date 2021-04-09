@@ -1,0 +1,135 @@
+{
+    "year": 1981,
+    "month": 7,
+    "day": 8,
+    "venue": {
+        "venue": "Kiel Auditorium",
+        "city": "St. Louis",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "13m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "3m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

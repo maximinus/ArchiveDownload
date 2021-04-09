@@ -1,0 +1,110 @@
+{
+    "year": 1984,
+    "month": 6,
+    "day": 9,
+    "venue": {
+        "venue": "California Exposition Amphitheater",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "9m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "9m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

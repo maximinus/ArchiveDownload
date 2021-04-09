@@ -1,0 +1,110 @@
+{
+    "year": 1978,
+    "month": 1,
+    "day": 6,
+    "venue": {
+        "venue": "Swing Auditorium",
+        "city": "San Bernardino",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "22m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "11m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

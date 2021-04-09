@@ -1,0 +1,76 @@
+{
+    "year": 1973,
+    "month": 2,
+    "day": 19,
+    "venue": {
+        "venue": "International Amphitheatre",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "He's Gone",
+                    "length": "14m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "12m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "15m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "20m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "China Doll",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

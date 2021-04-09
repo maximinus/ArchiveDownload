@@ -1,0 +1,146 @@
+{
+    "year": 1972,
+    "month": 10,
+    "day": 18,
+    "venue": {
+        "venue": "Fox Theatre",
+        "city": "St. Louis",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "13m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "15m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "28m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "7m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

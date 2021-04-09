@@ -1,0 +1,96 @@
+{
+    "year": 1969,
+    "month": 6,
+    "day": 27,
+    "venue": {
+        "venue": "Veterans Auditorium",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Ol' Slewfoot",
+                    "length": "3m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "3m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "25m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "5m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Green Green Grass Of Home",
+                    "length": "7m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "4m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

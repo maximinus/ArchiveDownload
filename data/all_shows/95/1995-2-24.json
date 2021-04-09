@@ -1,0 +1,107 @@
+{
+    "year": 1995,
+    "month": 2,
+    "day": 24,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "5m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "7m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "14m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "13m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "12m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Visions Of Johanna",
+                    "length": "10m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

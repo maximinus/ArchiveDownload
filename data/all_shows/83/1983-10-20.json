@@ -1,0 +1,130 @@
+{
+    "year": 1983,
+    "month": 10,
+    "day": 20,
+    "venue": {
+        "venue": "The Centrum",
+        "city": "Worcester",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "9m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "12m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "11m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

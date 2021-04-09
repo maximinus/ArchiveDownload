@@ -1,0 +1,140 @@
+{
+    "year": 1972,
+    "month": 9,
+    "day": 9,
+    "venue": {
+        "venue": "Hollywood Palladium",
+        "city": "Hollywood",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "18m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "14m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "23m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

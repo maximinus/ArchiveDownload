@@ -1,0 +1,12 @@
+{
+    "year": 1970,
+    "month": 1,
+    "day": 18,
+    "venue": {
+        "venue": "Springer's Inn",
+        "city": "Portland",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": []
+}

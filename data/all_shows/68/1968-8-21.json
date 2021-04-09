@@ -1,0 +1,102 @@
+{
+    "year": 1968,
+    "month": 8,
+    "day": 21,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "0m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "15m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "1m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "2m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "1m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "13m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "12m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "15m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Midnight Hour",
+                    "length": "11m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

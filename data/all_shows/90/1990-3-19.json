@@ -1,0 +1,120 @@
+{
+    "year": 1990,
+    "month": 3,
+    "day": 19,
+    "venue": {
+        "venue": "Hartford Civic Center",
+        "city": "Hartford",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "We Can Run But We Can't Hide",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "11m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "14m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "5m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

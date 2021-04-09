@@ -1,0 +1,155 @@
+{
+    "year": 1970,
+    "month": 5,
+    "day": 2,
+    "venue": {
+        "venue": "Harpur College",
+        "city": "Binghamton",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "2m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "1m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Jordan",
+                    "length": "2m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "St. Stephen",
+                    "length": "3m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "14m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "8m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "It's A Man's World",
+                    "length": "9m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "15m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "12m 15s",
+                    "transition": null
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "16m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "17m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

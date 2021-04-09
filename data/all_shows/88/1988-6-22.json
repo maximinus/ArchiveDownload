@@ -1,0 +1,115 @@
+{
+    "year": 1988,
+    "month": 6,
+    "day": 22,
+    "venue": {
+        "venue": "Alpine Valley Music Theatre",
+        "city": "East Troy",
+        "state": "WI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Let The Good Times Roll",
+                    "length": "3m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Foolish Heart",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "7m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "I Will Take You Home",
+                    "length": "3m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "7m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "5m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

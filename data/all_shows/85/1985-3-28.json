@@ -1,0 +1,115 @@
+{
+    "year": 1985,
+    "month": 3,
+    "day": 28,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "8m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "5m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "15m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "year": 1983,
+    "month": 6,
+    "day": 21,
+    "venue": {
+        "venue": "Merriweather Post Pavilion",
+        "city": "Columbia",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "9m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "12m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "10m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 5s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

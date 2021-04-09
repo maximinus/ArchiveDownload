@@ -1,0 +1,165 @@
+{
+    "year": 1976,
+    "month": 7,
+    "day": 18,
+    "venue": {
+        "venue": "Orpheum Theatre",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Might As Well",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "7m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "1m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "6m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "6m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "13m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "8m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "0m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "3m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 2s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

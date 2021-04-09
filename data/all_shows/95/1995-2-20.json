@@ -1,0 +1,112 @@
+{
+    "year": 1995,
+    "month": 2,
+    "day": 20,
+    "venue": {
+        "venue": "Delta Center",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "14m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "5m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Rain",
+                    "length": "4m 57s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

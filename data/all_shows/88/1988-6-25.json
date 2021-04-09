@@ -1,0 +1,115 @@
+{
+    "year": 1988,
+    "month": 6,
+    "day": 25,
+    "venue": {
+        "venue": "Buckeye Lake Music Center",
+        "city": "Hebron",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "9m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Blow Away",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "8m 51s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

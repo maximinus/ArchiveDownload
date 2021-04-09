@@ -1,0 +1,125 @@
+{
+    "year": 1978,
+    "month": 11,
+    "day": 16,
+    "venue": {
+        "venue": "Uptown Theatre",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "8m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 44s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

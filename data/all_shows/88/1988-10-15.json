@@ -1,0 +1,115 @@
+{
+    "year": 1988,
+    "month": 10,
+    "day": 15,
+    "venue": {
+        "venue": "Bayfront Center Arena",
+        "city": "St. Petersburg",
+        "state": "FL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Blow Away",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "4m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "year": 1988,
+    "month": 9,
+    "day": 19,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "11m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "11m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 39s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

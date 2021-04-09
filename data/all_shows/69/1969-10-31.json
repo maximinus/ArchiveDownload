@@ -1,0 +1,92 @@
+{
+    "year": 1969,
+    "month": 10,
+    "day": 31,
+    "venue": {
+        "venue": "San Jose State University",
+        "city": "San Jose",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "7m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "3m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "26m 53s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

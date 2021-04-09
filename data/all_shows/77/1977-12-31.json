@@ -1,0 +1,120 @@
+{
+    "year": 1977,
+    "month": 12,
+    "day": 31,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Funiculi Funicula",
+                    "length": "2m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "11m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "18m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "15m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 55s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "7m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

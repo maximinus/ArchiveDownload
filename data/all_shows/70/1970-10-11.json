@@ -1,0 +1,97 @@
+{
+    "year": 1970,
+    "month": 10,
+    "day": 11,
+    "venue": {
+        "venue": "Marion Shea Aud.",
+        "city": "Wayne",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Till The Morning Comes",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "10m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "1m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "1m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "20m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "1m 54s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

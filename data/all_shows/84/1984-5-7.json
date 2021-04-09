@@ -1,0 +1,110 @@
+{
+    "year": 1984,
+    "month": 5,
+    "day": 7,
+    "venue": {
+        "venue": "Silva Hall",
+        "city": "Eugene",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "12m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 55s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "14m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

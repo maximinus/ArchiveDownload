@@ -1,0 +1,145 @@
+{
+    "year": 1974,
+    "month": 5,
+    "day": 25,
+    "venue": {
+        "venue": "Campus Stadium",
+        "city": "Santa Barbara",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "17m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "9m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "6m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

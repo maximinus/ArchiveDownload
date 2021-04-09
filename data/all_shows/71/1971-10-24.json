@@ -1,0 +1,126 @@
+{
+    "year": 1971,
+    "month": 10,
+    "day": 24,
+    "venue": {
+        "venue": "Easttown Theatre",
+        "city": "Detroit",
+        "state": "MI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "20m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "10m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "year": 1985,
+    "month": 8,
+    "day": 24,
+    "venue": {
+        "venue": "Boreal Ridge Ski Resort",
+        "city": "Donner's Summit",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Tripper",
+                    "length": "3m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

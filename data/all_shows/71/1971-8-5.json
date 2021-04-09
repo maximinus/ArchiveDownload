@@ -1,0 +1,125 @@
+{
+    "year": 1971,
+    "month": 8,
+    "day": 5,
+    "venue": {
+        "venue": "Hollywood Palladium",
+        "city": "Hollywood",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "9m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "17m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 11s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

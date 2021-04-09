@@ -1,0 +1,120 @@
+{
+    "year": 1989,
+    "month": 10,
+    "day": 16,
+    "venue": {
+        "venue": "Meadowlands Arena",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Picasso Moon",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Built To Last",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Dark Star",
+                    "length": "11m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "I Will Take You Home",
+                    "length": "4m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "2m 57s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "year": 1979,
+    "month": 5,
+    "day": 13,
+    "venue": {
+        "venue": "Cumberland County Civic Center",
+        "city": "Portland",
+        "state": "ME",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugaree",
+                    "length": "15m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "9m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

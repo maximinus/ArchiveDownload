@@ -1,0 +1,130 @@
+{
+    "year": 1979,
+    "month": 1,
+    "day": 11,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugaree",
+                    "length": "14m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "From The Heart Of Me",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Need A Miracle",
+                    "length": "11m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "16m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "12m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

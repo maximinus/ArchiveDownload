@@ -1,0 +1,120 @@
+{
+    "year": 1973,
+    "month": 2,
+    "day": 22,
+    "venue": {
+        "venue": "Assembly Hall",
+        "city": "Champaign-Urbana",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "12m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "17m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Wave That Flag",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "13m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "15m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 12s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "year": 1991,
+    "month": 12,
+    "day": 27,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "10m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "17m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "7m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now",
+                    "length": "6m 56s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

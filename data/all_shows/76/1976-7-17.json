@@ -1,0 +1,124 @@
+{
+    "year": 1976,
+    "month": 7,
+    "day": 17,
+    "venue": {
+        "venue": "Orpheum Theatre",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "10m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "15m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "15m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "15m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "7m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "14m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "year": 1994,
+    "month": 12,
+    "day": 12,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "11m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Maggie's Farm",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "16m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Childhood's End",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "11m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "15m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "year": 1995,
+    "month": 6,
+    "day": 15,
+    "venue": {
+        "venue": "Franklin County Field",
+        "city": "Highgate",
+        "state": "VT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "9m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Rollin' And Tumblin'",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "That Would Be Something",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "14m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

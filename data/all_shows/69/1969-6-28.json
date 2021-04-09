@@ -1,0 +1,62 @@
+{
+    "year": 1969,
+    "month": 6,
+    "day": 28,
+    "venue": {
+        "venue": "Veterans Auditorium",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Ol' Slewfoot",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Silver Threads & Golden Needles",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "6m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "28m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

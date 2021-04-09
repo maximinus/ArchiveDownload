@@ -1,0 +1,110 @@
+{
+    "year": 1984,
+    "month": 10,
+    "day": 18,
+    "venue": {
+        "venue": "Meadowlands Arena",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "12m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

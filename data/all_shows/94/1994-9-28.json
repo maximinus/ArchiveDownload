@@ -1,0 +1,116 @@
+{
+    "year": 1994,
+    "month": 9,
+    "day": 28,
+    "venue": {
+        "venue": "Boston Garden",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Let The Good Times Roll",
+                    "length": "3m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "10m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "11m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "13m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "6m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

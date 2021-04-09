@@ -1,0 +1,42 @@
+{
+    "year": 1970,
+    "month": 5,
+    "day": 9,
+    "venue": {
+        "venue": "Worcester Polytechnic Institute",
+        "city": "Worcester",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Intro",
+                    "length": "1m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Silver Threads & Golden Needles",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "6m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

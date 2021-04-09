@@ -1,0 +1,12 @@
+{
+    "year": 1967,
+    "month": 12,
+    "day": 27,
+    "venue": {
+        "venue": "Village Theater",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": []
+}

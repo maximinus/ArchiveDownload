@@ -1,0 +1,146 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 28,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "13m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "The Rub",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "12m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "11m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "13m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "12m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "14m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

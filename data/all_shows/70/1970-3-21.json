@@ -1,0 +1,77 @@
+{
+    "year": 1970,
+    "month": 3,
+    "day": 21,
+    "venue": {
+        "venue": "Capitol Theater",
+        "city": "Port Chester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Walking The Dog",
+                    "length": "9m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "10m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "5m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "10m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "12m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "The Seven",
+                    "length": "1m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

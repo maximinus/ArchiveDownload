@@ -1,0 +1,130 @@
+{
+    "year": 1980,
+    "month": 6,
+    "day": 21,
+    "venue": {
+        "venue": "West High Auditorium",
+        "city": "Anchorage",
+        "state": "AK",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sugaree",
+                    "length": "14m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "13m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "year": 1984,
+    "month": 3,
+    "day": 31,
+    "venue": {
+        "venue": "Marin County Veterans Auditorium",
+        "city": "San Rafael",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "15m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "14m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "13m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

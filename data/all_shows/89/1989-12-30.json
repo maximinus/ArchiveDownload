@@ -1,0 +1,120 @@
+{
+    "year": 1989,
+    "month": 12,
+    "day": 30,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "16m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "I Will Take You Home",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

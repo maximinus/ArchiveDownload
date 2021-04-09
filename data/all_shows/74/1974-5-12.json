@@ -1,0 +1,125 @@
+{
+    "year": 1974,
+    "month": 5,
+    "day": 12,
+    "venue": {
+        "venue": "University of Nevada",
+        "city": "Reno",
+        "state": "NV",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 55s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "9m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Around & Around",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Nobody's Fault Jam",
+                    "length": "2m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Mind Left Body Jam",
+                    "length": "2m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

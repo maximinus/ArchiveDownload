@@ -1,0 +1,86 @@
+{
+    "year": 1969,
+    "month": 1,
+    "day": 25,
+    "venue": {
+        "venue": "Avalon Ballroom",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dark Star",
+                    "length": "14m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "5m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "20m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "4m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "5m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "4m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "6m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "3m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "2m 39s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

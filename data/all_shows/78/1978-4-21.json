@@ -1,0 +1,125 @@
+{
+    "year": 1978,
+    "month": 4,
+    "day": 21,
+    "venue": {
+        "venue": "Rupp Arena",
+        "city": "Lexington",
+        "state": "KY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "2m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "10m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Funiculi Funicula",
+                    "length": "2m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "9m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "12m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "15m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "11m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Werewolves Of London",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "U.S. Blues",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

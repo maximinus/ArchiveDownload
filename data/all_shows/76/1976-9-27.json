@@ -1,0 +1,140 @@
+{
+    "year": 1976,
+    "month": 9,
+    "day": 27,
+    "venue": {
+        "venue": "Community War Memorial",
+        "city": "Rochester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "11m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "11m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "2m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Might As Well",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Help On The Way",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "2m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "17m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

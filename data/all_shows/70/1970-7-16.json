@@ -1,0 +1,47 @@
+{
+    "year": 1970,
+    "month": 7,
+    "day": 16,
+    "venue": {
+        "venue": "Euphoria Ballroom",
+        "city": "San Rafael",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

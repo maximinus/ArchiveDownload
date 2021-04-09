@@ -1,0 +1,132 @@
+{
+    "year": 1970,
+    "month": 12,
+    "day": 28,
+    "venue": {
+        "venue": "Legion Stadium",
+        "city": "El Monte",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "9m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "13m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

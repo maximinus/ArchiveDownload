@@ -1,0 +1,120 @@
+{
+    "year": 1986,
+    "month": 7,
+    "day": 2,
+    "venue": {
+        "venue": "The Rubber Bowl",
+        "city": "Akron",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Think Twice, It's Alright",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "year": 1970,
+    "month": 3,
+    "day": 21,
+    "venue": {
+        "venue": "Capitol Theater",
+        "city": "Port Chester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "17m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "2m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Wake Up Little Susie",
+                    "length": "2m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Katie Mae",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "12m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Midnight Hour",
+                    "length": "12m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "8m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "3m 16s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

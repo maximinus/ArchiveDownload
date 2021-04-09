@@ -1,0 +1,62 @@
+{
+    "year": 1969,
+    "month": 9,
+    "day": 7,
+    "venue": {
+        "venue": "Family Dog at the Great Highway",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Peggy Sue",
+                    "length": "3m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "That'll Be The Day",
+                    "length": "3m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Baby What You Want Me To Do",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Wipe Out",
+                    "length": "4m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "1m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Louie Louie",
+                    "length": "2m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Twist & Shout",
+                    "length": "1m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Blue Moon",
+                    "length": "1m 56s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

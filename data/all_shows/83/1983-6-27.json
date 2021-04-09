@@ -1,0 +1,125 @@
+{
+    "year": 1983,
+    "month": 6,
+    "day": 27,
+    "venue": {
+        "venue": "Poplar Creek Music Theatre",
+        "city": "Hoffman Estates",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "13m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "4m 56s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

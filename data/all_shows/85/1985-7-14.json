@@ -1,0 +1,130 @@
+{
+    "year": 1985,
+    "month": 7,
+    "day": 14,
+    "venue": {
+        "venue": "County Fairgrounds",
+        "city": "Ventura",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

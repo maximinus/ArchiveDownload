@@ -1,0 +1,127 @@
+{
+    "year": 1970,
+    "month": 10,
+    "day": 10,
+    "venue": {
+        "venue": "Colden Auditorium",
+        "city": "Queens",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "0m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 7s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

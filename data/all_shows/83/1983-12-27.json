@@ -1,0 +1,120 @@
+{
+    "year": 1983,
+    "month": 12,
+    "day": 27,
+    "venue": {
+        "venue": "San Francisco Civic Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "15m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "14m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "6m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

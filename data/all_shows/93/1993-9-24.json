@@ -1,0 +1,115 @@
+{
+    "year": 1993,
+    "month": 9,
+    "day": 24,
+    "venue": {
+        "venue": "Boston Garden",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "7m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "13m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "13m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "9m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "14m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "5m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Days Between",
+                    "length": "10m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "9m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

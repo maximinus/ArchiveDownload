@@ -1,0 +1,120 @@
+{
+    "year": 1978,
+    "month": 2,
+    "day": 3,
+    "venue": {
+        "venue": "Dane County Coliseum",
+        "city": "Madison",
+        "state": "WI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "15m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "24m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

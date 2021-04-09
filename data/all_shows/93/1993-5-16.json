@@ -1,0 +1,115 @@
+{
+    "year": 1993,
+    "month": 5,
+    "day": 16,
+    "venue": {
+        "venue": "Sam Boyd Silver Bowl",
+        "city": "Las Vegas",
+        "state": "NV",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "14m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

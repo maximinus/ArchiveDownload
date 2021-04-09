@@ -1,0 +1,76 @@
+{
+    "year": 1969,
+    "month": 4,
+    "day": 12,
+    "venue": {
+        "venue": "Student Union Ballroom",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "12m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Dark Star",
+                    "length": "21m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "7m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "10m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "14m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "1m 10s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

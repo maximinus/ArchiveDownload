@@ -1,0 +1,155 @@
+{
+    "year": 1972,
+    "month": 5,
+    "day": 13,
+    "venue": {
+        "venue": "Lille Fairgrounds",
+        "city": "Lille",
+        "state": "",
+        "country": "FR"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Chinatown Shuffle",
+                    "length": "2m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "11m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "28m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

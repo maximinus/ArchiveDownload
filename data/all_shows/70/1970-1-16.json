@@ -1,0 +1,132 @@
+{
+    "year": 1970,
+    "month": 1,
+    "day": 16,
+    "venue": {
+        "venue": "Springer's Inn",
+        "city": "Portland",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "6m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "year": 1969,
+    "month": 8,
+    "day": 2,
+    "venue": {
+        "venue": "Family Dog at the Great Highway",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "*Seasons of My Heart",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ol' Slewfoot",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "1m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "15m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "7m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "27m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "year": 1972,
+    "month": 11,
+    "day": 17,
+    "venue": {
+        "venue": "Century II Convention Hall",
+        "city": "Wichita",
+        "state": "KS",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "19m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 7s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "year": 1983,
+    "month": 10,
+    "day": 30,
+    "venue": {
+        "venue": "Marin County Veterans Auditorium",
+        "city": "San Rafael",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

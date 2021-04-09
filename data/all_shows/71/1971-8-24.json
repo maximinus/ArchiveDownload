@@ -1,0 +1,12 @@
+{
+    "year": 1971,
+    "month": 8,
+    "day": 24,
+    "venue": {
+        "venue": "Auditorium Theater",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": []
+}

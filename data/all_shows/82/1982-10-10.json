@@ -1,0 +1,140 @@
+{
+    "year": 1982,
+    "month": 10,
+    "day": 10,
+    "venue": {
+        "venue": "Frost Amphitheatre",
+        "city": "Palo Alto",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 12s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "11m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "(I Can't Get No) Satisfaction",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "6m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

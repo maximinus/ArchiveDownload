@@ -1,0 +1,267 @@
+{
+    "year": 1970,
+    "month": 5,
+    "day": 7,
+    "venue": {
+        "venue": "Dupont Gymnasium",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Intro",
+                    "length": "0m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Whatcha Gonna Do",
+                    "length": "4m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "3m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Workin' Man Blues",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Fair Chance To Know",
+                    "length": "3m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Gloria",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "2m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Seastones",
+                    "length": "3m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "10m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "2m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Frozen Logger",
+                    "length": "0m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "32m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

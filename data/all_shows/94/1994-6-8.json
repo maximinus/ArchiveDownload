@@ -1,0 +1,112 @@
+{
+    "year": 1994,
+    "month": 6,
+    "day": 8,
+    "venue": {
+        "venue": "Cal Expo Amphitheatre",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "10m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "13m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "10m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "I Fought The Law",
+                    "length": "3m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

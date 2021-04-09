@@ -1,0 +1,155 @@
+{
+    "year": 1972,
+    "month": 5,
+    "day": 24,
+    "venue": {
+        "venue": "The Strand Lyceum",
+        "city": "London",
+        "state": "",
+        "country": "UK"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "7m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Chinatown Shuffle",
+                    "length": "2m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "You Win Again",
+                    "length": "4m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Rockin' Pneumonia",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "29m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "0m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Stranger (Two Souls In Communion)",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

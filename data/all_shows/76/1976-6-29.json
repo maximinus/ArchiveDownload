@@ -1,0 +1,140 @@
+{
+    "year": 1976,
+    "month": 6,
+    "day": 29,
+    "venue": {
+        "venue": "Auditorium Theater",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Mission In The Rain",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "10m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "2m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "7m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "15m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "11m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "11m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "0m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "6m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

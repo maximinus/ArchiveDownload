@@ -1,0 +1,115 @@
+{
+    "year": 1978,
+    "month": 5,
+    "day": 13,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "13m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "9m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "14m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "19m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 9s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

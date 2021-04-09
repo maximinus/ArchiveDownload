@@ -1,0 +1,127 @@
+{
+    "year": 1970,
+    "month": 11,
+    "day": 6,
+    "venue": {
+        "venue": "Capitol Theater",
+        "city": "Port Chester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "3m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "5m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "6m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "4m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Mountain Jam",
+                    "length": "0m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "13m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "17m 52s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

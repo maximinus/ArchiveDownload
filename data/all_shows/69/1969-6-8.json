@@ -1,0 +1,86 @@
+{
+    "year": 1969,
+    "month": 6,
+    "day": 8,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "13m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "12m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "13m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "35m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "The Things I Used To Do",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Who's Lovin' You Tonight",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "7m 44s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "year": 1967,
+    "month": 5,
+    "day": 5,
+    "venue": {
+        "venue": "Fillmore Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Golden Road",
+                    "length": "2m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "10m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "12m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "4m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

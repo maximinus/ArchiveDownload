@@ -1,0 +1,130 @@
+{
+    "year": 1977,
+    "month": 10,
+    "day": 7,
+    "venue": {
+        "venue": "University of New Mexico",
+        "city": "Albuquerque",
+        "state": "NM",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Sunrise",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "14m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "13m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

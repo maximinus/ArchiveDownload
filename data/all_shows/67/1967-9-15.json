@@ -1,0 +1,57 @@
+{
+    "year": 1967,
+    "month": 9,
+    "day": 15,
+    "venue": {
+        "venue": "Hollywood Bowl",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "15m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "3m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "2m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "10m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "11m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "15m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "1m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

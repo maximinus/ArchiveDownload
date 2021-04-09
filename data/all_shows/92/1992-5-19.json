@@ -1,0 +1,115 @@
+{
+    "year": 1992,
+    "month": 5,
+    "day": 19,
+    "venue": {
+        "venue": "Cal Expo Amphitheatre",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "10m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "18m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Baba O'Riley",
+                    "length": "3m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Tomorrow Never Knows",
+                    "length": "4m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "year": 1972,
+    "month": 4,
+    "day": 16,
+    "venue": {
+        "venue": "Aarhus University",
+        "city": "Aarhus",
+        "state": "",
+        "country": "DK"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Chinatown Shuffle",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "2m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Good Lovin'",
+                    "length": "20m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "15m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "2m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 2s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

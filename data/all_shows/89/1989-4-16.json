@@ -1,0 +1,115 @@
+{
+    "year": 1989,
+    "month": 4,
+    "day": 16,
+    "venue": {
+        "venue": "The Mecca",
+        "city": "Milwaukee",
+        "state": "WI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "6m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "8m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

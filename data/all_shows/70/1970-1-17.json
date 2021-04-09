@@ -1,0 +1,87 @@
+{
+    "year": 1970,
+    "month": 1,
+    "day": 17,
+    "venue": {
+        "venue": "Oregon State University",
+        "city": "Corvallis",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Masons Children",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "21m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "14m 2s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

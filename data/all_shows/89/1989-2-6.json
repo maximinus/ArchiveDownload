@@ -1,0 +1,115 @@
+{
+    "year": 1989,
+    "month": 2,
+    "day": 6,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 55s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "5m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "6m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

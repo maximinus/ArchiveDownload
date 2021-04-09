@@ -1,0 +1,120 @@
+{
+    "year": 1978,
+    "month": 11,
+    "day": 17,
+    "venue": {
+        "venue": "Uptown Theatre",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "5m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "9m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "4m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

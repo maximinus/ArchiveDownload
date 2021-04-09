@@ -1,0 +1,140 @@
+{
+    "year": 1980,
+    "month": 8,
+    "day": 19,
+    "venue": {
+        "venue": "Uptown Theatre",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "12m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Little Red Rooster",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "9m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "13m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

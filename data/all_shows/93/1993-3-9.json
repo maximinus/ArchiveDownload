@@ -1,0 +1,120 @@
+{
+    "year": 1993,
+    "month": 3,
+    "day": 9,
+    "venue": {
+        "venue": "Rosemont Horizon",
+        "city": "Rosemont",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Broken Arrow",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Liberty",
+                    "length": "6m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "7m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

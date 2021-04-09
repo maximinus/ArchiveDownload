@@ -1,0 +1,77 @@
+{
+    "year": 1970,
+    "month": 6,
+    "day": 21,
+    "venue": {
+        "venue": "Pauley Ballroom",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Intro",
+                    "length": "2m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "1m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

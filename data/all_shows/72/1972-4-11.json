@@ -1,0 +1,155 @@
+{
+    "year": 1972,
+    "month": 4,
+    "day": 11,
+    "venue": {
+        "venue": "City Hall",
+        "city": "Newcastle upon Tyne",
+        "state": "",
+        "country": "UK"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "3m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Chinatown Shuffle",
+                    "length": "2m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Good Lovin'",
+                    "length": "15m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "19m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "26m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

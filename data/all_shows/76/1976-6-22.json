@@ -1,0 +1,126 @@
+{
+    "year": 1976,
+    "month": 6,
+    "day": 22,
+    "venue": {
+        "venue": "Tower Theatre",
+        "city": "Upper Darby",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "12m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "22m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "12m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "14m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

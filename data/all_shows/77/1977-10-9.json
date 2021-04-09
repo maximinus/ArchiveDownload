@@ -1,0 +1,125 @@
+{
+    "year": 1977,
+    "month": 10,
+    "day": 9,
+    "venue": {
+        "venue": "McNichols Sports Arena",
+        "city": "Denver",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "4m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "14m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "9m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

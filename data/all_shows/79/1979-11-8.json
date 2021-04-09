@@ -1,0 +1,120 @@
+{
+    "year": 1979,
+    "month": 11,
+    "day": 8,
+    "venue": {
+        "venue": "Capital Centre",
+        "city": "Landover`",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "11m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "5m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "4m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

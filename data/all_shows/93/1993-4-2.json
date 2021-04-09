@@ -1,0 +1,120 @@
+{
+    "year": 1993,
+    "month": 4,
+    "day": 2,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "4m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "10m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "7m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Corrina",
+                    "length": "7m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "9m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

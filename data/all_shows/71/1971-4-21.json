@@ -1,0 +1,125 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 21,
+    "venue": {
+        "venue": "Rhode Island Auditorium",
+        "city": "Providence",
+        "state": "RI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "14m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "5m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 56s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

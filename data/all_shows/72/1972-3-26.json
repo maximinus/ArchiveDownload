@@ -1,0 +1,146 @@
+{
+    "year": 1972,
+    "month": 3,
+    "day": 26,
+    "venue": {
+        "venue": "Academy of Music",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Chinatown Shuffle",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "You Win Again",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "4m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "17m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "14m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "23m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "The Stranger (Two Souls In Communion)",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 50s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

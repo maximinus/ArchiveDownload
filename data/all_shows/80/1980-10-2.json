@@ -1,0 +1,179 @@
+{
+    "year": 1980,
+    "month": 10,
+    "day": 2,
+    "venue": {
+        "venue": "Warfield Theater",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dark Hollow",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "3m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "9m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "3m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "7m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Drums",
+                    "length": "6m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "7m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

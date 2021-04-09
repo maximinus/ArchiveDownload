@@ -1,0 +1,135 @@
+{
+    "year": 1976,
+    "month": 9,
+    "day": 24,
+    "venue": {
+        "venue": "College Of William and Mary",
+        "city": "Williamsburg",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "12m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Might As Well",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "10m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "9m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

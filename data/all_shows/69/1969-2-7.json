@@ -1,0 +1,37 @@
+{
+    "year": 1969,
+    "month": 2,
+    "day": 7,
+    "venue": {
+        "venue": "Stanley Theatre",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dark Star",
+                    "length": "14m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "5m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "13m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

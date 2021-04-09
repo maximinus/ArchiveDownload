@@ -1,0 +1,110 @@
+{
+    "year": 1985,
+    "month": 3,
+    "day": 13,
+    "venue": {
+        "venue": "Berkeley Community Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Ollin Arrageed",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

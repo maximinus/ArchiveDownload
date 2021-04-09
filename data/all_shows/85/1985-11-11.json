@@ -1,0 +1,125 @@
+{
+    "year": 1985,
+    "month": 11,
+    "day": 11,
+    "venue": {
+        "venue": "Meadowlands Arena",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Walking The Dog",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "9m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "6m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "4m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "4m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "4m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

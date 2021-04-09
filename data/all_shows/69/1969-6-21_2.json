@@ -1,0 +1,72 @@
+{
+    "year": 1969,
+    "month": 6,
+    "day": 21,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Old, Old House",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "7m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "10m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "27m 15s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

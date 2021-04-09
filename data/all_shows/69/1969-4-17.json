@@ -1,0 +1,12 @@
+{
+    "year": 1969,
+    "month": 4,
+    "day": 17,
+    "venue": {
+        "venue": "Washington University",
+        "city": "St. Louis",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": []
+}

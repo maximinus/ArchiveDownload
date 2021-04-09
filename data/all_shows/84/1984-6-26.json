@@ -1,0 +1,120 @@
+{
+    "year": 1984,
+    "month": 6,
+    "day": 26,
+    "venue": {
+        "venue": "Merriweather Post Pavilion",
+        "city": "Columbia",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "17m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Need Love",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "3m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

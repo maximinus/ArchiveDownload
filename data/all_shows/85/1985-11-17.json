@@ -1,0 +1,125 @@
+{
+    "year": 1985,
+    "month": 11,
+    "day": 17,
+    "venue": {
+        "venue": "Long Beach Arena",
+        "city": "Long Beach",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "year": 1970,
+    "month": 5,
+    "day": 15,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "The Rub",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Long Black Limousine",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Jordan",
+                    "length": "2m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "17m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "4m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "9m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "4m 15s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

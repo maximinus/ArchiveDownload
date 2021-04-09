@@ -1,0 +1,106 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 28,
+    "venue": {
+        "venue": "Boston Tea Party",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Masons Children",
+                    "length": "11m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cumberland Blues",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

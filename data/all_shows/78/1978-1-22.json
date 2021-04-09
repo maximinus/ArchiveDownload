@@ -1,0 +1,130 @@
+{
+    "year": 1978,
+    "month": 1,
+    "day": 22,
+    "venue": {
+        "venue": "McArthur Court",
+        "city": "Eugene",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "17m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Close Encounters Jam",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "14m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

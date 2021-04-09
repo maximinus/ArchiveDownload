@@ -1,0 +1,139 @@
+{
+    "year": 1985,
+    "month": 12,
+    "day": 31,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Tons Of Steel",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Midnight Hour",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

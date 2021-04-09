@@ -1,0 +1,120 @@
+{
+    "year": 1990,
+    "month": 12,
+    "day": 13,
+    "venue": {
+        "venue": "McNichols Sports Arena",
+        "city": "Denver",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "13m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Valley Road",
+                    "length": "5m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "9m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "12m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 55s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

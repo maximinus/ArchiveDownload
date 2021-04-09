@@ -1,0 +1,120 @@
+{
+    "year": 1988,
+    "month": 10,
+    "day": 21,
+    "venue": {
+        "venue": "Reunion Arena",
+        "city": "Dallas",
+        "state": "TX",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Let The Good Times Roll",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Believe It Or Not",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "11m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "I Will Take You Home",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

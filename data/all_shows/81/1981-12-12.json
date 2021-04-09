@@ -1,0 +1,130 @@
+{
+    "year": 1981,
+    "month": 12,
+    "day": 12,
+    "venue": {
+        "venue": "Fiesta Hall",
+        "city": "San Mateo",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Children Of The Eighties",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Lucifer's Eyes",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Warriors Of The Sun",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Bye Bye Love",
+                    "length": "2m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Barbara Allen",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "You Won't Find Me",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Where Have The Heroes Gone",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Oh Boy",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Lady Di And I",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Boxer",
+                    "length": "3m 55s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "5m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

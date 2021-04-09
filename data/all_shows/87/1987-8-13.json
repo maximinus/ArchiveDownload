@@ -1,0 +1,125 @@
+{
+    "year": 1987,
+    "month": 8,
+    "day": 13,
+    "venue": {
+        "venue": "Red Rocks Amphitheatre",
+        "city": "Morrison",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Big Boss Man",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "10m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "0m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "7m 12s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

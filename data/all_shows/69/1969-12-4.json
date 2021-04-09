@@ -1,0 +1,97 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 4,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "13m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "1m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "30m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "12m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

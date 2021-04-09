@@ -1,0 +1,115 @@
+{
+    "year": 1993,
+    "month": 3,
+    "day": 11,
+    "venue": {
+        "venue": "Rosemont Horizon",
+        "city": "Rosemont",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "9m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "9m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Wave To The Wind",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "14m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Days Between",
+                    "length": "11m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "10m 12s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

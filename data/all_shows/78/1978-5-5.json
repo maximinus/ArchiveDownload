@@ -1,0 +1,125 @@
+{
+    "year": 1978,
+    "month": 5,
+    "day": 5,
+    "venue": {
+        "venue": "Thompson Arena",
+        "city": "Hanover",
+        "state": "NH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "10m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "12m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "16m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "9m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Werewolves Of London",
+                    "length": "8m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "year": 1983,
+    "month": 4,
+    "day": 23,
+    "venue": {
+        "venue": "Veterans Memorial Coliseum",
+        "city": "New Haven",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "4m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "13m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "14m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "13m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

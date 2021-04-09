@@ -1,0 +1,125 @@
+{
+    "year": 1978,
+    "month": 1,
+    "day": 17,
+    "venue": {
+        "venue": "Sacramento Memorial Auditorium",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "22m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "14m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "11m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "9m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

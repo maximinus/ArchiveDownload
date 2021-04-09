@@ -1,0 +1,125 @@
+{
+    "year": 1988,
+    "month": 9,
+    "day": 24,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "11m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Chinese Bones",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Neighbourhood Girls",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Every Time You Go Away",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "What's Going On?",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "6m 16s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

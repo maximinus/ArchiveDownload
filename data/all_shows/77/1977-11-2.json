@@ -1,0 +1,130 @@
+{
+    "year": 1977,
+    "month": 11,
+    "day": 2,
+    "venue": {
+        "venue": "Field House",
+        "city": "Cincinnati",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "5m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunrise",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "7m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "11m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

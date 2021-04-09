@@ -1,0 +1,140 @@
+{
+    "year": 1980,
+    "month": 8,
+    "day": 29,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

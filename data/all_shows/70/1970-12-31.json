@@ -1,0 +1,82 @@
+{
+    "year": 1970,
+    "month": 12,
+    "day": 31,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "9m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey and the Engineer",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "20m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "14m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "8m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

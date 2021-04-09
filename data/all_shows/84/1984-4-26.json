@@ -1,0 +1,120 @@
+{
+    "year": 1984,
+    "month": 4,
+    "day": 26,
+    "venue": {
+        "venue": "Providence Civic Center",
+        "city": "Providence",
+        "state": "RI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "10m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "15m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "4m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 24s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

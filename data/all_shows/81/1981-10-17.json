@@ -1,0 +1,130 @@
+{
+    "year": 1981,
+    "month": 10,
+    "day": 17,
+    "venue": {
+        "venue": "The Hippodrome",
+        "city": "Paris",
+        "state": "",
+        "country": "FR"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Times",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

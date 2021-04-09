@@ -1,0 +1,146 @@
+{
+    "year": 1972,
+    "month": 8,
+    "day": 22,
+    "venue": {
+        "venue": "Berkeley Community Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "17m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "29m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Hey Bo Diddley",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "1m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

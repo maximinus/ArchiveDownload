@@ -1,0 +1,115 @@
+{
+    "year": 1988,
+    "month": 7,
+    "day": 29,
+    "venue": {
+        "venue": "Laguna Seca Recreation Area",
+        "city": "Monterey",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Blow Away",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "19m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Believe It Or Not",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Black Muddy River",
+                    "length": "6m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

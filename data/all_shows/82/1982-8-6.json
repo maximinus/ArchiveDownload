@@ -1,0 +1,140 @@
+{
+    "year": 1982,
+    "month": 8,
+    "day": 6,
+    "venue": {
+        "venue": "St. Paul Civic Center Arena",
+        "city": "St. Paul",
+        "state": "MN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "11m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "year": 1985,
+    "month": 9,
+    "day": 12,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "10m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "12m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "16m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "7m 12s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

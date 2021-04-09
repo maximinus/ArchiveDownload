@@ -1,0 +1,27 @@
+{
+    "year": 1967,
+    "month": 9,
+    "day": 4,
+    "venue": {
+        "venue": "Dance Hall",
+        "city": "Rio Nido",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Caution",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "2m 0s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

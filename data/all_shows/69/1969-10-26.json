@@ -1,0 +1,57 @@
+{
+    "year": 1969,
+    "month": 10,
+    "day": 26,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "10m 58s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "year": 1968,
+    "month": 2,
+    "day": 14,
+    "venue": {
+        "venue": "Carousel Ballroom",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "12m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "9m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "3m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Born Cross Eyed",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "10m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "7m 59s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Midnight Hour",
+                    "length": "11m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "year": 1980,
+    "month": 12,
+    "day": 26,
+    "venue": {
+        "venue": "Oakland Auditorium Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "15m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "2m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 7s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

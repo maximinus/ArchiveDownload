@@ -1,0 +1,130 @@
+{
+    "year": 1981,
+    "month": 5,
+    "day": 5,
+    "venue": {
+        "venue": "Glens Falls Civic Center",
+        "city": "Glens Falls",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "6m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "11m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "11m 43s",
+                    "transition": true
+                },
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

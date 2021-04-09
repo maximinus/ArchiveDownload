@@ -1,0 +1,115 @@
+{
+    "year": 1993,
+    "month": 1,
+    "day": 25,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "14m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Maggie's Farm",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "10m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "12m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "17m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "10m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

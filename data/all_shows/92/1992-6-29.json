@@ -1,0 +1,105 @@
+{
+    "year": 1992,
+    "month": 6,
+    "day": 29,
+    "venue": {
+        "venue": "Deer Creek Music Center",
+        "city": "Noblesville",
+        "state": "IN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "10m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "16m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "year": 1988,
+    "month": 12,
+    "day": 9,
+    "venue": {
+        "venue": "Long Beach Arena",
+        "city": "Long Beach",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Let The Good Times Roll",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "4m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "8m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "5m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "6m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

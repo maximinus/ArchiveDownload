@@ -1,0 +1,112 @@
+{
+    "year": 1969,
+    "month": 7,
+    "day": 11,
+    "venue": {
+        "venue": "NY State Pavilion",
+        "city": "Queens",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "The Story Of A Brick",
+                    "length": "2m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Silver Threads & Golden Needles",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "2m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "14m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "And We Bid You Good Night Jam",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "10m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "8m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

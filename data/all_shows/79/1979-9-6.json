@@ -1,0 +1,130 @@
+{
+    "year": 1979,
+    "month": 9,
+    "day": 6,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "9m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "13m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "19m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "12m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 36s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

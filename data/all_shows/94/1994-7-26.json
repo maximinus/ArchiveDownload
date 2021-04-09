@@ -1,0 +1,135 @@
+{
+    "year": 1994,
+    "month": 7,
+    "day": 26,
+    "venue": {
+        "venue": "Riverport Amphitheatre",
+        "city": "Maryland Heights",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Childhood's End",
+                    "length": "4m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "11m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "19m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "3m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "3m 39s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

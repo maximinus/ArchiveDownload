@@ -1,0 +1,120 @@
+{
+    "year": 1980,
+    "month": 4,
+    "day": 28,
+    "venue": {
+        "venue": "Boutwell Auditorium",
+        "city": "Birmingham",
+        "state": "AL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

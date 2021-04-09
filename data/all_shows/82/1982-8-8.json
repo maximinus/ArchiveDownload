@@ -1,0 +1,140 @@
+{
+    "year": 1982,
+    "month": 8,
+    "day": 8,
+    "venue": {
+        "venue": "Alpine Valley Music Theatre",
+        "city": "East Troy",
+        "state": "WI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Far From Me",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "(I Can't Get No) Satisfaction",
+                    "length": "7m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

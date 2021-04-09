@@ -1,0 +1,27 @@
+{
+    "year": 1970,
+    "month": 4,
+    "day": 11,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "29m 16s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

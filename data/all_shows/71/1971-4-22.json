@@ -1,0 +1,116 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 22,
+    "venue": {
+        "venue": "Bangor Municipal Auditorium",
+        "city": "Bangor",
+        "state": "ME",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "10m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "11m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "2m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "10m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "19m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

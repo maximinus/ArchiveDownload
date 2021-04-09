@@ -1,0 +1,76 @@
+{
+    "year": 1969,
+    "month": 2,
+    "day": 14,
+    "venue": {
+        "venue": "Electric Factory",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "9m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "18m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "15m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "12m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "12m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "12m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

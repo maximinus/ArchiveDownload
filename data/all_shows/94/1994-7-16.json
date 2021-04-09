@@ -1,0 +1,125 @@
+{
+    "year": 1994,
+    "month": 7,
+    "day": 16,
+    "venue": {
+        "venue": "Robert F. Kennedy Stadium",
+        "city": "Washington, D.C.",
+        "state": "DC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "If The Shoe Fits",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 27s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "10m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "10m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "16m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "6m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

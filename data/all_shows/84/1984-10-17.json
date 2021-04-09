@@ -1,0 +1,130 @@
+{
+    "year": 1984,
+    "month": 10,
+    "day": 17,
+    "venue": {
+        "venue": "Meadowlands Arena",
+        "city": "East Rutherford",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "14m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Nobody's Fault Jam",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

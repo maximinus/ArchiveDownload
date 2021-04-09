@@ -1,0 +1,115 @@
+{
+    "year": 1984,
+    "month": 4,
+    "day": 24,
+    "venue": {
+        "venue": "Veterans Memorial Coliseum",
+        "city": "New Haven",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "3m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "15m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 28s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

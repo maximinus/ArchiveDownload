@@ -1,0 +1,114 @@
+{
+    "year": 1994,
+    "month": 7,
+    "day": 27,
+    "venue": {
+        "venue": "Riverport Amphitheatre",
+        "city": "Maryland Heights",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "14m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "20m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "18m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Days Between",
+                    "length": "14m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "10m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

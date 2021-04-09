@@ -1,0 +1,111 @@
+{
+    "year": 1969,
+    "month": 2,
+    "day": 28,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "10m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "19m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "8m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "20m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "15m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "10m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "11m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "5m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "1m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "year": 1982,
+    "month": 4,
+    "day": 19,
+    "venue": {
+        "venue": "Baltimore Civic Center",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "13m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "9m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

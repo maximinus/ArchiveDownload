@@ -1,0 +1,222 @@
+{
+    "year": 1970,
+    "month": 6,
+    "day": 4,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Intro",
+                    "length": "2m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey and the Engineer",
+                    "length": "2m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Silver Threads & Golden Needles",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "11m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Wake Up Little Susie",
+                    "length": "3m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Swing Low, Sweet Chariot",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Workin' Man Blues",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Whatcha Gonna Do",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "I Don't Know You",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Fair Chance To Know",
+                    "length": "0m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "0m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Intro",
+                    "length": "1m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "It's A Sin",
+                    "length": "2m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "3m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "It's A Man's World",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Minglewood Blues",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Midnight Hour",
+                    "length": "10m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "2m 38s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

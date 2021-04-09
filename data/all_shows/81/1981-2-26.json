@@ -1,0 +1,125 @@
+{
+    "year": 1981,
+    "month": 2,
+    "day": 26,
+    "venue": {
+        "venue": "Uptown Theatre",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "11m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 29,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "11m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "10m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "12m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "10m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "10m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Second That Emotion",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "9m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "4m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "2m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "6m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "12m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Midnight Hour",
+                    "length": "9m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "4m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

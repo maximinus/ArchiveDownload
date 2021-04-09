@@ -1,0 +1,120 @@
+{
+    "year": 1978,
+    "month": 4,
+    "day": 16,
+    "venue": {
+        "venue": "Huntington Civic Center",
+        "city": "Huntington",
+        "state": "WV",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "9m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "11m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "4m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "11m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 29s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

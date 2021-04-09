@@ -1,0 +1,175 @@
+{
+    "year": 1973,
+    "month": 6,
+    "day": 26,
+    "venue": {
+        "venue": "Seattle Center Arena",
+        "city": "Seattle",
+        "state": "WA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "You Ain't Woman Enough",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "8m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "15m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "2m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "11m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "17m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

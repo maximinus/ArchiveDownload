@@ -1,0 +1,122 @@
+{
+    "year": 1993,
+    "month": 5,
+    "day": 26,
+    "venue": {
+        "venue": "Cal Expo Amphitheatre",
+        "city": "Sacramento",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sampson & Delilah",
+                    "length": "8m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Broken Arrow",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside Of Mobile With The Memphis Blues Again",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "10m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "15m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "24m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' Reprise",
+                    "length": "3m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Liberty",
+                    "length": "6m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

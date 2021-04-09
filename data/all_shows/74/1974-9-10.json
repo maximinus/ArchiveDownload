@@ -1,0 +1,140 @@
+{
+    "year": 1974,
+    "month": 9,
+    "day": 10,
+    "venue": {
+        "venue": "Alexandra Palace",
+        "city": "London",
+        "state": "",
+        "country": "UK"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Around & Around",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "9m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "1m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "16m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "31m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "13m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 36s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

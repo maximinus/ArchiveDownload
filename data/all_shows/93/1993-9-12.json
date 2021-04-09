@@ -1,0 +1,115 @@
+{
+    "year": 1993,
+    "month": 9,
+    "day": 12,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "11m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "10m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "7m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "6m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

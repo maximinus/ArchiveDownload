@@ -1,0 +1,92 @@
+{
+    "year": 1970,
+    "month": 10,
+    "day": 30,
+    "venue": {
+        "venue": "SUNY Gym",
+        "city": "Stony Brook",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "3m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "4m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "13m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "7m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "4m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "1m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "22m 12s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

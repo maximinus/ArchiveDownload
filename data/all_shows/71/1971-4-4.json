@@ -1,0 +1,121 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 4,
+    "venue": {
+        "venue": "Manhattan Center",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "10m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "2m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "24m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 47s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

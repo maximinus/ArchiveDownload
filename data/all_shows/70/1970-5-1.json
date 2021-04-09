@@ -1,0 +1,86 @@
+{
+    "year": 1970,
+    "month": 5,
+    "day": 1,
+    "venue": {
+        "venue": "Alfred College",
+        "city": "Alfred",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "The Race Is On",
+                    "length": "2m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Wake Up Little Susie",
+                    "length": "2m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "10m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Jordan",
+                    "length": "2m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "16m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "year": 1969,
+    "month": 6,
+    "day": 7,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dire Wolf",
+                    "length": "2m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "4m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Mountains Of The Moon",
+                    "length": "5m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "20m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "14m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "3m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "2m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "21m 0s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

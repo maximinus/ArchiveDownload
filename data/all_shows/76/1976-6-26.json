@@ -1,0 +1,135 @@
+{
+    "year": 1976,
+    "month": 6,
+    "day": 26,
+    "venue": {
+        "venue": "Auditorium Theater",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "2m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 11s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "15m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "9m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "9m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "13m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "6m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "6m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "year": 1970,
+    "month": 2,
+    "day": 5,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "2m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Masons Children",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "10m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "11m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

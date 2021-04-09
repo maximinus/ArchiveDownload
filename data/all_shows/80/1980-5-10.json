@@ -1,0 +1,135 @@
+{
+    "year": 1980,
+    "month": 5,
+    "day": 10,
+    "venue": {
+        "venue": "Hartford Civic Center",
+        "city": "Hartford",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "14m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "11m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

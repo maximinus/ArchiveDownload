@@ -1,0 +1,135 @@
+{
+    "year": 1986,
+    "month": 12,
+    "day": 17,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Tons Of Steel",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "11m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "1m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

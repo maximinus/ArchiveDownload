@@ -1,0 +1,179 @@
+{
+    "year": 1974,
+    "month": 6,
+    "day": 28,
+    "venue": {
+        "venue": "Boston Garden",
+        "city": "Boston",
+        "state": "MA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "5m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Seastones",
+                    "length": "24m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "1m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "8m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Mind Left Body Jam",
+                    "length": "27m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "32m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "3m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "3m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

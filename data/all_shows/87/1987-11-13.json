@@ -1,0 +1,110 @@
+{
+    "year": 1987,
+    "month": 11,
+    "day": 13,
+    "venue": {
+        "venue": "Long Beach Arena",
+        "city": "Long Beach",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "8m 15s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

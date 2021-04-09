@@ -1,0 +1,135 @@
+{
+    "year": 1987,
+    "month": 8,
+    "day": 20,
+    "venue": {
+        "venue": "Park West Ski Resort",
+        "city": "Park West",
+        "state": "UT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "9m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "When Push Comes To Shove",
+                    "length": "5m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "4m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "5m 15s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

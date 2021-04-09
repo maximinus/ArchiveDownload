@@ -1,0 +1,120 @@
+{
+    "year": 1982,
+    "month": 4,
+    "day": 12,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "14m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "11m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "(I Can't Get No) Satisfaction",
+                    "length": "6m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

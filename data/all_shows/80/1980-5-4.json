@@ -1,0 +1,125 @@
+{
+    "year": 1980,
+    "month": 5,
+    "day": 4,
+    "venue": {
+        "venue": "Baltimore Civic Center",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "10m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "10m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "10m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "7m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "16m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "2m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

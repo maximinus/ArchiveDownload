@@ -1,0 +1,115 @@
+{
+    "year": 1994,
+    "month": 3,
+    "day": 30,
+    "venue": {
+        "venue": "The Omni",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "10m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "9m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "19m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "10m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "22m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "5m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

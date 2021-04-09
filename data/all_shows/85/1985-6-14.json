@@ -1,0 +1,115 @@
+{
+    "year": 1985,
+    "month": 6,
+    "day": 14,
+    "venue": {
+        "venue": "Greek Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Keep On Growing",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

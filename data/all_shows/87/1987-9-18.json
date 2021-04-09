@@ -1,0 +1,110 @@
+{
+    "year": 1987,
+    "month": 9,
+    "day": 18,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 16s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "12m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "13m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "La Bamba",
+                    "length": "1m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "3m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "8m 49s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

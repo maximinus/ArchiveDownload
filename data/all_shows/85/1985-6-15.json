@@ -1,0 +1,125 @@
+{
+    "year": 1985,
+    "month": 6,
+    "day": 15,
+    "venue": {
+        "venue": "Greek Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "She Belongs To Me",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "U.S. Blues",
+                    "length": "4m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

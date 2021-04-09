@@ -1,0 +1,115 @@
+{
+    "year": 1986,
+    "month": 3,
+    "day": 25,
+    "venue": {
+        "venue": "The Spectrum",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Tons Of Steel",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "11m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "6m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "6m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "5m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "7m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "7m 51s",
+                    "transition": "ftruealse"
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "3m 52s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 49s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

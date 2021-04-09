@@ -1,0 +1,155 @@
+{
+    "year": 1972,
+    "month": 12,
+    "day": 10,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "20m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "7m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "28m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "6m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

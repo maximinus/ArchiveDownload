@@ -1,0 +1,117 @@
+{
+    "year": 1966,
+    "month": 11,
+    "day": 29,
+    "venue": {
+        "venue": "The Matrix",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Sick And Tired",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "3m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Mindbender",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "2m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "It's A Sin",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Cream Puff War",
+                    "length": "2m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "12m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Stealin'",
+                    "length": "3m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boy Pete",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "See That My Grave Is Kept Clean",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Early Morning Rain",
+                    "length": "2m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "10m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Something On Your Mind",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "10m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "I Just Want To Make Love To You",
+                    "length": "3m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Intro",
+                    "length": "0m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

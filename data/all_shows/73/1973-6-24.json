@@ -1,0 +1,141 @@
+{
+    "year": 1973,
+    "month": 6,
+    "day": 24,
+    "venue": {
+        "venue": "Portland Memorial Coliseum",
+        "city": "Portland",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "You Ain't Woman Enough",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "The Race Is On",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "5m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "2m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "27m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "14m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

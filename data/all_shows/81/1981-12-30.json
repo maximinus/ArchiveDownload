@@ -1,0 +1,139 @@
+{
+    "year": 1981,
+    "month": 12,
+    "day": 30,
+    "venue": {
+        "venue": "Oakland Auditorium Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Lady Di And I",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Barbara Allen",
+                    "length": "5m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "14m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "5m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

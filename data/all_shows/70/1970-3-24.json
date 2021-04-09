@@ -1,0 +1,82 @@
+{
+    "year": 1970,
+    "month": 3,
+    "day": 24,
+    "venue": {
+        "venue": "Pirates World",
+        "city": "Dania",
+        "state": "FL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "11m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "13m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "14m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "year": 1970,
+    "month": 11,
+    "day": 9,
+    "venue": {
+        "venue": "Action House",
+        "city": "Island Park",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Attics Of My Life",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Walking The Dog",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Minglewood Blues",
+                    "length": "3m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 14s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

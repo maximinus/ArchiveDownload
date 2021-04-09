@@ -1,0 +1,150 @@
+{
+    "year": 1976,
+    "month": 6,
+    "day": 4,
+    "venue": {
+        "venue": "Paramount Theater",
+        "city": "Portland",
+        "state": "OR",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "9m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "2m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Mission In The Rain",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Help On The Way",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "11m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "12m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "13m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "11m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "U.S. Blues",
+                    "length": "7m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 44s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

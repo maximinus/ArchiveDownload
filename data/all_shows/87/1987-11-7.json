@@ -1,0 +1,115 @@
+{
+    "year": 1987,
+    "month": 11,
+    "day": 7,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hey Pocky Way",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "13m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

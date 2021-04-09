@@ -1,0 +1,155 @@
+{
+    "year": 1972,
+    "month": 11,
+    "day": 22,
+    "venue": {
+        "venue": "Austin Municipal Auditorium",
+        "city": "Austin",
+        "state": "TX",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "16m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "13m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "17m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

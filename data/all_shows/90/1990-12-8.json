@@ -1,0 +1,115 @@
+{
+    "year": 1990,
+    "month": 12,
+    "day": 8,
+    "venue": {
+        "venue": "Compton Terrace Amphitheatre",
+        "city": "Tempe",
+        "state": "AZ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "12m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "11m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "14m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

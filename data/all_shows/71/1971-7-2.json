@@ -1,0 +1,160 @@
+{
+    "year": 1971,
+    "month": 7,
+    "day": 2,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "10m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "The Rub",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "18m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "11m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "16m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "1m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

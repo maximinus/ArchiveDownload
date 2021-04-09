@@ -1,0 +1,130 @@
+{
+    "year": 1980,
+    "month": 9,
+    "day": 4,
+    "venue": {
+        "venue": "Providence Civic Center",
+        "city": "Providence",
+        "state": "RI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "year": 1969,
+    "month": 5,
+    "day": 3,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "NRPS",
+                    "length": "1m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "0m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

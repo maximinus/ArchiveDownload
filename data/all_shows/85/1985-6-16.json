@@ -1,0 +1,130 @@
+{
+    "year": 1985,
+    "month": 6,
+    "day": 16,
+    "venue": {
+        "venue": "Greek Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Midnight Hour",
+                    "length": "4m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Bertha",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "3m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "5m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "3m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "7m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "year": 1970,
+    "month": 6,
+    "day": 7,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Silver Threads & Golden Needles",
+                    "length": "3m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Jordan",
+                    "length": "2m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Swing Low, Sweet Chariot",
+                    "length": "3m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "9m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "11m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "4m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Louie Louie",
+                    "length": "0m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "It's A Man's World",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Teddy Bear's Picnic",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "11m 15s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

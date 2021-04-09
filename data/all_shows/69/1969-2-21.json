@@ -1,0 +1,56 @@
+{
+    "year": 1969,
+    "month": 2,
+    "day": 21,
+    "venue": {
+        "venue": "Dream Bowl",
+        "city": "Napa",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "11m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "20m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "20m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "25m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 12s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

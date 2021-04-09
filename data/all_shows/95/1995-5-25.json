@@ -1,0 +1,105 @@
+{
+    "year": 1995,
+    "month": 5,
+    "day": 25,
+    "venue": {
+        "venue": "Seattle Center Memorial Stadium",
+        "city": "Seattle",
+        "state": "WA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "11m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "6m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Foolish Heart",
+                    "length": "14m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 53s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

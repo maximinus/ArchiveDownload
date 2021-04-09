@@ -1,0 +1,156 @@
+{
+    "year": 1970,
+    "month": 11,
+    "day": 11,
+    "venue": {
+        "venue": "46th Street Rock Palace",
+        "city": "Brooklyn",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "9m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "John's Other",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle Sam Blues",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Ode For Billie Dean",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Who Do You Love?",
+                    "length": "0m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Come Back Baby",
+                    "length": "10m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

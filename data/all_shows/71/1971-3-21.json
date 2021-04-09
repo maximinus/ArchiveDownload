@@ -1,0 +1,57 @@
+{
+    "year": 1971,
+    "month": 3,
+    "day": 21,
+    "venue": {
+        "venue": "Exposition Center",
+        "city": "Milwaukee",
+        "state": "WI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "4m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "Unknown",
+                    "transition": true
+                }
+            ]
+        }
+    ]
+}

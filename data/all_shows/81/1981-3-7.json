@@ -1,0 +1,130 @@
+{
+    "year": 1981,
+    "month": 3,
+    "day": 7,
+    "venue": {
+        "venue": "Cole Field House",
+        "city": "College Park",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "17m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "9m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "8m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

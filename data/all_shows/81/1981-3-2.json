@@ -1,0 +1,125 @@
+{
+    "year": 1981,
+    "month": 3,
+    "day": 2,
+    "venue": {
+        "venue": "Cleveland Music Hall",
+        "city": "Cleveland",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "5m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 47s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

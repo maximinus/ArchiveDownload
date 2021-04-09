@@ -1,0 +1,133 @@
+{
+    "year": 1977,
+    "month": 4,
+    "day": 25,
+    "venue": {
+        "venue": "Capitol Theatre",
+        "city": "Passaic",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "10m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "8m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "16m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": []
+        }
+    ]
+}

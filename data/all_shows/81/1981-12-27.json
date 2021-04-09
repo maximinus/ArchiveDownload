@@ -1,0 +1,120 @@
+{
+    "year": 1981,
+    "month": 12,
+    "day": 27,
+    "venue": {
+        "venue": "Oakland Auditorium Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "8m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "16m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 11s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

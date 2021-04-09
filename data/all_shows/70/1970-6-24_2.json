@@ -1,0 +1,135 @@
+{
+    "year": 1970,
+    "month": 6,
+    "day": 24,
+    "venue": {
+        "venue": "Capitol Theater",
+        "city": "Port Chester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "1m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Monkey And The Engineer",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Rub",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Silver Threads & Golden Needles",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Jordan",
+                    "length": "2m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "11m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "9m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "6m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "6m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "2m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "3m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Swing Low, Sweet Chariot",
+                    "length": "3m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

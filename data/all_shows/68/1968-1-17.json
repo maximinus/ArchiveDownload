@@ -1,0 +1,87 @@
+{
+    "year": 1968,
+    "month": 1,
+    "day": 17,
+    "venue": {
+        "venue": "Carousel Ballroom",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "12m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "3m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "9m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "0m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "8m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Born Cross-Eyed",
+                    "length": "2m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "15m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "2m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "13m 49s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

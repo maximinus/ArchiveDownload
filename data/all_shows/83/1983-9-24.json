@@ -1,0 +1,135 @@
+{
+    "year": 1983,
+    "month": 9,
+    "day": 24,
+    "venue": {
+        "venue": "Santa Cruz County Fairgrounds",
+        "city": "Watsonville",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Day Job",
+                    "length": "4m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Funiculi Funicula",
+                    "length": "0m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

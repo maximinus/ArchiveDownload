@@ -1,0 +1,120 @@
+{
+    "year": 1990,
+    "month": 7,
+    "day": 12,
+    "venue": {
+        "venue": "Robert F. Kennedy Stadium",
+        "city": "Washington, D.C.",
+        "state": "DC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Let The Good Times Roll",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Just A Little Light",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "10m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "24m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Hey Jude",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Weight",
+                    "length": "6m 47s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

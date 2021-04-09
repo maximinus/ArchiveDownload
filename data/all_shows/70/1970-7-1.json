@@ -1,0 +1,32 @@
+{
+    "year": 1970,
+    "month": 7,
+    "day": 1,
+    "venue": {
+        "venue": "Winnipeg Fairgrounds",
+        "city": "Winnipeg",
+        "state": "",
+        "country": "CA"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hard To Handle",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "5m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

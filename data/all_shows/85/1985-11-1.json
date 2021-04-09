@@ -1,0 +1,130 @@
+{
+    "year": 1985,
+    "month": 11,
+    "day": 1,
+    "venue": {
+        "venue": "Richmond Coliseum",
+        "city": "Richmond",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "She Belongs To Me",
+                    "length": "7m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Gloria",
+                    "length": "6m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

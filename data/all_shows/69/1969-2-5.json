@@ -1,0 +1,67 @@
+{
+    "year": 1969,
+    "month": 2,
+    "day": 5,
+    "venue": {
+        "venue": "The Music Box",
+        "city": "Omaha",
+        "state": "NE",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "5m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "11m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "9m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "7m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "3m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "4m 9s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

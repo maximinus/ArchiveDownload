@@ -1,0 +1,130 @@
+{
+    "year": 1992,
+    "month": 6,
+    "day": 25,
+    "venue": {
+        "venue": "Soldier Field",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "9m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "10m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "10m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "9m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "22m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "10m 50s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Gloria",
+                    "length": "8m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

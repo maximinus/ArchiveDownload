@@ -1,0 +1,66 @@
+{
+    "year": 1970,
+    "month": 2,
+    "day": 11,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "12m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "16m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "9m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "33m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 1s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

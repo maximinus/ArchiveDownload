@@ -1,0 +1,37 @@
+{
+    "year": 1970,
+    "month": 5,
+    "day": 8,
+    "venue": {
+        "venue": "Farrell Hall",
+        "city": "Delhi",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dark Star",
+                    "length": "18m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "9m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "17m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

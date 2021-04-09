@@ -1,0 +1,12 @@
+{
+    "year": 1968,
+    "month": 5,
+    "day": 4,
+    "venue": {
+        "venue": "Central Park",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": []
+}

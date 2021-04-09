@@ -1,0 +1,140 @@
+{
+    "year": 1981,
+    "month": 9,
+    "day": 30,
+    "venue": {
+        "venue": "The Playhouse",
+        "city": "Edinburgh",
+        "state": "",
+        "country": "UK"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "10m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "10m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "11m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Never Trust A Woman",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "12m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "3m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "year": 1978,
+    "month": 1,
+    "day": 31,
+    "venue": {
+        "venue": "Uptown Theatre",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "12m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "12m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "12m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

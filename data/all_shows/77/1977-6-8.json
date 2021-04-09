@@ -1,0 +1,131 @@
+{
+    "year": 1977,
+    "month": 6,
+    "day": 8,
+    "venue": {
+        "venue": "Winterland Arena",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "17m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Passenger",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunrise",
+                    "length": "4m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "9m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "19m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "13m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "13m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "3m 58s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

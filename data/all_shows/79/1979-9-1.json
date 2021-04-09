@@ -1,0 +1,115 @@
+{
+    "year": 1979,
+    "month": 9,
+    "day": 1,
+    "venue": {
+        "venue": "Holleder Memorial Stadium",
+        "city": "Rochester",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "10m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "14m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "5m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "14m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "16m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "5m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "10m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Bertha",
+                    "length": "4m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "7m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

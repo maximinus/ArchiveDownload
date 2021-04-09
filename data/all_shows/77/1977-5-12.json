@@ -1,0 +1,130 @@
+{
+    "year": 1977,
+    "month": 5,
+    "day": 12,
+    "venue": {
+        "venue": "Auditorium Theater",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "13m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "9m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunrise",
+                    "length": "3m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "9m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "10m 44s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "13m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "11m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "4m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "5m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

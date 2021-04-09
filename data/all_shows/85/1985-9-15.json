@@ -1,0 +1,125 @@
+{
+    "year": 1985,
+    "month": 9,
+    "day": 15,
+    "venue": {
+        "venue": "Devore Field",
+        "city": "Chula Vista",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "5m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "12m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "She Belongs To Me",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "6m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "U.S. Blues",
+                    "length": "4m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "(I Can't Get No) Satisfaction",
+                    "length": "5m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 35s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

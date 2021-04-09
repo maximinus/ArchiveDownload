@@ -1,0 +1,112 @@
+{
+    "year": 1966,
+    "month": 7,
+    "day": 16,
+    "venue": {
+        "venue": "Fillmore Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "I Know You Rider",
+                    "length": "3m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "4m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Cardboard Cowboy",
+                    "length": "2m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Nobody's Fault But Mine",
+                    "length": "4m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Cream Puff War",
+                    "length": "6m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "9m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "2m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Minglewood Blues",
+                    "length": "4m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "3m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "You Don't Have To Ask",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "10m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "6m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

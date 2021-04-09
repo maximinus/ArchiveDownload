@@ -1,0 +1,61 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 20,
+    "venue": {
+        "venue": "Fillmore Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Masons Children",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Eleven",
+                    "length": "11m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "8m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "20m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

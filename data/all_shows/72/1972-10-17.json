@@ -1,0 +1,184 @@
+{
+    "year": 1972,
+    "month": 10,
+    "day": 17,
+    "venue": {
+        "venue": "Fox Theatre",
+        "city": "St. Louis",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "4m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "15m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "23m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "7m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "10m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "10m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 17s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "8m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

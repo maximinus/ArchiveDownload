@@ -1,0 +1,92 @@
+{
+    "year": 1970,
+    "month": 4,
+    "day": 12,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "17m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "11m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "11m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "It's A Man's World",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "15m 39s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,170 @@
+{
+    "year": 1972,
+    "month": 3,
+    "day": 22,
+    "venue": {
+        "venue": "Academy of Music",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Greatest Story",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Mr. Charlie",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "The Stranger (Two Souls In Communion)",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "6m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Chinatown Shuffle",
+                    "length": "3m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "19m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "6m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "8m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 11s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

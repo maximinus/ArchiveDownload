@@ -1,0 +1,42 @@
+{
+    "year": 1972,
+    "month": 11,
+    "day": 14,
+    "venue": {
+        "venue": "Oklahoma City Music Hall",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "He's Gone",
+                    "length": "14m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "15m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "9m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

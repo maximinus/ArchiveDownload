@@ -1,0 +1,120 @@
+{
+    "year": 1980,
+    "month": 4,
+    "day": 1,
+    "venue": {
+        "venue": "Capitol Theatre",
+        "city": "Passaic",
+        "state": "NJ",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "11m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "9m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "10m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

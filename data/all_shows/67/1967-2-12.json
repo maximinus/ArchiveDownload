@@ -1,0 +1,27 @@
+{
+    "year": 1967,
+    "month": 2,
+    "day": 12,
+    "venue": {
+        "venue": "Fillmore Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "I'm A King Bee",
+                    "length": "5m 59s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

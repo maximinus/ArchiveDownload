@@ -1,0 +1,115 @@
+{
+    "year": 1994,
+    "month": 12,
+    "day": 1,
+    "venue": {
+        "venue": "McNichols Sports Arena",
+        "city": "Denver",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "13m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "If The Shoe Fits",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "12m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "14m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "18m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Days Between",
+                    "length": "14m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 36s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

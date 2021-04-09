@@ -1,0 +1,130 @@
+{
+    "year": 1985,
+    "month": 6,
+    "day": 27,
+    "venue": {
+        "venue": "Saratoga Performing Arts Center",
+        "city": "Saratoga",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Midnight Hour",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "8m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

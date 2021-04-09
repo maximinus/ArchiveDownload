@@ -1,0 +1,130 @@
+{
+    "year": 1982,
+    "month": 8,
+    "day": 3,
+    "venue": {
+        "venue": "Starlight Theatre",
+        "city": "Kansas City",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "7m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "14m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "9m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "8m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "10m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 58s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

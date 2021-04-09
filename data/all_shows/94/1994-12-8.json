@@ -1,0 +1,115 @@
+{
+    "year": 1994,
+    "month": 12,
+    "day": 8,
+    "venue": {
+        "venue": "Oakland Coliseum Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Eternity",
+                    "length": "10m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "14m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "15m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Lucy In The Sky With Diamonds",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "10m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

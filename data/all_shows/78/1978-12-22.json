@@ -1,0 +1,116 @@
+{
+    "year": 1978,
+    "month": 12,
+    "day": 22,
+    "venue": {
+        "venue": "Dallas Convention Center Arena",
+        "city": "Dallas",
+        "state": "TX",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "15m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "From The Heart Of Me",
+                    "length": "4m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "8m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

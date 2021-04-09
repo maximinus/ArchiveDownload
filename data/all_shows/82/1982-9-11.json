@@ -1,0 +1,135 @@
+{
+    "year": 1982,
+    "month": 9,
+    "day": 11,
+    "venue": {
+        "venue": "West Palm Beach Auditorium",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "5m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "13m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "10m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "10m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 12s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 18s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

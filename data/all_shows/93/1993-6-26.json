@@ -1,0 +1,110 @@
+{
+    "year": 1993,
+    "month": 6,
+    "day": 26,
+    "venue": {
+        "venue": "Robert F. Kennedy Stadium",
+        "city": "Washington, D.C.",
+        "state": "DC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "10m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "13m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "7m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "11m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "17m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Days Between",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

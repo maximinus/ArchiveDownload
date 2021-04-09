@@ -1,0 +1,110 @@
+{
+    "year": 1984,
+    "month": 3,
+    "day": 29,
+    "venue": {
+        "venue": "Marin County Veterans Auditorium",
+        "city": "San Rafael",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Walking The Dog",
+                    "length": "4m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "15m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Day Job",
+                    "length": "4m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

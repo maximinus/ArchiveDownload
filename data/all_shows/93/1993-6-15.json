@@ -1,0 +1,100 @@
+{
+    "year": 1993,
+    "month": 6,
+    "day": 15,
+    "venue": {
+        "venue": "Freedom Hall",
+        "city": "Louisville",
+        "state": "KY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "10m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "11m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "8m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "4m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "22m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "14m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Gloria",
+                    "length": "5m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

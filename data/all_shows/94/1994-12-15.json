@@ -1,0 +1,105 @@
+{
+    "year": 1994,
+    "month": 12,
+    "day": 15,
+    "venue": {
+        "venue": "Los Angeles Sports Arena",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "17m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "7m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "8m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Foolish Heart",
+                    "length": "13m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "11m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "13m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "15m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "15m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Liberty",
+                    "length": "6m 55s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "year": 1993,
+    "month": 3,
+    "day": 16,
+    "venue": {
+        "venue": "Capital Centre",
+        "city": "Landover`",
+        "state": "MD",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "13m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "13m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "12m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 20s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

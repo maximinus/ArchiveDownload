@@ -1,0 +1,135 @@
+{
+    "year": 1979,
+    "month": 12,
+    "day": 5,
+    "venue": {
+        "venue": "Uptown Theatre",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "3m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "11m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "15m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "10m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "16m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "17m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "12m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "3m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 1s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

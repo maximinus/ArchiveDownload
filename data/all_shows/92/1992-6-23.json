@@ -1,0 +1,125 @@
+{
+    "year": 1992,
+    "month": 6,
+    "day": 23,
+    "venue": {
+        "venue": "Star Lake Amphitheatre",
+        "city": "Burgettstown",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "4m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Stuck Inside A Mobile With The Memphis Blues Again",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "6m 12s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "8m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "16m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Standing On The Moon",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

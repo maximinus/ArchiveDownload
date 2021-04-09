@@ -1,0 +1,135 @@
+{
+    "year": 1987,
+    "month": 9,
+    "day": 9,
+    "venue": {
+        "venue": "Providence Civic Center",
+        "city": "Providence",
+        "state": "RI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hey Pocky Way",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "4m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "3m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Devil In A Blue Dress",
+                    "length": "2m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Golly Miss Molly",
+                    "length": "0m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Devil In A Blue Dress",
+                    "length": "1m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 54s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "1m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 28s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "year": 1969,
+    "month": 3,
+    "day": 22,
+    "venue": {
+        "venue": "Rose Palace",
+        "city": "Pasadena",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "12m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "14m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "4m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "12m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

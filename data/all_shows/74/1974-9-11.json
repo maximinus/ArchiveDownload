@@ -1,0 +1,129 @@
+{
+    "year": 1974,
+    "month": 9,
+    "day": 11,
+    "venue": {
+        "venue": "Alexandra Palace",
+        "city": "London",
+        "state": "",
+        "country": "UK"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "23m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Seastones",
+                    "length": "41m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "31m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "12m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Around & Around",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 6s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

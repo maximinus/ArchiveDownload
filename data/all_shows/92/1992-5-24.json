@@ -1,0 +1,110 @@
+{
+    "year": 1992,
+    "month": 5,
+    "day": 24,
+    "venue": {
+        "venue": "Shoreline Amphitheatre",
+        "city": "Mountain View",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "14m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "8m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "9m 8s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Eyes Of The World",
+                    "length": "15m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "5m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "10m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "14m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "The Last Time",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 32s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

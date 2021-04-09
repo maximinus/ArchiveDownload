@@ -1,0 +1,100 @@
+{
+    "year": 1995,
+    "month": 4,
+    "day": 4,
+    "venue": {
+        "venue": "Birmingham Jefferson Convention Complex Coliseum",
+        "city": "Birmingham",
+        "state": "AL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "14m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "9m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "17m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "8m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "14m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "7m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "10m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 51s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "year": 1984,
+    "month": 6,
+    "day": 29,
+    "venue": {
+        "venue": "Blossom Music Center",
+        "city": "Cuyahoga Falls",
+        "state": "OH",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "13m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 19s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "6m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

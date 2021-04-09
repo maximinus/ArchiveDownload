@@ -1,0 +1,47 @@
+{
+    "year": 1969,
+    "month": 9,
+    "day": 6,
+    "venue": {
+        "venue": "Family Dog at the Great Highway",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "12m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "He Was A Friend Of Mine",
+                    "length": "12m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boy Pete",
+                    "length": "3m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "4m 16s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

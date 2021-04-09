@@ -1,0 +1,67 @@
+{
+    "year": 1969,
+    "month": 2,
+    "day": 2,
+    "venue": {
+        "venue": "Labor Temple",
+        "city": "Minneapolis",
+        "state": "MN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "11m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "15m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "9m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "7m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "18m 41s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

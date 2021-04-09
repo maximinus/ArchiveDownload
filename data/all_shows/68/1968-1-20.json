@@ -1,0 +1,52 @@
+{
+    "year": 1968,
+    "month": 1,
+    "day": 20,
+    "venue": {
+        "venue": "Eureka Municipal Auditorium",
+        "city": "Eureka",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Clementine",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Born Cross-Eyed",
+                    "length": "2m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "2m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "2m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "1m 56s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

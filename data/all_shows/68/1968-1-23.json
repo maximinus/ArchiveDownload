@@ -1,0 +1,62 @@
+{
+    "year": 1968,
+    "month": 1,
+    "day": 23,
+    "venue": {
+        "venue": "Eagles Auditorium",
+        "city": "Seattle",
+        "state": "WA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "2m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Clementine",
+                    "length": "6m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "8m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Born Cross-Eyed",
+                    "length": "3m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Spanish Jam",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "4m 26s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

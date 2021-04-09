@@ -1,0 +1,130 @@
+{
+    "year": 1988,
+    "month": 4,
+    "day": 23,
+    "venue": {
+        "venue": "Irvine Meadows Amphitheatre",
+        "city": "Irvine",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Hey Pocky Way",
+                    "length": "6m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Funiculi Funicula",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 34s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "3m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Dear Mr. Fantasy",
+                    "length": "5m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Hey Jude",
+                    "length": "1m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 45s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Knockin' On Heaven's Door",
+                    "length": "7m 49s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

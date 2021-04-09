@@ -1,0 +1,139 @@
+{
+    "year": 1976,
+    "month": 9,
+    "day": 23,
+    "venue": {
+        "venue": "Cameron Indoor Stadium",
+        "city": "Durham",
+        "state": "NC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "11m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "4m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "2m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "3m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "14m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "5m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "12m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "8m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "12m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "13m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "13m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": []
+        }
+    ]
+}

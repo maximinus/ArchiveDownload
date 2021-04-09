@@ -1,0 +1,144 @@
+{
+    "year": 1982,
+    "month": 12,
+    "day": 31,
+    "venue": {
+        "venue": "Oakland Auditorium Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Far From Me",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "7m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Day Job",
+                    "length": "5m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "10m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "7m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "9m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "3m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Tell Mama",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Baby What You Want Me To Do",
+                    "length": "8m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Midnight Hour",
+                    "length": "4m 23s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "6m 0s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

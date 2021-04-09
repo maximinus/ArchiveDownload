@@ -1,0 +1,142 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 5,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "5m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "17m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "2m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Cosmic Charlie",
+                    "length": "6m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "8m 53s",
+                    "transition": true
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "4m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band Jam",
+                    "length": "0m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "The Main Ten",
+                    "length": "3m 2s",
+                    "transition": true
+                },
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "11m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

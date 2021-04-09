@@ -1,0 +1,111 @@
+{
+    "year": 1994,
+    "month": 7,
+    "day": 19,
+    "venue": {
+        "venue": "Deer Creek Music Center",
+        "city": "Noblesville",
+        "state": "IN",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "13m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Maggie's Farm",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Broken Arrow",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "12m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "I Want To Tell You",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "17m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "10m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 42s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Rain",
+                    "length": "4m 58s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

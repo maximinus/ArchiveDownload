@@ -1,0 +1,120 @@
+{
+    "year": 1987,
+    "month": 11,
+    "day": 8,
+    "venue": {
+        "venue": "Henry J. Kaiser Convention Center",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "6m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "5m 51s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

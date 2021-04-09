@@ -1,0 +1,12 @@
+{
+    "year": 1966,
+    "month": 1,
+    "day": 7,
+    "venue": {
+        "venue": "Fillmore Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": []
+}

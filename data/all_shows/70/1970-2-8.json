@@ -1,0 +1,82 @@
+{
+    "year": 1970,
+    "month": 2,
+    "day": 8,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Smokestack Lightning",
+                    "length": "17m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "9m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "25m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "2m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "2m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "35m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

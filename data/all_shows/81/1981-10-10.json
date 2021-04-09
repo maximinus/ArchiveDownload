@@ -1,0 +1,135 @@
+{
+    "year": 1981,
+    "month": 10,
+    "day": 10,
+    "venue": {
+        "venue": "Stadthalle IV",
+        "city": "Bremen",
+        "state": "",
+        "country": "DE"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Shakedown Street",
+                    "length": "12m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "12m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "13m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "12m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "7m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "9m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

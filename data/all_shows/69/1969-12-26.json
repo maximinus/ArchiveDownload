@@ -1,0 +1,107 @@
+{
+    "year": 1969,
+    "month": 12,
+    "day": 26,
+    "venue": {
+        "venue": "McFarlin Auditorium",
+        "city": "Dallas",
+        "state": "TX",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Monkey And The Engineer",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Little Sadie",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Long Black Limousine",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "I've Been All Around This World",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Gathering Flowers For The Master's Bouquet",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "9m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "5m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "High Time",
+                    "length": "7m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "24m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "4m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "14m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

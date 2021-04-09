@@ -1,0 +1,135 @@
+{
+    "year": 1976,
+    "month": 12,
+    "day": 31,
+    "venue": {
+        "venue": "Cow Palace",
+        "city": "Daly City",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "5m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "23m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "12m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "12m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "1m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "12m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "11m 12s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "16m 24s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "8m 19s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

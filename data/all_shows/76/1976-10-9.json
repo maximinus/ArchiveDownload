@@ -1,0 +1,135 @@
+{
+    "year": 1976,
+    "month": 10,
+    "day": 9,
+    "venue": {
+        "venue": "Oakland Coliseum Stadium",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Promised Land",
+                    "length": "4m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "4m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "4m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "12m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "St. Stephen",
+                    "length": "4m 32s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "11m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "0m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Help On The Way",
+                    "length": "5m 31s",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "5m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "6m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "12m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 48s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "6m 11s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

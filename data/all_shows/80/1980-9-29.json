@@ -1,0 +1,174 @@
+{
+    "year": 1980,
+    "month": 9,
+    "day": 29,
+    "venue": {
+        "venue": "Warfield Theater",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "On The Road Again",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "I've Been All Around This World",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Heaven Help The Fool",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "9m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "3m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Oh Babe It Ain't No Lie",
+                    "length": "5m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Althea",
+                    "length": "8m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "13m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 19s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

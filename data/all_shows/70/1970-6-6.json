@@ -1,0 +1,117 @@
+{
+    "year": 1970,
+    "month": 6,
+    "day": 6,
+    "venue": {
+        "venue": "Fillmore West",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "4m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Dancin' In The Streets",
+                    "length": "13m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "You Lied & Cheated",
+                    "length": "4m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "3m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Searchin'",
+                    "length": "3m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "3m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "3m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "14m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "24m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "4m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "10m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 36s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

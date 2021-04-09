@@ -1,0 +1,92 @@
+{
+    "year": 1978,
+    "month": 9,
+    "day": 15,
+    "venue": {
+        "venue": "Gizah Sound and Light Theater",
+        "city": "Cairo",
+        "state": "",
+        "country": "EG"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Ollin Arrageed",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "9m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "8m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "9m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "13m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

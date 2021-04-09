@@ -1,0 +1,90 @@
+{
+    "year": 1995,
+    "month": 3,
+    "day": 27,
+    "venue": {
+        "venue": "The Omni",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Picasso Moon",
+                    "length": "7m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "18m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "9m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "10m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "12m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "16m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "16m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 0s",
+                    "transition": true
+                },
+                {
+                    "name": "Days Between",
+                    "length": "13m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 5s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "4m 2s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

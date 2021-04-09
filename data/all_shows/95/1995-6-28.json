@@ -1,0 +1,115 @@
+{
+    "year": 1995,
+    "month": 6,
+    "day": 28,
+    "venue": {
+        "venue": "The Palace",
+        "city": "Auburn Hills",
+        "state": "MI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "4m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 28s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "9m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "12m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "7m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Answers",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "4m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 14s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Lucy In The Sky With Diamonds",
+                    "length": "4m 21s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

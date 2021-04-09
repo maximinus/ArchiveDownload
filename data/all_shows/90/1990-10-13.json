@@ -1,0 +1,115 @@
+{
+    "year": 1990,
+    "month": 10,
+    "day": 13,
+    "venue": {
+        "venue": "Ice Stadium",
+        "city": "Stockholm",
+        "state": "",
+        "country": "SE"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Queen Jane Approximately",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "8m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "7m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "15m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 54s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

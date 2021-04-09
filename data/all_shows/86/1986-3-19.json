@@ -1,0 +1,125 @@
+{
+    "year": 1986,
+    "month": 3,
+    "day": 19,
+    "venue": {
+        "venue": "Hampton Coliseum",
+        "city": "Hampton",
+        "state": "VA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "3m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Visions Of Johanna",
+                    "length": "11m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 9s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "17m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 46s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "year": 1977,
+    "month": 4,
+    "day": 29,
+    "venue": {
+        "venue": "The Palladium",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "6m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "7m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "21m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "4m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "10m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "10m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "7m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "9m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "7m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "14m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "El Paso",
+                    "length": "6m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 6s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "9m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "9m 37s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

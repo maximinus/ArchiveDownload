@@ -1,0 +1,115 @@
+{
+    "year": 1982,
+    "month": 5,
+    "day": 21,
+    "venue": {
+        "venue": "Greek Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "10m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "16m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 22s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "year": 1984,
+    "month": 12,
+    "day": 29,
+    "venue": {
+        "venue": "San Francisco Civic Auditorium",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "4m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "11m 47s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "18m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "11m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

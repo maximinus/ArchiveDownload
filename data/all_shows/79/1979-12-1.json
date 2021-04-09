@@ -1,0 +1,120 @@
+{
+    "year": 1979,
+    "month": 12,
+    "day": 1,
+    "venue": {
+        "venue": "Stanley Theatre",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "17m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy To Love You",
+                    "length": "4m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "12m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "9m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "16m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "9m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "11m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "10m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

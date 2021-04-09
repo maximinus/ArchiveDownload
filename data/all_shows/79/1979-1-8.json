@@ -1,0 +1,130 @@
+{
+    "year": 1979,
+    "month": 1,
+    "day": 8,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "9m 29s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "11m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 54s",
+                    "transition": true
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "11m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "9m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "4m 23s",
+                    "transition": true
+                },
+                {
+                    "name": "Supplication",
+                    "length": "7m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "11m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "12m 8s",
+                    "transition": true
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "4m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 58s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 49s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "year": 1995,
+    "month": 7,
+    "day": 5,
+    "venue": {
+        "venue": "Riverport Amphitheatre",
+        "city": "Maryland Heights",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "7m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Loose Lucy",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Childhood's End",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "10m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "11m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Crazy Fingers",
+                    "length": "7m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Corrina",
+                    "length": "15m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "17m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "16m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "10m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Muddy River",
+                    "length": "5m 42s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

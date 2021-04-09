@@ -1,0 +1,140 @@
+{
+    "year": 1981,
+    "month": 3,
+    "day": 20,
+    "venue": {
+        "venue": "Rainbow Theater",
+        "city": "London",
+        "state": "",
+        "country": "UK"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "9m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "10m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "11m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 18s",
+                    "transition": true
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 9s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 12s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "1m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

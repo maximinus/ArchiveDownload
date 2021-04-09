@@ -1,0 +1,145 @@
+{
+    "year": 1973,
+    "month": 10,
+    "day": 30,
+    "venue": {
+        "venue": "Kiel Auditorium",
+        "city": "St. Louis",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "11m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "2m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "11m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "20m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "8m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "4m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "20m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "17m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "15m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 2s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 23s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

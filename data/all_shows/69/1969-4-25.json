@@ -1,0 +1,42 @@
+{
+    "year": 1969,
+    "month": 4,
+    "day": 25,
+    "venue": {
+        "venue": "Electric Theater",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hard To Handle",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Doin' That Rag",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "12m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "23m 33s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

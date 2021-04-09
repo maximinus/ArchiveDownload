@@ -1,0 +1,110 @@
+{
+    "year": 1987,
+    "month": 6,
+    "day": 20,
+    "venue": {
+        "venue": "Greek Theatre",
+        "city": "Berkeley",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 44s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "9m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "4m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "One More Saturday Night",
+                    "length": "4m 53s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

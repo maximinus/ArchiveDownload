@@ -1,0 +1,105 @@
+{
+    "year": 1985,
+    "month": 8,
+    "day": 30,
+    "venue": {
+        "venue": "Southern Star Amphitheatre",
+        "city": "Houston",
+        "state": "TX",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "8m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "11m 36s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "7m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "4m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "4m 42s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "5m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "11m 38s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

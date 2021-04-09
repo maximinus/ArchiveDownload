@@ -1,0 +1,136 @@
+{
+    "year": 1971,
+    "month": 4,
+    "day": 26,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "9m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "7m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Hard To Handle",
+                    "length": "13m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "12m 52s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 36s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "10m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "3m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "19m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Sing Me Back Home",
+                    "length": "10m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 27s",
+                    "transition": true
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "3m 2s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

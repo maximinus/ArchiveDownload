@@ -1,0 +1,110 @@
+{
+    "year": 1984,
+    "month": 4,
+    "day": 30,
+    "venue": {
+        "venue": "Nassau Veterans Memorial Coliseum",
+        "city": "Uniondale",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 39s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Need A Miracle",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "14m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "China Doll",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 13s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

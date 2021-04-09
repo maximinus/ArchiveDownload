@@ -1,0 +1,42 @@
+{
+    "year": 1970,
+    "month": 8,
+    "day": 30,
+    "venue": {
+        "venue": "KQED Studios",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Easy Wind",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "7m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "3m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "5m 50s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

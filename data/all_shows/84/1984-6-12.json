@@ -1,0 +1,130 @@
+{
+    "year": 1984,
+    "month": 6,
+    "day": 12,
+    "venue": {
+        "venue": "Red Rocks Amphitheatre",
+        "city": "Morrison",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Alabama Getaway",
+                    "length": "5m 10s",
+                    "transition": true
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "8m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "4m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "7m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 1s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Touch Of Gray",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "10m 5s",
+                    "transition": true
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "9m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 7s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "5m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "11m 25s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 47s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "3m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 20s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "4m 48s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

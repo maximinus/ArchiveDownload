@@ -1,0 +1,105 @@
+{
+    "year": 1995,
+    "month": 3,
+    "day": 22,
+    "venue": {
+        "venue": "Charlotte Coliseum",
+        "city": "Charlotte",
+        "state": "NC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 41s",
+                    "transition": true
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy River Road",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 25s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "9m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "14m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "6m 56s",
+                    "transition": true
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "14m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "I Want To Tell You",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 18s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 49s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

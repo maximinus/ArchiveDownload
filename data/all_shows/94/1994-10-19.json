@@ -1,0 +1,110 @@
+{
+    "year": 1994,
+    "month": 10,
+    "day": 19,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "10m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "9m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Spoonful",
+                    "length": "5m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "6m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "If The Shoe Fits",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Bird Song",
+                    "length": "15m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "8m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "17m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "16m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 40s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 6s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "year": 1969,
+    "month": 3,
+    "day": 15,
+    "venue": {
+        "venue": "Hilton Hotel",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hard To Handle",
+                    "length": "4m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Morning Little Schoolgirl",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "19m 24s",
+                    "transition": true
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "6m 38s",
+                    "transition": true
+                },
+                {
+                    "name": "The Eleven",
+                    "length": "11m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "17m 7s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

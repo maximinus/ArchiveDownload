@@ -1,0 +1,122 @@
+{
+    "year": 1978,
+    "month": 9,
+    "day": 16,
+    "venue": {
+        "venue": "Gizah Sound and Light Theater",
+        "city": "Cairo",
+        "state": "",
+        "country": "EG"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "9m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "11m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "6m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Ollin Arrageed",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "13m 55s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "5m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "7m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunrise",
+                    "length": "4m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Shakedown Street",
+                    "length": "15m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "10m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "9m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

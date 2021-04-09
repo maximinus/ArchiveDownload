@@ -1,0 +1,125 @@
+{
+    "year": 1992,
+    "month": 6,
+    "day": 6,
+    "venue": {
+        "venue": "Rich Stadium",
+        "city": "Orchard Park",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Greatest Story",
+                    "length": "4m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "8m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "It's All Over Now",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "7m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "12m 57s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Iko Iko",
+                    "length": "6m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "The Same Thing",
+                    "length": "7m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "9m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Space",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "5m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "9m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 10s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Baba O'Riley",
+                    "length": "3m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Tomorrow Never Knows",
+                    "length": "4m 7s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

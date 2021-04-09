@@ -1,0 +1,120 @@
+{
+    "year": 1995,
+    "month": 6,
+    "day": 22,
+    "venue": {
+        "venue": "Knickerbocker Arena",
+        "city": "Albany",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "7m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Walkin' Blues",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "7m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "So Many Roads",
+                    "length": "12m 30s",
+                    "transition": true
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "9m 3s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "4m 17s",
+                    "transition": true
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "7m 14s",
+                    "transition": true
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "19m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Samba In The Rain",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "13m 21s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "17m 13s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "12m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Jam",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "13m 15s",
+                    "transition": true
+                },
+                {
+                    "name": "All Along The Watchtower",
+                    "length": "7m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "10m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "7m 56s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Fought The Law",
+                    "length": "3m 25s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

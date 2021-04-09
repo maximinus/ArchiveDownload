@@ -1,0 +1,42 @@
+{
+    "year": 1968,
+    "month": 6,
+    "day": 14,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Morning Dew",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "New Potato Caboose",
+                    "length": "Unknown",
+                    "transition": true
+                }
+            ]
+        }
+    ]
+}

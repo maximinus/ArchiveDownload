@@ -1,0 +1,115 @@
+{
+    "year": 1989,
+    "month": 7,
+    "day": 19,
+    "venue": {
+        "venue": "Alpine Valley Music Theatre",
+        "city": "East Troy",
+        "state": "WI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "9m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "11m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Althea",
+                    "length": "9m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Victim Or The Crime",
+                    "length": "8m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "8m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "11m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "9m 37s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Foolish Heart",
+                    "length": "11m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "15m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "20m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "The Wheel",
+                    "length": "3m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "12m 0s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "7m 34s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

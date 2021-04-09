@@ -1,0 +1,149 @@
+{
+    "year": 1979,
+    "month": 12,
+    "day": 31,
+    "venue": {
+        "venue": "Oakland Auditorium Arena",
+        "city": "Oakland",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "17m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "5m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "11m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "8m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Alabama Getaway",
+                    "length": "7m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "5m 4s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Lost Sailor",
+                    "length": "6m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Saint Of Circumstance",
+                    "length": "5m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "5m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Althea",
+                    "length": "10m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "10m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "15m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "14m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Sunshine Daydream",
+                    "length": "4m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Good Lovin'",
+                    "length": "8m 12s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

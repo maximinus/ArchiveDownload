@@ -1,0 +1,172 @@
+{
+    "year": 1970,
+    "month": 9,
+    "day": 20,
+    "venue": {
+        "venue": "Fillmore East",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Deep Elem Blues",
+                    "length": "6m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Friend Of The Devil",
+                    "length": "3m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "3m 26s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Hollow",
+                    "length": "3m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Ripple",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "To Lay Me Down",
+                    "length": "6m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Rosalie McFall",
+                    "length": "3m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "10m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "NRPS",
+                    "length": "2m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Intro",
+                    "length": "1m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "5m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Sittin' On Top Of The World",
+                    "length": "3m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "2m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boy Pete",
+                    "length": "3m 11s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "1m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Easy Wind",
+                    "length": "11m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Attics Of My Life",
+                    "length": "6m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "3m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "14m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "19m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "6m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "4m 16s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

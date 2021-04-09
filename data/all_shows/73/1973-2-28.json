@@ -1,0 +1,125 @@
+{
+    "year": 1973,
+    "month": 2,
+    "day": 28,
+    "venue": {
+        "venue": "Salt Palace",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cold Rain & Snow",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "5m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "11m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "7m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "9m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "Promised Land",
+                    "length": "3m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "16m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "15m 5s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

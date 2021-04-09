@@ -1,0 +1,42 @@
+{
+    "year": 1970,
+    "month": 2,
+    "day": 2,
+    "venue": {
+        "venue": "Fox Theatre",
+        "city": "St. Louis",
+        "state": "MO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Cumberland Blues",
+                    "length": "2m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "21m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "St. Stephen",
+                    "length": "5m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Masons Children",
+                    "length": "3m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "Unknown",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

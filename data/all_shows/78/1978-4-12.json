@@ -1,0 +1,135 @@
+{
+    "year": 1978,
+    "month": 4,
+    "day": 12,
+    "venue": {
+        "venue": "Cameron Indoor Stadium",
+        "city": "Durham",
+        "state": "NC",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Peggy-O",
+                    "length": "8m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Funiculi Funicula",
+                    "length": "1m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "5m 52s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "9m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Lazy Lightning",
+                    "length": "3m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Supplication",
+                    "length": "5m 51s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Bertha",
+                    "length": "7m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "It Must Have Been The Roses",
+                    "length": "10m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "11m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "12m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "26m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "8m 58s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 43s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

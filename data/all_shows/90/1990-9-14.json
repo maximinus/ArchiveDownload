@@ -1,0 +1,115 @@
+{
+    "year": 1990,
+    "month": 9,
+    "day": 14,
+    "venue": {
+        "venue": "Madison Square Garden",
+        "city": "New York",
+        "state": "NY",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "12m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "9m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "Ramble On Rose",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Throated Wind",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack-A-Roe",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "6m 20s",
+                    "transition": true
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "3m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Scarlet Begonias",
+                    "length": "9m 49s",
+                    "transition": true
+                },
+                {
+                    "name": "Fire On The Mountain",
+                    "length": "15m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "10m 16s",
+                    "transition": true
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "19m 33s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "8m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Space",
+                    "length": "10m 26s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "10m 37s",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "10m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "9m 21s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 17s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

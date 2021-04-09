@@ -1,0 +1,96 @@
+{
+    "year": 1986,
+    "month": 3,
+    "day": 31,
+    "venue": {
+        "venue": "Providence Civic Center",
+        "city": "Providence",
+        "state": "RI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Road Runner",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "7m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Desolation Row",
+                    "length": "9m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Might As Well",
+                    "length": "4m 31s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Feel Like A Stranger",
+                    "length": "9m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Ship Of Fools",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Hand Jive",
+                    "length": "6m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "6m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "Comes A Time",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "6m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 36s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "year": 1989,
+    "month": 4,
+    "day": 30,
+    "venue": {
+        "venue": "Irvine Meadows Amphitheatre",
+        "city": "Irvine",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "5m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "When I Paint My Masterpiece",
+                    "length": "5m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Tennessee Jed",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "We Can Run But We Can't Hide",
+                    "length": "5m 38s",
+                    "transition": false
+                },
+                {
+                    "name": "Picasso Moon",
+                    "length": "5m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "8m 29s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Box Of Rain",
+                    "length": "5m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Iko Iko",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "13m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Gimme Some Lovin'",
+                    "length": "5m 16s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "8m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Around & Around",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "7m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 31s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

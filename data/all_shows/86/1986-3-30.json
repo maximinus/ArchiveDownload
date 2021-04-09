@@ -1,0 +1,125 @@
+{
+    "year": 1986,
+    "month": 3,
+    "day": 30,
+    "venue": {
+        "venue": "Providence Civic Center",
+        "city": "Providence",
+        "state": "RI",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hell In A Bucket",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "9m 21s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Tons Of Steel",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "C.C. Rider",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dupree's Diamond Blues",
+                    "length": "8m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Just Like Tom Thumb's Blues",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "7m 35s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Terrapin Station",
+                    "length": "11m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Man Smart (Woman Smarter)",
+                    "length": "8m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "9m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Why Don't We Do It In The Road",
+                    "length": "4m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "8m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "8m 33s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Not Fade Away",
+                    "length": "2m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "The Mighty Quinn",
+                    "length": "4m 8s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "year": 1968,
+    "month": 12,
+    "day": 21,
+    "venue": {
+        "venue": "Shrine Exhibition Hall",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "15m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "1m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "The Other One",
+                    "length": "6m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Cryptical Envelopment",
+                    "length": "6m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "It Hurts Me Too",
+                    "length": "5m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Crowd/Tuning",
+                    "length": "2m 49s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "2m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "10m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Caution",
+                    "length": "15m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Feedback",
+                    "length": "5m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "4m 40s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

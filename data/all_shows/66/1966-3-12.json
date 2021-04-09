@@ -1,0 +1,72 @@
+{
+    "year": 1966,
+    "month": 3,
+    "day": 12,
+    "venue": {
+        "venue": "Danish Center",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Viola Lee Blues",
+                    "length": "11m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "See That My Grave Is Kept Clean",
+                    "length": "4m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "2m 41s",
+                    "transition": false
+                },
+                {
+                    "name": "You See A Broken Heart",
+                    "length": "3m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "It's A Sin",
+                    "length": "3m 22s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "2m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Heads Up",
+                    "length": "4m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Next Time You See Me",
+                    "length": "3m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Encore Break",
+                    "length": "1m 23s",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "7m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Death Don't Have No Mercy",
+                    "length": "6m 0s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

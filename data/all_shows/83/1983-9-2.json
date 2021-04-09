@@ -1,0 +1,130 @@
+{
+    "year": 1983,
+    "month": 9,
+    "day": 2,
+    "venue": {
+        "venue": "BSU Pavilion",
+        "city": "Boise",
+        "state": "ID",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "6m 31s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "7m 53s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "2m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "6m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "Brown Eyed Women",
+                    "length": "5m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "New Minglewood Blues",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "7m 17s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "10m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Deal",
+                    "length": "9m 53s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Help On The Way",
+                    "length": "3m 35s",
+                    "transition": false
+                },
+                {
+                    "name": "Slipknot",
+                    "length": "7m 42s",
+                    "transition": false
+                },
+                {
+                    "name": "Franklin's Tower",
+                    "length": "14m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Estimated Prophet",
+                    "length": "12m 37s",
+                    "transition": false
+                },
+                {
+                    "name": "Eyes Of The World",
+                    "length": "13m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Throwing Stones",
+                    "length": "7m 51s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Black Peter",
+                    "length": "8m 10s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 41s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "It's All Over Now, Baby Blue",
+                    "length": "7m 27s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

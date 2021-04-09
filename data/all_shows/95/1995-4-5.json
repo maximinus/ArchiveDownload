@@ -1,0 +1,110 @@
+{
+    "year": 1995,
+    "month": 4,
+    "day": 5,
+    "venue": {
+        "venue": "Birmingham Jefferson Convention Complex Coliseum",
+        "city": "Birmingham",
+        "state": "AL",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Touch Of Gray",
+                    "length": "6m 55s",
+                    "transition": true
+                },
+                {
+                    "name": "Wang Dang Doodle",
+                    "length": "6m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Stagger Lee",
+                    "length": "9m 9s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "2m 46s",
+                    "transition": true
+                },
+                {
+                    "name": "Maggie's Farm",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Row Jimmy",
+                    "length": "10m 50s",
+                    "transition": true
+                },
+                {
+                    "name": "The Music Never Stopped",
+                    "length": "8m 15s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "7m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Way To Go Home",
+                    "length": "6m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "8m 28s",
+                    "transition": true
+                },
+                {
+                    "name": "That Would Be Something",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "14m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Mathilda",
+                    "length": "11m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "13m 34s",
+                    "transition": true
+                },
+                {
+                    "name": "I Need A Miracle",
+                    "length": "5m 3s",
+                    "transition": true
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "12m 49s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "4m 30s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

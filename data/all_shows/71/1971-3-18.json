@@ -1,0 +1,136 @@
+{
+    "year": 1971,
+    "month": 3,
+    "day": 18,
+    "venue": {
+        "venue": "Fox Theatre",
+        "city": "Atlanta",
+        "state": "GA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Casey Jones",
+                    "length": "5m 43s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Boss Man",
+                    "length": "5m 7s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "6m 3s",
+                    "transition": false
+                },
+                {
+                    "name": "Me & Bobby McGee",
+                    "length": "6m 50s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "6m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "4m 48s",
+                    "transition": true
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "4m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "The Rub",
+                    "length": "4m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "5m 6s",
+                    "transition": false
+                },
+                {
+                    "name": "Cumberland Blues",
+                    "length": "5m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Truckin'",
+                    "length": "6m 57s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "12m 4s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "5m 51s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "Unknown",
+                    "transition": true
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "11m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "6m 40s",
+                    "transition": true
+                },
+                {
+                    "name": "Johnny B. Goode",
+                    "length": "5m 28s",
+                    "transition": false
+                },
+                {
+                    "name": "Not Fade Away",
+                    "length": "6m 22s",
+                    "transition": true
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "4m 11s",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "14m 1s",
+                    "transition": true
+                },
+                {
+                    "name": "Feedback",
+                    "length": "2m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "8m 4s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "year": 1983,
+    "month": 9,
+    "day": 7,
+    "venue": {
+        "venue": "Red Rocks Amphitheatre",
+        "city": "Morrison",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Jack Straw",
+                    "length": "5m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Candyman",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Little Red Rooster",
+                    "length": "8m 40s",
+                    "transition": false
+                },
+                {
+                    "name": "Loser",
+                    "length": "7m 36s",
+                    "transition": false
+                },
+                {
+                    "name": "Brother Esau",
+                    "length": "5m 0s",
+                    "transition": false
+                },
+                {
+                    "name": "West L.A. Fadeaway",
+                    "length": "9m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Cassidy",
+                    "length": "5m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "China Cat Sunflower",
+                    "length": "6m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "I Know You Rider",
+                    "length": "6m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "I Need A Miracle",
+                    "length": "3m 20s",
+                    "transition": false
+                },
+                {
+                    "name": "Bertha",
+                    "length": "7m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Samson & Delilah",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "He's Gone",
+                    "length": "12m 39s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "7m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Stella Blue",
+                    "length": "7m 56s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugar Magnolia",
+                    "length": "8m 22s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "U.S. Blues",
+                    "length": "5m 46s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

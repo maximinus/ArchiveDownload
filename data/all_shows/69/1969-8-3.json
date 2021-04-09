@@ -1,0 +1,72 @@
+{
+    "year": 1969,
+    "month": 8,
+    "day": 3,
+    "venue": {
+        "venue": "Family Dog at the Great Highway",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Hard To Handle",
+                    "length": "7m 46s",
+                    "transition": false
+                },
+                {
+                    "name": "Beat It On Down The Line",
+                    "length": "4m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Hi-Heeled Sneakers",
+                    "length": "7m 15s",
+                    "transition": false
+                },
+                {
+                    "name": "High Time",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Mama Tried",
+                    "length": "5m 19s",
+                    "transition": false
+                },
+                {
+                    "name": "Dark Star",
+                    "length": "23m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Alligator",
+                    "length": "3m 59s",
+                    "transition": true
+                },
+                {
+                    "name": "Drums",
+                    "length": "6m 39s",
+                    "transition": true
+                },
+                {
+                    "name": "The Other One",
+                    "length": "17m 35s",
+                    "transition": true
+                },
+                {
+                    "name": "Caution",
+                    "length": "17m 45s",
+                    "transition": true
+                },
+                {
+                    "name": "And We Bid You Goodnight",
+                    "length": "2m 13s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

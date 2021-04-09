@@ -1,0 +1,150 @@
+{
+    "year": 1973,
+    "month": 11,
+    "day": 21,
+    "venue": {
+        "venue": "Denver Coliseum",
+        "city": "Denver",
+        "state": "CO",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "3m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "Sugaree",
+                    "length": "7m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Jack Straw",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Big Railroad Blues",
+                    "length": "5m 54s",
+                    "transition": false
+                },
+                {
+                    "name": "Mexicali Blues",
+                    "length": "3m 27s",
+                    "transition": false
+                },
+                {
+                    "name": "They Love Each Other",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "Looks Like Rain",
+                    "length": "7m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Here Comes Sunshine",
+                    "length": "11m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "Big River",
+                    "length": "5m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Brokedown Palace",
+                    "length": "5m 45s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Prelude",
+                    "length": "1m 13s",
+                    "transition": false
+                },
+                {
+                    "name": "Weather Report Suite Part 1",
+                    "length": "4m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Let It Grow",
+                    "length": "8m 43s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Mississippi Half Step",
+                    "length": "7m 48s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "12m 2s",
+                    "transition": false
+                },
+                {
+                    "name": "El Paso",
+                    "length": "3m 47s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "1m 1s",
+                    "transition": false
+                },
+                {
+                    "name": "Wharf Rat",
+                    "length": "8m 8s",
+                    "transition": false
+                },
+                {
+                    "name": "Playin' In The Band",
+                    "length": "13m 34s",
+                    "transition": false
+                },
+                {
+                    "name": "Morning Dew",
+                    "length": "12m 33s",
+                    "transition": false
+                },
+                {
+                    "name": "Truckin'",
+                    "length": "9m 30s",
+                    "transition": false
+                },
+                {
+                    "name": "Nobody's Fault But Mine",
+                    "length": "2m 32s",
+                    "transition": false
+                },
+                {
+                    "name": "Going Down The Road Feeling Bad",
+                    "length": "8m 25s",
+                    "transition": false
+                },
+                {
+                    "name": "One More Saturday Night",
+                    "length": "5m 30s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Uncle John's Band",
+                    "length": "7m 32s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}

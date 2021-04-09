@@ -1,0 +1,111 @@
+{
+    "year": 1970,
+    "month": 5,
+    "day": 3,
+    "venue": {
+        "venue": "Field House",
+        "city": "Middletown",
+        "state": "CT",
+        "country": "US"
+    },
+    "sets": [
+        {
+            "songs": [
+                {
+                    "name": "Workin' Man Blues",
+                    "length": "2m 59s",
+                    "transition": false
+                },
+                {
+                    "name": "I Don't Know You",
+                    "length": "5m 29s",
+                    "transition": false
+                },
+                {
+                    "name": "*Last Lonely Eagle",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "*Truck Drivin' Man",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Fair Chance To Know",
+                    "length": "4m 26s",
+                    "transition": false
+                }
+            ]
+        },
+        {
+            "songs": [
+                {
+                    "name": "Me & My Uncle",
+                    "length": "4m 14s",
+                    "transition": false
+                },
+                {
+                    "name": "New Speedway Boogie",
+                    "length": "10m 57s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "14m 18s",
+                    "transition": false
+                },
+                {
+                    "name": "Drums",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Jam",
+                    "length": "22m 44s",
+                    "transition": false
+                },
+                {
+                    "name": "Good Lovin'",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Dire Wolf",
+                    "length": "5m 4s",
+                    "transition": false
+                },
+                {
+                    "name": "Don't Ease",
+                    "length": "4m 58s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "14m 24s",
+                    "transition": false
+                },
+                {
+                    "name": "The Main Ten",
+                    "length": "Unknown",
+                    "transition": false
+                },
+                {
+                    "name": "Uncle John's Band",
+                    "length": "6m 12s",
+                    "transition": false
+                },
+                {
+                    "name": "Turn On Your Love Light",
+                    "length": "6m 45s",
+                    "transition": false
+                }
+            ]
+        }
+    ]
+}
